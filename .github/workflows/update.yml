@@ -6,7 +6,7 @@ on:
     - cron: "7 22 * * *"   # 毎日 7:07 JST
     - cron: "7 2 * * *"    # 毎日 11:07 JST
     - cron: "7 5 * * *"    # 毎日 14:07 JST
-    - cron: "7 9 * * *"    # 毎日 18:07 JST
+    - cron: "7 8 * * *"    # 毎日 17:07 JST
   workflow_dispatch:        # 手動実行ボタン
 
 permissions:

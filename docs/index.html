@@ -388,7 +388,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
       </div>
       <div>
         <h3>本紙について</h3>
-        <p class="about">Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日7時・11時・14時・18時に自動収集しています。記事は各配信元のサイトで開きます。</p>
+        <p class="about">Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日7時・11時・14時・17時に自動収集しています。記事は各配信元のサイトで開きます。</p>
       </div>
     </aside>
   </div>
@@ -688,7 +688,7 @@ document.addEventListener("keydown", e => { if (e.key === "Escape"){ closeMenu()
 function header(updated){
   const n = new Date();
   $("#today").textContent = `${n.getFullYear()}年${n.getMonth()+1}月${n.getDate()}日（${WD[n.getDay()]}）`;
-  $("#updated").textContent = updated ? `最終更新 ${updated.slice(11,16)}　毎日7時・11時・14時・18時更新` : "まだ更新されていません";
+  $("#updated").textContent = updated ? `最終更新 ${updated.slice(11,16)}　毎日7時・11時・14時・17時更新` : "まだ更新されていません";
   const today = keyOf(n), week = within(7);
   $("#stToday").innerHTML = `${state.items.filter(it => dayKey(it.published) === today).length}<small>件</small>`;
   $("#stSolar").innerHTML = `${week.filter(it => it.categories.includes("solar")).length}<small>件</small>`;
