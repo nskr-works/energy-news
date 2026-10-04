@@ -26,6 +26,134 @@
       "一次調整力"
     ]
   },
+  "solar_topics": {
+    "トラブル・地域": [
+      "盗難",
+      "盗む",
+      "盗んだ",
+      "火災",
+      "事故",
+      "反対",
+      "住民",
+      "市民",
+      "光害",
+      "土砂",
+      "崩落",
+      "逮捕",
+      "違法",
+      "被害",
+      "トラブル",
+      "メガソーラー問題"
+    ],
+    "営農型": [
+      "営農型",
+      "ソーラーシェアリング",
+      "農地",
+      "耕作"
+    ],
+    "次世代技術": [
+      "ペロブスカイト",
+      "タンデム",
+      "変換効率",
+      "フィルム型",
+      "フレキシブル",
+      "次世代",
+      "世界最高",
+      "世界記録",
+      "研究",
+      "量産"
+    ],
+    "政策・制度": [
+      "FIT",
+      "FIP",
+      "経産省",
+      "経済産業省",
+      "環境省",
+      "資源エネルギー庁",
+      "制度",
+      "条例",
+      "規制",
+      "補助金",
+      "委員会",
+      "審議会",
+      "法改正",
+      "入札",
+      "義務化",
+      "政府",
+      "リサイクル",
+      "ガイドライン"
+    ],
+    "住宅・自家消費": [
+      "住宅",
+      "家庭用",
+      "屋根",
+      "自家消費",
+      "ZEH",
+      "カーポート",
+      "共同購入",
+      "PPA",
+      "工場",
+      "店舗",
+      "倉庫",
+      "オンサイト",
+      "オフサイト",
+      "マイホーム"
+    ],
+    "O&M・保守": [
+      "点検",
+      "保守",
+      "O&M",
+      "監視",
+      "異常",
+      "発電量",
+      "草刈",
+      "除草",
+      "清掃",
+      "メンテナンス"
+    ],
+    "発電所・開発": [
+      "メガソーラー",
+      "発電所",
+      "運転開始",
+      "着工",
+      "竣工",
+      "稼働",
+      "リパワリング",
+      "MW",
+      "系統連系",
+      "案件"
+    ],
+    "海外": [
+      "米国",
+      "米カリフォルニア",
+      "米テキサス",
+      "欧州",
+      "EU",
+      "ベトナム",
+      "インド",
+      "豪州",
+      "オーストラリア",
+      "海外",
+      "副大臣",
+      "中東",
+      "アフリカ"
+    ],
+    "市場・企業": [
+      "株",
+      "決算",
+      "市場",
+      "出荷",
+      "受注",
+      "シェア",
+      "価格",
+      "投資",
+      "資金調達",
+      "提携",
+      "買収",
+      "上場",
+      "売上"
+    ]
+  },
   "exclude_patterns": [
     "に関するプレスリリース",
     "プレスリリース一覧",
@@ -89,6 +217,83 @@
     {
       "name": "経済産業省（Googleニュース経由）",
       "url": "https://news.google.com/rss/search?q=site%3Ameti.go.jp%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "release",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "メガソーラービジネス（日経BP）",
+      "url": "https://news.google.com/rss/search?q=site%3Aproject.nikkeibp.co.jp/ms%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "環境ビジネス",
+      "url": "https://news.google.com/rss/search?q=site%3Akankyo-business.jp%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "電気新聞",
+      "url": "https://news.google.com/rss/search?q=site%3Adenkishimbun.com%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "スマートジャパン",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/smartjapan.xml",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "SOLAR JOURNAL",
+      "url": "https://solarjournal.jp/feed/",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "日経クロステック",
+      "url": "https://xtech.nikkei.com/rss/index.rdf",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「営農型太陽光」",
+      "url": "https://news.google.com/rss/search?q=%E5%96%B6%E8%BE%B2%E5%9E%8B%E5%A4%AA%E9%99%BD%E5%85%89%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「FIT・FIP 太陽光」",
+      "url": "https://news.google.com/rss/search?q=%28FIT%20OR%20FIP%29%20%E5%A4%AA%E9%99%BD%E5%85%89%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+      "url": "https://news.google.com/rss/search?q=%E9%9C%80%E7%B5%A6%E8%AA%BF%E6%95%B4%E5%B8%82%E5%A0%B4%20OR%20%E9%95%B7%E6%9C%9F%E8%84%B1%E7%82%AD%E7%B4%A0%E9%9B%BB%E6%BA%90%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "news",
+      "default_category": "storage",
+      "require_keyword": true
+    },
+    {
+      "name": "@Press（太陽光・蓄電池）",
+      "url": "https://news.google.com/rss/search?q=site%3Aatpress.ne.jp%20%28%E5%A4%AA%E9%99%BD%E5%85%89%20OR%20%E8%93%84%E9%9B%BB%E6%B1%A0%29%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "type": "release",
+      "default_category": "solar",
+      "require_keyword": true
+    },
+    {
+      "name": "環境省",
+      "url": "https://news.google.com/rss/search?q=site%3Aenv.go.jp%20%28%E5%A4%AA%E9%99%BD%E5%85%89%20OR%20%E8%93%84%E9%9B%BB%E6%B1%A0%29%20when%3A30d&hl=ja&gl=JP&ceid=JP:ja",
       "type": "release",
       "default_category": "solar",
       "require_keyword": true

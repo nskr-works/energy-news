@@ -26,22 +26,33 @@ def clean(text):
 def norm_title(title):
     # 全角/半角の違いを吸収し、同じ記事を重複登録しない
     title = unicodedata.normalize("NFKC", title)
+    # 末尾の「(朝日新聞)」「[京都府]」「(2026年10月2日掲載)」などは配信先ごとの付記なので無視
+    title = re.sub(r"(\s*[(\[【][^()\[\]【】]*[)\]】])+\s*$", "", title) or title
     return re.sub(r"[\s「」『』【】\[\]()・、。,.!?:\-–—|]", "", title).lower()
 
 
+def has_any(text, words):
+    for w in words:
+        # 英字だけのキーワード（BESS、FITなど）は単語として一致した場合のみ
+        if re.fullmatch(r"[A-Za-z]+", w):
+            if re.search(rf"(?<![A-Za-z]){w}(?![A-Za-z])", text):
+                return True
+        elif w in text:
+            return True
+    return False
+
+
 def categorize(text):
-    found = []
-    for cat, words in CONFIG["keywords"].items():
-        for w in words:
-            # 英字の短いキーワード（PVなど）は単語として一致した場合のみ
-            if re.fullmatch(r"[A-Za-z]+", w):
-                if re.search(rf"(?<![A-Za-z]){w}(?![A-Za-z])", text):
-                    found.append(cat)
-                    break
-            elif w in text:
-                found.append(cat)
-                break
-    return found
+    return [cat for cat, words in CONFIG["keywords"].items() if has_any(text, words)]
+
+
+def solar_topic(text):
+    """太陽光記事の細分類。config の並び順が優先順位で、最初に当たった1つを返す。"""
+    text = unicodedata.normalize("NFKC", text)
+    for topic, words in CONFIG.get("solar_topics", {}).items():
+        if has_any(text, words):
+            return topic
+    return "その他"
 
 
 def entry_time(entry):
@@ -77,6 +88,9 @@ def fetch_feed(feed):
             elif m:
                 title, source = m.group(1).strip(), source or m.group(2).strip()
         source = source or feed["name"]
+        # 「… - ニュース - メガソーラービジネス plus」のような媒体内の区分表記や末尾の記号を外す
+        title = re.sub(r"\s+-\s+(ニュース|特集|コラム|インタビュー)\s+-\s+.*$", "", title)
+        title = re.sub(r"\s*[-–—|｜]+\s*$", "", title)
         # 写真ページ（「写真：」付き）は本記事と同じ内容なので接頭辞を外して重複扱いにする
         title = re.sub(r"^写真[：:]\s*", "", title)
         if any(p.search(title) for p in EXCLUDE) or source in CONFIG.get("exclude_sources", []):
@@ -130,9 +144,17 @@ def main():
     items.sort(key=lambda it: it["published"], reverse=True)
     items = items[: CONFIG["max_items"]]
 
+    # 細分類は毎回付け直す（config.json の分類語を変えたら過去記事にも反映される）
+    for it in items:
+        if "solar" in it["categories"]:
+            it["topic"] = solar_topic(f"{it['title']} {it['summary']}")
+        else:
+            it.pop("topic", None)
+
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps({
         "updated_at": datetime.now(JST).isoformat(timespec="minutes"),
+        "solar_topics": [*CONFIG.get("solar_topics", {}), "その他"],
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"新着 {new_count}件 / 合計 {len(items)}件")
