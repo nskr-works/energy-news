@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>太陽光・蓄電池ニュース</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔋</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEF3F6; --surface:#FFFFFF; --ink:#16304A; --muted:#5B7287; --line:#D2DDE5;
+  --solar:#D98E04; --storage:#12806F; --focus:#2D6FD6;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#0F1D2A; --surface:#162736; --ink:#E6EEF4; --muted:#93A8BA; --line:#24394B;
+    --solar:#F2B33D; --storage:#3CC2AA; --focus:#7FB0FF; }
+}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Zen Kaku Gothic New","Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic UI","Meiryo",sans-serif;
+  font-size:16px;line-height:1.65;-webkit-text-size-adjust:100%}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:4px}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+
+header{padding:28px 0 18px}
+h1{font-size:clamp(1.5rem,5vw,2rem);line-height:1.25;margin:0;font-weight:700;letter-spacing:.02em}
+.updated{color:var(--muted);font-size:.85rem;margin:6px 0 16px}
+.balance{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--line)}
+.balance span{display:block;height:100%;transition:width .6s ease}
+.balance .s{background:var(--solar)} .balance .b{background:var(--storage)}
+.legend{display:flex;justify-content:space-between;font-size:.85rem;margin-top:6px;color:var(--muted)}
+.legend b{color:var(--ink);font-weight:700;font-size:1rem;margin-left:4px}
+.legend .sol::before,.legend .sto::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.legend .sol::before{background:var(--solar)} .legend .sto::before{background:var(--storage)}
+
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line);
+  padding-top:calc(12px + env(safe-area-inset-top,0px));margin-top:calc(-1 * env(safe-area-inset-top,0px))}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
+.seg button,.chip{font:inherit;font-size:.9rem;border:0;background:none;color:var(--muted);padding:6px 14px;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);font-weight:500}
+.chip{border:1px solid var(--line);background:var(--surface)}
+.chip[aria-pressed="true"]{border-color:var(--ink);color:var(--ink);font-weight:500}
+input[type=search]{flex:1 1 200px;min-width:0;font:inherit;font-size:16px;padding:8px 14px;border-radius:999px;
+  border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+input[type=search]::placeholder{color:var(--muted)}
+
+.day{margin:26px 0 6px;display:flex;align-items:baseline;gap:10px}
+.day h2{font-size:1.05rem;margin:0;font-weight:700}
+.day small{color:var(--muted);font-size:.8rem}
+ul{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+li{position:relative;padding:12px 14px 12px 20px;border-top:1px solid var(--line)}
+li:first-child{border-top:0}
+li::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--c)}
+li.solar{--c:var(--solar)} li.storage{--c:var(--storage)}
+li.both{--c:linear-gradient(var(--solar) 50%,var(--storage) 50%)}
+li.both::before{background:linear-gradient(var(--solar) 50%,var(--storage) 50%)}
+li a{text-decoration:none;font-weight:500;display:block}
+li a:hover{text-decoration:underline;text-underline-offset:3px}
+.meta{font-size:.8rem;color:var(--muted);margin-top:3px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.tag{border:1px solid currentColor;border-radius:4px;padding:0 6px;font-size:.72rem;line-height:1.6}
+.new{color:var(--focus);font-weight:700}
+.empty,.more-wrap{text-align:center;color:var(--muted);padding:40px 0}
+.more{font:inherit;padding:10px 24px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+footer{color:var(--muted);font-size:.8rem;padding:24px 0 40px}
+@media (prefers-reduced-motion:reduce){.balance span{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>太陽光・蓄電池ニュース</h1>
+    <p class="updated" id="updated">読み込み中…</p>
+    <div class="balance" aria-hidden="true"><span class="s" id="barS" style="width:50%"></span><span class="b" id="barB" style="width:50%"></span></div>
+    <div class="legend"><span class="sol">太陽光（直近7日）<b id="cntS">–</b></span><span class="sto">蓄電池<b id="cntB">–</b></span></div>
+  </header>
+</div>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="row">
+      <div class="seg" role="group" aria-label="分野">
+        <button data-cat="all" aria-pressed="true">すべて</button>
+        <button data-cat="solar" aria-pressed="false">太陽光</button>
+        <button data-cat="storage" aria-pressed="false">蓄電池</button>
+      </div>
+      <button class="chip" id="relOnly" aria-pressed="false">リリースのみ</button>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <input type="search" id="q" placeholder="キーワードで絞り込み（例：北海道、オークション）" aria-label="キーワード検索">
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="list"></main>
+<div class="wrap"><footer>Googleニュース・PR TIMES・経済産業省のRSSから自動収集しています。記事は各配信元のサイトで開きます。</footer></div>
+
+<script>
+const PAGE = 150;
+const state = { cat: "all", rel: false, q: "", shown: PAGE, items: [] };
+const $ = s => document.querySelector(s);
+const WD = ["日","月","火","水","木","金","土"];
+
+function dayKey(iso){ return iso.slice(0,10); }
+function dayLabel(key){
+  const [y,m,d] = key.split("-").map(Number);
+  const dt = new Date(y, m-1, d);
+  const today = new Date(); today.setHours(0,0,0,0);
+  const diff = Math.round((today - dt) / 864e5);
+  const base = `${m}月${d}日（${WD[dt.getDay()]}）`;
+  return diff === 0 ? `今日　${base}` : diff === 1 ? `昨日　${base}` : base;
+}
+function catClass(c){ return c.length > 1 ? "both" : c[0]; }
+
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  return state.items.filter(it =>
+    (state.cat === "all" || it.categories.includes(state.cat)) &&
+    (!state.rel || it.type === "release") &&
+    (!q || (it.title + " " + it.source + " " + (it.summary||"")).toLowerCase().includes(q)));
+}
+
+function render(){
+  const list = $("#list"); list.textContent = "";
+  const all = filtered();
+  if (!all.length){
+    const p = document.createElement("p"); p.className = "empty";
+    p.textContent = state.items.length ? "条件に合う記事はありません。絞り込みを変えてください。" : "まだ記事がありません。初回の自動更新後に表示されます。";
+    list.append(p); return;
+  }
+  const now = Date.now();
+  let ul = null, cur = null;
+  for (const it of all.slice(0, state.shown)){
+    const k = dayKey(it.published);
+    if (k !== cur){
+      cur = k;
+      const head = document.createElement("div"); head.className = "day";
+      const h = document.createElement("h2"); h.textContent = dayLabel(k);
+      const sm = document.createElement("small"); sm.textContent = `${all.filter(x => dayKey(x.published) === k).length}件`;
+      head.append(h, sm); ul = document.createElement("ul"); list.append(head, ul);
+    }
+    const li = document.createElement("li"); li.className = catClass(it.categories);
+    const a = document.createElement("a"); a.href = it.link; a.target = "_blank"; a.rel = "noopener"; a.textContent = it.title;
+    const meta = document.createElement("div"); meta.className = "meta";
+    if (now - new Date(it.published).getTime() < 864e5){ const n = document.createElement("span"); n.className = "new"; n.textContent = "新着"; meta.append(n); }
+    const src = document.createElement("span"); src.textContent = it.source;
+    const tm = document.createElement("span"); tm.textContent = it.published.slice(11,16);
+    meta.append(src, tm);
+    if (it.type === "release"){ const t = document.createElement("span"); t.className = "tag"; t.textContent = "リリース"; meta.append(t); }
+    li.append(a, meta); ul.append(li);
+  }
+  if (all.length > state.shown){
+    const w = document.createElement("div"); w.className = "more-wrap";
+    const b = document.createElement("button"); b.className = "more"; b.textContent = `さらに表示（残り${all.length - state.shown}件）`;
+    b.onclick = () => { state.shown += PAGE; render(); };
+    w.append(b); list.append(w);
+  }
+}
+
+function summary(updated){
+  $("#updated").textContent = updated ? `最終更新 ${updated.replace("T"," ").slice(0,16)}（毎日6時・18時に自動更新）` : "まだ更新されていません";
+  const week = Date.now() - 7 * 864e5;
+  const recent = state.items.filter(it => new Date(it.published).getTime() >= week);
+  const s = recent.filter(it => it.categories.includes("solar")).length;
+  const b = recent.filter(it => it.categories.includes("storage")).length;
+  $("#cntS").textContent = s; $("#cntB").textContent = b;
+  const tot = s + b || 1;
+  $("#barS").style.width = (s / tot * 100) + "%"; $("#barB").style.width = (b / tot * 100) + "%";
+}
+
+document.querySelectorAll(".seg button").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", b === btn));
+  state.cat = btn.dataset.cat; state.shown = PAGE; render();
+}));
+$("#relOnly").addEventListener("click", e => {
+  state.rel = !state.rel; e.currentTarget.setAttribute("aria-pressed", state.rel); state.shown = PAGE; render();
+});
+let timer; $("#q").addEventListener("input", e => {
+  clearTimeout(timer); timer = setTimeout(() => { state.q = e.target.value; state.shown = PAGE; render(); }, 150);
+});
+
+fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
+  state.items = d.items || []; summary(d.updated_at); render();
+}).catch(() => {
+  $("#updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
+});
+</script>
+</body>
+</html>
