@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "37 * * * *"   # 毎時37分
   workflow_dispatch:
+  # GitHub側で新規リポジトリの定期実行が登録されない事象への対策として、
+  # このファイルを更新して push したときにも1回動かす（スケジューラに認識させる）
+  push:
+    branches: [main]
+    paths: [".github/workflows/prtimes.yml"]
 
 permissions:
   contents: write
