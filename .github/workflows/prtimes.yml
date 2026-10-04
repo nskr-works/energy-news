@@ -1,0 +1,38 @@
+name: PR TIMES取得（1時間ごと）
+
+# PR TIMES の公式RSSは最新200件（数時間分）しか載らないため、1時間ごとに直接取りに行く。
+# 通知はせず、見つけた新着は次の「ニュース更新」でまとめて通知する。
+on:
+  schedule:
+    - cron: "37 * * * *"   # 毎時37分
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news        # ニュース更新と同時に動かない
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python scripts/fetch_news.py --hourly
+
+      - name: 変更があればコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json stats/feed_log.csv
+          git diff --cached --quiet || git commit -m "PR TIMES取得 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push

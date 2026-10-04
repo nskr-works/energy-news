@@ -1,11 +1,12 @@
 name: ニュース更新
 
 on:
+  # GitHub は毎時0分に実行が集中して遅延・欠落しやすいため、7分にずらしている
   schedule:
-    - cron: "0 22 * * *"   # 毎日 7:00 JST
-    - cron: "0 2 * * *"    # 毎日 11:00 JST
-    - cron: "0 5 * * *"    # 毎日 14:00 JST
-    - cron: "0 9 * * *"    # 毎日 18:00 JST
+    - cron: "7 22 * * *"   # 毎日 7:07 JST
+    - cron: "7 2 * * *"    # 毎日 11:07 JST
+    - cron: "7 5 * * *"    # 毎日 14:07 JST
+    - cron: "7 9 * * *"    # 毎日 18:07 JST
   workflow_dispatch:        # 手動実行ボタン
 
 permissions:
@@ -36,6 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json
+          git add docs/data.json stats/feed_log.csv
           git diff --cached --quiet || git commit -m "ニュース更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
           git push

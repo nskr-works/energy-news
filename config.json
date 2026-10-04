@@ -236,11 +236,12 @@
       "require_keyword": true
     },
     {
-      "name": "PR TIMES 新着",
+      "name": "PR TIMES 新着（直接）",
       "url": "https://prtimes.jp/index.rdf",
       "type": "release",
       "default_category": "solar",
-      "require_keyword": true
+      "require_keyword": true,
+      "hourly": true
     },
     {
       "name": "経済産業省（Googleニュース経由）",

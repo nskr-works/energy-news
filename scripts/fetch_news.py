@@ -1,10 +1,12 @@
 """太陽光発電・系統用蓄電池のニュースとプレスリリースを集めて docs/data.json に保存する。"""
 import calendar
+import csv
 import hashlib
 import html
 import json
 import os
 import re
+import sys
 import unicodedata
 import urllib.parse
 import urllib.request
@@ -17,6 +19,7 @@ import feedparser
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 DATA_PATH = ROOT / "docs" / "data.json"
+STATS_PATH = ROOT / "stats" / "feed_log.csv"   # 収集元ごとの件数の記録（件数の推移を追うため）
 JST = timezone(timedelta(hours=9))
 UA = "Mozilla/5.0 (compatible; EnergyNewsBot/1.0)"
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
@@ -250,7 +253,24 @@ def fetch_feed(feed):
     return items
 
 
+def log_stats(mode, rows):
+    """実行ごとに、収集元ごとの取得件数・新着件数を CSV に追記する。"""
+    STATS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    first = not STATS_PATH.exists()
+    now = datetime.now(JST).isoformat(timespec="minutes")
+    with STATS_PATH.open("a", encoding="utf-8", newline="") as fp:
+        w = csv.writer(fp)
+        if first:
+            w.writerow(["run_at", "mode", "feed", "fetched", "new"])
+        for name, fetched, new in rows:
+            w.writerow([now, mode, name, fetched, new])
+
+
 def main():
+    # --hourly：1時間ごとの実行。hourly 指定のフィード（PR TIMES）だけを取得し、通知はしない
+    hourly = "--hourly" in sys.argv
+    feeds = [f for f in CONFIG["feeds"] if f.get("hourly")] if hourly else CONFIG["feeds"]
+
     existing = []
     if DATA_PATH.exists():
         try:
@@ -259,9 +279,11 @@ def main():
             pass
 
     merged = {it["id"]: it for it in existing}
-    new_ids = []
-    for feed in CONFIG["feeds"]:
-        for it in fetch_feed(feed):
+    new_ids, stats = [], []
+    for feed in feeds:
+        got = fetch_feed(feed)
+        new_here = 0
+        for it in got:
             if it["id"] in merged:
                 old = merged[it["id"]]
                 old["categories"] = sorted(set(old["categories"]) | set(it["categories"]))
@@ -270,8 +292,18 @@ def main():
                 if it.get("company") and not old.get("company"):
                     old["company"] = it["company"]
             else:
+                it["via"] = feed["name"]          # 最初に見つけた収集元
+                if hourly:
+                    it["pending_notify"] = True   # 次の定期更新でまとめて通知する
                 merged[it["id"]] = it
                 new_ids.append(it["id"])
+                new_here += 1
+        stats.append((feed["name"], len(got), new_here))
+    log_stats("hourly" if hourly else "full", stats)
+
+    if hourly and not new_ids:
+        print("新着なし（data.json は更新しない）")
+        return
 
     cutoff = datetime.now(JST) - timedelta(days=CONFIG["keep_days"])
     items = [it for it in merged.values() if datetime.fromisoformat(it["published"]) >= cutoff]
@@ -289,6 +321,14 @@ def main():
 
     fill_companies(items)
 
+    fresh = []
+    if not hourly:
+        # 通知は直近24時間に配信された新着だけ（1時間ごとの取得で見つけた分も含める）
+        recent = datetime.now(JST) - timedelta(hours=24)
+        pend = [it["id"] for it in items if it.pop("pending_notify", False)]
+        fresh = [merged[i] for i in dict.fromkeys(new_ids + pend) if datetime.fromisoformat(merged[i]["published"]) >= recent]
+        fresh.sort(key=lambda it: it["published"], reverse=True)
+
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps({
         "updated_at": datetime.now(JST).isoformat(timespec="minutes"),
@@ -297,11 +337,6 @@ def main():
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"新着 {len(new_ids)}件 / 合計 {len(items)}件")
-
-    # 通知は直近24時間に配信された新着だけ（収集元を増やした直後の古い記事で鳴らさない）
-    recent = datetime.now(JST) - timedelta(hours=24)
-    fresh = [merged[i] for i in new_ids if datetime.fromisoformat(merged[i]["published"]) >= recent]
-    fresh.sort(key=lambda it: it["published"], reverse=True)
     notify(fresh)
 
 
