@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>太陽光・蓄電池ニュース</title>
-<meta name="description" content="太陽光発電と系統用蓄電池のニュース・プレスリリースを毎日自動で収集・分類しています。">
+<meta name="description" content="太陽光発電・蓄電池の最新動向を、ニュースとプレスリリースから毎日4回集約。">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <!-- ホーム画面に追加したときのアプリ設定 -->
 <link rel="manifest" href="manifest.webmanifest">
@@ -67,7 +67,9 @@ a.hl:hover .t,a.hl:focus-visible .t{color:var(--focus)}
 .masthead h1 .s,.masthead h1 .b{background:linear-gradient(var(--u),var(--u)) left 96% / 100% .08em no-repeat}
 .masthead h1 .s{--u:#FFB547} .masthead h1 .b{--u:#3FD7B8}
 .br-sp{display:none}
-.masthead .tag{margin:18px 0 0;font-size:clamp(.86rem,1.2vw,1rem);color:rgba(255,255,255,.78);max-width:40em;text-wrap:balance}
+.masthead .tag{margin:18px 0 0;font-size:clamp(.86rem,1.2vw,1rem);color:rgba(255,255,255,.78);max-width:40em}
+/* 説明文は区切り（span）の間でだけ改行させ、言葉の途中で折り返さない */
+.masthead .tag span{display:inline-block}
 
 /* ── 指標（写真に重ねる） ── */
 .ticker{display:grid;grid-template-columns:repeat(4,1fr);background:var(--surface);margin-top:calc(-1 * clamp(36px,3.5vw,44px));position:relative;z-index:2;
@@ -312,7 +314,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
   <div class="wrap masthead">
     <div class="en">The Solar &amp; Storage Daily</div>
     <h1><span class="s">太陽光</span>・<span class="b">蓄電池</span><br class="br-sp">ニュース</h1>
-    <p class="tag">発電と蓄電、エネルギー転換の現場から。主要メディアと官公庁の情報を1日4回お届けします。</p>
+    <p class="tag"><span>太陽光発電・蓄電池の最新動向を、</span><span>ニュースとプレスリリースから</span><span>毎日4回集約。</span></p>
   </div>
 </header>
 <div class="wrap">
