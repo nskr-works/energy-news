@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T11:04+09:00",
+ "updated_at": "2026-10-04T11:12+09:00",
  "items": [
   {
    "id": "1c846f1e61624948",
@@ -2190,6 +2190,19 @@
    "published": "2026-09-30T00:33+09:00"
   },
   {
+   "id": "cd7513759a8d169c",
+   "title": "太陽光発電・蓄電池の専門店「ゆめソーラー鹿児島店」移転OPEN！記念イベントも開催",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPWXBFYkdJS25tanhlQmhDSE1lSjRDak96TjREWEpkc080RDQwNHNUYUN2eXVZTGhKTXgtWTlVem9vRlVlR1BvQ0VqOA?oc=5",
+   "source": "getnews.jp",
+   "summary": "太陽光発電・蓄電池の専門店「ゆめソーラー鹿児島店」移転OPEN！記念イベントも開催 getnews.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-29T20:00+09:00"
+  },
+  {
    "id": "532996b9c99a0717",
    "title": "太陽光発電用カッター・スライサーの世界市場（2026年～2032年）、市場規模（切断機、スライサー）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95WVhjNjcwQUJTcjBjSTRUcy14dFo4ZllySEtWNDVHM3Vrc01xNlY0YlpUTTlfM0dEeGM4cHk2YlpVVlhqLUdlQkJrMHJXNHc?oc=5",
@@ -2452,6 +2465,18 @@
    ],
    "type": "news",
    "published": "2026-09-29T10:03+09:00"
+  },
+  {
+   "id": "f782735900779cd4",
+   "title": "クラダシ、島根県安来市で「島根安来蓄電所」を着工 ～グリーンエナジー＆カンパニーと連携し、電力系統の安定化に貢献",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnZsdW1kcHEzOTZGVUhhWmM4bDlOVmZfWWlVcU5iVVVMMmRQcnUwZzV0UXFZcmNiNG9za3FURkRKaXRRaktiZlk5Y3owa0ZVeEhBRQ?oc=5",
+   "source": "株式会社クラダシ",
+   "summary": "クラダシ、島根県安来市で「島根安来蓄電所」を着工 ～グリーンエナジー＆カンパニーと連携し、電力系統の安定化に貢献 株式会社クラダシ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-29T10:01+09:00"
   },
   {
    "id": "d8306f6551e9fc0e",
