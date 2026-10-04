@@ -3,6 +3,7 @@ import calendar
 import hashlib
 import html
 import json
+import os
 import re
 import unicodedata
 import urllib.parse
@@ -164,6 +165,30 @@ def fill_companies(items):
     print(f"  企業名の確認: {len(todo)}件")
 
 
+# ── 新着の通知（ntfy） ─────────────────────────────
+
+def notify(new_items):
+    """新着があれば ntfy に1通だけ送る。トピック名は GitHub の Secret（NTFY_TOPIC）で渡す。"""
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic or not new_items:
+        return
+    heads = "\n".join(f"・{it['title'][:40]}" for it in new_items[:3])
+    more = f"\nほか{len(new_items) - 3}件" if len(new_items) > 3 else ""
+    body = json.dumps({
+        "topic": topic,
+        "title": f"太陽光・蓄電池News 新着{len(new_items)}件",
+        "message": heads + more,
+        "click": os.environ.get("SITE_URL", "https://nskr-works.github.io/energy-news/"),
+        "tags": ["sunny"],
+    }, ensure_ascii=False).encode()
+    try:
+        req = urllib.request.Request("https://ntfy.sh/", data=body, headers={"Content-Type": "application/json"})
+        urllib.request.urlopen(req, timeout=15).close()
+        print(f"  通知を送信: {len(new_items)}件")
+    except Exception as e:
+        print(f"  ! 通知の送信に失敗: {e}")
+
+
 # ── 収集 ─────────────────────────────────────────
 
 def fetch_feed(feed):
@@ -234,7 +259,7 @@ def main():
             pass
 
     merged = {it["id"]: it for it in existing}
-    new_count = 0
+    new_ids = []
     for feed in CONFIG["feeds"]:
         for it in fetch_feed(feed):
             if it["id"] in merged:
@@ -246,7 +271,7 @@ def main():
                     old["company"] = it["company"]
             else:
                 merged[it["id"]] = it
-                new_count += 1
+                new_ids.append(it["id"])
 
     cutoff = datetime.now(JST) - timedelta(days=CONFIG["keep_days"])
     items = [it for it in merged.values() if datetime.fromisoformat(it["published"]) >= cutoff]
@@ -271,7 +296,13 @@ def main():
         "storage_topics": [*CONFIG.get("storage_topics", {}), "その他"],
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"新着 {new_count}件 / 合計 {len(items)}件")
+    print(f"新着 {len(new_ids)}件 / 合計 {len(items)}件")
+
+    # 通知は直近24時間に配信された新着だけ（収集元を増やした直後の古い記事で鳴らさない）
+    recent = datetime.now(JST) - timedelta(hours=24)
+    fresh = [merged[i] for i in new_ids if datetime.fromisoformat(merged[i]["published"]) >= recent]
+    fresh.sort(key=lambda it: it["published"], reverse=True)
+    notify(fresh)
 
 
 if __name__ == "__main__":
