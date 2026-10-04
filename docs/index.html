@@ -217,7 +217,7 @@ footer{color:var(--muted);font-size:.78rem;padding:32px 0 calc(40px + env(safe-a
       </section>
       <section class="card side about">
         <h2 style="color:var(--ink)">このサイトについて</h2>
-        <p>Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日6時・18時に自動収集しています。記事は各配信元のサイトで開きます。</p>
+        <p>Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日7時・11時・14時・18時に自動収集しています。記事は各配信元のサイトで開きます。</p>
       </section>
     </aside>
   </div>
@@ -337,7 +337,7 @@ function setTopic(t){
 }
 
 function summary(updated){
-  $("#updated").textContent = updated ? `最終更新 ${updated.replace("T"," ").slice(0,16)}　毎日6時・18時に自動更新` : "まだ更新されていません";
+  $("#updated").textContent = updated ? `最終更新 ${updated.replace("T"," ").slice(0,16)}　毎日7時・11時・14時・18時に自動更新` : "まだ更新されていません";
   const todayKey = keyOf(new Date());
   $("#stToday").innerHTML = `${state.items.filter(it => dayKey(it.published) === todayKey).length}<small>件</small>`;
   const week = within(7);
