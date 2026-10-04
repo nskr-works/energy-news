@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T13:25+09:00",
+ "updated_at": "2026-10-04T16:33+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -3245,6 +3245,19 @@
    "topic": "次世代技術"
   },
   {
+   "id": "2a67e87e77d6c384",
+   "title": "ペロブスカイト太陽電池を避難所に設置、東京都が支援",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QdXpvUGRiUm8tajEtSTZkYWFGNzlrUmtFb3ljNEd6WkxpLVZ4enFUVkp2QmxHOUswY0pwdXFWNVd5RDN6ZEVEdmZSSi1mcWc5ZXRHTlMtblFnUFZNZjBFcnh5VHNhSC1lRVlKaGEzYXBFWmRV?oc=5",
+   "source": "日経BP",
+   "summary": "ペロブスカイト太陽電池を避難所に設置、東京都が支援 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-28T13:12+09:00",
+   "topic": "次世代技術"
+  },
+  {
    "id": "365a5b30648a6401",
    "title": "水没した太陽光発電設備の感電・火災防止へ 経産省が緊急要請",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0emFjVFBhcmtWOTF6NDAwTGNxWHdid0lSeU9pRk5xSnhvZnRNRlFMRlVDMmN2MkExeWRmWHJFODJUYkpjSUZuLXhnYw?oc=5",
@@ -3454,6 +3467,19 @@
    "type": "news",
    "published": "2026-09-28T07:46+09:00",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "3ffcc8491e96588f",
+   "title": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cd1VCWlZQc2ZFOWtWX2t2OUN2NS1nV2NKcHZxMldPR2F4aDlEY3YwRWRZY2FRa0JTRG5HSnZzMkF6WC1EMGdzNTlYWHFOMXNSY2VXT0F5c2Q?oc=5",
+   "source": "NCC長崎文化放送",
+   "summary": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す NCC長崎文化放送",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-28T07:37+09:00",
+   "topic": "その他"
   },
   {
    "id": "c5884257c7d69681",
