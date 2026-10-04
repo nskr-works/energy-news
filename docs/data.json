@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T16:33+09:00",
+ "updated_at": "2026-10-04T19:46+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,35 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1b41f0f48904e383",
+   "title": "系統用蓄電池、接続検討が3年で約42倍 2022年度約600件→2025年度約2万5,000件、低圧にも増加抑制対策の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQVU5helJwLWJaTy0xOWtRUXNweTVxUkRMS0tHMGVDMUVBVDU1Snl1VldtRE9IT2tmQUk4aXV6Rmp2QmhyS1F1RA?oc=5",
+   "source": "新電力ネット",
+   "summary": "系統用蓄電池、接続検討が3年で約42倍 2022年度約600件→2025年度約2万5,000件、低圧にも増加抑制対策の可能性 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-04T18:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "7f48cf993138b9b8",
+   "title": "GaAs太陽電池エピタキシャルウェハーの世界市場（2026年～2032年）、市場規模（3接合、2接合、1接合）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xb25JaTFVOEF3X3lIUnF4ZWxoeXJ3YlVpaGcyamU5SGgzZWZ1Mmp6b1Bpam1PTmo3YUdDVS1VcEhpWU5qdDdUNW80VGdjdEk?oc=5",
+   "source": "アットプレス",
+   "summary": "GaAs太陽電池エピタキシャルウェハーの世界市場（2026年～2032年）、市場規模（3接合、2接合、1接合）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-04T17:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "1c846f1e61624948",
    "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始",
@@ -754,6 +783,20 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "bff5a47cfb24e9bd",
+   "title": "系統用蓄電所の規制 「強制力ないと駄目」 静岡市長、実効性重視",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Gc0RFTC1aQ1djYk81NFNZZDVxcC1RZlFIdEFMNnVScld6aV9kS0k5anlUMU9wSWpYTlZZelg2cjFDTlJJTGpWRS1xczl6dw?oc=5",
+   "source": "news.at-s.com",
+   "summary": "系統用蓄電所の規制 「強制力ないと駄目」 静岡市長、実効性重視 news.at-s.com",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-02T06:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "8dbfb13cbe071ad2",
    "title": "なぜ、太陽光発電の「FIP転・蓄電池併設」が注目されているのか？（4ページ目）",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYV9lM09XWFhSRmlfNDlCYlNwZXNvb3E4UkxncEZlbF93VUZweTVqaVQyQ1h6U091Smtaa19kbXM2TTdZRE1IOHNJbXhHMTZReFJQcFZYQld0OVJhaXkwbk0zZ3oxMGZLREVra2JZS0pHUQ?oc=5",
@@ -1149,6 +1192,20 @@
    "topic": "発電所・開発",
    "storage_topic": "その他",
    "company": "EX4Energy株式会社"
+  },
+  {
+   "id": "319b534be6c4c0ab",
+   "title": "市川大悟さん - 【営農型太陽光発電の制度変更】可能性生かす政策が必要 規制強化だけでなく支援を 世界自然保護基金（WWF）ジャパン 気候・エネルギーグループ 市川大悟 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FQlVxYTM1TDJVNlhWa2s1c2ZENG5jbUpQck9hYkZqXzFQcGU2MXNCa3Ftc2RsNXhMeXBDa1Z3dXd6aC10WE1wRldNZjRac1BCVzdqWVlfVQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "市川大悟さん - 【営農型太陽光発電の制度変更】可能性生かす政策が必要 規制強化だけでなく支援を 世界自然保護基金（WWF）ジャパン 気候・エネルギーグループ 市川大悟 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T12:15+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
   },
   {
    "id": "5a0a4078f1c0ef9c",
@@ -3533,6 +3590,20 @@
    "published": "2026-09-28T00:00+09:00",
    "topic": "政策・制度",
    "company": "環境省"
+  },
+  {
+   "id": "b552de1e38787afc",
+   "title": "長期脱炭素電源オークション",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUZ2UkNZY1UwTTFpNklDeUNnVzQ4VXFkbnI0RjZfT1UtdUtFTGs3S1ctQ0dwcDFwOEV4SkJ6MjJybTJteWlOVVZFTWQ1ZHZNSXhxZnZwZmhydllPMlpkUmpQdFE0S01NYkRET1c3UWkxdzNuTVpfcTJKRzBVdlN1Y2ZlZHY?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "長期脱炭素電源オークション kankyo-business.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-28T00:00+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
   },
   {
    "id": "57cb7775962be4b2",
