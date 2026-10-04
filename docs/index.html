@@ -178,13 +178,13 @@ ul.list{list-style:none;margin:0;padding:0;background:var(--surface);border:1px 
 .about{font-size:.82rem;color:var(--muted);line-height:1.9;margin:0}
 
 /* ── 記事数の推移 ── */
-.trend{background:var(--surface);border:1px solid var(--line);padding:30px 32px 20px;margin-bottom:8px}
-.chart{display:grid;grid-template-columns:repeat(14,1fr);gap:12px;align-items:end;height:190px;border-bottom:1px solid var(--ink);padding-top:22px}
+.trend{background:var(--surface);border:1px solid var(--line);padding:30px 32px 20px;margin-bottom:8px;overflow:hidden}
+.chart{display:grid;grid-template-columns:repeat(14,minmax(0,1fr));gap:12px;align-items:end;height:190px;border-bottom:1px solid var(--ink);padding-top:22px}
 .chart .col{display:flex;flex-direction:column-reverse;height:100%;gap:2px;position:relative}
 .chart i{display:block;width:100%;transition:height .5s ease}
 .chart .s{background:var(--solar)} .chart .b{background:var(--storage);border-radius:3px 3px 0 0}
 .chart .col b{position:absolute;left:0;right:0;text-align:center;font-family:var(--latin);font-size:.74rem;color:var(--ink-2);font-weight:700;padding-bottom:6px}
-.chart-x{display:grid;grid-template-columns:repeat(14,1fr);gap:12px;font-family:var(--latin);font-size:.72rem;color:var(--muted);margin-top:8px;text-align:center}
+.chart-x{display:grid;grid-template-columns:repeat(14,minmax(0,1fr));white-space:nowrap;gap:12px;font-family:var(--latin);font-size:.72rem;color:var(--muted);margin-top:8px;text-align:center}
 .chart-x .today{color:var(--ink);font-weight:700}
 .key{display:flex;gap:20px;font-size:.76rem;color:var(--muted);margin-top:14px}
 .key span::before{content:"";display:inline-block;width:10px;height:10px;margin-right:7px;vertical-align:-1px;background:var(--c)}
@@ -195,7 +195,9 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
 /* ── メニュー ── */
 .scrim{position:fixed;inset:0;background:rgba(5,8,11,.5);opacity:0;visibility:hidden;transition:opacity .25s,visibility .25s;z-index:40}
 .scrim.open{opacity:1;visibility:visible}
-.drawer{position:fixed;top:0;right:0;bottom:0;width:min(380px,88vw);background:var(--dark);color:#E8ECF0;
+/* 閉じたメニューが画面外にはみ出してページ幅を広げないよう、画面サイズの枠で切り取る */
+.menu-layer{position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:41}
+.drawer{position:absolute;top:0;right:0;bottom:0;pointer-events:auto;width:min(380px,88vw);background:var(--dark);color:#E8ECF0;
   transform:translateX(100%);visibility:hidden;transition:transform .32s cubic-bezier(.2,.8,.2,1),visibility .32s;z-index:41;overflow-y:auto;
   padding:calc(20px + env(safe-area-inset-top,0px)) 30px calc(30px + env(safe-area-inset-bottom,0px))}
 .drawer.open{transform:none;visibility:visible}
@@ -351,6 +353,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
 <footer><div class="wrap"><div class="en">The Solar &amp; Storage Daily</div>太陽光・蓄電池ニュース ― 自動収集・分類</div></footer>
 
 <div class="scrim" id="scrim"></div>
+<div class="menu-layer">
 <nav class="drawer" id="drawer" aria-label="メニュー" aria-hidden="true">
   <div class="drawer-h">
     <span class="en">Menu</span>
@@ -362,6 +365,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
   <h4 style="--c:var(--storage)">蓄電池</h4>
   <ol class="index storage" id="indexStorage"></ol>
 </nav>
+</div>
 
 <script>
 const PAGE = 15;  // 全記事の表示件数（「続きを読む」で15件ずつ追加）
