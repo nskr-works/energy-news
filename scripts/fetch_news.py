@@ -5,6 +5,9 @@ import html
 import json
 import re
 import unicodedata
+import urllib.parse
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -15,7 +18,10 @@ CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 DATA_PATH = ROOT / "docs" / "data.json"
 JST = timezone(timedelta(hours=9))
 UA = "Mozilla/5.0 (compatible; EnergyNewsBot/1.0)"
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 EXCLUDE = [re.compile(p) for p in CONFIG.get("exclude_patterns", [])]
+# 1回の実行で企業名を調べるリリースの上限（Googleニュースへの問い合わせを抑える）
+COMPANY_LOOKUP_LIMIT = 80
 
 
 def clean(text):
@@ -33,8 +39,12 @@ def norm_title(title):
 
 def has_any(text, words):
     for w in words:
-        # 英字だけのキーワード（BESS、FITなど）は単語として一致した場合のみ
-        if re.fullmatch(r"[A-Za-z]+", w):
+        if w.startswith("re:"):
+            # 「re:」で始まる語句は正規表現（例：容量の「10MW」「9.8MWh」）
+            if re.search(w[3:], text):
+                return True
+        elif re.fullmatch(r"[A-Za-z]+", w):
+            # 英字だけのキーワード（BESS、FITなど）は単語として一致した場合のみ
             if re.search(rf"(?<![A-Za-z]){w}(?![A-Za-z])", text):
                 return True
         elif w in text:
@@ -46,10 +56,10 @@ def categorize(text):
     return [cat for cat, words in CONFIG["keywords"].items() if has_any(text, words)]
 
 
-def solar_topic(text):
-    """太陽光記事の細分類。config の並び順が優先順位で、最初に当たった1つを返す。"""
+def pick_topic(text, topics):
+    """細分類。config の並び順が優先順位で、最初に当たった1つを返す。"""
     text = unicodedata.normalize("NFKC", text)
-    for topic, words in CONFIG.get("solar_topics", {}).items():
+    for topic, words in topics.items():
         if has_any(text, words):
             return topic
     return "その他"
@@ -62,6 +72,99 @@ def entry_time(entry):
             return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
     return datetime.now(timezone.utc)
 
+
+# ── プレスリリースの企業名 ──────────────────────────────
+
+# ページの発行者がこれらなら転載元なので、企業名としては使わない
+MEDIA_NAMES = re.compile(r"PR TIMES|ニュース|新聞|デジタル|放送|テレビ|NEWS|News|Yahoo|Excite|エキサイト|Infoseek|@Press|アットプレス|さんデジ")
+
+
+def http_get(url, data=None, headers=None):
+    req = urllib.request.Request(url, data=data, headers={"User-Agent": BROWSER_UA, **(headers or {})})
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def decode_google_news(url):
+    """Googleニュースの記事リンクを配信元のURLに戻す。"""
+    aid = urllib.parse.urlparse(url).path.rstrip("/").split("/")[-1]
+    page = http_get(f"https://news.google.com/rss/articles/{aid}")
+    sg = re.search(r'data-n-a-sg="([^"]+)"', page)
+    ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+    if not (sg and ts):
+        return None
+    inner = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
+                                       "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0], aid, int(ts.group(1)), sg.group(1)])
+    body = urllib.parse.urlencode({"f.req": json.dumps([[["Fbv4je", inner]]])}).encode()
+    res = http_get("https://news.google.com/_/DotsSplashUi/data/batchexecute", body,
+                   {"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+    m = re.search(r'\[\\"garturlres\\",\\"(.*?)\\"', res)
+    return m.group(1).encode().decode("unicode_escape") if m else None
+
+
+def company_from_page(url, depth=0):
+    # エキサイトの PR TIMES 転載（Prtimes_日付-企業ID-リリース番号）は PR TIMES の元ページへ
+    m = re.search(r"Prtimes_\d{4}-\d{2}-\d{2}-(\d+)-(\d+)", url)
+    if m:
+        url = f"https://prtimes.jp/main/html/rd/p/{int(m.group(2)):09d}.{int(m.group(1)):09d}.html"
+    page = http_get(url)
+    if "prtimes.jp" in url:
+        t = re.search(r"<title>[^<]*\|\s*([^<|]+?)のプレスリリース", page)
+        if t:
+            return html.unescape(t.group(1)).strip()
+    a = re.search(r'"author"\s*:\s*\{[^}]*?"name"\s*:\s*"([^"]+)"', page)
+    if a:
+        name = html.unescape(a.group(1)).strip()
+        if not MEDIA_NAMES.search(name):
+            return name
+    # 転載ページなら、本文中の PR TIMES 元記事へのリンクをたどる
+    p = re.search(r"https?://prtimes\.jp/main/html/rd/p/\d+\.\d+\.html", page)
+    if p and depth == 0:
+        return company_from_page(p.group(0), depth + 1)
+    return None
+
+
+def company_from_title(title):
+    """見出しの「【〇〇株式会社】…」「〇〇、…」から企業名を推定する。"""
+    m = re.match(r"^【([^】]{2,30}?(?:株式会社|合同会社|有限会社|グループ|ホールディングス)[^】]{0,10})】", title)
+    if m:
+        return m.group(1)
+    m = re.match(r"^([^、。「」『』【】\s]{2,20}?)(?:が|は)?、", title)
+    if m:
+        name = m.group(1)
+        if not re.match(r"^\d", name) and not re.search(r"(年|月|日|以降|向け|ため|中|後|前)$", name):
+            return name
+    return None
+
+
+GOV_SOURCES = {"meti.go.jp": "経済産業省", "enecho.meti.go.jp": "資源エネルギー庁", "env.go.jp": "環境省"}
+
+
+def lookup_company(it):
+    if it["source"] in GOV_SOURCES:
+        return GOV_SOURCES[it["source"]]
+    try:
+        url = decode_google_news(it["link"]) if "news.google.com" in it["link"] else it["link"]
+        name = company_from_page(url) if url else None
+    except Exception:
+        name = None
+        recent = datetime.now(JST) - timedelta(days=3)
+        # 通信エラーで見出しからも分からないときは、新しい記事に限り次回に再挑戦
+        if not company_from_title(it["title"]) and datetime.fromisoformat(it["published"]) >= recent:
+            return None
+    return name or company_from_title(it["title"]) or ""
+
+
+def fill_companies(items):
+    todo = [it for it in items if it["type"] == "release" and "company" not in it][:COMPANY_LOOKUP_LIMIT]
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        for it, name in zip(todo, ex.map(lookup_company, todo)):
+            if name is not None:
+                it["company"] = re.sub(r"\s+", " ", name.replace("\xa0", " ")).strip()
+    print(f"  企業名の確認: {len(todo)}件")
+
+
+# ── 収集 ─────────────────────────────────────────
 
 def fetch_feed(feed):
     parsed = feedparser.parse(feed["url"], agent=UA)
@@ -104,7 +207,7 @@ def fetch_feed(feed):
             cats = [feed["default_category"]]
 
         is_release = feed["type"] == "release" or "prtimes.jp" in link or "PR TIMES" in source
-        items.append({
+        item = {
             "id": hashlib.sha1(norm_title(title).encode()).hexdigest()[:16],
             "title": title,
             "link": link,
@@ -113,7 +216,11 @@ def fetch_feed(feed):
             "categories": sorted(set(cats)),
             "type": "release" if is_release else "news",
             "published": entry_time(e).astimezone(JST).isoformat(timespec="minutes"),
-        })
+        }
+        # PR TIMES の公式RSSは企業名（dc:corp）を持っている
+        if e.get("dc_corp"):
+            item["company"] = e["dc_corp"].strip()
+        items.append(item)
     print(f"  {feed['name']}: {len(items)}件")
     return items
 
@@ -135,6 +242,8 @@ def main():
                 old["categories"] = sorted(set(old["categories"]) | set(it["categories"]))
                 if it["type"] == "release":
                     old["type"] = "release"
+                if it.get("company") and not old.get("company"):
+                    old["company"] = it["company"]
             else:
                 merged[it["id"]] = it
                 new_count += 1
@@ -146,15 +255,20 @@ def main():
 
     # 細分類は毎回付け直す（config.json の分類語を変えたら過去記事にも反映される）
     for it in items:
-        if "solar" in it["categories"]:
-            it["topic"] = solar_topic(f"{it['title']} {it['summary']}")
-        else:
-            it.pop("topic", None)
+        text = f"{it['title']} {it['summary']}"
+        for cat, key, conf in (("solar", "topic", "solar_topics"), ("storage", "storage_topic", "storage_topics")):
+            if cat in it["categories"]:
+                it[key] = pick_topic(text, CONFIG.get(conf, {}))
+            else:
+                it.pop(key, None)
+
+    fill_companies(items)
 
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps({
         "updated_at": datetime.now(JST).isoformat(timespec="minutes"),
         "solar_topics": [*CONFIG.get("solar_topics", {}), "その他"],
+        "storage_topics": [*CONFIG.get("storage_topics", {}), "その他"],
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"新着 {new_count}件 / 合計 {len(items)}件")

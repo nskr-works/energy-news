@@ -8,373 +8,571 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔋</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=Inter:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;700;900&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#F2F5F8; --surface:#FFFFFF; --surface-2:#F7F9FB; --ink:#132A40; --muted:#5B7287; --line:#DCE4EA;
-  --solar:#E08E00; --solar-soft:#FFF4DE; --storage:#0E8A74; --storage-soft:#DDF5EF; --focus:#2D6FD6;
-  --hero-1:#0B2236; --hero-2:#123B55; --shadow:0 1px 2px rgba(16,42,64,.06),0 6px 20px rgba(16,42,64,.06);
-  --t0:#C2410C; --t1:#4D7C0F; --t2:#7C3AED; --t3:#0369A1; --t4:#B45309; --t5:#0F766E; --t6:#BE185D; --t7:#9A3412; --t8:#475569; --t9:#64748B;
+  --paper:#F6F1E6; --paper-2:#EFE8DA; --ink:#1D1B17; --ink-2:#3B372F; --muted:#6E665A; --rule:#1D1B17; --hair:#D8CEBC;
+  --accent:#B3362B; --solar:#A86A12; --storage:#2B6A5D; --focus:#1F5FBF;
+  --serif:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif;
+  --sans:"Zen Kaku Gothic New","Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic UI","Meiryo",sans-serif;
+  --latin:"Playfair Display","Noto Serif JP",serif;
 }
 @media (prefers-color-scheme:dark){
-  :root{ --bg:#0B1722; --surface:#12212F; --surface-2:#172A3A; --ink:#E6EEF4; --muted:#93A8BA; --line:#22374A;
-    --solar:#F6B23A; --solar-soft:#3A2C12; --storage:#3CC6AC; --storage-soft:#103A33; --focus:#7FB0FF;
-    --hero-1:#07131D; --hero-2:#0F2C40; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
-    --t0:#FB923C; --t1:#A3E635; --t2:#C4B5FD; --t3:#7DD3FC; --t4:#FCD34D; --t5:#5EEAD4; --t6:#F9A8D4; --t7:#FDBA74; --t8:#CBD5E1; --t9:#94A3B8; }
+  :root{ --paper:#16140F; --paper-2:#1E1B15; --ink:#EDE6D6; --ink-2:#D3CBB9; --muted:#A19785; --rule:#EDE6D6; --hair:#38332A;
+    --accent:#E36A5D; --solar:#E1A548; --storage:#62B8A5; --focus:#8DB4FF; }
 }
 *,*::before,*::after{box-sizing:border-box}
 [hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);
-  font-family:"Zen Kaku Gothic New","Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic UI","Meiryo",sans-serif;
-  font-size:16px;line-height:1.65}
-a{color:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.7;
+  background-image:radial-gradient(rgba(120,100,60,.06) 1px,transparent 1px);background-size:3px 3px}
+a{color:inherit;text-decoration:none}
 button{font:inherit;color:inherit}
-:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:6px}
-.wrap{max-width:1120px;margin:0 auto;padding:0 16px}
-.num{font-family:Inter,"Zen Kaku Gothic New",sans-serif;font-feature-settings:"tnum";letter-spacing:-.01em}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.serif{font-family:var(--serif)}
+.kicker{font-size:.72rem;font-weight:700;letter-spacing:.12em;color:var(--accent)}
+.kicker.solar{color:var(--solar)} .kicker.storage{color:var(--storage)}
+a.hl:hover .t,a.hl:focus-visible .t{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
 
-/* ── ヒーロー ── */
-.hero{position:relative;overflow:hidden;color:#EAF2F8;
-  background:
-    radial-gradient(600px 320px at 88% -10%,rgba(255,184,48,.45),transparent 70%),
-    radial-gradient(520px 300px at 0% 120%,rgba(40,200,170,.35),transparent 70%),
-    linear-gradient(135deg,var(--hero-1),var(--hero-2));
-  padding:calc(36px + env(safe-area-inset-top,0px)) 0 84px}
-.hero::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.10;
-  background-image:linear-gradient(rgba(255,255,255,.6) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.6) 1px,transparent 1px);
-  background-size:36px 36px;mask-image:linear-gradient(to bottom,#000,transparent 85%);-webkit-mask-image:linear-gradient(to bottom,#000,transparent 85%)}
-.hero .wrap{position:relative;z-index:1}
-.eyebrow{font-family:Inter,sans-serif;font-weight:700;font-size:.72rem;letter-spacing:.18em;color:#FFC861;margin:0 0 8px}
-.hero h1{font-size:clamp(1.7rem,5.2vw,2.6rem);line-height:1.2;margin:0;font-weight:900;letter-spacing:.02em}
-.hero h1 .s{color:#FFC861} .hero h1 .b{color:#5FE0C6}
-.lead{margin:10px 0 0;color:#B9CCDA;font-size:.95rem;max-width:40em}
-.updated{display:inline-flex;align-items:center;gap:8px;margin-top:16px;font-size:.8rem;color:#D5E3EE;
-  background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:999px;padding:4px 12px}
-.updated::before{content:"";width:8px;height:8px;border-radius:50%;background:#5FE0C6;box-shadow:0 0 0 3px rgba(95,224,198,.25)}
+/* ── 題字 ── */
+.topbar{border-bottom:1px solid var(--hair);font-size:.75rem;color:var(--muted);padding-top:env(safe-area-inset-top,0px)}
+.topbar .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:6px;padding-bottom:6px}
+.tb-r{display:flex;align-items:center;gap:14px}
+.menu-btn{width:36px;height:32px;display:inline-flex;flex-direction:column;justify-content:center;gap:5px;padding:0 8px;background:none;border:1px solid var(--ink);cursor:pointer}
+.menu-btn span{display:block;height:1.5px;background:var(--ink)}
+.menu-btn:hover{background:var(--ink)} .menu-btn:hover span{background:var(--paper)}
+.live{display:inline-flex;align-items:center;gap:6px}
+.live::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.masthead{text-align:center;padding-top:30px;padding-bottom:18px}
+.masthead .en{font-family:var(--latin);font-style:italic;font-weight:500;font-size:clamp(.95rem,2.4vw,1.15rem);color:var(--muted);letter-spacing:.04em}
+.masthead h1{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,7vw,3.9rem);line-height:1.1;margin:6px 0 0;letter-spacing:.06em}
+.masthead h1 .s{color:var(--solar)} .masthead h1 .b{color:var(--storage)}
+.masthead .tag{margin:12px 0 0;font-size:.85rem;color:var(--muted)}
+.dbl{border:0;border-top:3px solid var(--rule);border-bottom:1px solid var(--rule);height:6px;margin:0}
 
-/* ── 集計カード ── */
-.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:-56px;position:relative;z-index:2}
-.stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;box-shadow:var(--shadow);min-width:0}
-.stat .k{font-size:.78rem;color:var(--muted);display:flex;align-items:center;gap:6px}
-.stat .v{font-size:1.9rem;font-weight:800;line-height:1.15;margin-top:4px}
-.stat .v small{font-size:.8rem;font-weight:500;color:var(--muted);margin-left:3px;font-family:"Zen Kaku Gothic New",sans-serif}
-.dot{width:9px;height:9px;border-radius:3px;display:inline-block;flex:none}
-.dot.solar{background:var(--solar)} .dot.storage{background:var(--storage)} .dot.new{background:var(--focus);border-radius:50%}
-.stat.solar{border-top:3px solid var(--solar)} .stat.storage{border-top:3px solid var(--storage)}
+/* ── 指標 ── */
+.ticker{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--rule)}
+.ticker div{padding:12px 16px;border-left:1px solid var(--hair);display:flex;flex-direction:column;align-items:center;gap:2px}
+.ticker div:first-child{border-left:0}
+.ticker .k{font-size:.72rem;color:var(--muted);letter-spacing:.08em}
+.ticker .v{font-family:var(--serif);font-weight:700;font-size:1.7rem;line-height:1.2;font-feature-settings:"tnum"}
+.ticker .v small{font-family:var(--sans);font-size:.75rem;font-weight:500;color:var(--muted);margin-left:2px}
+.ticker .solar .v{color:var(--solar)} .ticker .storage .v{color:var(--storage)}
 
-/* ── 推移グラフ ── */
-.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
-.trend{margin-top:12px;padding:14px 16px 10px}
-.card-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
-.card-h h2{font-size:.95rem;margin:0;font-weight:700}
-.legend{display:flex;gap:14px;font-size:.78rem;color:var(--muted)}
-.legend span{display:inline-flex;align-items:center;gap:6px}
-.bars{display:grid;grid-template-columns:repeat(14,1fr);gap:6px;align-items:end;height:96px;margin-top:10px}
-.bar{display:flex;flex-direction:column-reverse;height:100%;border-radius:4px;overflow:hidden;background:var(--surface-2);position:relative}
-.bar i{display:block;width:100%;transition:height .5s ease}
-.bar .s{background:var(--solar)} .bar .b{background:var(--storage)}
-.bar.today{outline:1.5px solid var(--ink);outline-offset:1px}
-.bar-x{display:grid;grid-template-columns:repeat(14,1fr);gap:6px;font-size:.66rem;color:var(--muted);text-align:center;margin-top:4px}
+/* ── 一面 ── */
+.section-h{display:flex;align-items:center;gap:12px;margin:34px 0 16px}
+.section-h h2{font-family:var(--serif);font-weight:900;font-size:1.25rem;margin:0;letter-spacing:.08em;white-space:nowrap}
+.section-h::after{content:"";flex:1;border-top:1px solid var(--rule)}
+.section-h .sub{font-size:.75rem;color:var(--muted);white-space:nowrap;order:3}
+.front{display:grid;grid-template-columns:1.55fr 1fr;gap:0}
+.lead{padding-right:28px;border-right:1px solid var(--hair)}
+.lead a{display:block}
+.lead .t{font-family:var(--serif);font-weight:900;font-size:clamp(1.5rem,3.4vw,2.25rem);line-height:1.4;margin:8px 0 12px;letter-spacing:.01em}
+.lead .meta{font-size:.8rem;color:var(--muted)}
+.lead .dek{font-size:.95rem;color:var(--ink-2);margin:0 0 10px}
+.seconds{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:22px;border-top:1px solid var(--hair)}
+.seconds a{padding:14px 16px 4px 0;display:block}
+.seconds a:nth-child(2n){padding-left:16px;padding-right:0;border-left:1px solid var(--hair)}
+.seconds a:nth-child(n+3){border-top:1px solid var(--hair)}
+.seconds .t{font-family:var(--serif);font-weight:700;font-size:1.02rem;line-height:1.55;display:block;margin-top:4px}
+.small-meta{font-size:.75rem;color:var(--muted);margin-top:6px;display:block}
+.rail{padding-left:28px}
+.rail h3{font-family:var(--serif);font-size:1rem;margin:0 0 10px;padding-bottom:6px;border-bottom:2px solid var(--rule);display:flex;justify-content:space-between;align-items:baseline}
+.rail h3 small{font-family:var(--sans);font-weight:400;font-size:.72rem;color:var(--muted)}
+.trend{margin-bottom:8px}
+.chart{display:grid;grid-template-columns:repeat(14,1fr);gap:6px;align-items:end;height:150px;border-bottom:1px solid var(--rule);padding-top:16px}
+.chart .col{display:flex;flex-direction:column-reverse;height:100%;gap:1px}
+.chart i{display:block;width:100%;transition:height .5s ease}
+.chart .s{background:var(--solar)} .chart .b{background:var(--storage)}
+.chart .col.today{box-shadow:inset 0 -2px 0 var(--accent)}
+.chart .col{position:relative}
+.chart .col b{position:absolute;bottom:100%;left:0;right:0;text-align:center;font-family:var(--serif);font-size:.7rem;color:var(--muted);font-weight:700;padding-bottom:2px}
+.chart-x{display:grid;grid-template-columns:repeat(14,1fr);gap:6px;font-size:.68rem;color:var(--muted);margin-top:4px;text-align:center;font-feature-settings:"tnum"}
+.chart-x .today{color:var(--accent);font-weight:700}
+/* 速報 */
+.flash{list-style:none;margin:0;padding:0}
+.flash li{border-bottom:1px dotted var(--hair)}
+.flash a{display:grid;grid-template-columns:44px 1fr;gap:8px;padding:9px 0;font-size:.88rem;line-height:1.55}
+.flash time{font-family:var(--serif);font-weight:700;color:var(--accent);font-feature-settings:"tnum"}
+.flash .t{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+/* メニュー */
+.scrim{position:fixed;inset:0;background:rgba(20,16,10,.38);opacity:0;visibility:hidden;transition:opacity .25s,visibility .25s;z-index:40}
+.scrim.open{opacity:1;visibility:visible}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(340px,86vw);background:var(--paper);border-left:3px double var(--rule);
+  transform:translateX(100%);visibility:hidden;transition:transform .28s ease,visibility .28s;z-index:41;overflow-y:auto;
+  padding:calc(14px + env(safe-area-inset-top,0px)) 22px calc(24px + env(safe-area-inset-bottom,0px))}
+.drawer.open{transform:none;visibility:visible}
+.drawer-h{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+.drawer-h .en{font-family:var(--latin);font-style:italic;font-size:1.3rem}
+.close{width:36px;height:36px;background:none;border:1px solid var(--ink);cursor:pointer;font-size:1rem}
+.close:hover{background:var(--ink);color:var(--paper)}
+.drawer h3{font-family:var(--serif);font-size:1.05rem;margin:0 0 6px;padding-bottom:6px;border-bottom:2px solid var(--rule);display:flex;justify-content:space-between;align-items:baseline}
+.drawer h3 small{font-family:var(--sans);font-weight:400;font-size:.72rem;color:var(--muted)}
+.drawer h4{font-family:var(--serif);font-size:.95rem;margin:18px 0 0;padding:4px 0 4px 10px;border-left:4px solid var(--c)}
+.drawer .index button{padding:10px 0;font-size:.95rem}
+.drawer .index button .n{padding-left:12px}
+.drawer .index li.all button .n{padding-left:0;font-weight:700}
+.drawer .index.storage button:hover .n,.drawer .index.storage button[aria-pressed="true"] .n{color:var(--storage)}
+.key{display:flex;gap:14px;font-size:.72rem;color:var(--muted);margin-top:6px}
+.key span::before{content:"";display:inline-block;width:10px;height:3px;margin-right:6px;vertical-align:middle;background:var(--c)}
+.index{list-style:none;margin:0;padding:0;counter-reset:n}
+.index li{border-bottom:1px dotted var(--hair)}
+.index button{all:unset;cursor:pointer;display:grid;grid-template-columns:1fr auto;gap:8px;width:100%;padding:7px 0;font-size:.88rem}
+.index button:hover .n,.index button[aria-pressed="true"] .n{color:var(--solar);text-decoration:underline;text-underline-offset:3px}
+.index button:focus-visible{outline:2px solid var(--focus)}
+.index .c{font-family:var(--serif);font-weight:700;color:var(--muted);font-feature-settings:"tnum"}
 
-/* ── 本体レイアウト ── */
-.layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px;margin-top:20px;align-items:start}
-.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 0 10px;
-  padding-top:calc(12px + env(safe-area-inset-top,0px))}
-.controls::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:var(--line)}
-.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
-.seg button{border:0;background:none;color:var(--muted);padding:6px 16px;border-radius:999px;cursor:pointer;font-size:.92rem;display:inline-flex;align-items:center;gap:6px}
-.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);font-weight:700}
-.seg button[data-cat="solar"][aria-pressed="true"]{background:var(--solar);color:#1B1300}
-.seg button[data-cat="storage"][aria-pressed="true"]{background:var(--storage);color:#00140F}
-.chip{border:1px solid var(--line);background:var(--surface);color:var(--muted);padding:5px 12px;border-radius:999px;cursor:pointer;font-size:.85rem;display:inline-flex;align-items:center;gap:6px}
-.chip[aria-pressed="true"]{border-color:var(--ink);color:var(--ink);font-weight:700}
-.chip .c{font-family:Inter,sans-serif;font-size:.72rem;color:var(--muted);font-weight:500}
-.topics{margin-top:8px;overflow-x:auto;flex-wrap:nowrap;padding-bottom:2px;scrollbar-width:thin}
-.topics .chip{flex:none}
-.topics .chip[aria-pressed="true"]{border-color:var(--tc);color:var(--tc);background:color-mix(in srgb,var(--tc) 10%,var(--surface))}
-.search{position:relative;flex:1 1 220px;min-width:0}
-.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
-input[type=search]{width:100%;font:inherit;font-size:16px;padding:8px 14px 8px 36px;border-radius:999px;
-  border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.columns{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:8px}
+.columns > section{padding:0 24px}
+.columns > section:first-child{padding-left:0;border-right:1px solid var(--hair)}
+.columns > section:last-child{padding-right:0}
+.col-h{display:flex;justify-content:space-between;align-items:baseline;border-top:4px solid var(--c);padding-top:8px;margin-bottom:4px}
+.col-h h3{font-family:var(--serif);font-weight:900;font-size:1.15rem;margin:0;color:var(--c);letter-spacing:.1em}
+.col-h button{background:none;border:0;cursor:pointer;font-size:.78rem;color:var(--muted);padding:0}
+.col-h button:hover{color:var(--ink);text-decoration:underline}
+.brief{display:block;padding:12px 0;border-bottom:1px solid var(--hair)}
+.brief:last-child{border-bottom:0}
+.brief .t{font-family:var(--serif);font-weight:700;font-size:.98rem;line-height:1.6}
+.brief .t,.seconds .t{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+
+/* ── 全記事 ── */
+.controls{position:sticky;top:0;z-index:5;background:var(--paper);padding:10px 0 0;border-bottom:1px solid var(--rule);margin-top:18px;
+  padding-top:calc(10px + env(safe-area-inset-top,0px))}
+.row{display:flex;gap:6px 18px;flex-wrap:wrap;align-items:center}
+.tabs{display:flex;gap:2px}
+.tabs button{background:none;border:0;cursor:pointer;padding:6px 12px 8px;font-family:var(--serif);font-weight:700;font-size:1rem;color:var(--muted);border-bottom:3px solid transparent;margin-bottom:-1px}
+.tabs button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs button[data-cat="solar"][aria-pressed="true"]{border-bottom-color:var(--solar)}
+.tabs button[data-cat="storage"][aria-pressed="true"]{border-bottom-color:var(--storage)}
+.toggle{display:inline-flex;align-items:center;gap:8px;font-size:.85rem;color:var(--muted);cursor:pointer;background:none;border:0;padding:4px 0}
+.toggle::before{content:"";width:14px;height:14px;border:1.5px solid currentColor;border-radius:2px}
+.toggle[aria-pressed="true"]{color:var(--ink)}
+.toggle[aria-pressed="true"]::before{background:var(--ink);border-color:var(--ink);box-shadow:inset 0 0 0 2px var(--paper)}
+.search{flex:1 1 220px;min-width:0;display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--muted);padding:2px 0}
+.search svg{color:var(--muted);flex:none}
+input[type=search]{flex:1;min-width:0;font:inherit;font-size:16px;padding:6px 0;border:0;background:transparent;color:var(--ink)}
+input[type=search]:focus{outline:none}
+.search:focus-within{border-bottom-color:var(--ink)}
 input[type=search]::placeholder{color:var(--muted)}
-.result{font-size:.8rem;color:var(--muted);margin:10px 2px 0}
+.subtabs{display:flex;gap:4px 16px;overflow-x:auto;padding:8px 0 10px;scrollbar-width:none;font-size:.85rem}
+.subtabs::-webkit-scrollbar{display:none}
+.subtabs button{flex:none;background:none;border:0;padding:2px 0;cursor:pointer;color:var(--muted);white-space:nowrap}
+.subtabs button .c{font-size:.72rem;margin-left:3px}
+.subtabs.storage button[aria-pressed="true"]{color:var(--storage)}
+.subtabs button[aria-pressed="true"]{color:var(--solar);font-weight:700;text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:2px}
+.result{font-size:.78rem;color:var(--muted);margin:14px 0 0}
 
-.day{margin:22px 0 8px;display:flex;align-items:baseline;gap:10px}
-.day h3{font-size:1rem;margin:0;font-weight:700}
-.day small{color:var(--muted);font-size:.78rem}
-ul.list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
-.item{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px 12px 18px;
-  transition:border-color .15s,transform .15s,box-shadow .15s}
-.item::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:4px;border-radius:0 4px 4px 0;background:var(--c)}
-.item.solar{--c:var(--solar)} .item.storage{--c:var(--storage)}
-.item.both::before{background:linear-gradient(var(--solar) 50%,var(--storage) 50%)}
-.item:hover{border-color:color-mix(in srgb,var(--ink) 25%,var(--line));box-shadow:var(--shadow)}
-.item a{text-decoration:none;font-weight:700;display:block;line-height:1.55}
-.item a::after{content:"";position:absolute;inset:0;border-radius:12px}
-.item a:hover{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
-.meta{font-size:.78rem;color:var(--muted);margin-top:6px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
-.badge{display:inline-flex;align-items:center;gap:4px;border-radius:6px;padding:1px 8px;font-size:.72rem;font-weight:700;line-height:1.7}
-.badge.solar{background:var(--solar-soft);color:color-mix(in srgb,var(--solar) 75%,var(--ink))}
-.badge.storage{background:var(--storage-soft);color:color-mix(in srgb,var(--storage) 75%,var(--ink))}
-.badge.topic{background:color-mix(in srgb,var(--tc) 12%,transparent);color:var(--tc)}
-.badge.rel{border:1px solid currentColor;font-weight:500}
-.new{color:var(--focus);font-weight:700;display:inline-flex;align-items:center;gap:4px}
+.day{display:flex;align-items:baseline;gap:12px;margin:26px 0 4px;padding-bottom:6px;border-bottom:2px solid var(--rule)}
+.day h3{font-family:var(--serif);font-weight:900;font-size:1.1rem;margin:0}
+.day small{font-size:.75rem;color:var(--muted)}
+ul.list{list-style:none;margin:0;padding:0}
+.entry{display:grid;grid-template-columns:52px 1fr;gap:14px;padding:14px 0;border-bottom:1px solid var(--hair)}
+.entry time{font-family:var(--serif);font-weight:700;font-size:.9rem;color:var(--muted);padding-top:2px;font-feature-settings:"tnum"}
+.entry .t{font-family:var(--serif);font-weight:700;font-size:1.05rem;line-height:1.6;display:block;margin-top:2px}
+.entry .meta{font-size:.76rem;color:var(--muted);margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
+.new{color:var(--accent);font-weight:700}
+.rel{border:1px solid currentColor;padding:0 6px;font-size:.68rem;letter-spacing:.06em}
+.company{color:var(--ink-2);font-weight:700}
 .empty,.more-wrap{text-align:center;color:var(--muted);padding:40px 0}
-.more{padding:10px 24px;border-radius:999px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-weight:500}
+.more{padding:10px 28px;border:1px solid var(--ink);background:transparent;cursor:pointer;font-family:var(--serif);font-weight:700;letter-spacing:.08em}
+.more:hover{background:var(--ink);color:var(--paper)}
 
-/* ── サイドバー ── */
-aside{display:grid;gap:14px;position:sticky;top:12px}
-.side{padding:14px 16px}
-.side h2{font-size:.95rem;margin:0 0 10px;font-weight:700}
-.tb{display:grid;gap:4px}
-.tb button{display:grid;grid-template-columns:1fr auto;gap:2px 8px;align-items:center;text-align:left;background:none;border:0;padding:6px 8px;margin:0 -8px;border-radius:8px;cursor:pointer}
-.tb button:hover,.tb button[aria-pressed="true"]{background:var(--surface-2)}
-.tb .n{font-size:.85rem}
-.tb .c{font-family:Inter,sans-serif;font-size:.8rem;color:var(--muted)}
-.tb .track{grid-column:1/-1;height:6px;border-radius:3px;background:var(--surface-2);overflow:hidden}
-.tb .track i{display:block;height:100%;border-radius:3px;background:var(--tc)}
-.srcs{list-style:none;margin:0;padding:0;display:grid;gap:6px;font-size:.85rem}
-.srcs li{display:flex;justify-content:space-between;gap:8px}
+.archive{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:40px;align-items:start}
+.side{position:sticky;top:110px;display:flex;flex-direction:column;gap:24px}
+.side h3{font-family:var(--serif);font-size:1rem;margin:0 0 8px;padding-bottom:6px;border-bottom:2px solid var(--rule)}
+.srcs{list-style:none;margin:0;padding:0;counter-reset:r}
+.srcs li{display:grid;grid-template-columns:22px 1fr auto;gap:6px;padding:6px 0;border-bottom:1px dotted var(--hair);font-size:.85rem;counter-increment:r}
+.srcs li::before{content:counter(r);font-family:var(--serif);font-weight:900;color:var(--accent)}
 .srcs li span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.srcs .c{font-family:Inter,sans-serif;color:var(--muted);font-size:.8rem}
-.about{font-size:.8rem;color:var(--muted);line-height:1.7}
-.about p{margin:0}
-footer{color:var(--muted);font-size:.78rem;padding:32px 0 calc(40px + env(safe-area-inset-bottom,0px));text-align:center}
+.srcs .c{color:var(--muted);font-size:.78rem}
+.about{font-size:.8rem;color:var(--muted);line-height:1.8;margin:0}
+
+footer{margin-top:48px;border-top:3px double var(--rule);padding:20px 0 calc(36px + env(safe-area-inset-bottom,0px));text-align:center;font-size:.75rem;color:var(--muted)}
+footer .en{font-family:var(--latin);font-style:italic;font-size:.95rem;color:var(--ink-2)}
 
 @media (max-width:900px){
-  .layout{grid-template-columns:minmax(0,1fr)}
-  aside{position:static}
+  .front{grid-template-columns:1fr}
+  .lead{padding-right:0;border-right:0}
+  .rail{padding-left:0;margin-top:26px}
+  .archive{grid-template-columns:1fr}
+  .side{position:static}
 }
 @media (max-width:640px){
-  .stats{grid-template-columns:repeat(2,1fr);gap:8px}
-  .stat{padding:12px}
-  .stat .v{font-size:1.5rem}
-  .bars,.bar-x{gap:3px}
-  .bar-x span:nth-child(odd){visibility:hidden}
-  .hero{padding-bottom:76px}
+  .ticker{grid-template-columns:repeat(2,1fr)}
+  .ticker div:nth-child(3){border-left:0}
+  .ticker div:nth-child(n+3){border-top:1px solid var(--hair)}
+  .seconds{grid-template-columns:1fr}
+  .seconds a,.seconds a:nth-child(2n){padding:14px 0 4px;border-left:0}
+  .seconds a:nth-child(n+2){border-top:1px solid var(--hair)}
+  .columns{grid-template-columns:1fr}
+  .columns > section,.columns > section:first-child{padding:0;border-right:0}
+  .columns > section + section{margin-top:24px}
+  .entry{grid-template-columns:42px 1fr;gap:10px}
+  .chart,.chart-x{gap:3px}
+  .chart .col b{font-size:.6rem}
+  .chart-x span:nth-child(even):not(.today){visibility:hidden}
+  .live{display:none}
+  .masthead{padding-top:22px;padding-bottom:14px}
+  .masthead h1{font-size:min(2rem,8.4vw);letter-spacing:0;white-space:nowrap}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
-<header class="hero">
+<div class="topbar">
   <div class="wrap">
-    <p class="eyebrow">SOLAR &amp; STORAGE NEWS</p>
-    <h1><span class="s">太陽光</span>・<span class="b">蓄電池</span>ニュース</h1>
-    <p class="lead">太陽光発電と系統用蓄電池のニュース・プレスリリースを、主要メディアと官公庁から毎日自動で集めて分類しています。</p>
-    <div class="updated" id="updated">読み込み中…</div>
-  </div>
-</header>
-
-<div class="wrap">
-  <section class="stats" aria-label="集計">
-    <div class="stat"><div class="k"><span class="dot new"></span>今日の新着</div><div class="v num" id="stToday">–</div></div>
-    <div class="stat solar"><div class="k"><span class="dot solar"></span>太陽光（直近7日）</div><div class="v num" id="stSolar">–</div></div>
-    <div class="stat storage"><div class="k"><span class="dot storage"></span>蓄電池（直近7日）</div><div class="v num" id="stStorage">–</div></div>
-    <div class="stat"><div class="k">掲載媒体数</div><div class="v num" id="stSrc">–</div></div>
-  </section>
-
-  <section class="card trend" aria-label="直近14日の記事数">
-    <div class="card-h">
-      <h2>直近14日の記事数</h2>
-      <div class="legend"><span><i class="dot solar"></i>太陽光</span><span><i class="dot storage"></i>蓄電池</span></div>
-    </div>
-    <div class="bars" id="bars"></div>
-    <div class="bar-x" id="barX"></div>
-  </section>
-
-  <div class="layout">
-    <div>
-      <div class="controls">
-        <div class="row">
-          <div class="seg" role="group" aria-label="分野">
-            <button data-cat="all" aria-pressed="true">すべて</button>
-            <button data-cat="solar" aria-pressed="false"><i class="dot solar"></i>太陽光</button>
-            <button data-cat="storage" aria-pressed="false"><i class="dot storage"></i>蓄電池</button>
-          </div>
-          <button class="chip" id="relOnly" aria-pressed="false">リリースのみ</button>
-          <label class="search">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-            <input type="search" id="q" placeholder="キーワードで絞り込み（例：北海道、オークション）" aria-label="キーワード検索">
-          </label>
-        </div>
-        <div class="row topics" id="topics" role="group" aria-label="太陽光の分類" hidden></div>
-        <p class="result" id="result"></p>
-      </div>
-      <main id="list"></main>
-    </div>
-
-    <aside>
-      <section class="card side">
-        <h2>太陽光の内訳（直近30日）</h2>
-        <div class="tb" id="topicBars"></div>
-      </section>
-      <section class="card side">
-        <h2>掲載の多い媒体（直近30日）</h2>
-        <ul class="srcs" id="srcs"></ul>
-      </section>
-      <section class="card side about">
-        <h2 style="color:var(--ink)">このサイトについて</h2>
-        <p>Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日7時・11時・14時・18時に自動収集しています。記事は各配信元のサイトで開きます。</p>
-      </section>
-    </aside>
+    <span id="today"></span>
+    <span class="tb-r"><span class="live" id="updated">読み込み中…</span>
+      <button class="menu-btn" id="menuBtn" aria-label="メニューを開く" aria-expanded="false" aria-controls="drawer"><span></span><span></span><span></span></button>
+    </span>
   </div>
 </div>
-<footer>太陽光・蓄電池ニュース — 自動収集・分類サイト</footer>
+<header class="wrap masthead">
+  <div class="en">The Solar &amp; Storage Daily</div>
+  <h1><span class="s">太陽光</span>・<span class="b">蓄電池</span>ニュース</h1>
+  <p class="tag">発電と蓄電、エネルギー転換の現場から ― 主要メディアと官公庁の情報を1日4回お届けします</p>
+</header>
+<div class="wrap">
+  <hr class="dbl">
+  <section class="ticker" aria-label="集計">
+    <div><span class="k">本日の新着</span><span class="v" id="stToday">–</span></div>
+    <div class="solar"><span class="k">太陽光・7日間</span><span class="v" id="stSolar">–</span></div>
+    <div class="storage"><span class="k">蓄電池・7日間</span><span class="v" id="stStorage">–</span></div>
+    <div><span class="k">掲載媒体</span><span class="v" id="stSrc">–</span></div>
+  </section>
+</div>
+
+<div class="controls" id="controls">
+  <div class="wrap">
+    <div class="row">
+      <div class="tabs" role="group" aria-label="分野">
+        <button data-cat="all" aria-pressed="true">総合</button>
+        <button data-cat="solar" aria-pressed="false">太陽光</button>
+        <button data-cat="storage" aria-pressed="false">蓄電池</button>
+      </div>
+      <button class="toggle" id="relOnly" aria-pressed="false">プレスリリースのみ</button>
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="q" placeholder="キーワード検索（例：北海道、オークション）" aria-label="キーワード検索">
+      </label>
+    </div>
+    <div class="subtabs" id="topics" role="group" aria-label="太陽光の分類" hidden></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div id="frontWrap">
+    <div class="section-h"><h2>今日の一面</h2></div>
+    <section class="front">
+      <div class="lead">
+        <a class="hl" id="lead" target="_blank" rel="noopener"></a>
+        <div class="seconds" id="seconds"></div>
+      </div>
+      <div class="rail">
+        <h3>速報<small>新着順</small></h3>
+        <ol class="flash" id="flash"></ol>
+      </div>
+    </section>
+
+    <div class="columns">
+      <section style="--c:var(--solar)">
+        <div class="col-h"><h3>太陽光</h3><button data-jump="solar">すべて見る →</button></div>
+        <div id="colSolar"></div>
+      </section>
+      <section style="--c:var(--storage)">
+        <div class="col-h"><h3>蓄電池</h3><button data-jump="storage">すべて見る →</button></div>
+        <div id="colStorage"></div>
+      </section>
+    </div>
+  </div>
+
+  <div class="section-h" id="all"><h2 id="listTitle">全記事</h2><span class="sub" id="listSub">過去90日分</span></div>
+  <div class="archive">
+    <div>
+      <p class="result" id="result"></p>
+      <main id="list"></main>
+    </div>
+    <aside class="side">
+      <div>
+        <h3>掲載の多い媒体</h3>
+        <ol class="srcs" id="srcs"></ol>
+      </div>
+      <div>
+        <h3>本紙について</h3>
+        <p class="about">Googleニュース、PR TIMES、@Press、日経BP メガソーラービジネス、環境ビジネス、電気新聞、スマートジャパン、SOLAR JOURNAL、日経クロステック、経済産業省・環境省の公開情報から、毎日7時・11時・14時・18時に自動収集しています。記事は各配信元のサイトで開きます。</p>
+      </div>
+    </aside>
+  </div>
+
+  <div class="section-h"><h2>記事数の推移</h2><span class="sub">直近14日</span></div>
+  <section class="trend" aria-label="直近14日の記事数">
+    <div class="chart" id="chart"></div>
+    <div class="chart-x" id="chartX"></div>
+    <div class="key"><span style="--c:var(--solar)">太陽光</span><span style="--c:var(--storage)">蓄電池</span></div>
+  </section>
+</div>
+<footer><div class="wrap"><div class="en">The Solar &amp; Storage Daily</div>太陽光・蓄電池ニュース ― 自動収集・分類</div></footer>
+
+<div class="scrim" id="scrim"></div>
+<nav class="drawer" id="drawer" aria-label="メニュー" aria-hidden="true">
+  <div class="drawer-h">
+    <span class="en">Menu</span>
+    <button class="close" id="menuClose" aria-label="メニューを閉じる">✕</button>
+  </div>
+  <h3>分類索引<small>直近30日の件数</small></h3>
+  <h4 style="--c:var(--solar)">太陽光</h4>
+  <ol class="index" id="index"></ol>
+  <h4 style="--c:var(--storage)">蓄電池</h4>
+  <ol class="index storage" id="indexStorage"></ol>
+</nav>
 
 <script>
-const PAGE = 120;
-const state = { cat: "all", topic: null, rel: false, q: "", shown: PAGE, items: [], topics: [] };
+const PAGE = 100;
+const state = { cat: "all", topic: null, rel: false, q: "", shown: PAGE, items: [], topics: [], storageTopics: [] };
+// 細分類は分野ごとに別の項目に入っている（太陽光=topic、蓄電池=storage_topic）
+const topicKey = () => state.cat === "storage" ? "storage_topic" : "topic";
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
 const WD = ["日","月","火","水","木","金","土"];
 const DAY = 864e5;
 
-function pad(n){ return String(n).padStart(2, "0"); }
-function keyOf(d){ return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`; }
-function dayKey(iso){ return iso.slice(0,10); }
+const pad = n => String(n).padStart(2, "0");
+const keyOf = d => `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+const dayKey = iso => iso.slice(0,10);
+const within = days => { const t = Date.now() - days * DAY; return state.items.filter(it => new Date(it.published).getTime() >= t); };
 function dayLabel(key){
   const [y,m,d] = key.split("-").map(Number);
   const dt = new Date(y, m-1, d);
   const today = new Date(); today.setHours(0,0,0,0);
   const diff = Math.round((today - dt) / DAY);
-  const base = `${m}月${d}日（${WD[dt.getDay()]}）`;
-  return diff === 0 ? `今日　${base}` : diff === 1 ? `昨日　${base}` : base;
+  const base = `${m}月${d}日 ${WD[dt.getDay()]}曜日`;
+  return diff === 0 ? `本日　${base}` : diff === 1 ? `昨日　${base}` : base;
 }
-function catClass(c){ return c.length > 1 ? "both" : c[0]; }
-function topicColor(t){ const i = state.topics.indexOf(t); return `var(--t${i < 0 ? 9 : Math.min(i, 9)})`; }
-function within(days){ const t = Date.now() - days * DAY; return state.items.filter(it => new Date(it.published).getTime() >= t); }
-
-function filtered(){
-  const q = state.q.trim().toLowerCase();
-  return state.items.filter(it =>
-    (state.cat === "all" || it.categories.includes(state.cat)) &&
-    (!state.topic || it.topic === state.topic) &&
-    (!state.rel || it.type === "release") &&
-    (!q || (it.title + " " + it.source + " " + (it.summary||"")).toLowerCase().includes(q)));
+function kicker(it){
+  const k = el("span", "kicker " + (it.categories.length > 1 ? "" : it.categories[0]));
+  k.textContent = it.categories.map(c => c === "solar" ? "太陽光" : "蓄電池").join("・") + [it.topic, it.storage_topic].filter(t => t && t !== "その他").map(t => `｜${t}`).join("");
+  return k;
 }
-
-function render(){
-  const list = $("#list"); list.textContent = "";
-  const all = filtered();
-  $("#result").textContent = state.items.length ? `${all.length}件を表示` + (state.topic ? `（太陽光 › ${state.topic}）` : "") : "";
-  if (!all.length){
-    list.append(el("p", "empty", state.items.length ? "条件に合う記事はありません。絞り込みを変えてください。" : "まだ記事がありません。初回の自動更新後に表示されます。"));
-    return;
-  }
-  const perDay = {};
-  for (const it of all){ const k = dayKey(it.published); perDay[k] = (perDay[k] || 0) + 1; }
-  const now = Date.now();
-  let ul = null, cur = null;
-  for (const it of all.slice(0, state.shown)){
-    const k = dayKey(it.published);
-    if (k !== cur){
-      cur = k;
-      const head = el("div", "day");
-      head.append(el("h3", null, dayLabel(k)), el("small", null, `${perDay[k]}件`));
-      ul = el("ul", "list"); list.append(head, ul);
-    }
-    const li = el("li", "item " + catClass(it.categories));
-    const a = el("a", null, it.title); a.href = it.link; a.target = "_blank"; a.rel = "noopener";
-    const meta = el("div", "meta");
-    if (now - new Date(it.published).getTime() < DAY){ const n = el("span", "new"); n.append(el("i", "dot new"), "新着"); meta.append(n); }
-    for (const c of it.categories) meta.append(el("span", "badge " + c, c === "solar" ? "太陽光" : "蓄電池"));
-    if (it.topic){ const t = el("span", "badge topic", it.topic); t.style.setProperty("--tc", topicColor(it.topic)); meta.append(t); }
-    meta.append(el("span", null, it.source), el("span", "num", it.published.slice(11,16)));
-    if (it.type === "release") meta.append(el("span", "badge rel", "リリース"));
-    li.append(a, meta); ul.append(li);
-  }
-  if (all.length > state.shown){
-    const w = el("div", "more-wrap");
-    const b = el("button", "more", `さらに表示（残り${all.length - state.shown}件）`);
-    b.onclick = () => { state.shown += PAGE; render(); };
-    w.append(b); list.append(w);
-  }
+function when(iso){
+  const d = new Date(iso), diff = (Date.now() - d) / 36e5;
+  if (diff < 1) return "1時間以内";
+  if (diff < 24) return `${Math.floor(diff)}時間前`;
+  return `${d.getMonth()+1}月${d.getDate()}日`;
+}
+function link(it, cls){
+  const a = el("a", "hl " + (cls || "")); a.href = it.link; a.target = "_blank"; a.rel = "noopener"; return a;
 }
 
-function renderTopics(){
-  const box = $("#topics"); box.textContent = "";
-  box.hidden = state.cat !== "solar";
-  const solar = state.items.filter(it => it.topic);
-  const counts = {}; for (const it of solar) counts[it.topic] = (counts[it.topic] || 0) + 1;
-  const mk = (label, topic, n) => {
-    const b = el("button", "chip"); b.setAttribute("aria-pressed", state.topic === topic);
-    if (topic) b.style.setProperty("--tc", topicColor(topic));
-    b.append(label, el("span", "c", n));
-    b.onclick = () => setTopic(topic);
-    return b;
-  };
-  box.append(mk("すべての太陽光", null, solar.length));
-  for (const t of state.topics) if (counts[t]) box.append(mk(t, t, counts[t]));
+const hhmm = it => {
+  const today = keyOf(new Date());
+  return dayKey(it.published) === today ? it.published.slice(11,16) : `${Number(it.published.slice(5,7))}/${Number(it.published.slice(8,10))}`;
+};
+const isFiltered = () => state.cat !== "all" || state.topic || state.rel || state.q.trim();
 
-  // サイドバーの内訳
-  const recent = within(30).filter(it => it.topic);
-  const rc = {}; for (const it of recent) rc[it.topic] = (rc[it.topic] || 0) + 1;
-  const max = Math.max(1, ...Object.values(rc));
-  const tb = $("#topicBars"); tb.textContent = "";
-  for (const t of state.topics){
-    if (!rc[t]) continue;
-    const b = el("button"); b.style.setProperty("--tc", topicColor(t)); b.setAttribute("aria-pressed", state.topic === t);
-    const tr = el("span", "track"); const i = el("i"); i.style.width = (rc[t] / max * 100) + "%"; tr.append(i);
-    b.append(el("span", "n", t), el("span", "c", rc[t]), tr);
-    b.onclick = () => setTopic(state.topic === t ? null : t);
-    tb.append(b);
+/* 一面 */
+function renderFront(){
+  const news = state.items.filter(it => it.type === "news" && it.title.length >= 16);
+  const used = new Set(), seenSrc = new Set();
+  const lead = news[0];
+  const leadA = $("#lead"); leadA.textContent = "";
+  if (lead){
+    used.add(lead.id); seenSrc.add(lead.source);
+    leadA.href = lead.link;
+    leadA.append(kicker(lead), el("h3", "t", lead.title));
+    // Googleニュースの要約は「見出し＋媒体名」なので、見出しの繰り返しなら出さない
+    if (lead.summary && !lead.summary.startsWith(lead.title.slice(0, 12))) leadA.append(el("p", "dek", lead.summary.slice(0, 90) + (lead.summary.length > 90 ? "…" : "")));
+    leadA.append(el("div", "meta", `${lead.source}　${when(lead.published)}`));
+  }
+  const secs = $("#seconds"); secs.textContent = "";
+  for (const it of news){
+    if (secs.children.length >= 4) break;
+    if (used.has(it.id) || seenSrc.has(it.source)) continue;
+    used.add(it.id); seenSrc.add(it.source);
+    const a = link(it); a.append(kicker(it), el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}`));
+    secs.append(a);
+  }
+  const flash = $("#flash"); flash.textContent = "";
+  state.items.filter(it => !used.has(it.id)).slice(0, 9).forEach(it => {
+    used.add(it.id);
+    const li = el("li"), a = link(it);
+    a.append(el("time", null, hhmm(it)), el("span", "t", it.title));
+    li.append(a); flash.append(li);
+  });
+  for (const [cat, box] of [["solar", "#colSolar"], ["storage", "#colStorage"]]){
+    const c = $(box); c.textContent = "";
+    state.items.filter(it => it.categories.includes(cat) && !used.has(it.id)).slice(0, 6).forEach(it => {
+      used.add(it.id);
+      const a = link(it, "brief");
+      if (it.topic || it.storage_topic) a.append(kicker(it));
+      const rel = it.type === "release" ? `　プレスリリース${it.company ? `　${it.company}` : ""}` : "";
+      a.append(el("span", "t", it.title), el("span", "small-meta", `${it.source}　${when(it.published)}${rel}`));
+      c.append(a);
+    });
   }
 }
 
-function setCat(cat){
-  state.cat = cat; if (cat !== "solar") state.topic = null; state.shown = PAGE;
-  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", b.dataset.cat === cat));
-  renderTopics(); render();
-}
-function setTopic(t){
-  state.topic = t; if (t) state.cat = "solar"; state.shown = PAGE;
-  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", b.dataset.cat === state.cat));
-  renderTopics(); render();
-  if (t && window.innerWidth <= 900) $(".controls").scrollIntoView({ behavior: "smooth" });
-}
-
-function summary(updated){
-  $("#updated").textContent = updated ? `最終更新 ${updated.replace("T"," ").slice(0,16)}　毎日7時・11時・14時・18時に自動更新` : "まだ更新されていません";
-  const todayKey = keyOf(new Date());
-  $("#stToday").innerHTML = `${state.items.filter(it => dayKey(it.published) === todayKey).length}<small>件</small>`;
-  const week = within(7);
-  $("#stSolar").innerHTML = `${week.filter(it => it.categories.includes("solar")).length}<small>件</small>`;
-  $("#stStorage").innerHTML = `${week.filter(it => it.categories.includes("storage")).length}<small>件</small>`;
-  $("#stSrc").innerHTML = `${new Set(state.items.map(it => it.source)).size}<small>媒体</small>`;
-
-  // 直近14日の推移
+/* 記事数の推移 */
+function renderChart(){
   const days = [];
   for (let i = 13; i >= 0; i--){ const d = new Date(); d.setHours(0,0,0,0); d.setDate(d.getDate() - i); days.push(d); }
   const agg = Object.fromEntries(days.map(d => [keyOf(d), { s: 0, b: 0 }]));
   for (const it of state.items){ const a = agg[dayKey(it.published)]; if (!a) continue;
     if (it.categories.includes("solar")) a.s++; if (it.categories.includes("storage")) a.b++; }
   const max = Math.max(1, ...Object.values(agg).map(a => a.s + a.b));
-  const bars = $("#bars"), bx = $("#barX"); bars.textContent = ""; bx.textContent = "";
-  days.forEach((d, idx) => {
-    const a = agg[keyOf(d)];
-    const bar = el("div", "bar" + (idx === 13 ? " today" : ""));
-    bar.title = `${d.getMonth()+1}/${d.getDate()}　太陽光 ${a.s}件・蓄電池 ${a.b}件`;
+  const ch = $("#chart"), cx = $("#chartX"); ch.textContent = ""; cx.textContent = "";
+  days.forEach((d, i) => {
+    const a = agg[keyOf(d)], last = i === 13;
+    const col = el("div", "col");
+    col.title = `${d.getMonth()+1}/${d.getDate()}　太陽光 ${a.s}件・蓄電池 ${a.b}件`;
     const s = el("i", "s"), b = el("i", "b");
     s.style.height = (a.s / max * 100) + "%"; b.style.height = (a.b / max * 100) + "%";
-    bar.append(s, b); bars.append(bar);
-    bx.append(el("span", "num", `${d.getMonth()+1}/${d.getDate()}`));
+    col.append(s, b);
+    if (a.s + a.b){ const n = el("b", null, a.s + a.b); n.style.bottom = ((a.s + a.b) / max * 100) + "%"; col.append(n); }
+    ch.append(col);
+    cx.append(el("span", last ? "today" : null, last ? "今日" : `${d.getMonth()+1}/${d.getDate()}`));
   });
+}
 
-  // 媒体ランキング
-  const sc = {}; for (const it of within(30)) sc[it.source] = (sc[it.source] || 0) + 1;
+/* メニューの分類索引・媒体ランキング */
+function renderIndex(){
+  const recent = within(30);
+  const rc = {}, sc2 = {}; let solarN = 0, storageN = 0;
+  for (const it of recent){
+    if (it.topic){ rc[it.topic] = (rc[it.topic] || 0) + 1; }
+    if (it.storage_topic){ sc2[it.storage_topic] = (sc2[it.storage_topic] || 0) + 1; }
+    if (it.categories.includes("solar")) solarN++;
+    if (it.categories.includes("storage")) storageN++;
+  }
+  const row = (label, n, pressed, onClick, cls) => {
+    const li = el("li", cls), b = el("button");
+    b.setAttribute("aria-pressed", pressed);
+    b.append(el("span", "n", label), el("span", "c", n));
+    b.onclick = () => { onClick(); closeMenu(); jump(); };
+    li.append(b); return li;
+  };
+  const ix = $("#index"); ix.textContent = "";
+  ix.append(row("すべての太陽光", solarN, state.cat === "solar" && !state.topic, () => setCat("solar"), "all"));
+  for (const t of state.topics) if (rc[t]) ix.append(row(t, rc[t], state.cat === "solar" && state.topic === t, () => setTopic(t, "solar")));
+  const is = $("#indexStorage"); is.textContent = "";
+  is.append(row("すべての蓄電池", storageN, state.cat === "storage" && !state.topic, () => setCat("storage"), "all"));
+  for (const t of state.storageTopics) if (sc2[t]) is.append(row(t, sc2[t], state.cat === "storage" && state.topic === t, () => setTopic(t, "storage")));
+
+  const sc = {}; for (const it of recent) sc[it.source] = (sc[it.source] || 0) + 1;
   const ul = $("#srcs"); ul.textContent = "";
-  Object.entries(sc).sort((a, b) => b[1] - a[1]).slice(0, 8).forEach(([s, n]) => {
+  Object.entries(sc).sort((a, b) => b[1] - a[1]).slice(0, 10).forEach(([s, n]) => {
     const li = el("li"); li.append(el("span", null, s), el("span", "c", `${n}件`)); ul.append(li);
   });
 }
 
-document.querySelectorAll(".seg button").forEach(btn => btn.addEventListener("click", () => setCat(btn.dataset.cat)));
-$("#relOnly").addEventListener("click", e => {
-  state.rel = !state.rel; e.currentTarget.setAttribute("aria-pressed", state.rel); state.shown = PAGE; render();
-});
+/* 全記事 */
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  return state.items.filter(it =>
+    (state.cat === "all" || it.categories.includes(state.cat)) &&
+    (!state.topic || it[topicKey()] === state.topic) &&
+    (!state.rel || it.type === "release") &&
+    (!q || (it.title + " " + it.source + " " + (it.summary||"")).toLowerCase().includes(q)));
+}
+function render(){
+  const f = !!isFiltered();
+  $("#frontWrap").hidden = f;
+  $("#listTitle").textContent = f ? "絞り込み結果" : "全記事";
+  $("#listSub").textContent = f ? "" : "過去90日分";
+  const list = $("#list"); list.textContent = "";
+  const all = filtered();
+  const label = [state.cat === "solar" ? "太陽光" : state.cat === "storage" ? "蓄電池" : "", state.topic, state.rel ? "プレスリリース" : "", state.q.trim() ? `「${state.q.trim()}」` : ""].filter(Boolean).join(" › ");
+  $("#result").textContent = state.items.length ? `${all.length}件` + (label ? `　${label}` : "") : "";
+  if (!all.length){
+    list.append(el("p", "empty", state.items.length ? "条件に合う記事はありません。絞り込みを変えてください。" : "まだ記事がありません。初回の自動更新後に表示されます。"));
+    return;
+  }
+  const perDay = {}; for (const it of all){ const k = dayKey(it.published); perDay[k] = (perDay[k] || 0) + 1; }
+  const now = Date.now();
+  let ul = null, cur = null;
+  for (const it of all.slice(0, state.shown)){
+    const k = dayKey(it.published);
+    if (k !== cur){
+      cur = k;
+      const head = el("div", "day"); head.append(el("h3", null, dayLabel(k)), el("small", null, `${perDay[k]}件`));
+      ul = el("ul", "list"); list.append(head, ul);
+    }
+    const li = el("li", "entry");
+    const tm = el("time", null, it.published.slice(11,16)); tm.dateTime = it.published;
+    const body = el("div");
+    const a = link(it); a.append(el("span", "t", it.title));
+    const meta = el("div", "meta");
+    meta.append(kicker(it));
+    if (now - new Date(it.published).getTime() < DAY) meta.append(el("span", "new", "NEW"));
+    meta.append(el("span", null, it.source));
+    if (it.type === "release"){
+      meta.append(el("span", "rel", "プレスリリース"));
+      if (it.company) meta.append(el("span", "company", it.company));
+    }
+    body.append(a, meta); li.append(tm, body); ul.append(li);
+  }
+  if (all.length > state.shown){
+    const w = el("div", "more-wrap");
+    const b = el("button", "more", `続きを読む（残り${all.length - state.shown}件）`);
+    b.onclick = () => { state.shown += PAGE; render(); };
+    w.append(b); list.append(w);
+  }
+}
+function renderTopics(){
+  const box = $("#topics"); box.textContent = "";
+  box.hidden = state.cat === "all";
+  if (box.hidden) return;
+  box.className = "subtabs " + state.cat;
+  box.setAttribute("aria-label", state.cat === "solar" ? "太陽光の分類" : "蓄電池の分類");
+  const key = topicKey(), list = state.cat === "solar" ? state.topics : state.storageTopics;
+  const counts = {}; let total = 0;
+  for (const it of state.items) if (it[key]){ counts[it[key]] = (counts[it[key]] || 0) + 1; total++; }
+  const mk = (label, topic, n) => {
+    const b = el("button"); b.setAttribute("aria-pressed", state.topic === topic);
+    b.append(label, el("span", "c", n)); b.onclick = () => setTopic(topic, state.cat); return b;
+  };
+  box.append(mk("すべて", null, total));
+  for (const t of list) if (counts[t]) box.append(mk(t, t, counts[t]));
+}
+function refresh(){ state.shown = PAGE; syncTabs(); renderTopics(); renderIndex(); render(); }
+function syncTabs(){ document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-pressed", b.dataset.cat === state.cat)); }
+function setCat(cat){ state.cat = cat; state.topic = null; refresh(); }
+function setTopic(t, cat){ state.topic = t; if (cat) state.cat = cat; refresh(); }
+// 操作バーが画面の一番上に来る位置へ移動（一面を隠したときは結果がすぐ下に出る）
+function jump(){ window.scrollTo({ top: $(".ticker").getBoundingClientRect().bottom + scrollY, behavior: "smooth" }); }
+
+/* メニュー */
+const drawer = $("#drawer"), scrim = $("#scrim"), menuBtn = $("#menuBtn");
+function openMenu(){
+  drawer.classList.add("open"); scrim.classList.add("open");
+  drawer.setAttribute("aria-hidden", "false"); menuBtn.setAttribute("aria-expanded", "true");
+  setTimeout(() => $("#menuClose").focus(), 50);
+}
+function closeMenu(){
+  if (!drawer.classList.contains("open")) return;
+  drawer.classList.remove("open"); scrim.classList.remove("open");
+  drawer.setAttribute("aria-hidden", "true"); menuBtn.setAttribute("aria-expanded", "false");
+  menuBtn.focus({ preventScroll: true });
+}
+menuBtn.addEventListener("click", openMenu);
+$("#menuClose").addEventListener("click", closeMenu);
+scrim.addEventListener("click", closeMenu);
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeMenu(); });
+
+function header(updated){
+  const n = new Date();
+  $("#today").textContent = `${n.getFullYear()}年${n.getMonth()+1}月${n.getDate()}日（${WD[n.getDay()]}）`;
+  $("#updated").textContent = updated ? `最終更新 ${updated.slice(11,16)}　毎日7時・11時・14時・18時更新` : "まだ更新されていません";
+  const today = keyOf(n), week = within(7);
+  $("#stToday").innerHTML = `${state.items.filter(it => dayKey(it.published) === today).length}<small>件</small>`;
+  $("#stSolar").innerHTML = `${week.filter(it => it.categories.includes("solar")).length}<small>件</small>`;
+  $("#stStorage").innerHTML = `${week.filter(it => it.categories.includes("storage")).length}<small>件</small>`;
+  $("#stSrc").innerHTML = `${new Set(state.items.map(it => it.source)).size}<small>媒体</small>`;
+}
+
+document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => setCat(b.dataset.cat)));
+document.querySelectorAll("[data-jump]").forEach(b => b.addEventListener("click", () => { setCat(b.dataset.jump); jump(); }));
+$("#relOnly").addEventListener("click", e => { state.rel = !state.rel; e.currentTarget.setAttribute("aria-pressed", state.rel); refresh(); });
 let timer; $("#q").addEventListener("input", e => {
   clearTimeout(timer); timer = setTimeout(() => { state.q = e.target.value; state.shown = PAGE; render(); }, 150);
 });
@@ -382,7 +580,8 @@ let timer; $("#q").addEventListener("input", e => {
 fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
   state.items = d.items || [];
   state.topics = d.solar_topics || [...new Set(state.items.map(it => it.topic).filter(Boolean))];
-  summary(d.updated_at); renderTopics(); render();
+  state.storageTopics = d.storage_topics || [...new Set(state.items.map(it => it.storage_topic).filter(Boolean))];
+  header(d.updated_at); renderFront(); renderChart(); renderTopics(); renderIndex(); render();
 }).catch(() => {
   $("#updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
 });
