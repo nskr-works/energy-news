@@ -368,7 +368,7 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
 </div>
 
 <script>
-const PAGE = 15;  // 全記事の表示件数（「続きを読む」で15件ずつ追加）
+const PAGE = 10;  // 全記事の表示件数（「続きを読む」で10件ずつ追加）
 const state = { cat: "all", topic: null, rel: false, q: "", shown: PAGE, items: [], topics: [], storageTopics: [] };
 // 細分類は分野ごとに別の項目に入っている（太陽光=topic、蓄電池=storage_topic）
 const topicKey = () => state.cat === "storage" ? "storage_topic" : "topic";
@@ -407,9 +407,9 @@ function link(it, cls){
 const isFiltered = () => state.cat !== "all" || state.topic || state.rel || state.q.trim();
 
 /* 一面 */
-const FRONT_N = 5;  // 一面に載せる本数（トップ1＋準トップ4）
+const FRONT_N = 7;  // 一面に載せる本数（トップ1＋準トップ6）
 function shuffle(a){ for (let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
-// 一面の記事を選ぶ：当日のニュースが5本以上あればその中からランダム、
+// 一面の記事を選ぶ：当日のニュースが7本以上あればその中からランダム、
 // なければ前日（さらに足りなければその前の日）のニュースからランダムに選ぶ
 function pickFront(){
   const news = state.items.filter(it => it.type === "news" && it.title.length >= 16);
@@ -460,7 +460,7 @@ function renderFront(){
   });
   for (const [cat, box] of [["solar", "#colSolar"], ["storage", "#colStorage"]]){
     const c = $(box); c.textContent = "";
-    state.items.filter(it => it.categories.includes(cat) && !used.has(it.id)).slice(0, 6).forEach(it => {
+    state.items.filter(it => it.categories.includes(cat) && !used.has(it.id)).slice(0, 5).forEach(it => {
       used.add(it.id);
       const a = link(it, "brief");
       if (it.topic || it.storage_topic) a.append(kicker(it));
