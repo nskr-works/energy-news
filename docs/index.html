@@ -13,7 +13,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="太陽光・蓄電池">
+<meta name="apple-mobile-web-app-title" content="太陽光・蓄電池News">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -227,6 +227,30 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
 .index button:hover .n,.index button[aria-pressed="true"] .n{color:#FFC066}
 .index.storage button:hover .n,.index.storage button[aria-pressed="true"] .n{color:#4FE0C2}
 
+/* ── アプリとして追加 ── */
+.install-card{display:grid;grid-template-columns:48px 1fr auto auto;align-items:center;gap:14px;margin-top:24px;
+  background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--solar);padding:14px 14px 14px 18px}
+.install-card img{border-radius:11px}
+.ic-text{display:flex;flex-direction:column;line-height:1.5;min-width:0}
+.ic-text b{font-size:.92rem;font-weight:700}
+.ic-text span{font-size:.76rem;color:var(--muted)}
+.ic-add{border:0;border-radius:999px;background:var(--ink);color:var(--surface);font-weight:700;font-size:.82rem;padding:9px 16px;cursor:pointer;white-space:nowrap}
+.ic-close{width:32px;height:32px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:.85rem;border-radius:50%}
+.ic-close:hover{background:var(--bg);color:var(--ink)}
+.install-menu{margin-top:28px}
+.im-btn{width:100%;display:flex;align-items:center;justify-content:center;gap:10px;border:0;border-radius:999px;background:#FFB547;color:#1A1203;font-weight:700;font-size:.95rem;padding:12px 18px;cursor:pointer}
+.im-btn img{border-radius:6px}
+.im-btn:hover{filter:brightness(1.05)}
+.install-menu p{margin:10px 0 0;font-size:.76rem;color:#8B95A1;text-align:center}
+.ios-guide{position:fixed;inset:0;z-index:50;background:rgba(5,8,11,.5);display:flex;align-items:flex-end;justify-content:center}
+.ig-sheet{position:relative;width:min(480px,100%);background:var(--surface);color:var(--ink);border-radius:20px 20px 0 0;text-align:center;
+  padding:28px 24px calc(28px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 40px rgba(0,0,0,.2)}
+.ig-sheet img{border-radius:12px}
+.ig-sheet h3{font-weight:900;font-size:1.15rem;margin:12px 0 14px}
+.ig-sheet ol{text-align:left;margin:0 auto;padding-left:1.4em;max-width:320px;font-size:.92rem;line-height:2}
+.ig-sheet svg{vertical-align:-3px;color:var(--focus)}
+.ig-close{position:absolute;top:12px;right:12px;width:36px;height:36px;border:0;border-radius:50%;background:var(--bg);cursor:pointer;color:var(--ink)}
+
 @media (max-width:1000px){
   .ticker div{flex-direction:column;align-items:flex-start;gap:2px;padding:14px 20px}
 }
@@ -254,7 +278,18 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
   .col-h{padding:16px 20px 12px}
   .brief{padding:14px 20px}
   .entry{padding:16px 18px}
-  .tabs button{padding:6px 16px}
+  /* スマホ：分野タブの右に「プレスリリースのみ」、検索は次の行に */
+  .row{gap:10px 8px}
+  .tabs button{padding:6px 10px;font-size:.84rem}
+  .toggle{font-size:.74rem;gap:6px;white-space:nowrap}
+  .toggle::before{width:28px;height:16px}
+  .toggle::after{left:2.5px;width:11px;height:11px;margin-top:-5.5px}
+  .toggle[aria-pressed="true"]::after{transform:translateX(12px)}
+  .search{flex-basis:100%}
+  .install-card{grid-template-columns:44px 1fr auto;gap:10px 12px;padding:14px 12px 14px 14px}
+  .install-card img{width:44px;height:44px}
+  .ic-add{grid-column:2;justify-self:start;padding:8px 18px}
+  .ic-close{grid-column:3;grid-row:1}
   .trend{padding:22px 14px 14px}
   .chart,.chart-x{gap:4px}
   .chart .col b{font-size:.6rem}
@@ -333,6 +368,13 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
     </div>
   </div>
 
+  <aside class="install-card" id="installCard" hidden>
+    <img src="favicon.svg" alt="" width="48" height="48">
+    <div class="ic-text"><b>ホーム画面に追加しませんか？</b><span>アイコンから、アプリのようにすぐ開けます。</span></div>
+    <button class="ic-add" data-install>追加する</button>
+    <button class="ic-close" id="installDismiss" aria-label="閉じる">✕</button>
+  </aside>
+
   <div class="section-h" id="all"><h2 id="listTitle" data-en="All Stories">全記事</h2><span class="sub" id="listSub">過去90日分</span></div>
   <div class="archive">
     <div>
@@ -361,6 +403,20 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
 <footer><div class="wrap"><div class="en">The Solar &amp; Storage Daily</div>太陽光・蓄電池ニュース ― 自動収集・分類</div></footer>
 
 <div class="scrim" id="scrim"></div>
+<div class="ios-guide" id="iosGuide" hidden>
+  <div class="ig-sheet" role="dialog" aria-modal="true" aria-labelledby="igTitle">
+    <button class="ig-close" id="iosGuideClose" aria-label="閉じる">✕</button>
+    <img src="favicon.svg" alt="" width="52" height="52">
+    <h3 id="igTitle">ホーム画面に追加する</h3>
+    <ol>
+      <li>画面下の <b>共有ボタン</b>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-label="共有"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>
+        をタップ</li>
+      <li>メニューの <b>「ホーム画面に追加」</b> をタップ</li>
+      <li>右上の <b>「追加」</b> をタップ</li>
+    </ol>
+  </div>
+</div>
 <div class="menu-layer">
 <nav class="drawer" id="drawer" aria-label="メニュー" aria-hidden="true">
   <div class="drawer-h">
@@ -372,6 +428,10 @@ footer .en{font-family:var(--latin);font-weight:700;letter-spacing:.3em;text-tra
   <ol class="index" id="index"></ol>
   <h4 style="--c:var(--storage)">蓄電池</h4>
   <ol class="index storage" id="indexStorage"></ol>
+  <div class="install-menu" id="installMenu" hidden>
+    <button class="im-btn" data-install><img src="favicon.svg" alt="" width="22" height="22">アプリとして追加</button>
+    <p>ホーム画面のアイコンから、アドレスバーなしですぐ開けます。</p>
+  </div>
 </nav>
 </div>
 
@@ -623,7 +683,7 @@ function closeMenu(){
 menuBtn.addEventListener("click", openMenu);
 $("#menuClose").addEventListener("click", closeMenu);
 scrim.addEventListener("click", closeMenu);
-document.addEventListener("keydown", e => { if (e.key === "Escape") closeMenu(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape"){ closeMenu(); const g = $("#iosGuide"); if (g) g.hidden = true; } });
 
 function header(updated){
   const n = new Date();
@@ -651,6 +711,41 @@ fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
 }).catch(() => {
   $("#updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
 });
+
+/* アプリとして追加（①メニューの一番下 ②一面と全記事の間のお知らせ） */
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v){ try { localStorage.setItem(k, v); } catch {} },
+};
+const isStandalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const isPhone = /android|iphone|ipod/i.test(navigator.userAgent) || matchMedia("(max-width: 700px)").matches;
+let installEvent = null;
+
+function refreshInstall(){
+  const can = !isStandalone && (installEvent || isIOS);
+  $("#installMenu").hidden = !can;
+  // お知らせはスマホで表示し、×を押した人には次から出さない
+  $("#installCard").hidden = !(can && isPhone && !store.get("installDismissed"));
+}
+async function install(){
+  if (installEvent){
+    installEvent.prompt();
+    await installEvent.userChoice;
+    installEvent = null;  // 一度使った確認画面は再利用できない
+    refreshInstall();
+  } else if (isIOS){
+    closeMenu();
+    $("#iosGuide").hidden = false;
+  }
+}
+window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvent = e; refreshInstall(); });
+window.addEventListener("appinstalled", () => { installEvent = null; store.set("installDismissed", "1"); refreshInstall(); });
+document.querySelectorAll("[data-install]").forEach(b => b.addEventListener("click", install));
+$("#installDismiss").addEventListener("click", () => { store.set("installDismissed", "1"); refreshInstall(); });
+$("#iosGuideClose").addEventListener("click", () => { $("#iosGuide").hidden = true; });
+$("#iosGuide").addEventListener("click", e => { if (e.target.id === "iosGuide") $("#iosGuide").hidden = true; });
+refreshInstall();
 
 // ホーム画面アプリ用の補助スクリプト
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
