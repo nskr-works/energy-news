@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T16:51+09:00",
+ "updated_at": "2026-10-06T06:52+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,163 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "4b1ae15746a6de8d",
+   "title": "期待のペロブスカイト太陽電池､積水化学の開発者が語る商用化の道筋､｢2030年度以降大規模生産し､ビジネスとして自立｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UktyLVc2d3BLbGV1Y0xfS0lFSlFlRDAzeGFOQ2dBUlRxcEMzSFRYbVowb2g0YjE3VHpsRlFMdnJpZ1JMNk5UOGY0NW13RVVENVRRMEw4OFZESlprR2JJ?oc=5",
+   "source": "東洋経済オンライン",
+   "summary": "期待のペロブスカイト太陽電池､積水化学の開発者が語る商用化の道筋､｢2030年度以降大規模生産し､ビジネスとして自立｣ 東洋経済オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e604e62c6a314c04",
+   "title": "「ペロブスカイト太陽電池」量産…エネコートテクノロジーズ、100億円超投資で初工場",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aNTJlV21mdTRNTWtTM1EyRDJxRVA4empKRXAtZUlielNvR05SSVc4V1J3a3dkX3AzUGRhZ05QdXhBQQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "「ペロブスカイト太陽電池」量産…エネコートテクノロジーズ、100億円超投資で初工場 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "9863da046fda0d6f",
+   "title": "住商、インドで大規模再エネ／蓄電池併設し常時供給",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pRWF2Qks0OVNSY0hSUkR3ZEZyRklDMmQyUHBocGJxWVZNenF1R3FwV3hGampFOGV6SWl3QmpWT0FNMDZTdEloOXlVVElpN2xWcFl4N1lUTQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "住商、インドで大規模再エネ／蓄電池併設し常時供給 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:00+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d518edb49b3b2bb1",
+   "title": "テス・エンジ、太陽光遠隔監視の安全性強化／脅威検知で通信を遮断",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKTS1teG5YSmZwX0lLeVMxTmVwX2tsZTZscENHZks4YzhnY0p6ZUl2SnBNMy1KZ242VldHLWFneVBNdlJHbUxCRjItS1k2SHpTVVpKVndfNA?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "テス・エンジ、太陽光遠隔監視の安全性強化／脅威検知で通信を遮断 – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T06:00+09:00",
+   "via": "電気新聞",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "f7583c163674681a",
+   "title": "編集者の視点 ｢オーストラリア､蓄電所の収益率が減少｣",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82OTdGdXZMRzJVUTBzUm04UkM4VUtaSmZfdHY4aTBaWmRnYkR2Wk5HQlBwNUpKQzJ1cjZMeml2N1BxcXMzNmM5Z3ExOTkyWkhudF8tZTJpelV6OEI5UjJTZWxtOGI5V1ZuYnVkNGZGNGRXb2pEYm5r?oc=5",
+   "source": "日本経済新聞",
+   "summary": "編集者の視点 ｢オーストラリア､蓄電所の収益率が減少｣ 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "35a41be02f035abc",
+   "title": "ノーベル物理学賞6日発表、ペロブスカイト太陽電池の宮坂力氏に期待",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRUM0OVdFRUpLcDU1T2ZtVEExWVZYYkJveEMydWFyNVp4MmhsMUoxYzZmNEZBOXFFXzM1V1Ztb2E2RWluTTBITTlTRXlTQTFJU2kxTHN3OGhBa1NXQ3pYQWNwa0ZVMi1JYktrVQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ノーベル物理学賞6日発表、ペロブスカイト太陽電池の宮坂力氏に期待 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e466443e66c99b22",
+   "title": "Blue Origin、高さ20メートルの月面太陽光発電タワーを発表 2032年の基地電力供給を目指す",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93S2hjM1VsQ2FsZmdHVHFCRkhPdUVQOVJyc1VQeWtYcHJ5VmZydXZ5eElXb0tKVXAwWGtDM3FiQjZiYmZXbWVET1lWZW1ucGhNUk1HZW14cGN6ZXc5V1FzU3E4bEE0UXRwV2pBRTJfcVM1Q3ZJ?oc=5",
+   "source": "finance.biggo.jp",
+   "summary": "Blue Origin、高さ20メートルの月面太陽光発電タワーを発表 2032年の基地電力供給を目指す finance.biggo.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T03:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "1e3c9af353eef645",
+   "title": "福岡県の家具会社も蓄電ビジネス参入 JC－STAR★1のダイヘン設備採用",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WTlJ3cUU5LU00WFhaWlpKZW1kQl9PemFZZ3F5M2JYVnVOOWhKallDWWNLXzcxTV83TnhKZ2E5UTlmNEotYU5fbnFaNVdXRGcxcW8ybWlYem13NnNGdW53VTJEUFNiQThGSWczWUg4U1VzV05iTG9DYzcxNmQ?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "福岡県の家具会社も蓄電ビジネス参入 JC－STAR★1のダイヘン設備採用 kankyo-business.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T00:28+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "66bba5a000b6ec80",
+   "title": "京セラのFIT太陽光、蓄電池6MWh併設しFIP転 AIで自動化・効率化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mM3l5MWtGcHdPYzFkOTZUMmFTcmN2NzZ1Uk16S2RFbG8yM1NVYUxYNjRPeFFZWkk3aElOYk1rdkhudmU5ZzFLclkxYlZfN1FVc2YyQ3NqdmNqVlpqeVpOcFg4TFFfRzRjQmFHYmVTZjRfS2JzSG15WmduUVY?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "京セラのFIT太陽光、蓄電池6MWh併設しFIP転 AIで自動化・効率化 kankyo-business.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T20:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "97a40bd80dfd6e3c",
+   "title": "京葉ガス、国内蓄電池事業に参入＝群馬県で蓄電所を稼働(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWld5WjdVR1pjTVBvY0hxaEh4eGR6ekhsLThleHl2QVJJbWY4NkVSWWs4M0JzVzhzNmI2eVJVT3dwS2lDOWJpMEhLZi05RnlXWjN4M2lSSkRvQlFpN2lMbkhWR3ZSdWRJN0hTSGJETE95QkQzRTBORkptRzMwVy1sMmJYbktkYVk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "京葉ガス、国内蓄電池事業に参入＝群馬県で蓄電所を稼働(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T18:03+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8403c0f1ae9607a9",
+   "title": "太陽電池バックシート市場：製品タイプ、素材タイプ、技術タイプ、設置タイプ、機能、色、厚さ、エンドユーザー、販売チャネル別―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uNWZ6VUxuVjFjLU5LVC0zcDRUS2FTeENrQXpDT0lEVFI1b19OSTgxdW5ldThvTnNXUDJkcVEzbzktNHViSXd4UXBrazJ2U3M?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽電池バックシート市場：製品タイプ、素材タイプ、技術タイプ、設置タイプ、機能、色、厚さ、エンドユーザー、販売チャネル別―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T17:17+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社グローバルインフォメーション"
+  },
   {
    "id": "90c8515d91bff7ec",
    "title": "太陽光発電モジュール用温度センサーの世界市場（2026年～2032年）、市場規模（接触型、埋め込み型）・分析レポートを発表",
@@ -182,6 +339,34 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "355749028ce8da89",
+   "title": "道路遮音壁にペロブスカイト太陽電池、前田建設が実証",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zY0VOdlVGbHB0WExDS3VnS2V6c2p5dlltekx6Y05KMkUyalhkcEJyVWxFWFVSMVYzSFdsbDI3dHpzeU9zSjY0dGRjTDFONVBVRmhJYXdBc0VvMUpQUkVOTGw4LUhSbk1uYXJFWW4taFRvWHNr?oc=5",
+   "source": "日経BP",
+   "summary": "道路遮音壁にペロブスカイト太陽電池、前田建設が実証 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "df4c9f1758e6d078",
+   "title": "「水素ハウス」に燃料電池とヒートポン給湯機、パナソニックが提供",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55ZzVDcmVyOE5zenN4UzdnZFdxZ3lBdGE5NkFHOXFiTUV3SE4yUmFQNk5jdmhlbUNKZ2VaYV9qM0czYkNxMXFvSjJ3WlNTeGJwanRKWTdSOXpBOXFJU2h5S3VjU3ZmUjZxeGpEM2VCSUNIYkYt?oc=5",
+   "source": "日経BP",
+   "summary": "「水素ハウス」に燃料電池とヒートポン給湯機、パナソニックが提供 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:12+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "a17608e3e466a434",
    "title": "次世代GX工場に求められる再エネ自家消費戦略 太陽光×制御×蓄電池の最新事例",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWElRSGg5X2FGcHJxWVRzUF9oQmdpQjBNVDNhY18xb1hINDVRVGNqMEhBdEZnSWo4d3l3dnIyeV9kUDVScTFXenJxNndRZC1jdXJJNUNoYWZzZ2NvZS16aDd0d2NVcVpkZTcycGw4Y2dtWjV2VXdCbFJ5YnA3LTg?oc=5",
@@ -196,6 +381,20 @@
    "via": "環境ビジネス",
    "topic": "次世代技術",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c695186b304e8ca1",
+   "title": "ユーラス、トヨタ系3社とFIP風力でバーチャルPPA",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12Y1FuTVZDYXFyQk1YZTdUam9PZThYN3BZSWxCNHpNMlY3ZThGUmd2UEo4TkxWMVNXYjhLNmFMQVhDSFBWUmxQVzMwenVHT292Y3hLU0pPUWdtZDBKOTVMWUYybmtFal9nVWxibDRIVmVGZVJW?oc=5",
+   "source": "日経BP",
+   "summary": "ユーラス、トヨタ系3社とFIP風力でバーチャルPPA - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:11+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "政策・制度"
   },
   {
    "id": "1787639297af8eac",
@@ -615,6 +814,20 @@
    "published": "2026-10-04T04:40+09:00",
    "storage_topic": "その他",
    "company": "RE100電力株式会社"
+  },
+  {
+   "id": "eeafb7fa1f36ce93",
+   "title": "加古川市家庭用蓄電池導入補助金について",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3ZBRDUtU2t1cDJOUk44MlkyT29YY1lTOE5BalNMU1BqU0RTNUhESTBpR0FzV1dUbkhfTzRRcUV1TXpDdFlpbGFMWTc1c3ZDTkhPQkJ5ZVVwYlpPTEVxYW96aGUxYUZpcldCUFQ2MVFVNHhUc3FVVGUwS3Qzd2ZSUnFwbzdHZHhQaXE4RzRESDJQV3RieGdaQUJaYXZ6aWNpckt4Wg?oc=5",
+   "source": "city.kakogawa.lg.jp",
+   "summary": "加古川市家庭用蓄電池導入補助金について city.kakogawa.lg.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-03T18:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "家庭用"
   },
   {
    "id": "259c16cfb14e8055",
@@ -1778,6 +1991,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "42773d6079ad2f14",
+   "title": "電源不要!! 完全オフグリッドのソーラーカーポートがEVライフを変える！（ベストカーWeb）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40X0tHcFFmUHpOeXdxdnpVN0kxZlBvTlhRQUJKNXVDdWVtV2N0VEctenlod3ZBTS1lcS02ZlVqTGlURkJrckFEU3Q0bFZYVVFDMlJiRE0ydmtrTUNuOFQ3NXc4QkxXd3lYU0dmVGtVTHFsVjBNd2RCaXlwTGl6R1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "電源不要!! 完全オフグリッドのソーラーカーポートがEVライフを変える！（ベストカーWeb） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T15:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "a173738cb36e57e4",
    "title": "IBeeT、静岡ガスグループ向けに伊藤忠商事「Bluestorage」高圧蓄電システムを供給",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMmg0YXBiMjhyT2dYcFE3YlJ0T2tDck8tc2Y2eEJtSkNIbk9Yc2NNblZjLVZmSGxjWGFoVURuTGU5NlI3VENETnNNS3h2VGlRZ0xDQVd4MlhHbnBXekVXajB3N1p3dTY5TGN3ZHJ5SXJ3UQ?oc=5",
@@ -1831,6 +2058,20 @@
    "published": "2026-10-01T14:48+09:00",
    "topic": "住宅・自家消費",
    "company": "東北電力株式会社"
+  },
+  {
+   "id": "ec4d4ebdbe5b20ee",
+   "title": "住友商事－反落 福島県浪江町で系統用蓄電所の建設を開始(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODB4dVJGSmg4VnFydEZaQlI1WTdEWFUzMXVybThYNk0wRjZzeWpXTWJtVHllbllreFpGUS11Sm8tRUpmeXh6V0VlMVptYzA1UGxDQkx5WTZTXzZDd2VXOHBLUUdiMzJ4ZS1zRG1nTEZBRlQxRk5CNTgyREtOM0dyTUhwY2o0QjA?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "住友商事－反落 福島県浪江町で系統用蓄電所の建設を開始(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-01T14:38+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "983e0549a0252bbd",
@@ -2232,6 +2473,20 @@
    ],
    "type": "news",
    "published": "2026-10-01T09:39+09:00",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "20b8d8c13731d865",
+   "title": "エナジー・ソリューションズの蓄電所EMS、需給調整市場・一次調整力対応",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uVUVUVFVSWUVtM3BqOTZZeldlRUpFUlNVZG82MEdFNkEwVTdUNmhYczZUazlXdFE0WWo2Q0RSSHIzeVhIUGR0Wml5WVpvSmxQeTY1MkVaY3l6ZVhiMnZCX1Q3Wm1lSHVIRHg5OS1xX3ZtWVRfQTNtajF1TmQ?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "エナジー・ソリューションズの蓄電所EMS、需給調整市場・一次調整力対応 kankyo-business.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-01T09:13+09:00",
+   "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
   {
@@ -2752,6 +3007,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "e617eaf26ce474af",
+   "title": "災害で壊れたメガソーラーの処分について #一分でわかる #怖い話 #一分でわかる #雑学",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PbThmUHh6aFVtZDlfbzdQYUpFeXdMOHI1Zk5sVHFNeE1ucUlUVlB5VlBHRTFWU0h6Vkw3TzlCNDRtZi1hVThqNnBYdzNCeWtXR091c0hUMEpocnVB?oc=5",
+   "source": "youtu.be",
+   "summary": "災害で壊れたメガソーラーの処分について #一分でわかる #怖い話 #一分でわかる #雑学 youtu.be",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-30T14:41+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "2f0f9d273dbb9a28",
    "title": "ペロブスカイト太陽電池、前年比2倍超に 世界の市場規模",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSEtHblhvV1VkWnNjQ0xPbXhqWTFkb2hMMWpySXdvb3Jfb29MOTNIZW5pTU9SZjZBdnpfeWsxaXRIdXVSZ3l0eVJ6c2tRaVFXNUk5MFlidEs5R3JKQWZVWkJhc0JWUUU3TDRVSw?oc=5",
@@ -3191,6 +3460,20 @@
    "type": "news",
    "published": "2026-09-30T06:30+09:00",
    "topic": "次世代技術"
+  },
+  {
+   "id": "c8b66bb515d64cfe",
+   "title": "「生活脅かされかねない」計画浮上した上田市に波紋 国が後押しする蓄電池施設の課題",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nWks1UzhwUjRoMllESDNQQXl4M1ZQM3BKTG5VRUZQMkZZSElvdVU5UEFWX21TZ0tCTGFGeTdkN0swaS1jbDVsTk9YSXRZZlBiVkdqM3U2eVJnX3pQekpDZjRtSEc5SzVib1d1TURLTzU?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "「生活脅かされかねない」計画浮上した上田市に波紋 国が後押しする蓄電池施設の課題 信濃毎日新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-30T06:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "d675974676404ae2",
