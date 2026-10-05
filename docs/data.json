@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T09:57+09:00",
+ "updated_at": "2026-10-05T10:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,36 @@
  ],
  "items": [
   {
+   "id": "6f5e900a26130b6b",
+   "title": "水素・太陽光・モバイルバッテリー…。産業保安・安全政策の最前線に迫る！",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibmo5ZFVldzRzejRWbC1mSXYtbm9ZYUJabGxkbTZRNDZGSXZXZk9renh2LW1fV2h2Uk1PWXlGOUwxQVFVZEtINWxtRkZlQ3pWTTE4MlBiQi0?oc=5",
+   "source": "journal.meti.go.jp",
+   "summary": "水素・太陽光・モバイルバッテリー…。産業保安・安全政策の最前線に迫る！ journal.meti.go.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T10:11+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "topic": "その他",
+   "company": ""
+  },
+  {
+   "id": "b2eeb5bd0f510043",
+   "title": "【Daigasエナジー最大規模】大日本印刷株式会社と同社泉崎工場の敷地を活用した10MW級オンサイトPPAサービスの契約締結について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MckFIc2lpYktDM2l4U1JzS1dWLTZwUlQ2TG5oTnpCZjVzaWIwQ1d5RDNDeVlEdUVWaU5vd0VJcnIzOXYtdTFnaDczQmR5dEVhb09rZVVWM3NTOWVLTy1DRXByX0NMZDVvblE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【Daigasエナジー最大規模】大日本印刷株式会社と同社泉崎工場の敷地を活用した10MW級オンサイトPPAサービスの契約締結について PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "Daigasグループ",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "42ef4664e01bb5d9",
    "title": "操電、取締役会を設置し経営体制を強化。監査役として岩田 淳氏を新たに選任。分散型蓄電所構築を目指す",
    "link": "https://prtimes.jp/main/html/rd/p/000000018.000149386.html",
@@ -32,8 +62,95 @@
    "published": "2026-10-05T09:40+09:00",
    "company": "株式会社操電",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "80f455e02ed3dcde",
+   "title": "紫色の半透明太陽電池パネル、ブロッコリー栽培と発電の同時実施に成功",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0Zy1jVTV0U1otU3Y2Q0pkVEx4elVGVW9NUGo5b0QxVlBCNmFweXJhNXlhc2VpNzBGd0x4d19zbkRibzlHYmxnTE5EUnVUVS1Xb2cyWk1GZXlPbEN0VTEwdENpLUxjb3BhZnNNNENUTVgxU01h?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "紫色の半透明太陽電池パネル、ブロッコリー栽培と発電の同時実施に成功 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T08:25+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "05d8125460fe0447",
+   "title": "【蓄電関連】RE100電力：系統用蓄電池パッケージ「J-BESS」を提供開始、JC-STAR適合機器と国産PCS・EMSを採用",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tYmlFM3JmVlBBcFBVSXBWT0EwamJQc1NNelRwMXd4aUNheUNfcVhsRHFkeVo2TjBfaC0wdl8wMWRqT09TalpadC1pQXNEWjUtMjhEOGZwVHdIT3ZRR0N1cE1DWERKdWJZR2Q5ZGNScmh4dw?oc=5",
+   "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+   "summary": "【蓄電関連】RE100電力：系統用蓄電池パッケージ「J-BESS」を提供開始、JC-STAR適合機器と国産PCS・EMSを採用 xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6d2b02d4e31e816e",
+   "title": "系統用蓄電池の用地選定、事業化前に確認すべきハザード・法令項目を公開",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QLTRHMVVfcTBTZHdDc1pWQXd3WkZla3JwaXdTLWY5WlJXLTZ2VjJVRUExUTZlMjRRRzl1OTVDNWRRTEg1NEFjd2gzQWF3a3JXWThfM3daYlhCZVJkOTE4NDZfOTY?oc=5",
+   "source": "SDGs NAVI",
+   "summary": "系統用蓄電池の用地選定、事業化前に確認すべきハザード・法令項目を公開 SDGs NAVI",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:43+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "49ee42855dd5a99d",
+   "title": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で：エネルギー管理 - スマートジャパン",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12djd6bU1qYmo5cTFLeXBITVFoVVhDbWZLdFZUS0F3eG5Ba1lEdlhlRjRWSjFLX3Z3VGwweDFOUFRrY1ZWOVBoODRFWmpzTlZFRS14LS05NE5JN2ZNc0h3VEpGR3ppMEdwWE5FM2tTejk4bmZ5?oc=5",
+   "source": "ITmedia",
+   "summary": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で：エネルギー管理 - スマートジャパン ITmedia",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "38993f3c27b7dc7e",
+   "title": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/05/news034.html",
+   "source": "スマートジャパン",
+   "summary": "NTTアノードエナジーとJERA Cross、NTTドコモは2026年10月1日から、太陽光発電と系統用蓄電池を組み合わせたアワリーマッチングの実証実験を開始した。",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:30+09:00",
+   "via": "スマートジャパン",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "72adbc7fd07fb09e",
+   "title": "半透明太陽電池で営農と発電両立 土地効率18％向上 - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZk9EaHpySVp1MTdpekx5RmRnUU5MWGhDN3FnVUJTQUw3LUtESmVxUFdEVGozRm9XbHdhR1d2OVM1WHhTSUp0NXNCZkZTYWVZc01veGp4b3J0NDBvMFR3TDZ3dmlqOVJ6NjNXTHJwNW95Tl80eVFZcS00UTlTVHJlMWdpWFVialJsUzdtRFh1dTlDbDZF0gGUAUFVX3lxTFBmT0RoenJJWnUxN2l6THlGZGdRTkxYaEM3cWdVQlNBTDctS0RKZXFQV0RUajNGb1dsd2FHV3Y5UzVYeFNJSnQ1c0JmRlNhZVlzTW94anhvcnQ0MG8wVHdMNnd2aWo5Uno2M1dMcnA1b3lOXzR5UVlxLTRROVNUcmUxZ2lYVWJqUmxTN21EWHV1OUNsNkU?oc=5",
+   "source": "Chosunbiz",
+   "summary": "半透明太陽電池で営農と発電両立 土地効率18％向上 - CHOSUNBIZ Chosunbiz",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T07:00+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "その他"
   },
   {
    "id": "c14301aae6d08124",
@@ -106,6 +223,20 @@
    "topic": "O&M・保守"
   },
   {
+   "id": "f089800214aaa3d1",
+   "title": "野村乳業、太陽光発電設備の導入により 使用電力の最大約45%を自社発電へ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yS0p1bWJxU1B0Z0VaaUtwZWF2ZW54bmktaEg3X1hocjF1a0lHOFhQRnNNc2w0NFVhS3ZvZ3d2VU84NGktalFLLTNiVnBGOTFpLVE?oc=5",
+   "source": "山陽新聞",
+   "summary": "野村乳業、太陽光発電設備の導入により 使用電力の最大約45%を自社発電へ 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-04T19:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "1b41f0f48904e383",
    "title": "系統用蓄電池、接続検討が3年で約42倍 2022年度約600件→2025年度約2万5,000件、低圧にも増加抑制対策の可能性",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQVU5helJwLWJaTy0xOWtRUXNweTVxUkRMS0tHMGVDMUVBVDU1Snl1VldtRE9IT2tmQUk4aXV6Rmp2QmhyS1F1RA?oc=5",
@@ -118,6 +249,20 @@
    "published": "2026-10-04T18:31+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "dde17695badfe236",
+   "title": "蓄電所とデータセンターの系統接続をより早く、シンプルに 「Grid Connector」シリーズを発表",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLdi1KRXZBUVpBdGRnWG1FY0l0RGR0M2FOeEdRTHpfOS0yRF8zZ2xaX1lqM1ZuVkpmZXY1bkRiN000Z0NtblFTZXJoOGtzdkZYbnc?oc=5",
+   "source": "山陽新聞",
+   "summary": "蓄電所とデータセンターの系統接続をより早く、シンプルに 「Grid Connector」シリーズを発表 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-04T17:50+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "7f48cf993138b9b8",
