@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T11:50+09:00",
+ "updated_at": "2026-10-05T14:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,156 @@
  ],
  "items": [
   {
+   "id": "2d1b2725bb4997c6",
+   "title": "国内系統用蓄電池事業への参入について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZnJXNEhxZU9TVXRqbzVMdmZRYjFNTHZZNnAwR3FhUExDRlotNVg2X3FCanlHR3d4UnY2UU9pUDY5RC1GN2Ftczk4R1E5TkJPVEhoelBuUmk5cjVOR1VSdXdha0Q4SFZSeXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "国内系統用蓄電池事業への参入について PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-05T14:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "京葉ガス株式会社"
+  },
+  {
+   "id": "4332b8c9af09382d",
+   "title": "京葉ガス株式会社初となる国内系統用蓄電所の開発・建設を完了",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBISF9PS3d2VWpIbmNjeWRSTEY3clc5TGluYVo0bHRfUFFlWk4zTHgyR1NzbmZDTEVPOGRNTVMxY1pnYzlrWWxsYlNSeWw4VU9NYkE2T2RfNmNmUDR1NVZJbFBlMGRSc2wtUHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "京葉ガス株式会社初となる国内系統用蓄電所の開発・建設を完了 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-05T14:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "eb217157ad2895f6",
+   "title": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験・出力測定サービスの提供",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MX0RlYWFHQkFPQ1dhcGpka2g3LWFza1NnZHJXN0pzNTdnSDJNcTk1VUFPcEN1UUhCN2Z3dmNiVzRKbnB2R2FWbE91bEY0NUdEY3FRUUdacU9QTENsRWRySGJsRWk4Y21DU3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験・出力測定サービスの提供 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T13:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "company": "株式会社ケミトックス"
+  },
+  {
+   "id": "d6b5cdde659eb3ed",
+   "title": "蓄電所ビジネスの収益環境が変化 市場価格や系統接続、資金調達に課題",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1weE90aWJ6cFhnN2xuTXEtSTZuSVNzN2xuR2lUWU56dXN4ay1jRzRVSkN3OUVNZFVYdHJFNkI1X1p3NENSLS1WTXZpMGFUZWEyYlUxN3k4YkdBblJvQmwwc0xtZzZMdkwzRUtRdk1XR2lmdUt2RW9lbTZhUzktcTg?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "蓄電所ビジネスの収益環境が変化 市場価格や系統接続、資金調達に課題 kankyo-business.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a2f2ef3aeb55e259",
+   "title": "既設FIT太陽光をFIP転換、6MWh蓄電池併設 テス・エンジニアリング",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mM3l5MWtGcHdPYzFkOTZUMmFTcmN2NzZ1Uk16S2RFbG8yM1NVYUxYNjRPeFFZWkk3aElOYk1rdkhudmU5ZzFLclkxYlZfN1FVc2YyQ3NqdmNqVlpqeVpOcFg4TFFfRzRjQmFHYmVTZjRfS2JzSG15WmduUVY?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "既設FIT太陽光をFIP転換、6MWh蓄電池併設 テス・エンジニアリング kankyo-business.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:31+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "a17608e3e466a434",
+   "title": "次世代GX工場に求められる再エネ自家消費戦略 太陽光×制御×蓄電池の最新事例",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWElRSGg5X2FGcHJxWVRzUF9oQmdpQjBNVDNhY18xb1hINDVRVGNqMEhBdEZnSWo4d3l3dnIyeV9kUDVScTFXenJxNndRZC1jdXJJNUNoYWZzZ2NvZS16aDd0d2NVcVpkZTcycGw4Y2dtWjV2VXdCbFJ5YnA3LTg?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "次世代GX工場に求められる再エネ自家消費戦略 太陽光×制御×蓄電池の最新事例 kankyo-business.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T13:11+09:00",
+   "via": "環境ビジネス",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1787639297af8eac",
+   "title": "「T-LOGI」シリーズ関東最大の物流施設「T-LOGI南船橋」竣工 配送効率と人材確保に配慮した都心近接の湾岸立地、屋上太陽光の余剰電力を都心で活用",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMSm56aFBZQTBVRjlBdGp6bFJvaEZ1OW93MzhQMUdvd1F5dXdPMmJyZWFLemRMaWRQMFp4RGR6WU5QLTJNS21wZEFsQVptVmJ3dnc0WGZlMGlldU42RmN4cjkyRnZYVjBZVkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「T-LOGI」シリーズ関東最大の物流施設「T-LOGI南船橋」竣工 配送効率と人材確保に配慮した都心近接の湾岸立地、屋上太陽光の余剰電力を都心で活用 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T13:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "発電所・開発",
+   "company": "東京建物株式会社"
+  },
+  {
+   "id": "d46a3e1714c141d9",
+   "title": "太陽光発電の設計・施工会社、 系統用蓄電事業を本格化 ダイヘン設備を採用",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WTlJ3cUU5LU00WFhaWlpKZW1kQl9PemFZZ3F5M2JYVnVOOWhKallDWWNLXzcxTV83TnhKZ2E5UTlmNEotYU5fbnFaNVdXRGcxcW8ybWlYem13NnNGdW53VTJEUFNiQThGSWczWUg4U1VzV05iTG9DYzcxNmQ?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "太陽光発電の設計・施工会社、 系統用蓄電事業を本格化 ダイヘン設備を採用 kankyo-business.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d5df172f27e42343",
+   "title": "「ペロブスカイト太陽電池」が２７位にランク、ノーベル賞の有力候補に開発者の宮坂力氏＜注目テーマ＞ (2026年10月5日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PUWZkT0hHNndmR0x2d0htVHNpazR3RW1mQll4NDFYMlZrWGsweWpkV0hDMUZVTW8tSkRqSDFwZ3A3VVdEa2Y3M2ZKS1VhZXRtZ2ZXQndQcmV0dVUzSnc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "「ペロブスカイト太陽電池」が２７位にランク、ノーベル賞の有力候補に開発者の宮坂力氏＜注目テーマ＞ (2026年10月5日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:21+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "608416f39c02bd57",
+   "title": "経産省 FIT・FIPで重点支援する事業用太陽光の4類型を公表",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FakhMMzJ3Q0FWaFo2dUQ1UUdoTHRtZkRjNzlCajNnTURIcENlM3U4clo1N2VnOW5iQWpsajBFTF9XNWZuRkxKY21HVQ?oc=5",
+   "source": "solarjournal.jp",
+   "summary": "経産省 FIT・FIPで重点支援する事業用太陽光の4類型を公表 solarjournal.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T11:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "8501803e0f3b5168",
    "title": "Scalehack、再生可能エネルギー事業を展開するTensor Energy株式会社の展示会出展を支援。即時改善サイクルにより、案件獲得数がKPI目標比200%を達成",
    "link": "https://prtimes.jp/main/html/rd/p/000000044.000121001.html",
@@ -32,8 +182,22 @@
    "published": "2026-10-05T11:00+09:00",
    "company": "株式会社Scalehack",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "87ce97aa74f593dc",
+   "title": "AMGとBluefield Energy、O&Mの現場知見×アグリゲーションで太陽光発電事業者のFIP転換を一気通貫で支援",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMzdUUlZiNDVNcmFPS0UwU3lBbHU3Yy1VV3Q4eGY3dnk3S0FDQ3Z6X0o5bk8xXzVoOW5JeU90cWJKQURDbXZ5bWtqZWR2bHA0c2NZQlBwSVNHc3UwOGZUY2o5eF9OMmRaTUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "AMGとBluefield Energy、O&Mの現場知見×アグリゲーションで太陽光発電事業者のFIP転換を一気通貫で支援 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "政策・制度",
+   "company": "Bluefield Energy株式会社"
   },
   {
    "id": "6f5e900a26130b6b",
@@ -375,6 +539,20 @@
    "published": "2026-10-03T16:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c344557ba2f17472",
+   "title": "11/10（火）「太陽光発電で世界中のエネルギーをまかなえる」担当D見どころ紹介",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVXQxaHNqMk1NbWo0NldNQVVOS3NVaTZ6WE1zRVhZaFcwZUZrNnpuZ01NT3h1d0pXb3k4U3RtQ0pXc2tTZHVEZERfeFBMWExqbzJNN0xqVTc5RVh6bDlzRFZoTkg4SE5QRDk4R2VMWDl0YkcxUktF?oc=5",
+   "source": "NHK",
+   "summary": "11/10（火）「太陽光発電で世界中のエネルギーをまかなえる」担当D見どころ紹介 NHK",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "dbd9d3423fc7a18b",
@@ -1373,6 +1551,34 @@
    "topic": "次世代技術"
   },
   {
+   "id": "f2a0b31eaeabe94d",
+   "title": "仙台市太陽光発電事業の健全かつ適正な導入、運用等の促進に関する条例",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3ZGdFpWTUI4N3M0YkUzSERTOU9idzY0YV9CdTRHOHZJZE5GWjByVmZsMWRxWmNLUzhxZEVlU3RLNU9DamlfSVFKblFqeFpwZGxuem00SHdNVWpGZVpuREc1Q2VCNnNBNW1zVHFFUGdOR3hIQy1DdXpZRUY0ZVFpQUxlLVFUeHlFUURJSWJIdlZrWk1iVTkxQ0h0b25CWl9qa2JGNnRn?oc=5",
+   "source": "city.sendai.jp",
+   "summary": "仙台市太陽光発電事業の健全かつ適正な導入、運用等の促進に関する条例 city.sendai.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "1547e62f16ae47ae",
+   "title": "深谷市太陽光発電施設の設置に関するガイドライン について",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzBzU3RtR1NrM1pfTFd6NnBweTZXQmFmOVFhMmE5cGtOaHdrZzQ3aWJPTE12LTdMaWFHeXVBT2tqQ2VOMjZJWC1XLWhGY3ZsbFpQZ2VKcE9VRjliSmY4NWFkeDdtN1FTaHU0c2RTMTRvaUZ4MEV6eGQ3TTM0QkxOeWlDM1luUkRmUC1kM0JKeDBlVElLcDhvTjlSU1o4RE1OV3RaLURhazJ5YmZQ?oc=5",
+   "source": "city.fukaya.saitama.jp",
+   "summary": "深谷市太陽光発電施設の設置に関するガイドライン について city.fukaya.saitama.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "5853807eebc034c6",
    "title": "Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - 写真・画像(1/1)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83MHFLZWZwcFNmclNUc3REeHlNaWhXV3pnNVJaT3o2aGNaNjJucUE4TWk3YkpQa2lXWEtBZUpqdnR2ZXp6R2lVcS1Pd3pQZ2xGUHJ5c0U4NA?oc=5",
@@ -1537,6 +1743,20 @@
    "published": "2026-10-01T12:15+09:00",
    "via": "Googleニュース「営農型太陽光」",
    "topic": "営農型"
+  },
+  {
+   "id": "0f197e23631a0980",
+   "title": "10MW級太陽光発電を工場に導入 反射シートで発電量6％増、DNP",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WVDFxTXE4OVNvT2p1YU5DQ0t6STF4STVWMmJEdUhvdmxqbHJCeHFYc0xIb2VwNWVLWHZVcldBQXIwMUpYUVVoZXVDNkdaQnRYaDF4WkpzTGhKSE03d3UzMDRxLXBYNEFVcjR0WE5wQTBTNmt1NHVCR0RMcVU?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "10MW級太陽光発電を工場に導入 反射シートで発電量6％増、DNP kankyo-business.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T12:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "5a0a4078f1c0ef9c",
@@ -2346,6 +2566,20 @@
    "type": "news",
    "published": "2026-09-30T15:40+09:00",
    "topic": "次世代技術"
+  },
+  {
+   "id": "28240102daabc02f",
+   "title": "綜電株式会社の系統用蓄電所2件 京都府内にて完工・引渡のお知らせ 投稿日時： 2026/09/30 15:31[適時開示]",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBieHNGaDBUeUlDYXRYcjBMV29yWE5ETzEtWHkxa0VvZVpoTGxxS1lZWW0yeHdSWFlGRnRCZkZuN0M1MlYwTGc?oc=5",
+   "source": "みんかぶ",
+   "summary": "綜電株式会社の系統用蓄電所2件 京都府内にて完工・引渡のお知らせ 投稿日時： 2026/09/30 15:31[適時開示] みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-30T15:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "f7bcb8f11869abbf",
