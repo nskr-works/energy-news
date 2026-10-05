@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T14:09+09:00",
+ "updated_at": "2026-10-05T16:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,93 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "90c8515d91bff7ec",
+   "title": "太陽光発電モジュール用温度センサーの世界市場（2026年～2032年）、市場規模（接触型、埋め込み型）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uanA3YXN1ajBtZ3ZuTl9fdGlXRnN4aHE3V195bmdBX09RWHBkNGdUbF9GVHBPaU1KODY4TGk0RlAwUTlYU25vWmRybE9JMTQ?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光発電モジュール用温度センサーの世界市場（2026年～2032年）、市場規模（接触型、埋め込み型）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T16:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "f2246fa951bbba12",
+   "title": "IIJ、島根県松江市と災害時の電力供給に関する協定を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000064.000165540.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社インターネットイニシアティブ] 当社は、島根県松江市と「災害時における電力供給等に関する協定」を、本日付けで締結いたしました。 本協定に基づき、当社はIIJ松江データセンターパーク（以下、松江DCP）に設置した大容量リチウムイオン蓄電池...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-05T16:15+09:00",
+   "company": "株式会社インターネットイニシアティブ",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "edfe1bafe29c1482",
+   "title": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ISERVZkZOQ05UNG8wdWJGekdGUUJRLUVtVU9oME1tVktpdUd4RERqWGhZSEhXbGxuWHpHbUJNaktRd1piNk5IS0F2OS1IYXg0Q2JSWkVtRWVHTlBLVTl2SQ?oc=5",
+   "source": "Infoseek",
+   "summary": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "baefec0248400e40",
+   "title": "国内系統用蓄電池事業への参入について：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWXo1aWsycTB1aElOZG9DbU9OYVFBRTBEd3h0UU92UDRDUDVvVXYteUZFc2s4Rkc1WlplMGNCYVB3SWE3ekNyZ1lydGtNZ1lyclE0cDM2VG9TVFZ4VXJ2aUo5U2E3NWVVc2Fv?oc=5",
+   "source": "時事ドットコム",
+   "summary": "国内系統用蓄電池事業への参入について：時事ドットコム 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:46+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b123b7fdf9cf7375",
+   "title": "ソーラー充電コントローラー市場：製品タイプ、定格出力電流、バッテリー対応、充電段階、通信インターフェース、冷却方式、販売チャネル、用途別―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtN0FvZ2VGQjlYa0ZMdGZERjJSZDFqYnd1R1BfRWtzTkJaa2RseXRhckhVYzJjUzNHbnl1VUhBTDBzUFN0NURCNnluaXphbFk?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラー充電コントローラー市場：製品タイプ、定格出力電流、バッテリー対応、充電段階、通信インターフェース、冷却方式、販売チャネル、用途別―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-05T15:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "41b0db71fc43b8d4",
+   "title": "京葉ガス－続落 国内系統用蓄電池事業へ参入(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnhJcnhRMWV3M1Z6SEFLMGJvT1JrdENmaHBxckVfVGh0TTd6UTA3RTliS191OExYYXlqMURzMXRqSGpSczhWd1NodEhpeUg1a3FVa0Z6ZFd0cThBZWZ2dEZiMEN6UE5vRkR0YTd5Z240cDU3YlhrNUlHMnJZZmlFRFNCMlkxb0k?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "京葉ガス－続落 国内系統用蓄電池事業へ参入(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T14:56+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "2d1b2725bb4997c6",
    "title": "国内系統用蓄電池事業への参入について",
@@ -156,6 +243,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "9053e4fbc01d7dba",
+   "title": "「ペロブスカイト太陽電池」が２７位にランク、ノーベル賞の有力候補に開発者の宮坂力氏＜注目テーマ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zRV9IWWhtamNrLUk5NzJGYnhuQXo5RnhxWTZJTEN5UWYwTUNFYmNzRHozYlE0VW5GVUNPZExqWkRkQXJmM01QYXdTaldkY0dWeVgzVVFmUnBoNmZnWmx3?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "「ペロブスカイト太陽電池」が２７位にランク、ノーベル賞の有力候補に開発者の宮坂力氏＜注目テーマ ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T12:21+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "608416f39c02bd57",
    "title": "経産省 FIT・FIPで重点支援する事業用太陽光の4類型を公表",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FakhMMzJ3Q0FWaFo2dUQ1UUdoTHRtZkRjNzlCajNnTURIcENlM3U4clo1N2VnOW5iQWpsajBFTF9XNWZuRkxKY21HVQ?oc=5",
@@ -243,6 +344,20 @@
    "company": "株式会社操電",
    "via": "PR TIMES 新着（直接）",
    "storage_topic": "その他"
+  },
+  {
+   "id": "44053e060ff0e2eb",
+   "title": "太陽光発電PVフィルム市場レポートTill 2035",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMZU4wOVFzdHRsNTNzZEI5NGFsQ2pJQ0hpbmVxSlpiNDczdmtGQ2FJQzRPRHZ1YjJia2x5OTNhd3ozSEc0amNhYURLN0xER0dyOEZkTlBsRWM4dFVQZUgzQ0ptZTVVQm9XNEd2TzNucXphSkYwU1UtWnRyX0NBZnc?oc=5",
+   "source": "Spherical Insights",
+   "summary": "太陽光発電PVフィルム市場レポートTill 2035 Spherical Insights",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T09:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "80f455e02ed3dcde",
@@ -460,6 +575,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "37ce95c5c92cbaa6",
+   "title": "TAOKE ENERGY、広島県庄原市で2件の高圧系統用蓄電所の連系を完了",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0UxY3owNml3X1dfeE9GaDZPVUQteXVkd3N3ZmI0M2xNcXFLVGJpMzg5bU90TnB1RzF1RGhqU1A2LTZtdWQ0bTUwdGNnZFZJdWJOR2RhcVF0cHlkQjRrbGZvbXpkdTFzSWpRX1dfQ3c3ZktXQ1M5SnZsZFQ2YkFRWWFmWjVfSXFSdjVWVFh3?oc=5",
+   "source": "山陽新聞",
+   "summary": "TAOKE ENERGY、広島県庄原市で2件の高圧系統用蓄電所の連系を完了 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:18+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "072cdbffb6f44dd9",
    "title": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wbTZUN1UxODFFUHRydlREemcySkdLQUxBMkJwOGJ1QTlvN3FqTUNtUXFEa0hOWTlNbXVhakY1bzRLanBHWE5LUnhJSWxXdmxLWHhzTm9VbFZzYUtadVhKWjNLeUlwLThXT2hOSEZTNU8?oc=5",
@@ -553,6 +682,34 @@
    "published": "2026-10-03T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "7126eb0241eb8883",
+   "title": "グリーンエナジー&カンパニー、事業計画及び成長可能性に関する事項を開示。系統用蓄電池領域への集中投資で2029年売上高300億円を目指す",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54akd3V056NlBIeDQ4YmNhZmRRa3ZPaE9DZGthR2VacUJLZHpvREFLU3BibGVHNEFtZndUQkwyMno1S0RHOWVsX3JkMkxYUC1YdGc?oc=5",
+   "source": "山陽新聞",
+   "summary": "グリーンエナジー&カンパニー、事業計画及び成長可能性に関する事項を開示。系統用蓄電池領域への集中投資で2029年売上高300億円を目指す 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "13acb1674481f987",
+   "title": "大規模蓄電所向け高容量蓄電システム 「Mega Power 4000」シリーズを発表",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxa1YzVnJYVE1YaGowQUVQbjNFWms0amFhd3RfTmx3ZDVuVU9wWEl6SHVzMXI4Qmg3RUpEWlVwTE9OM2drWVRrSXV4YWMzTl9BUUE?oc=5",
+   "source": "山陽新聞",
+   "summary": "大規模蓄電所向け高容量蓄電システム 「Mega Power 4000」シリーズを発表 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "dbd9d3423fc7a18b",
@@ -3438,6 +3595,22 @@
    "type": "news",
    "published": "2026-09-29T12:00+09:00",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "928fc10a8490cf20",
+   "title": "益田市と日本蓄電池、災害時の電力供給で協定締結",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sSnBYeno3YTFvcjcteVhEVmJEM3RhYkpMTERMM2Vyb3A2Y2dsR0JJMklmYl9GYjVhcE5iMk9uT1BVNjZJWndXdEhndnI2MUVKeDhLTDF3VEpJZjVtLXVKa18zcTBFTjdONVhjdmx1MTBRMTl1?oc=5",
+   "source": "日経BP",
+   "summary": "益田市と日本蓄電池、災害時の電力供給で協定締結 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-29T11:34+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
   },
   {
    "id": "06228149f1bff14d",
