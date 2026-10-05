@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T10:51+09:00",
+ "updated_at": "2026-10-05T11:50+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "8501803e0f3b5168",
+   "title": "Scalehack、再生可能エネルギー事業を展開するTensor Energy株式会社の展示会出展を支援。即時改善サイクルにより、案件獲得数がKPI目標比200%を達成",
+   "link": "https://prtimes.jp/main/html/rd/p/000000044.000121001.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Scalehack] 事業のスケールアップを総合支援する株式会社Scalehack（本社：東京都渋谷区、代表取締役CEO：倉田 丈寛、以下「Scalehack」）は、再生可能エネルギーや蓄電池発電所向けの電力取引自動化SaaSおよび、運用・投資...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-05T11:00+09:00",
+   "company": "株式会社Scalehack",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "6f5e900a26130b6b",
    "title": "水素・太陽光・モバイルバッテリー…。産業保安・安全政策の最前線に迫る！",
