@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T15:55+09:00",
+ "updated_at": "2026-10-06T16:49+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -32,8 +32,135 @@
    "published": "2026-10-06T15:41+09:00",
    "company": "SMK株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "913c889102032edf",
+   "title": "プレスリリース：ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VdVdhdWdQODloMXBwYUtZTGdZU0Q4NlVGeDVjUVd0NzNPQXJUMU9NREdHNXdvSFQtbVo4SlJERk5jZ2tPR24wLXRaTkY4MGRJR0VfdWtBQlJZOHRFSFNiYl9qQnZoVkZD?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました（PR TIMES） 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T15:23+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "d6ab8ec4364b2637",
+   "title": "太陽光発電と高耐久設計で屋外アセットの長期管理を支える位置情報追跡デバイス「LoRaWAN®対応GPS Tracker - Max」を開発",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ya0EtZE1Za1pRdzhnVGhramp2amlTOTZVMlJvYXlOX0JEZWdHX0Q5SnFxZFUwZGF6VzVKcjJmYVFuMWN5LVFvak14R1ZGNmVSWlk5TzZ5eWd2Y3NzM3NCY3N2SmUtRlR3NHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "太陽光発電と高耐久設計で屋外アセットの長期管理を支える位置情報追跡デバイス「LoRaWAN®対応GPS Tracker - Max」を開発 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T15:05+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "SMK株式会社"
+  },
+  {
+   "id": "e287a172a64bf64c",
+   "title": "軽量シリコン太陽電池を接着施工、鶏舎など耐荷重制約ある既存屋根に導入",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETFhmMUR3WXBscFJRRmMtcnlZbFkzdndRSWk2TWd2bkpGZ0lkV2tjNXNYODROcE44cUt4VVp5Mm9ocHhhTTlUdW5tRzBxUXRoa0VlT2VWcnM0a29xYTFwV1ZIVkJNbEN3MU1mR3FUakotd2xRQmg3VUV4alI?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "軽量シリコン太陽電池を接着施工、鶏舎など耐荷重制約ある既存屋根に導入 kankyo-business.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T14:37+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "645f7826bbf6851a",
+   "title": "ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZm1lbzN1WElwdlZJYS04WE9NWlFiOWZBb3d0ZVNZeFd1QTVYZTRvVlkwajk4aUxqNjV6cnkwMXhGaE1vUWNKQUJxbFlUT1V6SHJBRFBtV0FvZEZ6VHBwTVN0bmxGamJuMGUwclgtbXZ4M2ZaU0h4dFI3SQ?oc=5",
+   "source": "産経ニュース",
+   "summary": "ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T14:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "company": "国立研究開発法人新エネルギー・産業技術総合開発機構"
+  },
+  {
+   "id": "db4ded1026a1353e",
+   "title": "適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdG5jM0xIZXFmMXEybjh1aWZRdkZKYW1aVTV6aWxCd3hMRS1RR1Y4SDBDX2ZKVW5ReUpwLWV5V29oY3BQbkVCTzl4aWN3bmxNOWZRdkhjXzNpQQ?oc=5",
+   "source": "株式会社共同通信社",
+   "summary": "適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示 株式会社共同通信社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "58c3c69145612dd4",
+   "title": "プレスリリース：適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示 （共同通信PRワイヤー）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQk9zQ1QxUTdjeE5TWF82LWk0VXRBQ1doN0NkdDN1MWk0a21YX25ZYkJXU3NtS0U4TEd6STBmelV3TjJma0RkZ1RzMHByOW5iLUY4MTJqSHBRQ09SRUlzTDJHRXZSLW4z?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示 （共同通信PRワイヤー） 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "9003755357fad217",
+   "title": "サクサが堅調、高性能バリア膜の独自技術によりペロブスカイト太陽電池の共同試作を実施 (2026年10月6日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yaUF5QXkwNDFtdmZPcVBqTllBY3NmT2NydUhHdzhjTjkwemdUbENkZzB2TURvOHVwZklEVnhPNWd0QTFYb1FYQjNQaTlMRmVld19uOHlkeGFseWFnYmc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "サクサが堅調、高性能バリア膜の独自技術によりペロブスカイト太陽電池の共同試作を実施 (2026年10月6日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:45+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "d88040f523b90558",
+   "title": "蓄電池の長寿命・高効率化へ、充電ばらつき抑える独自技術 NEXTES",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11ZE5lby1qQm5PaUtVRFFRVWZfV3g1X0Fyem42YVhaZ3JfNFdsdXpfM0g4bmZaQkE0ZVp4RGFlN1BOcUxsbm9TNW1JMzJDTzZyTnMxODdEaV81aFhBaTNZTk00SXpVZEFpUnlyMGZ1RU1DQ1BPaTRjdWs4N2c?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "蓄電池の長寿命・高効率化へ、充電ばらつき抑える独自技術 NEXTES kankyo-business.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:43+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "591b0ea896171280",
+   "title": "FIP転換後の太陽光由来「環境価値」を集約・相対販売 グリーングロース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QdVYxOTNTX0ZaT0luTURfWHVDbDRTdHI0aVB6NkdSZmdXWmZLdFhXMXphaTZiU3l5Qk40T2piaHpzMm9vQ0t5Q3Q1dk5FNmRJYVNvNnRMSi1aV0pEV0g3NURra25abml0OTdCMUtid0JBQ25hc21xOWdaV3E?oc=5",
+   "source": "kankyo-business.jp",
+   "summary": "FIP転換後の太陽光由来「環境価値」を集約・相対販売 グリーングロース kankyo-business.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:43+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度"
   },
   {
    "id": "7a0fd9cbe69f21d3",
@@ -64,6 +191,48 @@
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他",
    "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "aab2ee2f6bf70ead",
+   "title": "栗林商会が海上パワーグリッドと共に系統蓄電所の新プロジェクトを開始",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FNDgwX2ljS3FsMVloZ0NwM29WckZfZDFSNXFNczZQY2hrVkFHYzNHcTlEWkVxaXBoMERIcGU2RVJUaDhsbUZ3bS1BS1NSRDItNGxLVTN0cXlDVWloczFSQXFyTnJuNHhiWW1XeHJSWQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "栗林商会が海上パワーグリッドと共に系統蓄電所の新プロジェクトを開始 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:22+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "dbc56c53c2430063",
+   "title": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電量を市内で活用",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSk1VaUNFVVNQTWtVd2hSVlBKRGtDNmpqLWFIM3Q3OUtLaVYwRk5yT1FUZ1AwTXhTQms2RVJ6bHBQS05qOWNJU2JMN3hYS19Za3B6eg?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電量を市内で活用 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "09de9b87e6e24be1",
+   "title": "ブルー・オリジン、月面南極向け太陽光発電「Power Tower」を公開 高さ20m、出力10kW超を設計目標に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55TFVGYUk3eEdYbUhRaEdYa2ctcDB4RG96b24xWF9pc0QtX0w2QmRCUHRnLTh5TGxSbnRkUnpSQXZtaXp2QlFVMTYxaXJuZEJoc2NoSG0yR09SNVRudmNmY1lRUQ?oc=5",
+   "source": "財経新聞",
+   "summary": "ブルー・オリジン、月面南極向け太陽光発電「Power Tower」を公開 高さ20m、出力10kW超を設計目標に 財経新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T12:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "60c14b758794d82d",
@@ -109,6 +278,20 @@
    "published": "2026-10-06T12:00+09:00",
    "via": "SOLAR JOURNAL",
    "topic": "海外"
+  },
+  {
+   "id": "a98b6f8204a7e172",
+   "title": "プレスリリース：ソアー、OPERA Solutions社とペロブスカイト太陽電池などの共同試作を実施（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pR3JndGNNZTlVdXNHal8tR0pQRzAtWWpCemFrdlQ1WGoyUjRyVjR6eEJkb0lZNWg3M3VZSUJTRHpPT0VpMjBhNXd6QVNjZzdiMm5GS2IyRUcxcV9HNlJjWXA4dTh5aHB2?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：ソアー、OPERA Solutions社とペロブスカイト太陽電池などの共同試作を実施（PR TIMES） 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T11:53+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "064b99d8c9802085",
@@ -286,6 +469,20 @@
    "topic": "その他"
   },
   {
+   "id": "9d329b52c56916cc",
+   "title": "ABBが「直流」でデータセンター効率化、構想を発表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSm9yQm5ZSjBlbTBSejEtLW5BVDRJSWZhQ1BkNHBXWlI5Qzh6cXhhaVNQVkFRX2syYThHN29VRndINjFWNXNJX3RjdXZ1dWRvV1pCMXR2N3pkZWl5bFBsYll0VXl1eFhxOW9FZzI3Z3lFYnlI?oc=5",
+   "source": "日経BP",
+   "summary": "ABBが「直流」でデータセンター効率化、構想を発表 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T09:50+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "d7f1ec443ca88b99",
    "title": "電気代高騰に7割が負担感、過半数が太陽光導入を検討せず",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MV2VEclFQMFJhd3NhVVNsVlRRUVk1QmxVQ0VqTE11VWJjSHk2NExJX19yVnJGRnJqaWozemxtRFpLNDR5R2gwY2QyZi13eWIySmc?oc=5",
@@ -440,6 +637,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "0c73cf9b02d54bc0",
+   "title": "出力抑制や大規模修繕でも2桁の上振れ、徳島県企業局のメガソーラー - 探訪 - メガソーラービジネス plus",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZUZNR2pXR0hYdzBnalFjSG5yRDluNHZ6Smd3c25wb2hzLXdwVUxXZGdpeEJxTlptRzYzZVJwbzMtOGFBREczVGRSekstYXh2YkpNYVp1SFBoTFFHU2gtZEdIdFVkUS1KcERtRjQ0N1JOb3hSTjVaQg?oc=5",
+   "source": "日経BP",
+   "summary": "出力抑制や大規模修繕でも2桁の上振れ、徳島県企業局のメガソーラー - 探訪 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "e466443e66c99b22",
    "title": "Blue Origin、高さ20メートルの月面太陽光発電タワーを発表 2032年の基地電力供給を目指す",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93S2hjM1VsQ2FsZmdHVHFCRkhPdUVQOVJyc1VQeWtYcHJ5VmZydXZ5eElXb0tKVXAwWGtDM3FiQjZiYmZXbWVET1lWZW1ucGhNUk1HZW14cGN6ZXc5V1FzU3E4bEE0UXRwV2pBRTJfcVM1Q3ZJ?oc=5",
@@ -452,6 +663,20 @@
    "published": "2026-10-06T03:06+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "a2a5f8b5716403be",
+   "title": "地上設置型太陽光発電モジュール市場、2035年までの成長見通し：大規模案件の需要が拡大を下支え - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdENyY0ljSy05TWQzbmJoc2xwT0JkdEpmT1l4ejNPTnZNaHpwdF9YU3E3d1Etb0NIckVpOVdKTDlTVTZ5R3N2cnBhenQtY3hLODMyWTZ6cjE4X0N0akJ4UnhWUkpxWDVlWHY2RjRBOFZIaXYwOHlleVREd1BrZlp4Q1liNGhoS3l0VzNEYWIwRWZCWHNTOXcxemR1QnlyNGY2TjdNb0NZSjN6dlc5bWxWc05FU0xtTkxZd09JU3BCb1piZjB0UmNxYkFaQUNFb0FUNl9xRg?oc=5",
+   "source": "IndexBox",
+   "summary": "地上設置型太陽光発電モジュール市場、2035年までの成長見通し：大規模案件の需要が拡大を下支え - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T03:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "1e3c9af353eef645",
@@ -3921,6 +4146,20 @@
    "type": "news",
    "published": "2026-09-30T06:00+09:00",
    "topic": "次世代技術"
+  },
+  {
+   "id": "45a7687a1f35c88d",
+   "title": "グリーンエナジー＆カンパニー、自社保有の系統用蓄電所、京都府で運用開始― 鹿児島・広島に続く３拠点目、関西エリアへ展開",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCdHRtVmM2QVVDNVMxNGlSVGkyaU8tNmZMV2ZBVE96VzR5TWFxYVJKcXUzX1RDbHZYWjFUUkNsUkI1S1Bqc0hEOFZ0cklhclo2RVhXNg?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "グリーンエナジー＆カンパニー、自社保有の系統用蓄電所、京都府で運用開始― 鹿児島・広島に続く３拠点目、関西エリアへ展開 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-30T06:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "b696c67da8a38fbd",
