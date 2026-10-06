@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T10:49+09:00",
+ "updated_at": "2026-10-06T11:50+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "064b99d8c9802085",
+   "title": "次世代太陽電池の施工に関する実証実験を開始_東光電気工事",
+   "link": "https://prtimes.jp/main/html/rd/p/000000009.000184331.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[東光電気工事株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/184331/9/184331-9-c5150116436ae772b56804e6b97fcf7e-1408x940.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T11:40+09:00",
+   "company": "東光電気工事株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "次世代技術"
+  },
   {
    "id": "fb0d47ccbc3f4801",
    "title": "米国鉛蓄電池市場、2035年255億7,000万米ドル規模へ｜CAGR 5.78％、電力バックアップ・自動車・産業設備向け需要の拡大が成長を牽引",
