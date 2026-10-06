@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T13:49+09:00",
+ "updated_at": "2026-10-06T15:55+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d6214c73386d3716",
+   "title": "太陽光発電と高耐久設計で屋外アセットの長期管理を支える位置情報追跡デバイス「LoRaWAN(R)対応GPS Tracker - Max」を開発",
+   "link": "https://prtimes.jp/main/html/rd/p/000000026.000085896.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SMK株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/85896/26/85896-26-64a27a7a5834ece09b2ddd16124cc2c1-1258x722.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T15:41+09:00",
+   "company": "SMK株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "7a0fd9cbe69f21d3",
    "title": "世界初※、充電いらずのUWB対応スマートリングを開発 「健康管理」も「タッチレス決済」も、指輪ひとつでできる未来へ",
