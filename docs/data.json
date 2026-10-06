@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T19:51+09:00",
+ "updated_at": "2026-10-07T06:49+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,90 @@
  ],
  "items": [
   {
+   "id": "c8bca2f17c0834ed",
+   "title": "９月多雨、電力需要落ち込みでも…スポット価格は底堅く／太陽光減が影響？",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOFlpWmhQTUR0eThQMDhJZ2d5S0xYNmVkNEhVbE5UbEEwRXhHckprOGhqWEpaTm5WeUpMNThHVmd5b056RFRPUllWbFBIeC1KdUZlQnNFRQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "９月多雨、電力需要落ち込みでも…スポット価格は底堅く／太陽光減が影響？ – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T06:03+09:00",
+   "via": "電気新聞",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "32858f5f97b01178",
+   "title": "西武グループが太陽光パネル下で果樹栽培、観光農園も開始",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUko1ZE5jdkY3UDl4cDBaMnFjVk1Ta1B3UXRSM1A4VXZJdTZVY1pDeG5JSnZlYkw3UEs5RkNybnVPQk9sSmhXVEJkWTlvTDdTOFZPT3F5OFlFelQxTHhMY2RXVlJ5eEZtVmdBWg?oc=5",
+   "source": "日経クロステック（xTECH）",
+   "summary": "西武グループが太陽光パネル下で果樹栽培、観光農園も開始 日経クロステック（xTECH）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "a5b98a7afa86572c",
+   "title": "2025年の再エネ新設容量は世界で693GW、記録更新も2030年の目標は遠く",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSeEtGQ0pOcEpsbXBncWxqaExnaHlUX1o0UHNsYk1WSEFNajRYTGstR3NLUVlsbG1tVnFwd2luVl9kZ2U3eTB0LW82RHNGN0xtVGZaQ0Z2TDQ5bTUtTTByQU1HTXFFV2J6X3pObW56YlhrSUlUNGlFSw?oc=5",
+   "source": "日経BP",
+   "summary": "2025年の再エネ新設容量は世界で693GW、記録更新も2030年の目標は遠く - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T05:00+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "2f6233ef3abbeaca",
+   "title": "太陽光パネル火災に特化した黒い泡の消火剤 北九州市立大学 河野智謙 ｜バックナンバー：みどりをつなぐヒト｜テレビ東京",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEFvLWlWbVMwT0Rkb05sWHpzUk4wZVlYMGRTT0dwT3VuaV9xekFTTzk5Z0F5UmduWXFYb2ZfMWN6bkQ1TDBnamI5Q0ROMmJZM0duUmdxMmNMV055M3g1dURrQnNMQ3hCS3R6cUR1eDFoMTN0WTVCRU93M1Z4S29acGVVM05mWE5Vb1E?oc=5",
+   "source": "www.tv-tokyo.co.jp",
+   "summary": "太陽光パネル火災に特化した黒い泡の消火剤 北九州市立大学 河野智謙 ｜バックナンバー：みどりをつなぐヒト｜テレビ東京 www.tv-tokyo.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T23:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "995b3d7981ca94b4",
+   "title": "栗林商会、物流事業から系統蓄電へ事業領域拡大",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aS0FkemJEaUZJd3hKWEtNaWtBVVhPT1BiZzRlVGFCbGpCampSM0NhUFQwSW8tbXB3aHNEZXpoMEtXT2F2cnM0bTZ3?oc=5",
+   "source": "LOGISTICS TODAY",
+   "summary": "栗林商会、物流事業から系統蓄電へ事業領域拡大 LOGISTICS TODAY",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T19:52+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1dd4ce298a973583",
+   "title": "ペロブスカイト太陽電池導入検討に着手 県有施設に向け知事 次世代の再生可能エネルギー",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11YTVsWEFfcFpUV0dUX2I3Y1NEcFBFOVQ1R1JnNzJwSENFbVhVMERFT19mUDRMZVUzajdMT0hKZmNpTTc0dGhGNGV0d0ZYSkpZSGNGVE9aWm1VS0pBS3c?oc=5",
+   "source": "福井新聞社",
+   "summary": "ペロブスカイト太陽電池導入検討に着手 県有施設に向け知事 次世代の再生可能エネルギー 福井新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T17:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "14ef87349b49ddd0",
    "title": "U.S. POLO ASSN.（ユーエス ポロ アッスン）から新作ソーラーウォッチ「NEWPORT」が登場",
    "link": "https://prtimes.jp/main/html/rd/p/000000988.000028427.html",
@@ -32,7 +116,6 @@
    "published": "2026-10-06T16:15+09:00",
    "company": "株式会社ドウシシャ",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
   },
   {
@@ -49,6 +132,21 @@
    "company": "SMK株式会社",
    "via": "PR TIMES 新着（直接）",
    "topic": "市場・企業"
+  },
+  {
+   "id": "fff0e13739d41174",
+   "title": "中央環境審議会循環型社会部会太陽光発電設備リサイクル制度小委員会・産業 構造審議会イノ",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jU3c5dXZIOFZzTE5RY0lEY2w0Ty1QT3prT291T1FZSWc0U0VwVGplSU9UV0ppSTZ4VjZRX2gtOXZzajg3UGpNMnN1dk1JYmljZUhSNE91dEhlWEZ4cHBlMkViWUpScUt1MGRGa3ZDWnk?oc=5",
+   "source": "環境省",
+   "summary": "中央環境審議会循環型社会部会太陽光発電設備リサイクル制度小委員会・産業 構造審議会イノ 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T15:39+09:00",
+   "via": "環境省",
+   "topic": "政策・制度",
+   "company": ""
   },
   {
    "id": "913c889102032edf",
@@ -94,6 +192,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "91965bb5f02ae48b",
+   "title": "【ペロブスカイト太陽電池】NEDO、人材育成のための特別講座委託先をRATO、東京大学に決定",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQX1Z5dHZRVnZlS2RCa1VISW4xOXAxRlJMcUszMkUtZk9ESzlIVmlxSk1RLWtKOG1EUTQza21RVGNqVWFyMGRUUEdXZUNJQWdWX1h5R24wdTRKcFRTZjIzWlNXMTJYSVdGZ3JGenk1cXcxTFRYdEZMd1I1WTlXSmJaTXRlTU1aUDdTWEdCemJvakJUODI2bHlBRlZyLWUyVVhrZzF5d2pXQzB4RmRldEY4ZjdkQmFkdW1kWnA1cXU0T29YTGtBbzdueF9qVUNKUWg2UUFjN3RiaFJDZmUzSGRoWnZZTlZTRHNwLS1GSWR1aDZZVml2OU9zNFVJSmx2eEgyaERaVkVWS1lURVp0eXc3ZUpXTzRfUWVoNzNQQmFIcXRJS2hZb3QwaGc4anpvUWQwNURpQVBuOGhJV3J1b3lVMVdLeG9FZFRQdEZ0cWxpbw?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【ペロブスカイト太陽電池】NEDO、人材育成のための特別講座委託先をRATO、東京大学に決定 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T14:36+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "645f7826bbf6851a",
    "title": "ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZm1lbzN1WElwdlZJYS04WE9NWlFiOWZBb3d0ZVNZeFd1QTVYZTRvVlkwajk4aUxqNjV6cnkwMXhGaE1vUWNKQUJxbFlUT1V6SHJBRFBtV0FvZEZ6VHBwTVN0bmxGamJuMGUwclgtbXZ4M2ZaU0h4dFI3SQ?oc=5",
@@ -137,6 +249,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "0ac2a75683c3c5da",
+   "title": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電力を市内で活用",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSk1VaUNFVVNQTWtVd2hSVlBKRGtDNmpqLWFIM3Q3OUtLaVYwRk5yT1FUZ1AwTXhTQms2RVJ6bHBQS05qOWNJU2JMN3hYS19Za3B6eg?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電力を市内で活用 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "9003755357fad217",
    "title": "サクサが堅調、高性能バリア膜の独自技術によりペロブスカイト太陽電池の共同試作を実施 (2026年10月6日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yaUF5QXkwNDFtdmZPcVBqTllBY3NmT2NydUhHdzhjTjkwemdUbENkZzB2TURvOHVwZklEVnhPNWd0QTFYb1FYQjNQaTlMRmVld19uOHlkeGFseWFnYmc?oc=5",
@@ -177,6 +303,20 @@
    "published": "2026-10-06T13:43+09:00",
    "via": "環境ビジネス",
    "topic": "政策・制度"
+  },
+  {
+   "id": "9ef90768653eea51",
+   "title": "充電ばらつきを「アクティブバランス方式」で抑制 蓄電池の長寿命・高効率化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11ZE5lby1qQm5PaUtVRFFRVWZfV3g1X0Fyem42YVhaZ3JfNFdsdXpfM0g4bmZaQkE0ZVp4RGFlN1BOcUxsbm9TNW1JMzJDTzZyTnMxODdEaV81aFhBaTNZTk00SXpVZEFpUnlyMGZ1RU1DQ1BPaTRjdWs4N2c?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "充電ばらつきを「アクティブバランス方式」で抑制 蓄電池の長寿命・高効率化 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:43+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
   },
   {
    "id": "7a0fd9cbe69f21d3",
@@ -709,6 +849,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "a3aa9f88ad374067",
+   "title": "太陽光パネル追尾架台市場2035年予測：電力規模の太陽光発電ブームが成長を牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1RjclhqeFVRbEFhZ2U5SDQwcVBLTURUNExuemVZOWFZdFA0eVhxSTlMOWRlUFptM2lVLXZ3T3hrV0pXcVhkeDVPMmQ4WkwyU2ZUTk04ekVVYXloa29xWE1ZaExsSlpKRDVKSHdIaHpCakdXRFVfSWxHYW9sVWU5VVZySmdfX0ZOVDJZSFkwSktHLW1oSURhaFdwc0lfZnlrQmNmUVpHVGpMdDJvQjZOZ0JpYnJXNUtKVlVsQmpzdWM?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光パネル追尾架台市場2035年予測：電力規模の太陽光発電ブームが成長を牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T00:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "66bba5a000b6ec80",
    "title": "京セラのFIT太陽光、蓄電池6MWh併設しFIP転 AIで自動化・効率化",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mM3l5MWtGcHdPYzFkOTZUMmFTcmN2NzZ1Uk16S2RFbG8yM1NVYUxYNjRPeFFZWkk3aElOYk1rdkhudmU5ZzFLclkxYlZfN1FVc2YyQ3NqdmNqVlpqeVpOcFg4TFFfRzRjQmFHYmVTZjRfS2JzSG15WmduUVY?oc=5",
@@ -784,6 +938,22 @@
    "storage_topic": "その他"
   },
   {
+   "id": "dcda846362f4694a",
+   "title": "【令和8年2次募集：令和9年2月25日まで】太陽光パネル及び蓄電池の共同購入の参加者を募集します",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0YyRXJaRnVpWTBlYi1iemh0bmUwR0FsaEJVUWlTYjV3NGZqa1kycjVhX1lvdy1DTWpYbWJqVWYxVDREeTl4MkRDRlNybGFLbmM3d25sVmtuOHp0elVCLWxYcEtPZFdVTUZaSnllcTBCVjlaaG1xdEMtNTh6QUg0Zl9ldWdzdkVqUUxjTFJKZVJmdGc5LXc?oc=5",
+   "source": "飯能市",
+   "summary": "【令和8年2次募集：令和9年2月25日まで】太陽光パネル及び蓄電池の共同購入の参加者を募集します 飯能市",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
    "id": "f1be2b114241f863",
    "title": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSDVLcVNpcjRBTTlxNU1LZzJDUU94VWk3c3paMzhNSzFkeEg3ZUlONW0yNm9WNm1QS2k1Z1I4Yk53MFFoQTM3VEFfMDVhdXZ5NEVkUGJITlE?oc=5",
@@ -817,6 +987,20 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdmpYZ2ItdURsdzBBYVgwQnluT0FuTVlBR016NnZNVGZfb3BxbG8tWE5meS1ocG82OThQMU5rY3NEQ2tmbFFnUVB3X1k1MmI0dlpiOVBXWTZqYmM?oc=5",
    "source": "マイナビニュース",
    "summary": "大河原克行のNewsInsight(477) ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 マイナビニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ba6a9f76e187869b",
+   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 2/10 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6ZkRHLVpyUGtDVUs0QUJUSXBzaUJJaV9YQ2RlcHU4aDhWaDE2Z2p3TFV2OEVJRGlUZEh6ejJwakwxVEt0Y3pHU2NrdHhxNkpMdU5zRjRYR1VROEo5UVhHc1RWaC1YaU5zWnRmVGQ5TGdwdjVLR1E0WXpOODc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 2/10 - ライブドアニュース ライブドアニュース",
    "categories": [
     "solar"
    ],
@@ -1450,6 +1634,20 @@
    "company": "RE100電力株式会社"
   },
   {
+   "id": "28a1694874091cc9",
+   "title": "ソーラーパネル・ソーラー充電器のおすすめ人気ランキング【2026年10月】",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4tVWdnMnhINmNWVk9sMnZIYWxWSWF3SFJoSTVBNF9Kdm04NkluMXVRX29zSUNyMjJMaFFN?oc=5",
+   "source": "マイベスト",
+   "summary": "ソーラーパネル・ソーラー充電器のおすすめ人気ランキング【2026年10月】 マイベスト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-04T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "eeafb7fa1f36ce93",
    "title": "加古川市家庭用蓄電池導入補助金について",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3ZBRDUtU2t1cDJOUk44MlkyT29YY1lTOE5BalNMU1BqU0RTNUhESTBpR0FzV1dUbkhfTzRRcUV1TXpDdFlpbGFMWTc1c3ZDTkhPQkJ5ZVVwYlpPTEVxYW96aGUxYUZpcldCUFQ2MVFVNHhUc3FVVGUwS3Qzd2ZSUnFwbzdHZHhQaXE4RzRESDJQV3RieGdaQUJaYXZ6aWNpckt4Wg?oc=5",
@@ -1983,6 +2181,20 @@
    "published": "2026-10-02T12:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "120a740b9903fc53",
+   "title": "パワーエックス－急騰 大和ハウス工業の系統蓄電所に蓄電システムを納入",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tbTRJNTNJZkdpV3pxMENTVEVxTDVaWC1HYkxaT212bzZFVjdoR3BFeldZenRBU1BwWVE3aVdMVC1XMXplZ3VLd0syLXFSemhJbXNiN1ZOTXlwZw?oc=5",
+   "source": "Moomoo",
+   "summary": "パワーエックス－急騰 大和ハウス工業の系統蓄電所に蓄電システムを納入 Moomoo",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-02T11:07+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "416aecd0c49b6100",
