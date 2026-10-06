@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T11:50+09:00",
+ "updated_at": "2026-10-06T13:49+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,81 @@
  ],
  "items": [
   {
+   "id": "7a0fd9cbe69f21d3",
+   "title": "世界初※、充電いらずのUWB対応スマートリングを開発 「健康管理」も「タッチレス決済」も、指輪ひとつでできる未来へ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000170503.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[WhiteLab株式会社] WhiteLab株式会社（本社：東京都中央区、代表取締役：岡田英之）は、充電が不要なスマートリング「ソーラーリングUWB」と、1円玉より小さいIoTゲートウェイ「センサーコネクトII」を開発しました。10月13日（火）...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T13:40+09:00",
+   "company": "WhiteLab株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "3bda3db580a7f4b5",
+   "title": "栗林商会の系統蓄電所向けに海上パワーグリッドが受注",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UaVNyWWxrdXBEeVB0T2FZb09BSkdCbFlJRFdka19EcGxWNzcyeG1sRDNGUmxEZVA1U3ZfNFFfSU9FY2I4RWluWUdBRUJEeHhuaXc?oc=5",
+   "source": "sanyonews.jp",
+   "summary": "栗林商会の系統蓄電所向けに海上パワーグリッドが受注 sanyonews.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-06T13:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "60c14b758794d82d",
+   "title": "コシダカホールディングス[2157]：グループ初となる「自社所有・自家消費型」太陽光発電システムを導入した 『カラオケまねきねこ長野高田店』出店のお知らせ 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTZUY2ltNlJuQ0FVR0hxcEowaEstMW5FdkM1cG94LUhUMGx2d3BVZ2lfeWlKNXVoc3hMNy1PSmhNNDZTajZxQTJ6bElKR21nUjhkT1NZWnBVWm9lTDlkckk3Zl82NUJjam1iTFFGT21JVUE4QmwzR1NrcGk2clhyV2hkb0E2UzNuSW5YR3pUX0h3ZlVHcGJSQ0NodnV2YVdMMDZhVndfVXB3eFpnLVlKYS1qd3RrdlN0UTh3OUNWY0xBcGRMVjNuRkswVl8?oc=5",
+   "source": "日本経済新聞",
+   "summary": "コシダカホールディングス[2157]：グループ初となる「自社所有・自家消費型」太陽光発電システムを導入した 『カラオケまねきねこ長野高田店』出店のお知らせ 2026年10月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T12:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "a63949c6b88b9207",
+   "title": "コシダカグループとして、初めて「自社所有・自家消費型」の大規模太陽光発電＆蓄電システムを備えた『カラオケまねきねこ長野高田店』を出店",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yMlc4QjhFdjAtVENXZ0Rmc2N3dVpkdnRfeVl2a08wdHFVSXprQVp6VDMycHVXRDZSc2FJX1pfYnBpYUlmUVlIOFV4WnBFYzFyX3VqbjAtY2UtTWFoNlcwY0NsY0gtTk4tSXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "コシダカグループとして、初めて「自社所有・自家消費型」の大規模太陽光発電＆蓄電システムを備えた『カラオケまねきねこ長野高田店』を出店 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-06T12:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社コシダカ",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a0835c6f7218de00",
+   "title": "BEVが拡大する欧州とEV比率5%の日本 求められる中東危機への”根本的解決”とは｜北村和也さんの再エネの達人",
+   "link": "https://solarjournal.jp/policy/67952/",
+   "source": "SOLAR JOURNAL",
+   "summary": "2026年の途中経過のエネルギーデータが出始めているが、太陽光発電やEVの急拡大が顕著である。背景には、見通せない中東危機がある。加速する化石燃料からの脱却と再エネの優位性についてまとめる。 The post BEVが拡大する欧州とEV比率5%の日本 求められる中東危機への”根本的解決”とは｜北村和也さんの再エネの達人 first appeared on SOLAR JOURNAL .",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T12:00+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "海外"
+  },
+  {
    "id": "064b99d8c9802085",
    "title": "次世代太陽電池の施工に関する実証実験を開始_東光電気工事",
    "link": "https://prtimes.jp/main/html/rd/p/000000009.000184331.html",
@@ -32,7 +107,122 @@
    "published": "2026-10-06T11:40+09:00",
    "company": "東光電気工事株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "topic": "次世代技術"
+  },
+  {
+   "id": "692b632237b6b9e3",
+   "title": "［独自レポートVol.52］コーポレートPPA経済性評価、90.1%が「業界共通の標準化が必要」と回答",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQlJFbVNzdDM2Z0RMN0lxZmFGcTZNZVBGWTMtWWdreXNBOWdRamFrYndMSlNiT21MUkZ6X2NPTVdJazl4UmwybDJ0Z09yZmdHRFZWQy1nbXdNT1NFTllhVUxVN0c2RmRFeGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "［独自レポートVol.52］コーポレートPPA経済性評価、90.1%が「業界共通の標準化が必要」と回答 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T11:10+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "住宅・自家消費",
+   "company": "国際航業株式会社"
+  },
+  {
+   "id": "edfbc31ea84671f0",
+   "title": "パワーエックス、栗林商会の系統蓄電所向けに蓄電システムを受注",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QnJUYWtPTjB0TmhmU2VxZzlFeVJocFY3b3RyY0FuV090YjhkdmlseEs2dWw4OVBqMkY4VFpJNmlnOUVqU0lsZmtrSjRBYm11S0NB?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "パワーエックス、栗林商会の系統蓄電所向けに蓄電システムを受注 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T11:03+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5a898b280072158c",
+   "title": "「AEBF-26」にペロブスカイト太陽電池を出展",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFc3MFVIb28yZWJYdU5kVmNmS25nREhMX0dTTzhVZ1VjRlRnOFVwQ1NaQXh2OV9NeTIxeFlnNU5jZ2h1Q1lUZkJ0Rno5NjQzUFRJYUt0MVN1RDl4YktELVZxMnVxU0lxeFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「AEBF-26」にペロブスカイト太陽電池を出展 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T11:02+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "company": "株式会社アイシン"
+  },
+  {
+   "id": "f26ec12507be9ace",
+   "title": "太陽光発電の「抑制区域」に計画、住民「白紙撤回を」 埼玉・坂戸 [埼玉県]",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3pDZTc4STI1bVIxZzlmOEY0Ui05U3UtSFowTm5HV2dHSDh4UzBBMURDUWhYRGp5NVJTZEhBM19lM3Z2NTNqX2xsNjVXTFZTVlJTVXlrUjA2YVBZTktjdjhFOUhtekFTb2NackhQTE1xdHZia0pscE5TS0dkX0pFLUJvMG8zQQ?oc=5",
+   "source": "朝日新聞",
+   "summary": "太陽光発電の「抑制区域」に計画、住民「白紙撤回を」 埼玉・坂戸 [埼玉県] 朝日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c804f8ba24733d2b",
+   "title": "京葉ガス、群馬県伊勢崎市で国内系統用蓄電所を開設・始動 再エネの有効活用と電力系統の安定化に貢献へ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BRi1pMXVGUVUwV1YtN2QwZF9udFdySEFMNzdGMFBUVTBfSzBkdWhHMFQ5NkpqZTMzUTlnNHRhd3ljVmRxdHVMdjBjME1nRFBvZzlVMGM2dmktaExqTmFzbnlZSQ?oc=5",
+   "source": "AMP[アンプ]",
+   "summary": "京葉ガス、群馬県伊勢崎市で国内系統用蓄電所を開設・始動 再エネの有効活用と電力系統の安定化に貢献へ AMP[アンプ]",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:38+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e599c54bd3813c1c",
+   "title": "YAMABISHIの蓄電システム「YRWシリーズ PEモデル」がJC-STAR★1適合ラベルを取得",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mN21iSUpTeU55Z2RVWnJNWlAxNVZRdXZYQ2wzTlZtdkp5eWRGZXlHQzFxLV9hRHNPR1poVmlmTU1Ka2dhbnl5NUt0WVR0N2lsQVZnOXRyWHhoSE9qMDdPZlpsRWFzWVlQNHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "YAMABISHIの蓄電システム「YRWシリーズ PEモデル」がJC-STAR★1適合ラベルを取得 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社YAMABISHI"
+  },
+  {
+   "id": "f7f509d7911bcc46",
+   "title": "分散する低圧蓄電所を1つの仮想蓄電所として束ね、一次調整力の制御に成功",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZXRkM243UnA4RFdKYzNJSDBBc3p0bnRMSXRJeXNlZUdicDlzVlY1M0hqTVJSYVFleHBzWF9ocUhxRC10SUl4LWZCcjk2aDRHUndVZlliSWlHQWdvb3FVeUNyMGxUWnZJS2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "分散する低圧蓄電所を1つの仮想蓄電所として束ね、一次調整力の制御に成功 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:27+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧",
+   "company": "株式会社ワンズエナジー"
+  },
+  {
+   "id": "101795c386426fbb",
+   "title": "ソアー、ペロブスカイト太陽電池向け高性能バリア膜の試作に成功",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43Q0NxWml1UE9ldzlYbnlfTm9obmk4UXBKSEQ3TUVHY1p1cDRHZTBEeEdHNEVfekhYWDFOOUYzVG91TWJwYkswLTRyNUx5cFpPc1BV?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ソアー、ペロブスカイト太陽電池向け高性能バリア膜の試作に成功 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:07+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
   },
   {
@@ -49,6 +239,35 @@
    "via": "@Press（太陽光・蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "aabdc2eb6771edfc",
+   "title": "ソアー、OPERA Solutions社とペロブスカイト太陽電池などの共同試作を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wZ2JoWFBzclBOcmpta0xRNFZlRk55VkJaR2NJVVVVeWhYMnh1dWQ3ZklqZUNSLUY5X0ZkNGlVNmRPOGxoUDd4QkZXQVhtUi1fM0ctR1FJbTVUZ2tOcXVFMnRROWwwaWU0SUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ソアー、OPERA Solutions社とペロブスカイト太陽電池などの共同試作を実施 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "company": "サクサ株式会社",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "32833495d0af537e",
+   "title": "太陽光発電 環境影響評価 対象事業面積２０ヘクタール以上に 島根県、政令改正受け方針",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTmM1N0xraFgwZHVIbEdQUGNNUUJHbXkybFZNR21TR3VOMk1Gb0xqeHpJME5FYWNWOVRLMkdtN2hqQUJLblYwczk4ZU81Nkd3Q0hkUDNEbExNUkk?oc=5",
+   "source": "山陰中央新報デジタル",
+   "summary": "太陽光発電 環境影響評価 対象事業面積２０ヘクタール以上に 島根県、政令改正受け方針 山陰中央新報デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T09:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "d7f1ec443ca88b99",
@@ -308,11 +527,39 @@
    "storage_topic": "その他"
   },
   {
+   "id": "f1be2b114241f863",
+   "title": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSDVLcVNpcjRBTTlxNU1LZzJDUU94VWk3c3paMzhNSzFkeEg3ZUlONW0yNm9WNm1QS2k1Z1I4Yk53MFFoQTM3VEFfMDVhdXZ5NEVkUGJITlE?oc=5",
+   "source": "AppMedia",
+   "summary": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン AppMedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:53+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "edfe1bafe29c1482",
    "title": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ISERVZkZOQ05UNG8wdWJGekdGUUJRLUVtVU9oME1tVktpdUd4RERqWGhZSEhXbGxuWHpHbUJNaktRd1piNk5IS0F2OS1IYXg0Q2JSWkVtRWVHTlBLVTl2SQ?oc=5",
    "source": "Infoseek",
    "summary": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0ed2c5091be63989",
+   "title": "大河原克行のNewsInsight(477) ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdmpYZ2ItdURsdzBBYVgwQnluT0FuTVlBR016NnZNVGZfb3BxbG8tWE5meS1ocG82OThQMU5rY3NEQ2tmbFFnUVB3X1k1MmI0dlpiOVBXWTZqYmM?oc=5",
+   "source": "マイナビニュース",
+   "summary": "大河原克行のNewsInsight(477) ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 マイナビニュース",
    "categories": [
     "solar"
    ],
@@ -393,6 +640,21 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "b86d06db292f6eb9",
+   "title": "国内系統用蓄電池事業への参入について | 京葉ガス株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZnJXNEhxZU9TVXRqbzVMdmZRYjFNTHZZNnAwR3FhUExDRlotNVg2X3FCanlHR3d4UnY2UU9pUDY5RC1GN2Ftczk4R1E5TkJPVEhoelBuUmk5cjVOR1VSdXdha0Q4SFZSeXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "国内系統用蓄電池事業への参入について | 京葉ガス株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-05T14:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "京葉ガス株式会社"
   },
   {
    "id": "eb217157ad2895f6",
@@ -2739,6 +3001,20 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "46d63798fc78bcb1",
+   "title": "TAOKE ENERGY、系統用蓄電所4カ所の運転を開始 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTFnaEphWUtHMTQ5ZE1aNnpTNDQ0R0IycVlSajJDOHVWVUZ3Y3lDM0RuSFpkY0NzMjRsRkp0b1o2V004LVRzMDY0V2U1UDlTUk5wTW93eDBBMnhsdkRhQV9zZDR6bVhfMkhFT1pVV3FjQWc1cDRrMTVuXzE1d1I3LQ?oc=5",
+   "source": "373news.com",
+   "summary": "TAOKE ENERGY、系統用蓄電所4カ所の運転を開始 | 鹿児島・九州プレスリリース | 生活情報 | くらし 373news.com",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-01T06:36+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "4524f1412d543003",
    "title": "福島・吾妻山麓のメガソーラー 夏季の反射光30～92分継続 シミュレーション大幅に上回る 事業者調査",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fQ1dvRGQ2MDAxdVZkY0Nhc3UwQ09wQTVPdW0xQm5ZR1ktV1ZXQmNsZ0V5UmVWT0xuYlZqVVVfSFpzZ1YyX3VUaDluVkxjQnN3dnItT0wwTHhjTFp0U2l0bA?oc=5",
@@ -3067,6 +3343,20 @@
    "published": "2026-09-30T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "8bcffb1ae63f42f1",
+   "title": "[特設ページ] 太陽光 | プロジェクト",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQmNISC02VzlCVHFWaHhpaVppSF9JYnBQb3RDeTRGOG9sNWh4Zkp3TWlPU0lkX1RKRWNBbVE2M20xV2FBdjB0VzYyM0Fvd3h1Zl9RdWZNeHN5WklCN1FzV2pybG9fbWJVaUdqMlhR?oc=5",
+   "source": "自然エネルギー財団",
+   "summary": "[特設ページ] 太陽光 | プロジェクト 自然エネルギー財団",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-30T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "0cc9f75c4210abc5",
@@ -3766,6 +4056,20 @@
    "published": "2026-09-29T18:00+09:00",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "cdfe3fc2d4e51f73",
+   "title": "【エネルギー】EGCOが米国の風力・太陽光発電の49%を取得、再エネ比率26%超に",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RU05QcWFGa29TX0tTTjdtbmZmbUxHY0lCenk2WlR0M3Q0ZndkU0tyUkRXQWpaaS1XZ1praG5DX1dDMndZRVowaFo1M0pvLUM3?oc=5",
+   "source": "バンコク週報",
+   "summary": "【エネルギー】EGCOが米国の風力・太陽光発電の49%を取得、再エネ比率26%超に バンコク週報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-29T17:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
   },
   {
    "id": "ac256b29158aba9a",
