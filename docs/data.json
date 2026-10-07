@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T13:51+09:00",
+ "updated_at": "2026-10-07T16:49+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "0d1a959c0ffb79d4",
+   "title": "トーエネック、建物屋上にペロブスカイト太陽電池 愛知県内で実証",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bHNpZGRnRFNlb2xEZ253dmFlYS1odkU2X21RWmxpN0FpVWIwQW5KQ0lwS2wyNVNWSVFJWjFYbF9fS2lEWDF4Z0FuUktlV1oxRy1XWVVZZXQ0bzgwLTZjaW8wTU5paUs4THNOaw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "トーエネック、建物屋上にペロブスカイト太陽電池 愛知県内で実証 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:15+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f6583f4bdb4313c1",
+   "title": "日光と松本で系統用蓄電所用地を取得 エー・ディー・ワークス",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fV2VJMnAyOHhVSDVfaUY3MzZPWDl0RDRqUmk1VzFSbURLM2JWWS0xMjdQVGluSFFDU010czl5OWN3bS1JMUNOejFxR1Jvb3d1?oc=5",
+   "source": "住宅新報",
+   "summary": "日光と松本で系統用蓄電所用地を取得 エー・ディー・ワークス 住宅新報",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
   {
    "id": "9e0c3a9bb875bf12",
    "title": "ごみ圧縮機の世界市場（2026年～2032年）、市場規模（太陽光発電専用、AC電源専用、太陽光・AC電源併用）・分析レポートを発表",
@@ -312,6 +340,20 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSeEtGQ0pOcEpsbXBncWxqaExnaHlUX1o0UHNsYk1WSEFNajRYTGstR3NLUVlsbG1tVnFwd2luVl9kZ2U3eTB0LW82RHNGN0xtVGZaQ0Z2TDQ5bTUtTTByQU1HTXFFV2J6X3pObW56YlhrSUlUNGlFSw?oc=5",
    "source": "日経BP",
    "summary": "2025年の再エネ新設容量は世界で693GW、記録更新も2030年の目標は遠く - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T05:00+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a5aa61aeb910de0c",
+   "title": "世界の再エネ新設は昨年693GW、記録更新も2030年目標に遠く",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSeEtGQ0pOcEpsbXBncWxqaExnaHlUX1o0UHNsYk1WSEFNajRYTGstR3NLUVlsbG1tVnFwd2luVl9kZ2U3eTB0LW82RHNGN0xtVGZaQ0Z2TDQ5bTUtTTByQU1HTXFFV2J6X3pObW56YlhrSUlUNGlFSw?oc=5",
+   "source": "日経BP",
+   "summary": "世界の再エネ新設は昨年693GW、記録更新も2030年目標に遠く - 特集 - メガソーラービジネス plus 日経BP",
    "categories": [
     "solar"
    ],
@@ -2332,6 +2374,22 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "abdac0e11230d0d2",
+   "title": "太陽光発電所運営大手と協業 パワーエックス、蓄電池の販路拡大へ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TcFFDdVloZWF3R3VpUjRJQXBKbTcxNWVDZUxHSVdCSENSdGhid1duSDNvUkhrSTFFLTFjNDZubVNnMExBcl90ZGRmZHc0UXpjTmc?oc=5",
+   "source": "山陽新聞",
+   "summary": "太陽光発電所運営大手と協業 パワーエックス、蓄電池の販路拡大へ 山陽新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-02T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
    "id": "e7763d4fe8a6cea2",
    "title": "ポートとSassor、高圧系統用蓄電所の運用で契約締結",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mUjVFWmc4OXdYTDBGQWt6LUdjNHpiRVBDQ3JrQmxLZ1dRYlp2bkduZTZNUGJqQlh5QTd1dDk5eDNuNDVNSTExM29Kai1zYjBKNEk4?oc=5",
@@ -2429,6 +2487,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dWRlcnpXd1RZTGdCTFQyVE01VXhnOUJsZFk3bHNnU2szYnN6bTY1SUxNNEQyZ0JHUWRvempOcTBJalNVUkVVdW1FZXJ1UWotRk9SQnhIMXhiUzItUjdR?oc=5",
    "source": "ライブドアニュース",
    "summary": "ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇ ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-02T12:54+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ee9357496d329ee1",
+   "title": "【画像】ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KWGRwTXpIelFBU3ItR0NZZmdyYlJ2bl9DeVdlZW16N0gyQUVva2NXV1VacVF5UEgxVVNWZHNJa3lHU0ZibmIyLVJINWZJSV9PTHFSbWYzUU1OU0pBbFJTcnR3Q3dEVlVodnVqVm5YZVJfZTBwWVphTngzRVk?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇ ライブドアニュース",
    "categories": [
     "storage"
    ],
