@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T16:49+09:00",
+ "updated_at": "2026-10-08T06:52+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,218 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "85fbb727bea722cd",
+   "title": "【クイズ】かもめりあに設置されたガラス型ペロブスカイト太陽電池は何枚？：クイズで学ぶ！ モノづくりトレンド（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xYW11enZpY2xXZHRDVENnaEZuTUNES3pFVTJ1WUNHNUcwMjFNQmh4NWI4UWFISnBVazhqMFNHN0p5bTRRcFJKTFdsLW03VkYzR2dXVktQTjFHTTRtM21EMFI2aW9JMTlDbTVwVVN1Zw?oc=5",
+   "source": "MONOist",
+   "summary": "【クイズ】かもめりあに設置されたガラス型ペロブスカイト太陽電池は何枚？：クイズで学ぶ！ モノづくりトレンド（1/2 ページ） MONOist",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "497db6db8de53e02",
+   "title": "電通グループ向けバーチャルPPA/安中市の営農型太陽光発電所で日本国土開発",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVGRRWDkzWGFBa0poV2g1dW10aFMtdWhXaEdxRDMyUjVLXy1fWFg3ZWx0MXhqdDhMLWw2N2tSUVNPbzRpSjYzYnotUmFmc1RDR2NmZDBhSGs?oc=5",
+   "source": "建設通信新聞Digital",
+   "summary": "電通グループ向けバーチャルPPA/安中市の営農型太陽光発電所で日本国土開発 建設通信新聞Digital",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:29+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
+   "id": "8fef549e24df1d82",
+   "title": "熱波に襲われる欧州、太陽光発電が「救世主」に",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SOVJZV2dwRmV1ZmdHV3lmU1hiQ1hqMVJHNXpaSlVmdWlOc2s2dXlsX01HVWJrRGwxZWdlZThpUUJULW5McE9Da0dDWGIyQXhIeWJodVA2blg0MjlRQjNaNEppRFZDQ3dzTXJqdQ?oc=5",
+   "source": "日経クロステック（xTECH）",
+   "summary": "熱波に襲われる欧州、太陽光発電が「救世主」に 日経クロステック（xTECH）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "7c4480138c19d47b",
+   "title": "編集者の視点「太陽光発電が天然ガス3.7兆円分を節約」",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkVPcEFkbEpWWjlCWS1pRUpLUzBSUTFrLVdsRWl4c24yUWxMWlZRRXl1S0tvWmV0VFIwRU9kY01MVEQ3bUY4b2p2a0dYQ2x6ZVBNWHdIa3p5N0xxRXhmbmpmUUNDSUpFSFN3b1loX0llZldUZ0hZSjEzZDNQVmxuYmM5R01VbWM?oc=5",
+   "source": "日本経済新聞",
+   "summary": "編集者の視点「太陽光発電が天然ガス3.7兆円分を節約」 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "ccd2b94075aed849",
+   "title": "ペロブスカイト太陽電池で発電 トーエネックなど実証開始",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VM1pRYnh3TW1mTlJxTlJLQ3BEOGdySXZjOHBpMzVGZF9ZZWFGUTBQeEZWdDUyZEpPMFlYbnZ0SlJQVmQyV3gyYkhHSURDTHk4TElZNUVDLVI0LVVHS1dlMGdTZ0Vqa0F2eHAyNXhpVVc1VVk?oc=5",
+   "source": "中部経済新聞",
+   "summary": "ペロブスカイト太陽電池で発電 トーエネックなど実証開始 中部経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "31a333ced05089f0",
+   "title": "ペロブスカイト検討を 知事 県施設導入へ指示 次世代の太陽電池 | 政治・行政 | 福井のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVYVhtWHFob2pVemlybFlzb3VXSVMxdUhGc09FUlB4bW9Cb21URVdaaFNzaUNmS3dwZGVfaFk4bEJrMjNyb3N2Y2REYVFCR2tPbUs4RWUxZS1leVhrREE?oc=5",
+   "source": "福井新聞社",
+   "summary": "ペロブスカイト検討を 知事 県施設導入へ指示 次世代の太陽電池 | 政治・行政 | 福井のニュース 福井新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a454c615a376d564",
+   "title": "次世代太陽電池 国産加速 ペロブスカイト 各地に工場 先行中国と「差別化」課題",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJVmFySUJTTWpuV0pUd0staWFTOWd3M01zQWlzdTVnek1qa2I0VGlXT0wzcGNZbFhzN0FYRHFfTmo5Um5Yel9wNWIxR0lyb0NpUm53RDFiOVM2VVJsUkk5eXZuSQ?oc=5",
+   "source": "読売新聞",
+   "summary": "次世代太陽電池 国産加速 ペロブスカイト 各地に工場 先行中国と「差別化」課題 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "eaa28e56eca1c9da",
+   "title": "人工光合成、実用化「もう一皮なんだ」 信州大・堂免特別栄誉教授の半世紀",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/092500038/",
+   "source": "日経クロステック",
+   "summary": "太陽光と水、二酸化炭素だけで水素を作る人工光合成の新型リアクターが長野県飯田市で動き始めている。手掛けるのは、1980年に水を完全に分解する粉末光触媒を世界で初めて報告した信州大学特別栄誉教授の堂免一成氏らのグループだ。2021年に100平方メートル規模で実証した技術は今、その数十倍の規模で稼働を目指す。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "日経クロステック",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a5d43aa574214880",
+   "title": "Harmost「3台用中間柱なしタイプ」",
+   "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/092901008/",
+   "source": "日経クロステック",
+   "summary": "正面中央の柱をなくした住宅用ソーラーカーポート。有効間口は8mで並列に3台駐車できる。切り返しがしやすく、スムーズに車を出し入れ可能だ。地面からの反射を裏面で受光して発電する、両面発電の太陽電池モジュールを搭載する。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T02:02+09:00",
+   "via": "日経クロステック",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "f2f3c4178ea3b28f",
+   "title": "太陽光発電は、中国における最大の設備容量を持つ電源となった。",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWloWVI4SUV6VTc4S3B1dG01VVlEclRGNS00VEFnTXJjNHlRckJhN3ZBcmFyZkx5OFNEdGZSNDlyc083XzY5OGJtdE1VNDlieXE3WExLanBIblN2U3BwQU4yNnVPNHd6OHFrVDgwcWRKcGpvWGQ5WjVjYzdrRGZZczEzTm1vWFB0el9vZXdRRDBGUDRLYXhMZEs4NUNmbEU?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電は、中国における最大の設備容量を持つ電源となった。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T00:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "aa39a65184266853",
+   "title": "【ノーベル賞】「ペロブスカイト太陽電池」産業化の行方は？…技術は途上、遠からず分水嶺",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sS3d0TUtWS3FXbXd5RXNGNFVaY05hMWw3MURWU05LYkJGZmN2YlFnRTUwOFRicWlLaGU4bWR0SU8xdw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "【ノーベル賞】「ペロブスカイト太陽電池」産業化の行方は？…技術は途上、遠からず分水嶺 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T19:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ba632e5a985df8f2",
+   "title": "太陽光発電所で銅線ケーブル2420ｍを盗んだ疑い ベトナム国籍の20代男3人逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KTm5WNEEzc0xtd3JuMWZOcVphcVZYZTF4Ri00WmE3UmlmdWU5dnlEWkJIY2VPMEZJUU9qVFdzZTF4N2tYb3loVmc5eDZiWFhWTWZNTy04NjM?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "太陽光発電所で銅線ケーブル2420ｍを盗んだ疑い ベトナム国籍の20代男3人逮捕 京都新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T18:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "4d8460578c5ab541",
+   "title": "エジソンパワー、系統用蓄電所投資の成長フェーズを完了",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMmlObzQyYlJLeHVFM0xLT05UZTZYVndkZEEwOE9zUmZ6MXRWeWRBanBTV3JYS0FxU0FuRzFLRkRqS0p1M3RpMGJabUxJSWp1dkFlXw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "エジソンパワー、系統用蓄電所投資の成長フェーズを完了 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-07T18:27+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "エジソンパワー"
+  },
+  {
+   "id": "9be2356ad7effe13",
+   "title": "ペロブスカイト太陽電池市場―2026年から2032年までの世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdVhud1V0cm93QXEyR0RwalRGbkRBUlFjQ2xzNlp5TTVLR0JlUUI5Ri15Q0JVSUZsQXByalZEZUJQQVNpUmxOaS1rQTN2Zw?oc=5",
+   "source": "アットプレス",
+   "summary": "ペロブスカイト太陽電池市場―2026年から2032年までの世界市場予測 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-07T17:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "2d4915495f873ca2",
+   "title": "ぶどうを育てながら、その上で発電。「農業」×「太陽光発電」のソーラーシェアリングが話題。現場を取材した",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpkSk5qN0RHWWJ4Zm5nYmgxRk1ST1JqUGtkX2FETmxucFZnbGRXaHVrMjFVX2xuS25Cbi1vUDIzY1ZWR003c2JkdFJWTHpfOUZQSW1pUWdFbHVMeC1KMXVkU0tBVGxLcU1DS0tXVk5CXzFTTS1TYmREV2FKV29qZGdFUHM3NzI1TEhDQlZJMG1UNm1zM3pualhITUd5UzhwR3FVdDd3VVfSAagBQVVfeXFMUDJqZEpOajdER1lieGZuZ2JoMUZNUk9SalBrZF9hRE5sbnBWZ2xkV2h1azIxVV9sbktuQm4tb1AyM2NWVkdNN3NiZHRSVkx6XzlGUEltaVFnRWx1THgtSjF1ZFNLQVRsS3FNQ0tLV1ZOQl8xU00tU2JkRFdhSldvamRnRVBzNzcyNUxIQ0JWSTBtVDZtczN6bmpYSE1HeVM4cEdxVXQ3d1VX?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "ぶどうを育てながら、その上で発電。「農業」×「太陽光発電」のソーラーシェアリングが話題。現場を取材した ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T17:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
   {
    "id": "0d1a959c0ffb79d4",
    "title": "トーエネック、建物屋上にペロブスカイト太陽電池 愛知県内で実証",
@@ -46,6 +258,50 @@
    "published": "2026-10-07T16:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "8e3cd8cefd3daf45",
+   "title": "パナ、神戸港でガラス型ペロブスカイトを実証運用",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QTTNhdVp6VzFuUW9EVzJ2QlBvel93M2c2OFlYU3dSOUNJWWN2Z2Rqc3Fkc19UUUhUNFFyaF95VEdkSVdNYmVNemRMQzBZQmd2UjhjMENJUl93QzFzZF9EYUJDa3BSdkZkYWRPNnotcWxPNzVT?oc=5",
+   "source": "日経BP",
+   "summary": "パナ、神戸港でガラス型ペロブスカイトを実証運用 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T15:18+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "626e37904d8a9b14",
+   "title": "500MWの太陽光・風力に200MWhの蓄電池、住商がインドで参画",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03MkhBTlUzX3p3MXNyS1dkc3U2MGlTOUpHX3JVbFc0TVdBcml0SG5VSG15OUphcUNlaHRnWGgxNzNmZDhEamcyaVdURVRmaVBwWHc5UjJyQ053Mk1wRjdDZ215eVc4YmRINzBaa1ZsRnFaelFN?oc=5",
+   "source": "日経BP",
+   "summary": "500MWの太陽光・風力に200MWhの蓄電池、住商がインドで参画 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-07T15:15+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "a91d9987d99ec4a7",
+   "title": "トヨタが新型「燃料電池バス」、航続距離300㎞以上に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40UUkwRUF6eVpHM0ViWGtMV0xVY0QyTU9PdTNPLWhmTWl3cEd1MHYyT0Jid3ZwMUZiRjNOaTAtZ3ZpaFlvSFBjd2tFVFhQQjVuUW9lNHR4U3I1a3VoTldxbEtQVWxCT2c3eWptdmxPaDRrMGJ1?oc=5",
+   "source": "日経BP",
+   "summary": "トヨタが新型「燃料電池バス」、航続距離300㎞以上に - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T15:12+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "9e0c3a9bb875bf12",
@@ -99,10 +355,11 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-10-07T12:45+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
+   "topic": "次世代技術",
+   "company": "株式会社日本総合研究所"
   },
   {
    "id": "2f773a902985969a",
@@ -135,6 +392,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "3e9420811dc5c929",
+   "title": "容量市場・需給調整市場を学ぶ全2回セミナー開催",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vUHlRNnROSUVtaEQ1eWZUeTlKMndrc1JvZlhjQTB0Nm9HU29yMDlZMUJoNVdDTXk3aENGUkdUSlphbHF6a2c?oc=5",
+   "source": "Koubo",
+   "summary": "容量市場・需給調整市場を学ぶ全2回セミナー開催 Koubo",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-07T12:04+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "d4077018c914c08a",
    "title": "日本国土開発---電通グループ向けに営農型太陽光発電所9か所でバーチャルPPAを開始",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11SmI5b25vcVQwVTJTTDlnUlFSRjVqOXdWRjVjcG5yMVZWYmRtYS1uTl95QkFyRFQ0MzFIdmRBa05WNkFWdTU2N3RLNXNFVkozNjBzY2VZdkEtV2todGFPXzVB?oc=5",
@@ -154,6 +425,20 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzNnZsRmhhWG03QnMwdnU0SmwydHN0QmFhd0pwdWVNYXdvcTQxdGhubjJ6OVZMRmktQ2JaTUh2SW16aUFEN2pwd2NXMVgzcUZpbEhVTjNCS3pFQ0Y2N3R3WU5xRzloM2lQYmdzZjFmRnBRMWdWbzJITmZIMG8?oc=5",
    "source": "環境ビジネスオンライン",
    "summary": "2.2mの大型ペロブスカイト太陽電池も性能・耐久試験対応 ケミトックス 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:47+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f815c9b8087f7e0a",
+   "title": "最長2.2mのペロブスカイト太陽電池も性能・耐久試験対応 ケミトックス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzNnZsRmhhWG03QnMwdnU0SmwydHN0QmFhd0pwdWVNYXdvcTQxdGhubjJ6OVZMRmktQ2JaTUh2SW16aUFEN2pwd2NXMVgzcUZpbEhVTjNCS3pFQ0Y2N3R3WU5xRzloM2lQYmdzZjFmRnBRMWdWbzJITmZIMG8?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "最長2.2mのペロブスカイト太陽電池も性能・耐久試験対応 ケミトックス 環境ビジネスオンライン",
    "categories": [
     "solar"
    ],
@@ -361,6 +646,20 @@
    "published": "2026-10-07T05:00+09:00",
    "via": "メガソーラービジネス（日経BP）",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "e9f5d994b5a28010",
+   "title": "京葉ガス、群馬に系統用蓄電所 需給調整ニーズ対応",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6TTBpOU02YmJTUWZCT0h0V1pyOUxDNC1OZkhPeUl5Y3hiTWJyOWpLWTF6VGN5QmtxeDNENUdndVJIR0hLRm05X2FyOXhIU3B5T2NmcEEtNTNJMXphTElrYXdzcXp3Vnhkc28tSmlWUVUzRnl3NDM2cUFQRQ?oc=5",
+   "source": "日刊工業新聞",
+   "summary": "京葉ガス、群馬に系統用蓄電所 需給調整ニーズ対応 日刊工業新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-07T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "e1708cea5f2735d1",
@@ -1327,6 +1626,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d146a691b596b609",
+   "title": "営農型太陽光発電スタート 岡山・鏡野の水田で山田養蜂場",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjMnBoTWl2ZW9IRlc3TXd1VHdUOTBNLU5mUmd5OGhsMnQ0Z3dDaHpld3VEc2RCUlZEb2lwejlRUm9pZklJM2dRck1BYVpHOXRCdVRfOXp4cWllSW9neGVHQ1BTQnUwVEE?oc=5",
+   "source": "山陽新聞",
+   "summary": "営農型太陽光発電スタート 岡山・鏡野の水田で山田養蜂場 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T16:00+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
   },
   {
    "id": "f1be2b114241f863",
