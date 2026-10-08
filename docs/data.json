@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T11:49+09:00",
+ "updated_at": "2026-10-08T13:50+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,123 @@
  ],
  "items": [
   {
+   "id": "bb4bb92248246ba4",
+   "title": "株式会社GRITZ、高圧系統用蓄電所3拠点（茨城・栃木・岩手）で受電開始－電力系統の安定化に貢献",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tQTc5SWRuS1hPXzRxSEUxUWVKbVhnUEZvY09WM0gwSHJZSWNZcEtnUUlBOTF0b0xfOVlKbk1ZU0ljbjFKRkh0eWpLOUp6QmlGcEJBY0FoMHBLSFVjdlJpZVpmSmhtejViX1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社GRITZ、高圧系統用蓄電所3拠点（茨城・栃木・岩手）で受電開始－電力系統の安定化に貢献 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "高圧（特高含む）",
+   "company": "株式会社ＧＲＩＴＺ"
+  },
+  {
+   "id": "fa6febd0c479b035",
+   "title": "太陽光発電施設から銅線ケーブル盗もうとした疑い 外国人窃盗グループを最終送検（KSB瀬戸内海放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEWUtGSjB4ckdoZGd0VzlNRkl5WnV4b3BWek5rVnpRb21wWDQ4V0hGV09BYjlqeDJ0elNuZGVKWXE4Y2xNd2ZuTFZmZWNldnVrV0F4bmRXQVQ4RG9VNTdpUVNWbWctd0lxekUzX1ZSZmlhNm9MRS1xSm9PRVBlZ3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電施設から銅線ケーブル盗もうとした疑い 外国人窃盗グループを最終送検（KSB瀬戸内海放送） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "90c3f1f9847835f6",
+   "title": "カラオケ店に太陽光＋蓄電池を導入 夜間に自家消費、購入電力量約3割減へ",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SSTZ3VkJJemk3bDBhUE5jelZOTXpZaEFUZS1vb1JoSlFjc3hSNFNnYzhvV0k5amF2ekJHLXFZSTlLcTZsZi1HRTZoRjBLTnZXRndPbU02cDRWTnpNYUEwNWRqUVRGMWU5RW05dUdvU1JvMklPZmVDNkplSDc?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "カラオケ店に太陽光＋蓄電池を導入 夜間に自家消費、購入電力量約3割減へ 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8488624677fcfaac",
+   "title": "野立て太陽光、草刈りだけで生物多様性保全の可能性 都立大が植生を調査",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNGdaSUo4X2NNR0s0czctLUhPdFRJb2VQaFgtSmh0dDU4SGROODFYb2NzNHE2YUdmZFlKd1ZZSzJsV25yMG1kdVpsRFJGdlEyRW5hbDRxNm1OXzJMMTZlcmVlbjNkVl9lYUhKRUdrMk9Fb3h4VFRZQTFhVU0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "野立て太陽光、草刈りだけで生物多様性保全の可能性 都立大が植生を調査 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:51+09:00",
+   "via": "環境ビジネス",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "8d0cfc93951ae52f",
+   "title": "乗用電動カウンターバランスフォークリフトの世界市場（2026年～2032年）、市場規模（リチウムイオン電池、鉛蓄電池、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ob3M2Umg4cW9Tak5kTmxSNlgtMlZoNkQwUE5WMU0wX0hocFgxajRpZ1l3MXdKZlJOWThjS2t0MDdUbUh0SDVpbFFyZXllcHc?oc=5",
+   "source": "アットプレス",
+   "summary": "乗用電動カウンターバランスフォークリフトの世界市場（2026年～2032年）、市場規模（リチウムイオン電池、鉛蓄電池、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T12:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "9aac72870bcdcbf9",
+   "title": "次世代太陽電池「ペロブスカイト」、30cm角で変換効率23.5％を達成 大型化へ前進",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uRXpOb0E0OURFNnZhb2FZcXpQdkdiY1oxSjBLM2djaWthTF8xM0RWUTV5bG9fS190QmU4ZDJYWHdzN25fRnhMSEpHaUlVSUZzVFRSaTZNbVZpVjloVXA3TjhwN25qdjBLZ3UyOWpmbWdsdw?oc=5",
+   "source": "XenoSpectrum",
+   "summary": "次世代太陽電池「ペロブスカイト」、30cm角で変換効率23.5％を達成 大型化へ前進 XenoSpectrum",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T11:56+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "5cc0c4d9785fea2e",
+   "title": "パネルは資源循環ビジネスへ リサイクル市場のこれから｜太陽光事業 要注目フィールド②",
+   "link": "https://solarjournal.jp/policy/67972/",
+   "source": "SOLAR JOURNAL",
+   "summary": "変化する政府の方針に呼応するように、太陽光ビジネスにおける企業の投資や事業スタイルにも変化が起こっている。本記事では、特に注目しておきたいキーワードの一つ「パネルリサイクル」とそれを取り巻く現状についてまとめ、その商機について考察する。 The post パネルは資源循環ビジネスへ リサイクル市場のこれから｜太陽光事業 要注目フィールド② first appeared on SOLAR JOURN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T11:48+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "0ee3557767c0440c",
+   "title": "三重県でフィルム型太陽電池向け施工法「シート工法」の実証を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kYmZteXM1a0J1cDJWWm1EV3VmRVVOMGxjUVBTTjFzb3NVVVE5NG5saDhRUzhBYThQaHZZNkVCdWJBZm5WNm5oMmVXRllVUktJV0RzSDVFczVOdHhNZy1qeFNDMElYR2I3VlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "三重県でフィルム型太陽電池向け施工法「シート工法」の実証を開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-08T11:46+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": "日揮ホールディングス株式会社"
+  },
+  {
    "id": "8549337d41a2bb8e",
    "title": "電気代0円なのに街灯クラスの明るさ！「Jenix ソーラーセンサーライト 大型ソーラーパネル搭載3000lm」が登場！",
    "link": "https://prtimes.jp/main/html/rd/p/000000944.000079052.html",
@@ -32,8 +149,85 @@
    "published": "2026-10-08T11:41+09:00",
    "company": "コメリ",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "c18d3c63f3f30740",
+   "title": "ヴィーナ・グループ、真庭太陽光発電所（72MW）の商業運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WSW15QTA2UUdSdjVfUDFBTHJLZUFjRTBJRzdGaHJQNFJvNmtMRjNDSWRKYmJGa3JMOXFFZUlDeGNLelM5N1BQdGhEQ1AwMVZ2X0x5bkI3SnRsRmstMFNhc3dybHEyamhTc3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "ヴィーナ・グループ、真庭太陽光発電所（72MW）の商業運転を開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-08T11:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "ヴィーナ・エナジー・ジャパン株式会社"
+  },
+  {
+   "id": "7ccf70926b40fa02",
+   "title": "真庭太陽光発電所で竣工式を開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdUpWYkJkaVpaNWxUMVVVS0hnRVprQ3c3SW9XazRhQ2JrQWNhUklvbnFlS0hxYlVyM1JCUWRoY3JUWjZEeC1MUmxHSE93N052MHFtWWpTRmRaN3pWU3A3d0Y3UFN4Sm9PakE?oc=5",
+   "source": "PR TIMES",
+   "summary": "真庭太陽光発電所で竣工式を開催 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-08T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "デジタルグリッド株式会社"
+  },
+  {
+   "id": "a48e88dc73bfb8fd",
+   "title": "デジタルグリッド[350A]：真庭太陽光発電所で竣工式を開催 ゴルフ場跡地を活用 20年間 LINEヤフーへ環境価値を供給 2026年10月8日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRXVhdm41MjBrMlU4SUZHUUxFX2p4TWE1X3E5cHl5ZGJaai1hclE4d09qMERUUzdGMnpmRS1BRWVWZnp0Tmo5N3l2TkJuRXZsRGVfQjVxU2RONGdJeVdaQUJfTUxjekZ0Z3c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "デジタルグリッド[350A]：真庭太陽光発電所で竣工式を開催 ゴルフ場跡地を活用 20年間 LINEヤフーへ環境価値を供給 2026年10月8日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a3b4c8730c1b621d",
+   "title": "暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR2NNV1ZqUXdhaHNVZXZJbU1UZXdPM28tYzFUaWZtWVY4RkZyNkFvVFA3RUpXY3dNX013NzJ0U0dkc21GRWhVX0ZCQ0lvTnpWeGlVV1lMTTNLWXhFT19iSQ?oc=5",
+   "source": "OMRON Global",
+   "summary": "暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売 OMRON Global",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T11:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "company": "オムロン株式会社",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "de54b4473aefb9fc",
+   "title": "Bluefield Energy、「［九州］次世代エネルギー展」で太陽光発電所・蓄電所の収益最大化策を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iTWl1WGoxR190RGN1VDNLdEFjMWROTXFBbkN2UDQtM2oxMkpHNTZ4UzRURTZ3amIwenF5XzVmTnhhRURFcllpMkw4SlE3NXdLUWdmNW5yc0VSZ0FESWhSNjB5NUJWc0tnaUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Bluefield Energy、「［九州］次世代エネルギー展」で太陽光発電所・蓄電所の収益最大化策を紹介 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T11:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "次世代技術",
+   "storage_topic": "その他",
+   "company": "Bluefield Energy株式会社"
   },
   {
    "id": "0134bd1d7d78284e",
@@ -361,6 +555,20 @@
    "published": "2026-10-08T00:13+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "48ade51518f90f67",
+   "title": "画像 | 期待のペロブスカイト太陽電池､積水化学の開発者が語る商用化の道筋､｢2030年度以降大規模生産し､ビジネスとして自立｣",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PNUJXN1lTdUpIdjZ1VlBIVmZEdEFNWXJ3LTZZaUFvOHJSdDQ0dHNHbFBoZ0hwS29MWDAxcEwxVmQwd1o3Zk1hdEdDZDZQYThFcHc3MThqYw?oc=5",
+   "source": "東洋経済オンライン",
+   "summary": "画像 | 期待のペロブスカイト太陽電池､積水化学の開発者が語る商用化の道筋､｢2030年度以降大規模生産し､ビジネスとして自立｣ 東洋経済オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T19:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "aa39a65184266853",
@@ -1398,6 +1606,20 @@
    "published": "2026-10-06T11:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "2c080a2a86ce5a9d",
+   "title": "高地に太陽光発電を導入する。",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jNDRxZDQ3OF9YdHNLUFdpRXlwNnBVekxvU1dhYV9XM0ZscjY0eFpELVBnanNzTW14cGdLT3hZWVIyZkxMMkVSYVlfeTVUOE1VcEFnWVBlMjY2bVRSMjBTclF3ZVJndWk0VlRuTkcyU3k5QQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "高地に太陽光発電を導入する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T10:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "c804f8ba24733d2b",
@@ -3758,6 +3980,20 @@
    "published": "2026-10-01T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "9a610128d6779559",
+   "title": "発電出力1,990kWの太陽光発電所「野場太陽光発電所」の営業運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RbEZiRGxkdWU0ckZNelhYbWg0eTJ2NkR5WWg1U2JtTlNYU01CRFJINXRnVlNadXdEaDRzc2lSYktrdUFqNFh4X2ZFOFM5UTJfVU1pSnhsZVZxbTRoX215QUxWZlc?oc=5",
+   "source": "中部電力",
+   "summary": "発電出力1,990kWの太陽光発電所「野場太陽光発電所」の営業運転を開始 中部電力",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-01T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "5853807eebc034c6",
