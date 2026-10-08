@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T13:50+09:00",
+ "updated_at": "2026-10-08T16:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,81 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "3a8db4de9dfbb16c",
+   "title": "グリーンアライアンス、宮崎県日向市総合体育館（愛称：ひよざえもんアリーナ日向）に太陽光発電システムと蓄電池を寄贈",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4SXlEZDYwaWZHZlRxZlkwVE9iVUxhS1luQ2Fma2E0dWpvWHY3dl9BNWRzU05wckZudG03NmZYa2NiaURUSHM5blZsTXl6cnFkOGJSbzBHdGxxM1BtdHVlMGYtdWJETjBIX3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "グリーンアライアンス、宮崎県日向市総合体育館（愛称：ひよざえもんアリーナ日向）に太陽光発電システムと蓄電池を寄贈 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T16:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他",
+   "company": "ハンファジャパン株式会社"
+  },
+  {
+   "id": "8622f922100fe5f3",
+   "title": "エブリーラボ、低圧系統用蓄電池の申請済み・申請案件が100件突破 土地付きプラン50件を先行限定販売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbWdZdUZBQXJQcGRicGZ0TGl1Ul9RRmVPbVBIMlA3MlMtRGwwWHE3QzNtZ1ZKR1h0Y0NOMTlneUk5MWgtMzQ1ZHBtRGlDWFNwYlNOQzR3UnhOU0VwRnQ1b1lqb2dQSTRzZ2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "エブリーラボ、低圧系統用蓄電池の申請済み・申請案件が100件突破 土地付きプラン50件を先行限定販売 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T15:20+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧",
+   "company": "エブリーラボ株式会社"
+  },
+  {
+   "id": "e7671baf228b848c",
+   "title": "【BCP対策・防災備蓄に】プライム・スター、第三者機関の安全性試験に合格した小型ポータブル蓄電池「HUG-CUBE」を発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZTFPWXFST3A5TGctUEtLTldLSC0zVk56bUY2X2s0QzVyV3hFSWkzNDBORUhlZXY4ekNJYVZyMUQ0ME9XSTVVSThVZkhyTXd2aE5MNFYwSUg5MjYyWjVXSm9jNUJzV1UtREE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【BCP対策・防災備蓄に】プライム・スター、第三者機関の安全性試験に合格した小型ポータブル蓄電池「HUG-CUBE」を発売 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T15:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "プライム・スター株式会社"
+  },
+  {
+   "id": "e920e0d30b1ef819",
+   "title": "蓄電池の系統接続、検討料引き上げへ 出力制御見通し・JC-STAR要件も",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jaGdXVk5pZDUyQnpGLXd6Umx2VDE0UHl6dmRhRXpXS181dGRkM0l3eGI2NFNjY0RpN2kxTm9PNXJCd0NlbUU0Q0hkOGVQTHJ5NHc1VjRNdFltU25lZkk3TnVGemxsT3liWkxxbVJoeVR6XzJrcWswbF9uaVE?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "蓄電池の系統接続、検討料引き上げへ 出力制御見通し・JC-STAR要件も 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T13:25+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "887ab527244dd419",
+   "title": "パナソニックのHEMS機器が進化 他社蓄電池の充放電制御も",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlpWbkpJUnNrdHNPTXhtSGh6MC1MWEx1LXplejZJbENZaVNfd2VyaVF5c0lCX05hZURxYWF5RmlNLVRtSmkxRVh6ZmgxMUd5RXFjV0ZxSVpmSTZjRHM2OEVvVEFTdXRUNU50ekRzcjREMmpGY0dYTmtkcVFyLVRldE9xRElVYXVp0gGIAUFVX3lxTFB2WlZuSklSc2t0c09NeG1IaHowLUxYTHUtemV6NklsQ1lpU193ZXJpUXlzSUJfTmFlRHFhYXlGaU0tVG1KaTFFWHpmaDExR3lFcWNXRnFJWmZJNmNEczY4RW9UQVN1dFQ1TnR6RHNyNEQyakZjR1hOa2RxUXItVGV0T3FESVVhdWk?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "パナソニックのHEMS機器が進化 他社蓄電池の充放電制御も ｄメニューニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T13:04+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "storage_topic": "その他"
+  },
   {
    "id": "bb4bb92248246ba4",
    "title": "株式会社GRITZ、高圧系統用蓄電所3拠点（茨城・栃木・岩手）で受電開始－電力系統の安定化に貢献",
@@ -196,6 +271,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "a5de8698840f43df",
+   "title": "太陽光・風力発電量予測がさらに強化中 〜再エネ発電量予測の「不確実性」をAIが定量化、需給運用の最適化を支援",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTlhTZTVwWFN2bnVTODcwU2hhMGVnTThKS2F6YVVQbk1Lc0FRZ0tmYk9jcUlROGMtQkE0RFhEb2VaVEN0TVpleDhWd2gtRkhWWlFrVkVleExfdXkx?oc=5",
+   "source": "Weathernews",
+   "summary": "太陽光・風力発電量予測がさらに強化中 〜再エネ発電量予測の「不確実性」をAIが定量化、需給運用の最適化を支援 Weathernews",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T11:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
    "id": "a3b4c8730c1b621d",
    "title": "暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR2NNV1ZqUXdhaHNVZXZJbU1UZXdPM28tYzFUaWZtWVY4RkZyNkFvVFA3RUpXY3dNX013NzJ0U0dkc21GRWhVX0ZCQ0lvTnpWeGlVV1lMTTNLWXhFT19iSQ?oc=5",
@@ -235,6 +324,20 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pLUxnTEhqQzZCYnFIdGNhNGlrM2gtbjVNOE1DT0ZhbUs4Z1Vsd0NfTWljU0xHV25HTmxnb09aWlFDd01YdDA2SlBxUms4VjBIbUROWF9FRzNqZw?oc=5",
    "source": "TBS NEWS DIG",
    "summary": "太陽光発電施設から銅線ケーブルを盗むなどした疑いでカンボジア国籍とベトナム国籍の男らからなる外国人グループ計14人を逮捕し最終送致【岡山県警】 | 岡山・香川のニュース | 天気 | RSK山陽放送 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T10:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "46926c491171f48a",
+   "title": "太陽光発電施設から銅線ケーブルを盗むなどした疑いでカンボジア国籍とベトナム国籍の男らからなる外国人グループ計14人を逮捕し最終送致【岡山県警】",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNHVncWZhUldRTm9VNmZzNFl0NVFTZ2c5REp6bFpZVHlCQy16U1lCQUZSZ2pmNjlRV2Z5ckJTUlpSYWVJSWpQOTJWZWEzWUtyNjBaYVZTVUQtOEk4NU5Ocw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "太陽光発電施設から銅線ケーブルを盗むなどした疑いでカンボジア国籍とベトナム国籍の男らからなる外国人グループ計14人を逮捕し最終送致【岡山県警】 TBS NEWS DIG",
    "categories": [
     "solar"
    ],
@@ -359,6 +462,34 @@
    "published": "2026-10-08T08:00+09:00",
    "via": "環境ビジネス",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "43104acd43e8e612",
+   "title": "大和エネルギー、系統用蓄電所のＥＰＣ事業に本格参入 第１号は50?ワット出力、容量１０９?ワット時",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENFhGdmJfbW9IbE0tQWlTQ0xTV0NhQkl4M0ctNjhUY0hkRWsyV21nX0RqNGZrWVMwU2MycUNpRTZJOUI2V0ExUUFqNUhmRkJHdVhaeERWTW9uSmg5ZVppUWNLbE5GU0VoRTh6TDktWGs4ZlJJS0FXOUJ3QQ?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "大和エネルギー、系統用蓄電所のＥＰＣ事業に本格参入 第１号は50?ワット出力、容量１０９?ワット時 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T07:48+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4a2158be00387744",
+   "title": "エコスタイルとＴｅｎｓｏｒ Ｅｎｅｒｇｙが業務提携 低圧系統用蓄電所１０００基の連携目指す",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zdzZfUDZ3SG1XSVgwSTBxUzBHNlNyT0FHUlp0bFpfall1ZmFHOVBBQTh3bTZOUkFGSWJlNm1raUlMVWhyQ01vc0dEOEN2QXNKLWZ0TlI4T2dfMEptekdZUkpoTXZBQXFTdWFQSHJYUC05eTgxR0N2bm1Icw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "エコスタイルとＴｅｎｓｏｒ Ｅｎｅｒｇｙが業務提携 低圧系統用蓄電所１０００基の連携目指す 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T07:48+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
   },
   {
    "id": "44279d4fc430bf41",
@@ -555,6 +686,20 @@
    "published": "2026-10-08T00:13+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "67e79261114ce93e",
+   "title": "銅線４トン盗んだ疑い ベトナム国籍の男３人逮捕 太陽光発電所から2350万円分",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoa3VaLXhvSGJ2ZzlPQy05N3VkT09vRmxzMDFHNWczTTdxOXQwY1JZNDJnMEFZNWJQZlk5MmdiX0U4VDRua2tkV0hvU1BVS3pfU1dhTkxXMXJyem1GVXFaZ2NKWmg3T2Vmbk8xakx6bTgyTmVOTFU5RTkxN1RuNzQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "銅線４トン盗んだ疑い ベトナム国籍の男３人逮捕 太陽光発電所から2350万円分 Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T19:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "48ade51518f90f67",
@@ -871,6 +1016,20 @@
    "published": "2026-10-07T11:09+09:00",
    "via": "Googleニュース「営農型太陽光」",
    "topic": "その他"
+  },
+  {
+   "id": "f817d6b7a6f5c342",
+   "title": "TAOKE ENERGY、宮城県蔵王町の2MW／8.14MWh系統用蓄電所を株式会社BTホールディングへ引き渡し",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcGQxdnVKVld5UWdnQk16ODhocldHZEVlVHhVZVJpRXZPYnhYQTUyeDkyT2FEMEhRUm1oN04wQzNiU1hWcFppS1NfY25jVGs3T01Dci03LWxud2s?oc=5",
+   "source": "朝日新聞",
+   "summary": "TAOKE ENERGY、宮城県蔵王町の2MW／8.14MWh系統用蓄電所を株式会社BTホールディングへ引き渡し 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-07T10:42+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "a4cc79644b11b770",
@@ -1738,6 +1897,21 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "03ae2d0e5d630b49",
+   "title": "第11回 産業構造審議会 イノベーション・環境分科会 資源循環経済小委員会 太陽光発電設備リサイクルワーキンググループ 中央環境審議会 循環型社会部会 太陽光発電設備リサイクル制度小委員会 合同会議（METI",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek1YRWtUQ2pLS2xZbWVrTTJ2R0l6X25TZU04R0N5UzBwR0V3SV9WMlJEczJFYlVlSVdEUUxrWGJHUTBpT3JMWDNzWWRQbzVkRC1WRmZGSUVZN2lDUC11UG1LRkhkaEpLeXRFd3dOa2FPVUJLcmJtVHplQks5ZGtHUlpFNWFZcW8xWDduTE1oSnVEMzB6YWIyRHlSSlZiSi1XZ1phRUdITmROZWdRUmtr?oc=5",
+   "source": "経済産業省",
+   "summary": "第11回 産業構造審議会 イノベーション・環境分科会 資源循環経済小委員会 太陽光発電設備リサイクルワーキンググループ 中央環境審議会 循環型社会部会 太陽光発電設備リサイクル制度小委員会 合同会議（METI 経済産業省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-06T09:27+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "topic": "政策・制度",
+   "company": ""
+  },
+  {
    "id": "d7f1ec443ca88b99",
    "title": "電気代高騰に7割が負担感、過半数が太陽光導入を検討せず",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MV2VEclFQMFJhd3NhVVNsVlRRUVk1QmxVQ0VqTE11VWJjSHk2NExJX19yVnJGRnJqaWozemxtRFpLNDR5R2gwY2QyZi13eWIySmc?oc=5",
@@ -1976,6 +2150,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "eb476dc8d16c575b",
+   "title": "NetworkOcean、サンフランシスコ湾の太陽光発電式浮体式データセンターでGPUを稼働",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQThwaTRCWnNPcGp5dGk0Zm9xcG5IV1lRbExLSlhVXzJmbGFzcHJ3alF5MVJ2dHVZc25oMFVhcWo0bkF6MlFRNy1IdXdaSzQ1Qkh1RGlTYXdNN3N3d2Fzb21EWVFyZ1Z5QW5sWGtnc0pQdHdnSGNoYVhmdFhRZUdtMmNaUEh2NGpU?oc=5",
+   "source": "データセンターカフェ",
+   "summary": "NetworkOcean、サンフランシスコ湾の太陽光発電式浮体式データセンターでGPUを稼働 データセンターカフェ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T19:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "97a40bd80dfd6e3c",
