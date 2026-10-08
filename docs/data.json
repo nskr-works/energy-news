@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T18:53+09:00",
+ "updated_at": "2026-10-09T06:53+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,106 @@
  ],
  "items": [
   {
+   "id": "73f01e4367c06e03",
+   "title": "滋賀県の産業立地戦略「重点分野」に航空・宇宙など追加へ ペロブスカイト太陽電池など次世代産業後押し",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyX2lSRi1yQXJ3VHZ2bnBMaXBJS3RQM1h3UlkwWFpIV1MtRU9pQ1prejNqMksyUDc3OHZOVFZvSVh1RGV1ZG5qMGROY1BkRFUzRE43U0RPOU0?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "滋賀県の産業立地戦略「重点分野」に航空・宇宙など追加へ ペロブスカイト太陽電池など次世代産業後押し 京都新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T05:54+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3a4d0b2a00dc041e",
+   "title": "小矢部に北陸最大の蓄電所 ヘキサ社整備、２８年に運転開始 電力需給の安定化へ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKS0lsR3lPNUFSRk1ybmFpTEotS2VPX0o2SVVrMU9GQmxsd05jdy0yeTdFdVlkUlhEc2hVbi1ObU96S3pEOHFaZFBEQVAzVExxWWdCZFFmaw?oc=5",
+   "source": "北國新聞",
+   "summary": "小矢部に北陸最大の蓄電所 ヘキサ社整備、２８年に運転開始 電力需給の安定化へ 北國新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a5af3f8af8045654",
+   "title": "安芸高田市に地域共生型の太陽光と蓄電所、ウエストが稼働",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SWpmQ25QSHZ3OTAzYWJYdk82dWt2RGlSNE85cXJqV3BtWXV0N3Z4ZUZXamllZG9NdFNRWGNoYnlMZmhvTEZwU2tlM09jM3A0WEo5YkdET0ZpaWFsa05peEoySnVWNEY4UnRNZg?oc=5",
+   "source": "日経クロステック（xTECH）",
+   "summary": "安芸高田市に地域共生型の太陽光と蓄電所、ウエストが稼働 日経クロステック（xTECH）",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1b5785e34a977476",
+   "title": "【需給調整市場】翌日の電力不足に備え 調整能力を取引",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU9pd3pSaWhKbG1OMFB1Q0N0Y3VHRFQ0MXNNQmZ4ZlJJZ29aazRweG53eE9LZ05WWF9kWGlqMUx0bzdPZnlfT2F2ZTREQTRVQUNCeWJpcjNaelZUYURYS2d0NkFIelp4MTNmV3JoM3c1ajJsVVdSY0RsM2duSi1YVU16aUlRaFpQa2pOZS1PV1gxUkVWVlpHRjc5alo?oc=5",
+   "source": "日本経済新聞",
+   "summary": "【需給調整市場】翌日の電力不足に備え 調整能力を取引 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T05:00+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d0c6fc578f2c45c3",
+   "title": "ノーザンソーラー、太陽光発電の建設受注",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51cU1jNTNNT0tJc0xmcGZFaTFBS3NKVExzQWp1VWpLdVAzb0Y1ZVVEaFUxNWF4VDJYaHFiSkMyOFJDZ29mRUE?oc=5",
+   "source": "NNA ASIA",
+   "summary": "ノーザンソーラー、太陽光発電の建設受注 NNA ASIA",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "006af76cb09da102",
+   "title": "「若い人も発電をもとに携わる人が増えてくると思う」 農業×太陽光発電 電力の地産地消 さらに売電で農業経営の安定を図る 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKWlhaRmk1UG04LWhNc19qZ1F0MDNTTG1uZ3hYaGVJSktVd1lBNDFIYnM0dlpRcEw3QVVJanZyTG0zT0p2ZE5saEVRVWRMLXl0ZkEyOGExRFZ1Zw?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「若い人も発電をもとに携わる人が増えてくると思う」 農業×太陽光発電 電力の地産地消 さらに売電で農業経営の安定を図る 山梨 | 山梨のニュース | ＵＴＹテレビ山梨 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T20:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "5b2054c46072f78f",
+   "title": "「若い人も発電をもとに携わる人が増えてくると思う」 農業×太陽光発電 電力の地産地消 さらに売電で農業経営の安定を図る 山梨",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNHZ5cXZvZHhyQzRqaVBic3VCblJITzRnMDFvMllGcmhPUEVDRlJSV2FWbldFQkloUlVyX1hXS2FEcENSZlRKMzctR2pLeGZ6RG1WUE0wRkpiZGl4am94WDdXakdqM3kxWmtHUnZFcGJvZmxPV1U2TzlsZ200N0hhai1aWnhScWMzMzJsOGpZUE84ZHlNWXAtVzBMRk9SMmg5ejhIT3ZJMTI3MUFsb09EWE16cnJSQ0NJQ3l1Q0hFQVJuTjZqQi1UbmlaRTRHemF1RHhkcnJuQlpDNE1xcGxhQ0l2N2ZISDk5Y0RrcjY5TmhBZ1laWUE?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "「若い人も発電をもとに携わる人が増えてくると思う」 農業×太陽光発電 電力の地産地消 さらに売電で農業経営の安定を図る 山梨 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T20:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "d97e999c01de7348",
    "title": "容量市場のオークションはなぜ「数年前」に行われるのか――先行確保の仕組みを読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000035.000181124.html",
@@ -32,8 +132,122 @@
    "published": "2026-10-08T18:41+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "eefe4037bcaaf2b8",
+   "title": "エジソンパワーが蓄電池の価値創造と収益化事業を強化",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQX0pJa09BQTh2QnRyU3JUU0tEQ0kwenRRcTNMV3hPdTA2dkJoRVJVVXdzUDhBMnNSbS1ENzF4SkEwbmEza09xUGs3UUpHZjlYNXlSR0hha0gyT0kxTnY5WWYwVGlUZGkxREZURTJkTEtGalhBWGV6Z3Q3aVd4OWVoNmVkbmV1T0NVVHl6a2V4cFpzN1A3UzQ0UEI1NzZydDNpU2pMNVBucWhfSGZfOVdDQkVlVy1YV2s4RHUwSnlxOVRFemM4alhBMVBVazBpNFd3dkhDc3VNbGdudl9qd3RZZk9ZTFRJUTdkbjJMS1VlMU9LZE1qMFlaS2RPUWVBR0U1VG0xWFJPTU56eVotSk95cGN2bGpwZ01BZ2JiY3RVNTdSTy1ESElQOHBqZWdUYktjTmJOUDgtN0puTGhpV0w40gHEAkFVX3lxTFBvSGN1c18yQWRJcHEyT2hFZ2lDbTYyN0ZGOXRJd1FjcWU0eHB6NHBJZzV6djFkcGVTM3IzVzZOazdWTDhIcFlYRkFycnJkUExyWUxOamhERWkzZGMwd1VUeVRkUGRLYXFYeTRuMF90QnVFRXFtLUNrcWtUQlFlN2tkYVdjb05tQkJ4bFRhc0YyQnh0RS12QkgtTklsdUVteThka2pDWHJ4YkFGNEptWTdVWmMteV9nRDVsaFhKWVNpQXh1V2RndUVTNmRNYU9GSkJFNHJDSlZvQ0JyOTgtUnJQZGRsN3lFZDdMV1dXX2pUUjZ1M24tT0toWUZzTUh5cXREalJNT2hLQkpvU0RJdUszUnhoN3ljZmlNMVN3X1hkTmZpem8yRXppamlqaDJuVXhWM2R6a0VRUEdzMlhpeHZjX3FLaQ?oc=5",
+   "source": "South65",
+   "summary": "エジソンパワーが蓄電池の価値創造と収益化事業を強化 South65",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T18:37+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9737824589e79f89",
+   "title": "静岡市清水区の系統用蓄電所事業者が建設計画を中止 住民が騒音・火災リスクなどから反発 「住民の気持ちを考慮」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Fd0FGMDMwa1BKNXByVFB3NUNPNm5oMGo1RFdxNDBxb2ZzS29ZZ0FVU3ZnUDV0Y0EzMUZtYmZoeTAzRUN2VGVVU2RCZ0c1YWJSVXlEd0xFc3hTb2E1b3l4bzdsYkxNTWVwNW1wVktZbnpxeUw4cWE5c1k2UUhLYkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "静岡市清水区の系統用蓄電所事業者が建設計画を中止 住民が騒音・火災リスクなどから反発 「住民の気持ちを考慮」 Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T18:07+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b4c6ebbd87e19937",
+   "title": "産業用浮体式太陽光発電システムの世界市場（2026年～2032年）、市場規模（PVモジュール、浮体および係留システム、インバーター、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xVEhxaWJVallzZ1VydV9zRDBVLUNYSk5jR29kdDNFOV9tMURuOG5GVTRPSkJRSXEtM2pVX0dxLU5TNnk2X2lZVTlxa3ZrcE0?oc=5",
+   "source": "アットプレス",
+   "summary": "産業用浮体式太陽光発電システムの世界市場（2026年～2032年）、市場規模（PVモジュール、浮体および係留システム、インバーター、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-08T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "e3acac8d80fb058e",
+   "title": "京葉ガス、国内で系統用蓄電池事業に参入 まず群馬・伊勢崎で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UdU94MHVGM0V4WjFDR0oyd2RXOUVlR29jTHc1SUVPVzRGUFdyMk9rRDktZlZYb1hIaG5nTmdvaV9Xb2xLOXdoekxKdzZoam55Q1JkZU1ILVFXWTJVUWtlZUQ5bHBDRmhQdE9NTQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "京葉ガス、国内で系統用蓄電池事業に参入 まず群馬・伊勢崎で 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:56+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1e6ebaf6bfcf5281",
+   "title": "【政策】経済産業省：系統用蓄電池の接続検討料引き上げを議論、低圧蓄電池の分割設置規制も強化へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RVUg0VjE5bGZqOWs5MEhFQTF0UUY5TlhuOFFORGRXdWxPcUNxR2tPVDBQMDVoT09lcldFS3lfSjg1S25hTm85bUFmb1Q1QjFLZW5EUGFkQmEwLXctQnQ1YVFYVVR6LWJMbUxVZkpnNlp1dw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【政策】経済産業省：系統用蓄電池の接続検討料引き上げを議論、低圧蓄電池の分割設置規制も強化へ みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:48+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "4926d0860235bd87",
+   "title": "【速報】電力不足の際に放電「系統用蓄電所」 事業者が事業中止 「反対運動が理由ではないが…」 静岡市 （静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVHVMTHJCZ2R3Z2dtNFZrb2xkYUVFSzVLZ0pOWjE5blZtV08zT1VoOS01eFRtZ3J6cG9iUm5RcWV4TnBpM3FzV3oyS0JkSzFacy1yblczNlVQME4zZ1FwcENPclhBNElHbTJ0cnh0NGNYWjlrWFo3a0dvZ012bjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【速報】電力不足の際に放電「系統用蓄電所」 事業者が事業中止 「反対運動が理由ではないが…」 静岡市 （静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:23+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5d7d8a1f51d30990",
+   "title": "経産省、系統用蓄電池の「低圧分割」抑制へ対策",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3cnFsa0szNXZzanNXQ1RtQlhfOWM2X3VGQ1h3bGlyZ2lsNVo0SFAxMGdZSncxUFlHRnA1N1F0WEtoM0R5S3lsbzZ3ekFWREM0Ujc2OTR5UEdoZnVESVhtS2VndDQzbzd5ZzhWb0M5X2tMTWFM?oc=5",
+   "source": "日経BP",
+   "summary": "経産省、系統用蓄電池の「低圧分割」抑制へ対策 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:35+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "政策・制度",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "33856efef62015d2",
+   "title": "設備更新に伴う「JC-STAR」適用、経産省が猶予の条件を公表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10T2ZvM3hjWEVxWjVHMmZCM1RLX3NNVmdIanVjeGlnNk1ObTRIeUxzMGUxSG9vOElsWGdCM1Jva3JiTjhrSmtkMTJMTFFHQkVubHM3LW91d2I1OUxBam1fV2hvNFprUG1KOGxxbFdzZE9YVk5z?oc=5",
+   "source": "日経BP",
+   "summary": "設備更新に伴う「JC-STAR」適用、経産省が猶予の条件を公表 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "3a8db4de9dfbb16c",
@@ -53,6 +267,64 @@
    "company": "ハンファジャパン株式会社"
   },
   {
+   "id": "cfb8606eed22b821",
+   "title": "今年度の出力制御、東京・関西など5エリアで当初見通しより増加",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaHZZbWN5T2UxUHVmU1YzaTJQZmdEX2tWalhLX1VwMjQzZktYcWtmZno5MmFaelNEYm1ldjdpR3hhT0lIWldRWF9EQno3Qms1cEh2SjdDXzlRM2lUYXhyQlItS285WTktWlZoREh6aUw5M2tv?oc=5",
+   "source": "日経BP",
+   "summary": "今年度の出力制御、東京・関西など5エリアで当初見通しより増加 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:27+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a851ca3748155e0e",
+   "title": "飯塚市のFIP転メガソーラー、併設蓄電池で需給調整市場にも参加",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jUndIUndsMnozSGZ6d094elNBckxvQ25iV1NvY1dPVm9HbDk2b2lKXzBhU19JN1ZiRE1BWFYxZW1RbWNYR2VOS1ViQ1pXeTVwZ1kxdkE1cjR3RUpxejdUc0JmR2RiWVdMa3lvRWFaS3lqN0kz?oc=5",
+   "source": "日経BP",
+   "summary": "飯塚市のFIP転メガソーラー、併設蓄電池で需給調整市場にも参加 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7df8ae956ff7b46f",
+   "title": "【太陽光発電】日揮、三重県でフィルム型カルコパイライト太陽電池向け施工法「シート工法」の実証開始",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNenBPYy05QmQwMDFFSk5DNDc4NDJGWXZxLXpvLXE5VFRIX1Y4R0dLVXV3ZFVfSjZ5ejhvRFh4YkZLdUozNWthUVJHMFdjd2FUV2tqdmlwVHJncnR3RHZfQ1B3UUt1QzI3LVVXQndnOU4xYTlGNUh4NE4yQU4zMkc3YTIwSlNmMkFrSzNnZTg2UjVNaXFuU3IzVDVOWVNLSUlQNjZ4dFdFOTJkM1djbFE4RjdwSWNWdFRkdmtrLXV3WnlWT1NMQ2ZUbXhmWWF6VWMtd3JoTHcxQUN6OEJUU2Q4bkNtbThwMmFBYkRtbTJMU29aZmdINGVjOVoxLW0xNUlla2NiaDBOUWFWc2ZBRm5yWWFNb1g5cS0wSHR4b3JlWGx6MndNOGRxQTdmYjBRM2hKd3c5eWhqem9pRHRlWkZkZkJDMlU2YlM2SU5Xd2ppdTI1YkhwOGc?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【太陽光発電】日揮、三重県でフィルム型カルコパイライト太陽電池向け施工法「シート工法」の実証開始 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "5ea63fd69a3c6f60",
+   "title": "パルシステム電力ら、山梨県で太陽光発電による電力の地産地消を実現 農業と再エネの両立を推進",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtN3Q1THFpalhfbDdCc0ZISy15Z0ZRbE1wYTNaQXBkSHAzWkNpTEhuRFFrcVZmN09waDgtWjIwelltNTg0RHAw?oc=5",
+   "source": "新電力ネット",
+   "summary": "パルシステム電力ら、山梨県で太陽光発電による電力の地産地消を実現 農業と再エネの両立を推進 新電力ネット",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T15:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "8622f922100fe5f3",
    "title": "エブリーラボ、低圧系統用蓄電池の申請済み・申請案件が100件突破 土地付きプラン50件を先行限定販売",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbWdZdUZBQXJQcGRicGZ0TGl1Ul9RRmVPbVBIMlA3MlMtRGwwWHE3QzNtZ1ZKR1h0Y0NOMTlneUk5MWgtMzQ1ZHBtRGlDWFNwYlNOQzR3UnhOU0VwRnQ1b1lqb2dQSTRzZ2c?oc=5",
@@ -68,6 +340,20 @@
    "company": "エブリーラボ株式会社"
   },
   {
+   "id": "e753450e676574f4",
+   "title": "三重県でフィルム型太陽電池向け施工法「シート工法」の実証を開始 | 2026年ニュースリリース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84OFJLejhjb19Hb2lCaXI1T1ZLWjkyVXdjajZFTzJCbzF0U0VhMUJWNkZiRkF5TFRSRndVTkllLVdQQzdJZzNXMkVvWjJQMy1NQW9Ja0doeWVTUlo3bmc?oc=5",
+   "source": "日揮ホールディングス株式会社",
+   "summary": "三重県でフィルム型太陽電池向け施工法「シート工法」の実証を開始 | 2026年ニュースリリース 日揮ホールディングス株式会社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T15:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "e7671baf228b848c",
    "title": "【BCP対策・防災備蓄に】プライム・スター、第三者機関の安全性試験に合格した小型ポータブル蓄電池「HUG-CUBE」を発売",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZTFPWXFST3A5TGctUEtLTldLSC0zVk56bUY2X2s0QzVyV3hFSWkzNDBORUhlZXY4ekNJYVZyMUQ0ME9XSTVVSThVZkhyTXd2aE5MNFYwSUg5MjYyWjVXSm9jNUJzV1UtREE?oc=5",
@@ -81,6 +367,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "プライム・スター株式会社"
+  },
+  {
+   "id": "604a9ab72bded2eb",
+   "title": "中圧並網型太陽光発電用インバータ（スマート箱変）業界動向：2026年の市場規模は3142百万米ドル見込み",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DZVU3eHRERW05UlI5QVRjRXhxeDRncXFpTGJJN3B0SHBTRjk0RmluR3A0RUZkeGVrQmNVSlE2amhDNURJckhFWEFxMzVLV3Vwdi00?oc=5",
+   "source": "ドリームニュース",
+   "summary": "中圧並網型太陽光発電用インバータ（スマート箱変）業界動向：2026年の市場規模は3142百万米ドル見込み ドリームニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "e920e0d30b1ef819",
@@ -168,6 +468,36 @@
    "published": "2026-10-08T12:51+09:00",
    "via": "環境ビジネス",
    "topic": "O&M・保守"
+  },
+  {
+   "id": "facd5032be847c95",
+   "title": "太陽光発電、野立てでも森林周辺なら下草が生態系維持に貢献 都立大調査",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNGdaSUo4X2NNR0s0czctLUhPdFRJb2VQaFgtSmh0dDU4SGROODFYb2NzNHE2YUdmZFlKd1ZZSzJsV25yMG1kdVpsRFJGdlEyRW5hbDRxNm1OXzJMMTZlcmVlbjNkVl9lYUhKRUdrMk9Fb3h4VFRZQTFhVU0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電、野立てでも森林周辺なら下草が生態系維持に貢献 都立大調査 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "14632083ae79fd8d",
+   "title": "カラオケビル屋上に太陽光＋蓄電池、電力30％削減 稼働多い夜間に自家消費",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SSTZ3VkJJemk3bDBhUE5jelZOTXpZaEFUZS1vb1JoSlFjc3hSNFNnYzhvV0k5amF2ekJHLXFZSTlLcTZsZi1HRTZoRjBLTnZXRndPbU02cDRWTnpNYUEwNWRqUVRGMWU5RW05dUdvU1JvMklPZmVDNkplSDc?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "カラオケビル屋上に太陽光＋蓄電池、電力30％削減 稼働多い夜間に自家消費 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
   },
   {
    "id": "8d0cfc93951ae52f",
@@ -438,6 +768,21 @@
    "company": "サステナブルホールディングス株式会社"
   },
   {
+   "id": "c2e4bf040bf1e409",
+   "title": "【系統用蓄電池の導入準備】9月に出荷前の機器連携試験を実施―417kWh「Raptor」の設置設計・保守性も公開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdmFEVlo0bzdGbDg5OGhsTlJsaVIxUXlCbi1MSWJBLWFsVUZXcEI1bTVrcFFaMXp2OFA0aGsxYVVkSGJfdXFwYm5KeGhUa1hmWTB2anBmVlNETWF2bFpqM1NnUms0R29GY3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【系統用蓄電池の導入準備】9月に出荷前の機器連携試験を実施―417kWh「Raptor」の設置設計・保守性も公開 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
    "id": "114ad09884f4932a",
    "title": "令和９年１月１日から壬生町太陽光発電設備の適正な設置及び管理に関する条例及び同施行規則が施行されます。",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxMldtRXZDa3RJa1B2NzRzRWxxejVaMGw0VEg3ZUtqMk5WT25LQjZmdTA2Tmkwdm9hX21ROGJsdGJoT0V4ZkRjdHUtbzFCUThQVFdjdzFsTzZTY2pWbUNlMkZn?oc=5",
@@ -676,6 +1021,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "05827ba0bca7b920",
+   "title": "ペロブスカイト太陽電池、量産化の動き加速…先行する中国と「差別化」課題",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iX0JJeG8yQ2xrQjI0azI2WktxbXR2V1cwVU5TRUx2OWVoRGNkOURLTEYxaVg4NUZxVW1VMkgzb2c2TUxza1ZEUk5XUi1BWVJVMjNITGpJX0xWaDgwR1hrRjk1cWU?oc=5",
+   "source": "読売新聞",
+   "summary": "ペロブスカイト太陽電池、量産化の動き加速…先行する中国と「差別化」課題 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "a5d43aa574214880",
    "title": "Harmost「3台用中間柱なしタイプ」",
    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/092901008/",
@@ -830,6 +1189,20 @@
    "published": "2026-10-07T16:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "a0105e427382f39f",
+   "title": "ミドルソーラー",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sa1B0TkNLLTdJYmtEUndYWUZTd3pPODlDNC1BVFpYeUg5aWRXNGUzMUY3My1KRF90QklTMl91YnZ6SUpZSGdYM2dLT2lQRmRoWGd0LXJKZlZnVG1jLTVNWjFB?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ミドルソーラー 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "環境ビジネス",
+   "topic": "その他"
   },
   {
    "id": "8e3cd8cefd3daf45",
@@ -1350,6 +1723,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "f79eaeb44be475a0",
+   "title": "太陽光発電関連銘柄の本命一覧｜ウエストHD・レノバなど注目株を解説【2026年】 | Invest Leaders［インベストリーダーズ］",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpMVdwV3AzVG9Jd2gta0paVDhYTDFONFJPM2owVjNtd3gya0V2S0s5Ujg0cWRSMTVTaXR4WTcwdV9PUlJhY1RjT1RERjd2Zm5iVms0YmNBVjY?oc=5",
+   "source": "日本投資機構株式会社",
+   "summary": "太陽光発電関連銘柄の本命一覧｜ウエストHD・レノバなど注目株を解説【2026年】 | Invest Leaders［インベストリーダーズ］ 日本投資機構株式会社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "d6214c73386d3716",
    "title": "太陽光発電と高耐久設計で屋外アセットの長期管理を支える位置情報追跡デバイス「LoRaWAN(R)対応GPS Tracker - Max」を開発",
    "link": "https://prtimes.jp/main/html/rd/p/000000026.000085896.html",
@@ -1495,6 +1882,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "33fd4da3ebc5337b",
+   "title": "ニュース :: 【研究発表】適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示 ― 森林景観における植生の遷移を利用した自然共生型太陽光発電所の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkekppVWdiQms3Y3M4bm15TlpoeUV6UWJrMG5yQS1RQUdYOXUzaHRwS0l0eGlmNFZ3V2t4MlY3UzJXZW5rSDRqUjBIa1g0NGg1bDlTSlZRTQ?oc=5",
+   "source": "東京都立大学",
+   "summary": "ニュース :: 【研究発表】適切な管理を行うことで、太陽光発電所に 「半自然生態系」が成立する可能性を提示 ― 森林景観における植生の遷移を利用した自然共生型太陽光発電所の可能性 東京都立大学",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "0ac2a75683c3c5da",
    "title": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電力を市内で活用",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSk1VaUNFVVNQTWtVd2hSVlBKRGtDNmpqLWFIM3Q3OUtLaVYwRk5yT1FUZ1AwTXhTQms2RVJ6bHBQS05qOWNJU2JMN3hYS19Za3B6eg?oc=5",
@@ -1635,6 +2036,20 @@
    "published": "2026-10-06T13:19+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "6dbf9b877270f333",
+   "title": "太陽光発電モジュール用シリコーンシーラント市場、2035年までの予測：両面モジュールが成長を牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeGVhYTg5SzBlblprMGE5bU1DM00xWHpSZ0RQdFFHWnJBLUJvbWh4T1B3VlZ0a19zUW8wc3FXUnl2TlEzMjFTeWV2cWdGQzVoYzZsalAxX3pXa00za3U4emhNLVhvam5ZQmZJS29OUGlpR0JyOE53M3pZSTZGcDBOQTQ1Rm5zTDNXRldVdFdRRzdaeF8wSndkS1ZhbU50eWp5dnR6MWlLTmdlS1NibENlTGZNZUVsZjBfVEVmVExKSmxMOUY3c3ZHT3dFeFkwUlVuVWZCOVFYNDg5X0NiZ1RpLU5lSlg1aGc?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光発電モジュール用シリコーンシーラント市場、2035年までの予測：両面モジュールが成長を牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "09de9b87e6e24be1",
@@ -2285,6 +2700,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度",
    "storage_topic": "その他"
+  },
+  {
+   "id": "bb4cfb45a8770890",
+   "title": "海南市太陽光発電設備等設置事業補助金について",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalRrZFExMXdmV1B5bmd1bGN5OGhoRW1naHAtVEZRSzl4ZldnX1J4cTh5VHExWk51TnpyQXNUSzJKSFJBZVRJaFF3WW0xb21OTEphZ3JEbURBTVhDdElmR3lLZzFPaUFIcnY1VlhZUXhiN0VLa2dybkZqXzBKc1lxQmt3?oc=5",
+   "source": "海南市",
+   "summary": "海南市太陽光発電設備等設置事業補助金について 海南市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "f1be2b114241f863",
@@ -2939,6 +3368,36 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "92f2a73b4a3d5f88",
+   "title": "テスホールディングス、京セラTCLソーラーの太陽光発電所に約6MWhの蓄電池を納入 FITからFIPへ移行",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1STGRoZ2FUVkdrc0pGWHJINXVQRm1MaEpydzNhenc3QXVMU3VFZ3lMd2YtQjdnQWlNb0lOSmZqbzhIQzRTZGlj?oc=5",
+   "source": "新電力ネット",
+   "summary": "テスホールディングス、京セラTCLソーラーの太陽光発電所に約6MWhの蓄電池を納入 FITからFIPへ移行 新電力ネット",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "65967aaf56df682b",
+   "title": "EVNは電力購入価格の再交渉を望んでおり、複数の風力発電会社と太陽光発電会社は不良債権の処理に奔走している。",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOHpYc3hYNGNWUktnazZJUktqdjB4cVVMUUM2NjV4SFJtRVhQdjI5ZGdJTTBWV19jaUtraGEzMEQxSF9iREIxWEkzM2tHQW11ZkhSZ055WUhuQl9GbHdTOEFRcFZaMGE1Z25kcDhtLWl0NkdPeV9adklRM1JvR1I2cWZXbHVaejRtUDlaYUFWTHFkOVNDTzJhT0dkWF9wRjlqOERxRU1rT0pyUm5ZSEVycXBtR3B5UENWekgw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "EVNは電力購入価格の再交渉を望んでおり、複数の風力発電会社と太陽光発電会社は不良債権の処理に奔走している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-04T16:00+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "072cdbffb6f44dd9",
    "title": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wbTZUN1UxODFFUHRydlREemcySkdLQUxBMkJwOGJ1QTlvN3FqTUNtUXFEa0hOWTlNbXVhakY1bzRLanBHWE5LUnhJSWxXdmxLWHhzTm9VbFZzYUtadVhKWjNLeUlwLThXT2hOSEZTNU8?oc=5",
@@ -3090,6 +3549,20 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "a97e4727e57a39ed",
+   "title": "理化学研究所ら、水素蓄電システムの安定性向上に成功 災害時の自律的な電力供給に期待｜プレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rb3FOQnJIMUVBcmllVzFmZjRqODRtakV2LXJmT01jMU1QMlF4REVJZDRZeWRrbTJteTFzRzZ4c01SQmk0M2tR?oc=5",
+   "source": "新電力ネット",
+   "summary": "理化学研究所ら、水素蓄電システムの安定性向上に成功 災害時の自律的な電力供給に期待｜プレスリリース 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-03T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "dbd9d3423fc7a18b",
    "title": "チュオン・タイン・ホアイ副大臣：屋上太陽光発電の発展を促進し、発電および送電網プロジェクトを加速させる。",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2UwUkZiVkFjRk00U2txTy1SX1RIZ3FuYWx2WXYxZ0xNXzFIeFVRSUNqVnlwNlY3dXpESjJnRVJwcGlWamYwOEV2NS1IWWZjZWVPSDdMRVZZeXNyVDBIQlZINTgyY293Z3QwX0poUkxhWjBWdE9kOFlaQnBsdmotNlI1TGRPei1pUHdxUFJlYS16bmxvdGsxQTRLR1NMcHhsYXRsMklFM05LaXRwQ3ZLOHdQanJFUW1yMnlCX3ZtZWtSSTFrLVdpX3k5aHYtSjg?oc=5",
@@ -3210,6 +3683,20 @@
    "type": "news",
    "published": "2026-10-03T01:49+09:00",
    "storage_topic": "その他"
+  },
+  {
+   "id": "9b8a512fffbd1567",
+   "title": "青森で太陽光、中部電が運転開始",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMHdzWlhlNTZESkUweDEyZl81QXJwNHRqUjlMUS03bTRsX2VaQTNuSkx3MElWMnRkUGV5VGh2ZTh2VUNxcEN6WEN0ODF1Q25yZWZCLUpCN0VKMk94WEprT2JsVDY5aXdyM3VhVw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "青森で太陽光、中部電が運転開始 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-03T01:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "ceb06581d90aaf2e",
