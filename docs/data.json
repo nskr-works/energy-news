@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T06:53+09:00",
+ "updated_at": "2026-10-09T10:53+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,78 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "41ac1201d822f6df",
+   "title": "【系統用蓄電池の複数案件を契約】複数拠点で開発を進め、順次引き渡しへ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbUJvaFdwYkQ4THFKeThQQ2NWZlowTGF3dlBNTkhxLUNkRGdmQzh1R1JsUFBPUmpBRUhzc0NKMWNmanMzbDNwTDVpSDR2ZE9IXzVSQUtRcEFINmhTSEhqTFVSNjRUV016VXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【系統用蓄電池の複数案件を契約】複数拠点で開発を進め、順次引き渡しへ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-09T09:50+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "ae17d71e64121ec8",
+   "title": "日本太陽エネルギー市場、2026～2035年のCAGR 8.54％で成長｜再生可能エネルギー政策・分散型電源・太陽光発電設備需要の拡大が市場成長を牽引",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZmJiSldEeWFSODJKM3NxR0s4cGNNcVlZRnFlU0RjMnRNbHF1UzhhZmpmZ0F3QW14b296YjRKNEhqN190Skpva0pKNVlOaGc?oc=5",
+   "source": "Newscast.jp",
+   "summary": "日本太陽エネルギー市場、2026～2035年のCAGR 8.54％で成長｜再生可能エネルギー政策・分散型電源・太陽光発電設備需要の拡大が市場成長を牽引 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-09T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "ffe4692a6014e07c",
+   "title": "大和エネルギー、系統用蓄電所のＥＰＣ事業に本格参入 第１号は50メガワット出力、容量１０９メガワット時",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENFhGdmJfbW9IbE0tQWlTQ0xTV0NhQkl4M0ctNjhUY0hkRWsyV21nX0RqNGZrWVMwU2MycUNpRTZJOUI2V0ExUUFqNUhmRkJHdVhaeERWTW9uSmg5ZVppUWNLbE5GU0VoRTh6TDktWGs4ZlJJS0FXOUJ3QQ?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "大和エネルギー、系統用蓄電所のＥＰＣ事業に本格参入 第１号は50メガワット出力、容量１０９メガワット時 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T07:48+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "9571be8d28c97a5a",
+   "title": "静岡市清水区の系統用蓄電所設置計画の中止決定",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sdjVFVXduc2JGUmdiNDNWRXFzRmNqaGhkZXBRbTZEWEktcVlkc1FsVGpQWXlhMzBkMDJROC1od0UtRVhQai1VLVJnaUlxdw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "静岡市清水区の系統用蓄電所設置計画の中止決定 静岡新聞DIGITAL",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T07:06+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3323dee44b8999d3",
+   "title": "増える「太陽光ケーブル」盗難…SBI損保、対策サービスに付帯保険",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqemNDVHNmbU8xdU5nVXpCNkJGd0dxU3RjMzMtdk5yM2FYa2ZPbVAyYzR5N1RMbkFEdzI3VlRlSUJYRlF5aGdv?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "増える「太陽光ケーブル」盗難…SBI損保、対策サービスに付帯保険 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T06:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
   {
    "id": "73f01e4367c06e03",
    "title": "滋賀県の産業立地戦略「重点分野」に航空・宇宙など追加へ ペロブスカイト太陽電池など次世代産業後押し",
@@ -76,6 +148,20 @@
    "published": "2026-10-09T05:00+09:00",
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "f2c97dd7bee209c3",
+   "title": "自治体施設にペロブスカイト、環境省が11件を採択",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmtwbUxyUnVXSzNwNl9oMWNOUlI4bDgtcWNTRTcxVnAzenNtdUJMZHhqdVloaXhQMU03TVRObFY0enVEWTZwNExpQVdKRG9wOFpGNy1Jb01YTDZoeEhtaHp4RnAwazNPN1haMHliQ1pMd0lyTTB5M0FhcTZiSHg0T2dONV9wUHJrZG4yaHRFbVFjd1k?oc=5",
+   "source": "日経BP",
+   "summary": "自治体施設にペロブスカイト、環境省が11件を採択 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T04:25+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "次世代技術"
   },
   {
    "id": "d0c6fc578f2c45c3",
@@ -218,6 +304,20 @@
    "published": "2026-10-08T17:23+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "a20a3da712759c77",
+   "title": "【画像】ペロブスカイト太陽電池、量産化の動き加速…先行する中国と「差別化」課題",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TclBsWm9Ea2xxdlJZcnFmNFMxMjhlZlQtc0ducy1YeURkQlRtQy1VVkVLUVJMRGQ1cXhSQ0FTS2ZJUEE1ZzNXRkxwZk5CNlEzVjVaekhYX0tSVFdvYm04WVMxMUNIM3hvdDFndVVOWk83c19uaDhYeFFHQ2k?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】ペロブスカイト太陽電池、量産化の動き加速…先行する中国と「差別化」課題 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T17:17+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "5d7d8a1f51d30990",
@@ -498,6 +598,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "その他"
+  },
+  {
+   "id": "4baecc7f5076eddc",
+   "title": "【JPIセミナー】「太陽光パネル大量廃棄時代への備えとメガソーラー事業終了時の法的諸問題」9月4日(金)開催",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OG92a1l6bWRrY2F4NXkzVHJoYlBXT25vZUJRVTlNYmJPR0JBc1BJT0RZV0xrdTEtMGlxZHU1VF9VR1czUk9oMGpheUdGMzFLVDBoTXBkN1dMQm8?oc=5",
+   "source": "朝日新聞",
+   "summary": "【JPIセミナー】「太陽光パネル大量廃棄時代への備えとメガソーラー事業終了時の法的諸問題」9月4日(金)開催 朝日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T12:51+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "発電所・開発"
   },
   {
    "id": "8d0cfc93951ae52f",
@@ -1203,6 +1317,20 @@
    "published": "2026-10-07T16:00+09:00",
    "via": "環境ビジネス",
    "topic": "その他"
+  },
+  {
+   "id": "f1e750fb76cf9c37",
+   "title": "【太陽光発電】住民反発、かすむ役割 メガソーラー「副作用」",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nblQxLURJVVFTazkzX1BaSUJkY0ZnMzVIMjAtQVlmTHllR3huVjJkNVVZV0lWOWtpbU1sWlYyNDg0N0FRMmpVcmRRTGZ4MXFEREE?oc=5",
+   "source": "山陽新聞",
+   "summary": "【太陽光発電】住民反発、かすむ役割 メガソーラー「副作用」 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "8e3cd8cefd3daf45",
@@ -2050,6 +2178,22 @@
    "published": "2026-10-06T13:16+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "51f76c500a09e039",
+   "title": "アクティス、インドで再エネ事業「Leo Energies」設立 太陽光・風力・蓄電池3GW超を目標",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWVEVhelJvNlM4QnZWUVRlQkpOTlRtcl9oRGp6UzZGbnNqWVItMnBuVml6Q1RkUDlMdm5YcU9CbnIxY2Rvek5QSk16VHFUVEhVVXJlMGpDTQ?oc=5",
+   "source": "ESG Journal",
+   "summary": "アクティス、インドで再エネ事業「Leo Energies」設立 太陽光・風力・蓄電池3GW超を目標 ESG Journal",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-06T13:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "09de9b87e6e24be1",
