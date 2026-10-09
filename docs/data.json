@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T16:51+09:00",
+ "updated_at": "2026-10-09T18:52+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1d4af4380d86d142",
+   "title": "【系統用蓄電池の設備等売買契約を締結】2026年10月7日に新たな1案件の契約が完了―蓄電所の事業化に向け次の工程へ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000167.000096742.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[サステナブルホールディングス株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/96742/167/96742-167-94f73cc33424e179b8a0a8c6ec997121-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-09T18:41+09:00",
+   "company": "サステナブルホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9bdf97297db66d7c",
+   "title": "長期脱炭素電源オークション、蓄電池の落札はなぜ狭き門なのか――20年固定収入の裏側を読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000061.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-09T18:15+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "8ba47bd951068bc1",
    "title": "【JPIセミナー】「ペロブスカイト太陽電池の社会実装と事業化の現在地 ～技術開発、設置用途の拡大と普及に向けた課題～」11月2日(月)開催",
