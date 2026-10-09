@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T15:58+09:00",
+ "updated_at": "2026-10-09T16:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,64 @@
  ],
  "items": [
   {
+   "id": "8ba47bd951068bc1",
+   "title": "【JPIセミナー】「ペロブスカイト太陽電池の社会実装と事業化の現在地 ～技術開発、設置用途の拡大と普及に向けた課題～」11月2日(月)開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeEhDWFZyTm1zMXVieFFBYWRpbjFQQU1CTl9uRlNoQkphRWZyOEpRR043TW5RaGEtUkw0czZVUVVHMHJGSkg4VnF2dWJrVXZNay1SbHpoRVoybFE5NFY1T1ZZUkNBQVJXb3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【JPIセミナー】「ペロブスカイト太陽電池の社会実装と事業化の現在地 ～技術開発、設置用途の拡大と普及に向けた課題～」11月2日(月)開催 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-09T15:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "company": "株式会社日本計画研究所",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3c14bcd7607402f4",
+   "title": "系統用蓄電所、地域共存も課題に エジソンパワー「自社投資を見送り」決定",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13Z3p0VmxHRjhCSVE1N1hZRURmSDh1M2Z1eEJJb0xKME9YZXFra1NIb0lscjE5RVY3UEFSaU9ReklOVklNeGU2TGxUUEFOLTlkQ0RYMG5Ha205S1FEMTFyOGtveU00cjBpb093ejRyMFdwb0lwWFZGRHNndGo?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電所、地域共存も課題に エジソンパワー「自社投資を見送り」決定 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T15:01+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "daf52d303d172d19",
+   "title": "蓄電池産業サプライチェーン強靭化セミナー",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Vei1WS2NGNlhSMElna0lFR1FGRnNEa2Y3YTllTnpCbFdzNjRodTZPVHR5TWF4OGpNR0drbk4xT1RSb1I2Unl2UFBkbV90a3BISEN4YXdpQ29CRmdMNC01VjFETE9YNktVMldNM3I5RQ?oc=5",
+   "source": "近畿経済産業局",
+   "summary": "蓄電池産業サプライチェーン強靭化セミナー 近畿経済産業局",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-09T14:25+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
+   "id": "15bec64f0da231ab",
+   "title": "【プレスリリース】バイウィル運営の太陽光発電設備J-クレジット創出プロジェクト 「そらいろラボ」、会員数1,000件を突破",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aekhiSVA2MGZmMUFMcjFITlNhMXV6Q2lGMnBpM0Y4ZUtpZVpxSE1fWmQ0VF9BZUUwRGhOYmQ3NUhCbHhiTmFxTjUyQ2RZajExU1Fueg?oc=5",
+   "source": "株式会社バイウィル",
+   "summary": "【プレスリリース】バイウィル運営の太陽光発電設備J-クレジット創出プロジェクト 「そらいろラボ」、会員数1,000件を突破 株式会社バイウィル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T14:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "019d89588126864d",
    "title": "バイウィル運営の太陽光発電設備J-クレジット創出プロジェクト「そらいろラボ」、会員数1,000件を突破",
    "link": "https://prtimes.jp/main/html/rd/p/000000521.000013100.html",
@@ -32,7 +90,6 @@
    "published": "2026-10-09T14:00+09:00",
    "company": "株式会社バイウィル",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
   },
   {
@@ -49,6 +106,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他",
    "company": "株式会社たちばな"
+  },
+  {
+   "id": "e989522ec9769c71",
+   "title": "豊田市公園内の施設屋上にペロブスカイト設置、実用性検証 トーエネックら",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqaHhoVXJ5emU5NlQ2LVJVV1dxczFVanpDVG04Q3M5V2Y5T1djTXhLaWU1U2JGS3lMQTBucEFMbnJuYVdPU2o3U3BnWUNJTmh2MWxWZDd4RTh6UE02cnR2d21XUVpxLW1MN1kwNEUwSTIyRGFBdjNGck91RWI?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "豊田市公園内の施設屋上にペロブスカイト設置、実用性検証 トーエネックら 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T12:56+09:00",
+   "via": "環境ビジネス",
+   "topic": "次世代技術"
   },
   {
    "id": "c1e667c16cfddd8f",
@@ -1054,6 +1125,21 @@
    "topic": "政策・制度"
   },
   {
+   "id": "588fb389971ef75c",
+   "title": "知っているようで知らない「蓄電池」——なぜ今、導入が広がっているの？ どんな役割があるの？｜エネこれ",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3JSWmhJZW5MSUNaZ2xiRHdmYmVka29fTjdwWmVoaE1UR2pzTnJIcHJxcHdtQW0wNHZCUWg4RTdETzFGdmpRQmozQWtPRVNaUUxNMnVoNlN5Skw5cTRCTm0tMDZnYk9YYmtlV2s1QXFvNzZ2QkpLa3J0ZmREU3RTNHZqVy1CZw?oc=5",
+   "source": "資源エネルギー庁",
+   "summary": "知っているようで知らない「蓄電池」——なぜ今、導入が広がっているの？ どんな役割があるの？｜エネこれ 資源エネルギー庁",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-08T09:12+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
    "id": "87326da8f9327205",
    "title": "中国：億緯リ能、広東・恵州の200MW蓄電所が系統接続",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZlNBbTVQdDhHYWNJM2pKWUpCTDJDelRFRHZremk5V1JYSUlHSGNwbHZuWVpZbHcyNHhZTHpqNjRJbFc5Y1BiVHZRZ3paaFp5S0I0a3QyZnAzdy1reEFnN2NOWEJFWEZp?oc=5",
@@ -1316,6 +1402,20 @@
    ],
    "type": "news",
    "published": "2026-10-08T00:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "cfe3ce553807cdf8",
+   "title": "太陽光発電、2031年までに世界の電力供給を支配へ：DNVエネルギー転換アウトルック2026 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXlQWUpDbG14RnVBX3QtVzhwX1BJT1ltRXlwR2dCNjVLVGQwcG1kT2h5eF9QbDF2eVBqSnhDek1LalEtbkZKek5KSHJHM3IwMDV3dEo1SHpYTXlNSG9WYXJZQXRyaHk1YXR1OUJZRVNxV0s0bG9GbXVQTXB5OEFmREpYNWdPSFA2MHRoT0QtTmNtVXF0NjZuaVhVdUp2YW9hZEdRakU2ZVdySDJIYXV6UG1zdlo2YXAtMm1IOERBZzdUdUE?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光発電、2031年までに世界の電力供給を支配へ：DNVエネルギー転換アウトルック2026 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T21:31+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
