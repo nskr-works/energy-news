@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T10:53+09:00",
+ "updated_at": "2026-10-09T13:50+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,77 @@
  ],
  "items": [
   {
+   "id": "313e3e59fbba0e37",
+   "title": "あづみの店が「オール電化＆太陽光発電導⼊」へ⼀新︕",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xcU5Sd3lxU2xFdFF2dVl4SmtfZHZiOWpZcTk1R3J1NEYyRzVVVHJDUWxuZUxwSFBMX0hxeXVZZHpCcFBOMWo1aTFVTl9IdTR1NDhjcTh3OUl5VnNsMXZKWmszT3FrY1ozRkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "あづみの店が「オール電化＆太陽光発電導⼊」へ⼀新︕ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-09T13:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "company": "株式会社たちばな"
+  },
+  {
+   "id": "c1e667c16cfddd8f",
+   "title": "【系統用蓄電池の複数案件を契約】複数拠点で開発を進め、順次引き渡しへ 企業リリース",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmN01EUkNEOVRjOXBaY1lpQVh1a0xPLVBtVXdQRFdBaWtMTEJpa3JOVV9kMGRWQmxLQ0tHRGxqdHdmM0dYbjBoenRsR0xGcUI2NFMtYjB2aWE?oc=5",
+   "source": "日刊工業新聞",
+   "summary": "【系統用蓄電池の複数案件を契約】複数拠点で開発を進め、順次引き渡しへ 企業リリース 日刊工業新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T12:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d7bc4ce5f55e7a12",
+   "title": "農業を持続させるための営農型 ソーラーシェアリングの真の価値とは｜太陽光事業 要注目フィールド３選③",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JeUc4aFJudnhpb0dzVm9DTmFNdzZzc0FZS3hUZ3NMS3pleDljblZDR0hWc050TlJvRjQzN0ZUYjMzSWJiYXpOTUUxQ3V5UQ?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "農業を持続させるための営農型 ソーラーシェアリングの真の価値とは｜太陽光事業 要注目フィールド３選③ ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T12:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "584f33c5be61c376",
+   "title": "「遊興費のため」カンボジア国籍の男ら14人、太陽光発電施設でケーブル電線窃盗…被害は31トン・3400万円",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45emNBRVV2Y0hlRm55ZmJDWXlXZk4tdXNnRjlaWUtKWVBDaDRsck42TUktU09jOHhZOGEtcGF2MFAxUGk0UVp1aGFfLTMwUGRObGFEbzhRWnRqQlMyeThGREZiVS12d3V0ZjJXWkFfNjNodw?oc=5",
+   "source": "読売新聞",
+   "summary": "「遊興費のため」カンボジア国籍の男ら14人、太陽光発電施設でケーブル電線窃盗…被害は31トン・3400万円 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c407f855c39371e9",
+   "title": "（11月25日開催分）「フィルム型ペロブスカイト太陽電池」施工見学会開催案内について",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11enRWUGFxM1JLRTJMcjR3X2VnSnJHa3ZjNWw2VzBSc0JuSEZwb0xDYkMtNmtUWHdUWFVoalpkcE1mdUl1LXJ6TmZZeXBOLXVoaDgyX2JvTQ?oc=5",
+   "source": "滋賀県",
+   "summary": "（11月25日開催分）「フィルム型ペロブスカイト太陽電池」施工見学会開催案内について 滋賀県",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "41ac1201d822f6df",
    "title": "【系統用蓄電池の複数案件を契約】複数拠点で開発を進め、順次引き渡しへ",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbUJvaFdwYkQ4THFKeThQQ2NWZlowTGF3dlBNTkhxLUNkRGdmQzh1R1JsUFBPUmpBRUhzc0NKMWNmanMzbDNwTDVpSDR2ZE9IXzVSQUtRcEFINmhTSEhqTFVSNjRUV016VXc?oc=5",
@@ -33,6 +104,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "e75ef3dcc0a86d57",
+   "title": "次世代型の提案も可 公共施設へ太陽光導入",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrYlNhQmVXaS1iTGNCSXdCSDVlUWNVbkFHVU5lenRnb1JrQl9mc1hQV2NabnA2NUx0SmhfTS1FSzFESmUydXdNMk13cHRFVWtvRmt0WVVZMTA?oc=5",
+   "source": "日本工業経済新聞社",
+   "summary": "次世代型の提案も可 公共施設へ太陽光導入 日本工業経済新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T09:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "ae17d71e64121ec8",
@@ -92,6 +177,20 @@
    "topic": "トラブル・地域"
   },
   {
+   "id": "139ab96613cfd103",
+   "title": "太陽光発電所で銅線ケーブル窃盗 交際中の外国籍男女、生活費目当ての犯行か 4県で84件裏付け 茨城県警",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aOTN4WF9fVzZubWtDbmVLdm1oTy10Ui0tVkZ4WGdIdTVJRnpJZ3h0eVE2V1piQjhlNmRjWUtxMW1td0JCYnZ5NFhWV0gwWi1pVXVXblN4M2dCa3hZWHFUXzBhaGxKT25UVmJramRrM2hJOWJLOVJpUWlKTWZ4V00?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電所で銅線ケーブル窃盗 交際中の外国籍男女、生活費目当ての犯行か 4県で84件裏付け 茨城県警 Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "73f01e4367c06e03",
    "title": "滋賀県の産業立地戦略「重点分野」に航空・宇宙など追加へ ペロブスカイト太陽電池など次世代産業後押し",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyX2lSRi1yQXJ3VHZ2bnBMaXBJS3RQM1h3UlkwWFpIV1MtRU9pQ1prejNqMksyUDc3OHZOVFZvSVh1RGV1ZG5qMGROY1BkRFUzRE43U0RPOU0?oc=5",
@@ -147,6 +246,20 @@
    "type": "news",
    "published": "2026-10-09T05:00+09:00",
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2a344a44c20cc51d",
+   "title": "小矢部に北陸最大の蓄電所 ヘキサ社整備、２８年に運転開始 電力需給の安定化へ｜地域｜石川のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKS0lsR3lPNUFSRk1ybmFpTEotS2VPX0o2SVVrMU9GQmxsd05jdy0yeTdFdVlkUlhEc2hVbi1ObU96S3pEOHFaZFBEQVAzVExxWWdCZFFmaw?oc=5",
+   "source": "北國新聞",
+   "summary": "小矢部に北陸最大の蓄電所 ヘキサ社整備、２８年に運転開始 電力需給の安定化へ｜地域｜石川のニュース 北國新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
   {
@@ -318,6 +431,20 @@
    "published": "2026-10-08T17:17+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "19b678d2acba8d73",
+   "title": "EVトラック充電を再エネで、住宅オーナーの太陽光発電由来の再生可能エネルギー活用…センコーと積水ハウス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVWt5WHVUWUpQeENidTIxam8xMFJENklmUVJBeDQ4SF81QUpFdkVzZkdnRnRBalhzWUFuOUQzdTBrbDdTU3hQSTZ5TC11UGRicWgxOTA3Z1owd3k2bVBV?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "EVトラック充電を再エネで、住宅オーナーの太陽光発電由来の再生可能エネルギー活用…センコーと積水ハウス レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:45+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "5d7d8a1f51d30990",
