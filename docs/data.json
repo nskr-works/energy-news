@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T13:50+09:00",
+ "updated_at": "2026-10-10T16:47+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,36 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d6a742e72a7f66c4",
+   "title": "駐車場用ソーラーキャノピーの世界市場（2026年～2032年）、市場規模（20kW以下、20～50kW、50～100kW、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CR20yRWJfVVdxLTV3SEJ1Q2swVXZIVy1xc2NJNUFobWFTcVVQT3BnUjc2YUpDUC01aDVpQTVjdmExU3VXUjNyeHdxT2R3emc?oc=5",
+   "source": "アットプレス",
+   "summary": "駐車場用ソーラーキャノピーの世界市場（2026年～2032年）、市場規模（20kW以下、20～50kW、50～100kW、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-10T15:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "f44d9aed1d537347",
+   "title": "太陽光発電（PV）モニターの世界市場（2026年～2032年）、市場規模（モジュールレベル監視、ストリングレベル監視、アレイレベル監視、プラント／フリートレベル監視）・分...",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IYnI2eFgxWHBXdXFIZng1c29VY3phbEhqMXhDSWs4cWpLd0xKSk00SDR5VFJvTkZKV05pcFJBbkhOWjFzTUlZVll2QjRGU1k?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光発電（PV）モニターの世界市場（2026年～2032年）、市場規模（モジュールレベル監視、ストリングレベル監視、アレイレベル監視、プラント／フリートレベル監視）・分... アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-10T14:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "af5b48591a75b0ca",
    "title": "多機能太陽光発電（PV）テスターの世界市場（2026年～2032年）、市場規模（DC電圧1000V以下、DC電圧1500V以下、その他）・分析レポートを発表",
@@ -91,6 +121,20 @@
    "published": "2026-10-10T07:48+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "1aca6caecf46f88f",
+   "title": "【蓄電関連】TAOKE ENERGY：岐阜・栃木の2蓄電所が一次調整力市場へ参入、各2MW・8MWhで市場運用を拡大",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9La0ZFdXNfaW92cG5VUHJaVkFJcVg2OFVPOUcxVkZLeWV1Q3ZsbzFLVXRiczNZZ0tOdFdNRFRickVrZUJXNm1Xcy1mVFk5emV4VW9XcGNwZG1QUzRBM08xcmdPenZySzFnbXd0dkNYQTRNdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】TAOKE ENERGY：岐阜・栃木の2蓄電所が一次調整力市場へ参入、各2MW・8MWhで市場運用を拡大 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:48+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "4216f65407ffef92",
