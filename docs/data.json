@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T02:23+09:00",
+ "updated_at": "2026-10-11T06:50+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d82bbc88bf8edfab",
+   "title": "メガソーラーの環境破壊を数字にしたらトンデモないことが発覚",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BdEdaVzlYQnExdVFXZDM0ZG93SlBncGhiOW9KbFduVXVESUdKNGU2VkdrVU9rZzdMN3BDZ2NtaldJb2daS0FZRUhKOHotNmxXbDZKMUkzNUdGczg?oc=5",
+   "source": "アゴラ 言論プラットフォーム",
+   "summary": "メガソーラーの環境破壊を数字にしたらトンデモないことが発覚 アゴラ 言論プラットフォーム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T06:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
   {
    "id": "95483383ded3f3de",
    "title": "営農型太陽光発電の田んぼで稲刈り 宮城 美里町",
@@ -762,6 +776,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "8e8d0fc55b9b348f",
+   "title": "スマートエナジー、系統用蓄電池分野におけるアグリゲーション事業を受注",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HM0FIUXhMSHJLSC1EYnZCRWdzV0FJbmpFUm5IN09DYnNUd1gtWGNBblZsUmdqajNQY0RHTmJqRm1sZ1NKeVFPRnoxZ3Rhd01TdzY0NlZLRkNWWkU?oc=5",
+   "source": "朝日新聞",
+   "summary": "スマートエナジー、系統用蓄電池分野におけるアグリゲーション事業を受注 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T08:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "ffe4692a6014e07c",
