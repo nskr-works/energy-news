@@ -28,6 +28,15 @@ EXCLUDE = [re.compile(p) for p in CONFIG.get("exclude_patterns", [])]
 COMPANY_LOOKUP_LIMIT = 80
 
 
+def host_matches(url, domain):
+    """URL のホスト名が domain そのもの、または domain のサブドメイン（「.domain」で終わる）なら True。
+    文字列の部分一致だと「https://example.com/?u=news.google.com」のような別サイトも当たってしまうため、
+    urlparse でホスト名だけを取り出して比べる。"""
+    host = (urllib.parse.urlparse(url or "").hostname or "").lower()
+    domain = domain.lower()
+    return host == domain or host.endswith("." + domain)
+
+
 def clean(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
@@ -112,7 +121,7 @@ def company_from_page(url, depth=0):
     if m:
         url = f"https://prtimes.jp/main/html/rd/p/{int(m.group(2)):09d}.{int(m.group(1)):09d}.html"
     page = http_get(url)
-    if "prtimes.jp" in url:
+    if host_matches(url, "prtimes.jp"):
         t = re.search(r"<title>[^<]*\|\s*([^<|]+?)のプレスリリース", page)
         if t:
             return html.unescape(t.group(1)).strip()
@@ -148,7 +157,7 @@ def lookup_company(it):
     if it["source"] in GOV_SOURCES:
         return GOV_SOURCES[it["source"]]
     try:
-        url = decode_google_news(it["link"]) if "news.google.com" in it["link"] else it["link"]
+        url = decode_google_news(it["link"]) if host_matches(it["link"], "news.google.com") else it["link"]
         name = company_from_page(url) if url else None
     except Exception:
         name = None
@@ -212,7 +221,7 @@ def fetch_feed(feed):
         if isinstance(src, dict):
             source = src.get("title", "")
         # Googleニュースは「タイトル - 媒体名」形式なので媒体名を分離
-        if "news.google.com" in feed["url"]:
+        if host_matches(feed["url"], "news.google.com"):
             m = re.match(r"^(.*)\s+-\s+([^-]+)$", title)
             if source and title.endswith(f" - {source}"):
                 title = title[: -len(source) - 3].strip()
@@ -234,7 +243,7 @@ def fetch_feed(feed):
                 continue
             cats = [feed["default_category"]]
 
-        is_release = feed["type"] == "release" or "prtimes.jp" in link or "PR TIMES" in source
+        is_release = feed["type"] == "release" or host_matches(link, "prtimes.jp") or "PR TIMES" in source
         item = {
             "id": hashlib.sha1(norm_title(title).encode()).hexdigest()[:16],
             "title": title,
