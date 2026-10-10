@@ -10,8 +10,8 @@ on:
     - cron: "37 7 * * *"   # 毎日 16:37 JST
   workflow_dispatch:        # 手動実行ボタン
 
-permissions:
-  contents: write
+# 既定では何の権限も与えない（必要な権限は下のジョブだけに付ける）
+permissions: {}
 
 concurrency:
   group: update-news
@@ -20,6 +20,8 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 取得した記事データ（docs/data.json など）をコミット・push するためだけに必要
     steps:
       - uses: actions/checkout@v4
 

@@ -12,8 +12,8 @@ on:
     branches: [main]
     paths: [".github/workflows/prtimes.yml"]
 
-permissions:
-  contents: write
+# 既定では何の権限も与えない（必要な権限は下のジョブだけに付ける）
+permissions: {}
 
 concurrency:
   group: update-news        # ニュース更新と同時に動かない
@@ -22,6 +22,8 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 取得した記事データ（docs/data.json など）をコミット・push するためだけに必要
     steps:
       - uses: actions/checkout@v4
 
