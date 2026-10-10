@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T06:52+09:00",
+ "updated_at": "2026-10-10T10:52+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,78 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "baada5d0ce700514",
+   "title": "富山県小矢部に特別高圧蓄電所、北陸発 2028年5月の運転目指す",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wQ25ZMVJBY3RUOUJfNHp3UkFkYWdYSWs1TS15VmI4azhSTzlwYk03UUtMaWR5S2d5dnI2N1ZIZTAxaTJxb2VyUmJnQUM2cVVoVmFfdnFwYzU4akFxaDR1clJuaU9OZw?oc=5",
+   "source": "中日新聞Web",
+   "summary": "富山県小矢部に特別高圧蓄電所、北陸発 2028年5月の運転目指す 中日新聞Web",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T09:59+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "61b4ff0824c94417",
+   "title": "【太陽光発電】エナジー・ソリューションズ：「ソーラーマスター」にFIP転試算機能、蓄電池併設時の収益比較にも対応",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93MlRpTG42Z2ZXZUx3QzAydmVPLS1Eajk0VW1TNFFMVktjblNuRzA5LUdaX0w1OGUwd0E0eDgyMWpXQ2xTcFV4N1NZNVR6bzRKOHpadzFUMXM1Z0xIRFZkM2xGYTJYdThQbUthclRxWHRGdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】エナジー・ソリューションズ：「ソーラーマスター」にFIP転試算機能、蓄電池併設時の収益比較にも対応 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4216f65407ffef92",
+   "title": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:44+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "d7f4a9c160c20a51",
+   "title": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:44+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "8ba6c37e17b9c255",
+   "title": "ペロブスカイト太陽電池の世界市場、2034年に158億ドル",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2tRa2ZZQ1g1R1ZUcHBMem1GQk9yYnhjazBlalpRbmlNVnFiN08yUWpOMHJVMExOX3cxMU1uM0tsY3EzMTFCUU84WVNIRlJ3ZTBuUDdnal9CNUN0SVV2bE9zVFJDY2FLSDdnT0twU285UTg0amNXaDdFa0Y2OUpPSVJVeFJOOXlMTm16d0dpTlAzdw?oc=5",
+   "source": "日経BP",
+   "summary": "ペロブスカイト太陽電池の世界市場、2034年に158億ドル 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T07:24+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "次世代技術"
+  },
   {
    "id": "e9e6b0a3317781ff",
    "title": "【JPIセミナー】「ペロブスカイト太陽電池の社会実装と事業化の現在地",
@@ -1717,6 +1789,20 @@
    "topic": "その他"
   },
   {
+   "id": "f75275ac510f44af",
+   "title": "ペロブスカイト太陽電池サブモジュールが23.5%の効率記録を達成 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkpYeHh6cHdyNFZRM3d5cVV6OUZvc0VGTlR5R3hTUlhnbjRxakVNLTUzWGx1VHJqSUhjN2hZa1FUSmk5d0RKU3dKUEFXN0tDOGRtSExvekc3MzdYRC1abUV0N0NPUHVua3JoM2I3c3dZcXh3LXVJZElqZVQ2S2lSVWwyYVRpc2VHa3NZMTQxdHpjMkxoR3dVNWYxTS1IYVF0djZENlhWN05BaDNHcTBGYnREZnFOV1ZtWXVJ?oc=5",
+   "source": "IndexBox",
+   "summary": "ペロブスカイト太陽電池サブモジュールが23.5%の効率記録を達成 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T20:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "67e79261114ce93e",
    "title": "銅線４トン盗んだ疑い ベトナム国籍の男３人逮捕 太陽光発電所から2350万円分",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoa3VaLXhvSGJ2ZzlPQy05N3VkT09vRmxzMDFHNWczTTdxOXQwY1JZNDJnMEFZNWJQZlk5MmdiX0U4VDRua2tkV0hvU1BVS3pfU1dhTkxXMXJyem1GVXFaZ2NKWmg3T2Vmbk8xakx6bTgyTmVOTFU5RTkxN1RuNzQ?oc=5",
@@ -1786,6 +1872,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "エジソンパワー"
+  },
+  {
+   "id": "e7eaddff4f723115",
+   "title": "【速報】約2.4キロメートルの銅線を盗んだ疑いでベトナム国籍の男3人を逮捕 三重県の太陽光発電所が被害 時価合計約2350万円 愛知県で売却か 滋賀県警 | MBSニュース | 関西の最新ニュースを分かりやすく。",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIRllpU2NoQ3dFWG5jTVc1MGdiTVg1R19LOW9SNnUtTEtmRFY2dDcxMHY1dWxiR2Z4d0dtT0JCZWE4WlpHTkljdXktVVd3cjhNR3FZTTNQYTNMQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "【速報】約2.4キロメートルの銅線を盗んだ疑いでベトナム国籍の男3人を逮捕 三重県の太陽光発電所が被害 時価合計約2350万円 愛知県で売却か 滋賀県警 | MBSニュース | 関西の最新ニュースを分かりやすく。 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T18:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "9be2356ad7effe13",
@@ -2940,6 +3040,21 @@
    "company": "株式会社ワンズエナジー"
   },
   {
+   "id": "938a3222428dc00a",
+   "title": "分散する低圧蓄電所を1つの仮想蓄電所として束ね、一次調整力の制御に成功 | 株式会社ワンズエナジーのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZXRkM243UnA4RFdKYzNJSDBBc3p0bnRMSXRJeXNlZUdicDlzVlY1M0hqTVJSYVFleHBzWF9ocUhxRC10SUl4LWZCcjk2aDRHUndVZlliSWlHQWdvb3FVeUNyMGxUWnZJS2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "分散する低圧蓄電所を1つの仮想蓄電所として束ね、一次調整力の制御に成功 | 株式会社ワンズエナジーのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-06T10:27+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧",
+   "company": "株式会社ワンズエナジー"
+  },
+  {
    "id": "101795c386426fbb",
    "title": "ソアー、ペロブスカイト太陽電池向け高性能バリア膜の試作に成功",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43Q0NxWml1UE9ldzlYbnlfTm9obmk4UXBKSEQ3TUVHY1p1cDRHZTBEeEdHNEVfekhYWDFOOUYzVG91TWJwYkswLTRyNUx5cFpPc1BV?oc=5",
@@ -3461,6 +3576,34 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OYlpPSkxqVzJMamNKUGpLd1dxMzBTTTBudVk4ME82Nzd5cEFjbWtTdmpLVGhSM1hTV2FaRXZTd0czV2ZKX041dE1vQVRNMThOYldwbkdVN2NkZXcwS1dKUnZmSlFqYVI1cTdJNWg3ZE10eXk4dGNocWU3MG4?oc=5",
    "source": "ライブドアニュース",
    "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 1/10 - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b5a6c00e50e086bc",
+   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 3/10 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WWkVqNVJ6MDR5ZDQtZ0kwWHlIQlRnbEpIaWNDMDJ3eG9GOU0yaWphcFZUU1Q2S1F2RVpqc25rdldoaDZqVEJXRWVVc25sNTNSR2RSSGU1elUwcGdTMWFkMGU1R2hZdDBRdVlUejFkOUE5Rm1GWlBxREh5RHI?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 3/10 - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-05T15:52+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "71bcc25850b7a16d",
+   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 5/10 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYkp5SnA4V0xvanNhbkdXb1pIUVdZRllTNTFLMmpPaF9vekpVOG0zM3M1ckN6TVZXYjlPN2tobkhlcFlaU2JxZWVON1VpX0xyU3ViRU1MSUp6R0QyWW1jZ2ZaNWhWRnhmMXF0U3lrUXV3bVFXWWpsRGlIcmU?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 5/10 - ライブドアニュース ライブドアニュース",
    "categories": [
     "solar"
    ],
