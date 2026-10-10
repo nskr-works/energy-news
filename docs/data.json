@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T16:47+09:00",
+ "updated_at": "2026-10-11T02:23+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,78 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "95483383ded3f3de",
+   "title": "営農型太陽光発電の田んぼで稲刈り 宮城 美里町",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4ODBfbkFvajVnQW1obm5PQlhocVRmbWtGSFg3MDBaOU95dTRwTGNYSG9jdW5uN2g2X2dfcDVoaUptcURaQ1hURHlaZm1KSzl4aVJ2eDlCOVlTTVh6bE1F?oc=5",
+   "source": "NHKニュース",
+   "summary": "営農型太陽光発電の田んぼで稲刈り 宮城 美里町 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T19:12+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "2ec3e9a27f0908d6",
+   "title": "太陽光で走るEV車 いわき市で実証実験開始 カーボンニュートラル実現へ（福島中央テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VUTQ5OTZuWHRKUWVuTktYSUl5RmlOV2R5V2RuQXFLdnhsZXJ5TFlRMXJsTmc3c0QzRGJaTm16dVRLMXpZN2ZGV18wX2pvcjJ6OVBsd2I4emZoNU5IcmtXcUhlaGtkeWw3V3FQY3ZZMi1JbHZ0T1hrbjkzSHMtMEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光で走るEV車 いわき市で実証実験開始 カーボンニュートラル実現へ（福島中央テレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T18:38+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "4f139b474b4e1ce1",
+   "title": "系統用蓄電池はFIT・FIPの対象外――再エネ併設時だけ生じる関係を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SaVR3NGJXbWxueE54NDJLRnBPeGZvWlJ3Tk9RUlJ0SHM3NmhsVHc0eWdWS0paWU5Fa0ptckdOSHlMR241OURQXy0xUDVuVkNFWVVTUDNacEtvQjlQa3JVOFNDdFhPRVF3V2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池はFIT・FIPの対象外――再エネ併設時だけ生じる関係を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-10T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "3cb789232ee9d618",
+   "title": "鉛入り太陽光発電用リボンの世界市場（2026年～2032年）、市場規模（タブ付けリボン、バスリボン）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvSV9SdTM3c2lwZE5yNElzR2FHZmZaTFZFYW94aEVnQ3hidTBuak5tZTBnQ0xxeXd6U25rZ1lCakNRaU5QSGZtVWg5RjVLdw?oc=5",
+   "source": "アットプレス",
+   "summary": "鉛入り太陽光発電用リボンの世界市場（2026年～2032年）、市場規模（タブ付けリボン、バスリボン）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-10T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "f00eaeb3cdf81da0",
+   "title": "JAXAなど、ペロブスカイト太陽電池から衛星本体への給電に世界初成功｜宇宙用電源の実用化へ前進",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iXzhYUk9TQ3JaR1JuS1BDNWdJOU1pOGRPWkZIekt6RWtJdzBONUlkTkx3RkpuWkRDSTVLWTVCV1lBMFVOUFpkbS1fTVNTSVNBdHpBaHBVQzZQQ2p3?oc=5",
+   "source": "SPACE CONNECT",
+   "summary": "JAXAなど、ペロブスカイト太陽電池から衛星本体への給電に世界初成功｜宇宙用電源の実用化へ前進 SPACE CONNECT",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T16:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
   {
    "id": "d6a742e72a7f66c4",
    "title": "駐車場用ソーラーキャノピーの世界市場（2026年～2032年）、市場規模（20kW以下、20～50kW、50～100kW、その他）・分析レポートを発表",
@@ -77,6 +149,20 @@
    "published": "2026-10-10T13:25+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "8ce50e49f9847ab2",
+   "title": "「VPP・系統用蓄電池事業の市場環境と今後の展望」と題して、ENEOS Power（株） VPP事業部 VPP事業企画グループ 教来石 祥雄氏によるセミナーを2026年9月30日(水)に開催!!",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRTNEZ0NJVkxoVmN3cEdyZktxSUlfSWRkNXdUV2hfb1p6Z2pmYWxWVHY4cmw2UDNXUjVBc1VRY2UzRmMxbVFSaDlpN1hLMFo5UWZpMTlEMHZGbG8?oc=5",
+   "source": "朝日新聞",
+   "summary": "「VPP・系統用蓄電池事業の市場環境と今後の展望」と題して、ENEOS Power（株） VPP事業部 VPP事業企画グループ 教来石 祥雄氏によるセミナーを2026年9月30日(水)に開催!! 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T12:16+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "baada5d0ce700514",
