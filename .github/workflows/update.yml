@@ -23,7 +23,7 @@ jobs:
     permissions:
       contents: write   # 取得した記事データ（docs/data.json など）をコミット・push するためだけに必要
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: actions/setup-python@v5
         with:
