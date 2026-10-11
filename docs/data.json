@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T11:27+09:00",
+ "updated_at": "2026-10-11T13:49+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "79bdbc7be06415b9",
+   "title": "【震災15年7カ月】次世代太陽電池 ペロブスカイトが「切り札」:震災特集",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUDI2ZDdaWEladHh1RVNDbGJDemFqZk5DYUpIZTBDR2JMbWF5bmZmNV95N3NHb2pfbnFNM0NodHBYSnptZDFvb0cwX0JSMXQ5SURCSzJWbHJEdjJZcFd0UDB5VG13MGFP?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "【震災15年7カ月】次世代太陽電池 ペロブスカイトが「切り札」:震災特集 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T11:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "fa9f59cf564bd3d8",
+   "title": "系統用蓄電池はFIT・FIPの対象外――再エネ併設時だけ生じる関係を読み解くウェビナーを開催｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFNGsyc3cwcW4xTDVHTlNCNmUzN28tNE5WU0g0b251NXBDb0JHNmdNN0VacVc5TVNDTlpSWFlLRm9HVXpzdmVYUFkzejNCZzVHektNZU5qNjFkUXdOTzRhekFtTGUyRVhTb1BLU1Z1ZzR2dw?oc=5",
+   "source": "Infoseek",
+   "summary": "系統用蓄電池はFIT・FIPの対象外――再エネ併設時だけ生じる関係を読み解くウェビナーを開催｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-11T09:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "4fa6cfb6a3ae1b45",
    "title": "【脱炭素・SDGs・ESG】神奈川県：ピクテ寄附金でペロブスカイト導入、県有施設で「どこでも太陽光」推進",
