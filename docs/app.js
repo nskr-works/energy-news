@@ -32,7 +32,10 @@ function when(iso){
   return `${d.getMonth()+1}月${d.getDate()}日`;
 }
 function link(it, cls){
-  const a = el("a", "hl " + (cls || "")); a.href = it.link; a.target = "_blank"; a.rel = "noopener"; return a;
+  const a = el("a", "hl " + (cls || ""));
+  // 取得元から届いたリンクは http(s) のものだけ使う（javascript: などは開かない）
+  a.href = /^https?:\/\//i.test(it.link || "") ? it.link : "#";
+  a.target = "_blank"; a.rel = "noopener"; return a;
 }
 
 const isFiltered = () => state.cat !== "all" || state.topic || state.rel || state.q.trim();
