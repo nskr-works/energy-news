@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T16:48+09:00",
+ "updated_at": "2026-10-12T06:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,93 @@
  ],
  "items": [
   {
+   "id": "4e08bd6f669f6288",
+   "title": "太陽光発電 離島の営農照らす 電通大、伊豆大島で実証事業",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OcXB6VExwY3JDTHgzTmE4MU9RME1tR0RNOE1FNUZiM3ZFRmlzRVNSRjNWcllTYUtGYk5EV3NHZjRpSW5uaVdad3lNbTcwSEJ2QVh2elpuOE5TZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "太陽光発電 離島の営農照らす 電通大、伊豆大島で実証事業 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-12T04:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "f7daaa34b526b041",
+   "title": "バッテリー性能分析市場2035年予測：EVと系統用蓄電池の需要が成長を牽引",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFJ1UmpOcy1hNjRsNGFMYkNjWDVwSzRQMUdIYTVPM1BNOER2eG9MM0ppMUZsMjg4LWJFTlJxbXU3MGRCSy15dUtVcHhqdkpLaWZpQ3lOOV9fckJPeUNkWl9kZU1yQUgzbjBRQlJRUHJSNHpRakh2WUIyZWt5dE13Wjg3cG9VZElpTFJwZUhibmJsMXhveF8tYkplcGZ6aGlWOWRuZkFTNFJab3NMS1MtR21tMV9fMFlvTXRJZnVHS01MWXBxY0E?oc=5",
+   "source": "IndexBox",
+   "summary": "バッテリー性能分析市場2035年予測：EVと系統用蓄電池の需要が成長を牽引 IndexBox",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T01:56+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a4309cb616e4a67e",
+   "title": "グローバル太陽光発電・蓄電池市場需要と研究報告書 (2035)",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmJXd0Y0eVlIWDFlcnA5WTN2V1Y1WExWejdub3I0R0J2QkFPLVVNZHJtZjUwZlVTQ296enloQ1lONlVUaTkyM2V2bVdLYlA1Zk9uLU5TTXdIMG5nSGxVRnlZNUg2UXh2a1Q2WFllM1hhTl85cUR5Sm5GZDI2ZmxMLTE2VXM2V1ZJU3hJUw?oc=5",
+   "source": "Spherical Insights",
+   "summary": "グローバル太陽光発電・蓄電池市場需要と研究報告書 (2035) Spherical Insights",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T00:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "01b858e9858d250f",
+   "title": "中国の太陽光発電容量が石炭火力を逆転 グリーン貿易額も世界首位に",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40eDh5OFMxcmNKUGdZVVBQeUdrRXhzZTIwTzBoYU5mal82S0dDdXNhbm1WRU55alFDZExz?oc=5",
+   "source": "36Kr Japan",
+   "summary": "中国の太陽光発電容量が石炭火力を逆転 グリーン貿易額も世界首位に 36Kr Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T18:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "faa40404b7e39e0d",
+   "title": "2022年法改正で蓄電池はなぜ「発電事業者」になったのか――電気事業法上の位置づけを読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QQ29YdDJ2Um9ya3FnblhvRER5a3V0ZXVXSzhabkxPM1piTC1nbkgwUXF5VzRDa3RFeGVtR1ZFWGJQRy1JQzU1LVhEVFJmVDE4eEhGWTAxblhpZ293TXFjSWc0ekVEZFdjSWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "2022年法改正で蓄電池はなぜ「発電事業者」になったのか――電気事業法上の位置づけを読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-11T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "86d8dfaecc1a6ee8",
+   "title": "グリーンエナジー＆カンパニー、クラダシとの合弁で系統用蓄電所事業を拡大。第一弾となる国内2案件が始動",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLU5hX0dyYTB2Q3hhckhKVGg5Zk1HMzNSUG0zQXI3aTFNNlVTdUtNZl9Ud08tTXFZUDV3dHJnZ25wa2VSXzJQSFY1bURVdGI1SVE?oc=5",
+   "source": "山陽新聞",
+   "summary": "グリーンエナジー＆カンパニー、クラダシとの合弁で系統用蓄電所事業を拡大。第一弾となる国内2案件が始動 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-11T11:46+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "79bdbc7be06415b9",
    "title": "【震災15年7カ月】次世代太陽電池 ペロブスカイトが「切り札」:震災特集",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUDI2ZDdaWEladHh1RVNDbGJDemFqZk5DYUpIZTBDR2JMbWF5bmZmNV95N3NHb2pfbnFNM0NodHBYSnptZDFvb0cwX0JSMXQ5SURCSzJWbHJEdjJZcFd0UDB5VG13MGFP?oc=5",
@@ -34,6 +121,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "4c0f1b28af8cbd1c",
+   "title": "グリーンエナジー＆カンパニーグループ、静岡ガス＆パワーより浜松市の系統用蓄電所建設を受注",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNXJ4SlFzM1RweG85MnVkcE5yb0ZFV0JDRmw1d21uYm9iY1hxZXU5UWthUmt0Qm43bXBCakhqcTYtLUIxWTlvdXkxNjQ5aWpnXzdGaV92ZjhENFU?oc=5",
+   "source": "朝日新聞",
+   "summary": "グリーンエナジー＆カンパニーグループ、静岡ガス＆パワーより浜松市の系統用蓄電所建設を受注 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-11T10:38+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "fa9f59cf564bd3d8",
    "title": "系統用蓄電池はFIT・FIPの対象外――再エネ併設時だけ生じる関係を読み解くウェビナーを開催｜Infoseekニュース",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFNGsyc3cwcW4xTDVHTlNCNmUzN28tNE5WU0g0b251NXBDb0JHNmdNN0VacVc5TVNDTlpSWFlLRm9HVXpzdmVYUFkzejNCZzVHektNZU5qNjFkUXdOTzRhekFtTGUyRVhTb1BLU1Z1ZzR2dw?oc=5",
@@ -46,6 +147,20 @@
    "published": "2026-10-11T09:15+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "0e6d2cdd0930e32d",
+   "title": "【防災の日】停電時、太陽光発電はなぜ止まる？復旧作業の安全を守り、暮らしを支える「自立運転」をアメコミ風デザインで啓発",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV3RXek96S1oxZi1LLTdXdWd0ZVVlaEtGamw0ZEhyel8wOHBwRGNMVlh0YUFLVC1UYVdYeS1sLURRd2R5Q1ZneV90bURCWGhsUndrRmVhcldsUjA?oc=5",
+   "source": "朝日新聞",
+   "summary": "【防災の日】停電時、太陽光発電はなぜ止まる？復旧作業の安全を守り、暮らしを支える「自立運転」をアメコミ風デザインで啓発 朝日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T07:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "4fa6cfb6a3ae1b45",
@@ -574,6 +689,34 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他",
    "company": "株式会社たちばな"
+  },
+  {
+   "id": "f98c116c5dc8c390",
+   "title": "大規模蓄電所向けラインナップ拡充 新型蓄電池や周辺装置を開発 販売強化狙いにパワーエックス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tUUd3dmNzTWxBb0VYcUhZaUNoWVdZcUZFVHBYRlNnVXBmQzVHZW5YcHRQN1piUU1MOW9Ua0xQREp6RFRNMXZ4NnhrUzRUZnVEYXc?oc=5",
+   "source": "山陽新聞",
+   "summary": "大規模蓄電所向けラインナップ拡充 新型蓄電池や周辺装置を開発 販売強化狙いにパワーエックス 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "ea478ffd1386ef21",
+   "title": "再生可能エネルギーの「切り札」は薄くて軽く、ぐにゃりと曲がる 激化する開発競争を勝ち抜けるか、“純国産”ペロブスカイト太陽電池の実力は【脱炭素 深掘り】：山陽新聞デジタル｜さんデジ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0cXl0djlTcTdfeDR4WFg3bUhxSUtLYjRxYnBrUHM1TUN5cG02eDhRLUN5Rjg5dHV0RmQ3S0o3SDRWMy0yTWJCRGIwUzI1T2FCN3IzSmF0Rm1aQVRxVDVDTW9Hai1DSjA?oc=5",
+   "source": "山陽新聞",
+   "summary": "再生可能エネルギーの「切り札」は薄くて軽く、ぐにゃりと曲がる 激化する開発競争を勝ち抜けるか、“純国産”ペロブスカイト太陽電池の実力は【脱炭素 深掘り】：山陽新聞デジタル｜さんデジ 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "bd5c0d8c0b4ec87e",
@@ -1305,6 +1448,20 @@
    "published": "2026-10-08T16:13+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "82fced9386ccb1ed",
+   "title": "低圧系統用蓄電池事業向け情報サイトを公開｜全国の土地情報募集を開始",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13cEg4N0FiZS1ralJoZlN2cWE0NUx4X1pfa2VXRlFZeXZFN05wTE5wNGVBVzVneTQ2Nm5ZSVJWRFp0S1ZmUVlxN255czMwZG9xa1FzUGp4RUNwQ2FnUVczcW5vVHR1TGM?oc=5",
+   "source": "山陽新聞",
+   "summary": "低圧系統用蓄電池事業向け情報サイトを公開｜全国の土地情報募集を開始 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-08T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "5ea63fd69a3c6f60",
@@ -4312,6 +4469,20 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZdjBRMlU2MkVTRkVraTUzZUJQLXdNT2w1Ty1mWHR5TjJ6T1VGNUVHVUFSa1l0amlSREs1eTA0YTVNYUtxM1NSYUhtRktPQnpDeVVNLUItSFlTb0g4eGRYUTdGQkpPTGZnU1E?oc=5",
    "source": "Infoseek",
    "summary": "仏最大の蓄電施設が稼働、市場握る中国製に変化の兆しも―仏メディア Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-05T09:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a5108e0e7d75b0b8",
+   "title": "仏最大の蓄電施設が稼働、市場握る中国製に変化の兆しも―仏メディア｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZdjBRMlU2MkVTRkVraTUzZUJQLXdNT2w1Ty1mWHR5TjJ6T1VGNUVHVUFSa1l0amlSREs1eTA0YTVNYUtxM1NSYUhtRktPQnpDeVVNLUItSFlTb0g4eGRYUTdGQkpPTGZnU1E?oc=5",
+   "source": "Infoseek",
+   "summary": "仏最大の蓄電施設が稼働、市場握る中国製に変化の兆しも―仏メディア｜Infoseekニュース Infoseek",
    "categories": [
     "storage"
    ],
