@@ -1,7 +1,9 @@
 # 太陽光・蓄電池ニュース
 
 太陽光発電と系統用蓄電池のニュース・プレスリリースを毎日自動で集め、一覧で表示するサイトです。
-GitHub だけで動き、費用はかかりません。
+公開URL：https://energy-news.pages.dev
+
+収集は GitHub Actions、公開は Cloudflare Pages（無料枠）で動き、費用はかかりません。
 
 ## 設置手順（初回のみ・約15〜30分）
 
@@ -11,9 +13,9 @@ GitHub だけで動き、費用はかかりません。
    - `.github` フォルダは隠しフォルダなので、Macは Finder で `Command + Shift + .` を押すと表示されます
    - うまく上がらない場合は「Add file」→「Create new file」で、名前を `.github/workflows/update.yml` にして中身を貼り付けてください
 4. **書き込み権限を許可**：Settings → Actions → General →「Workflow permissions」で **Read and write permissions** を選び Save
-5. **GitHub Pagesを有効化**：Settings → Pages →「Source: Deploy from a branch」、Branch を **main / docs** にして Save
+5. **Cloudflare Pagesで公開**：Cloudflare の「Workers & Pages」→「Pages」→ Git に接続（リポジトリは「Only select repositories」でこのリポジトリだけ許可）。Framework preset は **None**、Build command は空欄、Build output directory は **docs**。作成後、Settings → Builds の Build watch paths の Include に **docs/\*** を入れて Save（記事の更新があったときだけ公開し直すため）
 6. **初回の収集を実行**：Actions タブ →「ニュース更新」→「Run workflow」
-7. 1〜2分後、`https://<ユーザー名>.github.io/energy-news/` にアクセス
+7. 1〜2分後、`https://<プロジェクト名>.pages.dev` にアクセス（このサイトは https://energy-news.pages.dev ）
 
 以降は毎日 6:37・10:37・13:37・16:37（日本時間）にニュースを取得し、7時・11時・14時・17時ごろまでにサイトへ反映されます。PR TIMES は別に毎時37分にも取得します。
 

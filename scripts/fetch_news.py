@@ -190,7 +190,7 @@ def notify(new_items):
         "topic": topic,
         "title": f"太陽光・蓄電池News 新着{len(new_items)}件",
         "message": heads + more,
-        "click": os.environ.get("SITE_URL", "https://nskr-works.github.io/energy-news/"),
+        "click": os.environ.get("SITE_URL", "https://energy-news.pages.dev/"),
         "tags": ["sunny"],
     }, ensure_ascii=False).encode()
     try:

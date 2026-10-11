@@ -34,7 +34,7 @@ jobs:
       - run: python scripts/fetch_news.py
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}   # 新着通知の宛先（未設定なら通知しない）
-          SITE_URL: https://nskr-works.github.io/energy-news/
+          SITE_URL: https://energy-news.pages.dev/
 
       - name: 変更があればコミット
         run: |
