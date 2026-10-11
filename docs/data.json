@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T13:49+09:00",
+ "updated_at": "2026-10-11T16:48+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -74,6 +74,20 @@
    "published": "2026-10-11T07:26+09:00",
    "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "6c7fa430b15ca823",
+   "title": "【太陽光発電】OKIクロステック：既存鶏舎6棟に451kWの軽量太陽光、年間電力使用量の約4分の1を創出",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tZnpsbmlhRVppUWJJVGFUR3lmZkpxdzIxaUJYeUhNZUJ6VmVzLTI0Y3JMaUhpd19XNDdqcUJEbExSdmNlNGVwdVo4R3QyelRfRG4xRjFTTzBTOUNTN2RiYnBwVDh2RlJkWmhkZm1xWTZ1dw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】OKIクロステック：既存鶏舎6棟に451kWの軽量太陽光、年間電力使用量の約4分の1を創出 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T07:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "d82bbc88bf8edfab",
@@ -160,6 +174,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "e6b414602d15e963",
+   "title": "系統用蓄電池はFIT・FIPの対象外--再エネ併設時だけ生じる関係を読み解くウェビナーを開催 (2026年10月10日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wVThJQkpMcVVyZjhPWDc5alVBeVEwVlhlSndJSjVnQUVSLUdnNFozazFNTWZiaDFaT2hLX01oU2N0Q3Jvd2V1Zi1CYlRkYlctbElJbUIzUm9ZOEhVdXdfU0x3?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池はFIT・FIPの対象外--再エネ併設時だけ生じる関係を読み解くウェビナーを開催 (2026年10月10日掲載) ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "f00eaeb3cdf81da0",
@@ -2451,6 +2479,20 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkdQZkYyNjBINHBYWTNsc0k5c3dUcnRoSnp0dHpUTmhPLTVXT0hwQ093Sm9zY05lRVp1ZEUySGF3LWx4QTlhM3RkUlRJcElpOTVZZ1lRaVdJdXlYc1Z5NFduVFZzUUNtTzJ5dUk0Q0ZBd184Y3pwbUFHTlIzN0R4Ug?oc=5",
    "source": "조선일보",
    "summary": "野党の太陽光プラカードで農林畜産食品部国政監査が紛糾 조선일보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T11:09+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "2f2a1a9114f9295e",
+   "title": "「農民追い出し太陽光か」野党ピケで国政監査中断",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkdQZkYyNjBINHBYWTNsc0k5c3dUcnRoSnp0dHpUTmhPLTVXT0hwQ093Sm9zY05lRVp1ZEUySGF3LWx4QTlhM3RkUlRJcElpOTVZZ1lRaVdJdXlYc1Z5NFduVFZzUUNtTzJ5dUk0Q0ZBd184Y3pwbUFHTlIzN0R4Ug?oc=5",
+   "source": "조선일보",
+   "summary": "「農民追い出し太陽光か」野党ピケで国政監査中断 조선일보",
    "categories": [
     "solar"
    ],
