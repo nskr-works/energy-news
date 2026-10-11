@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T10:52+09:00",
+ "updated_at": "2026-10-11T11:02+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -87,6 +87,20 @@
    "type": "news",
    "published": "2026-10-10T18:38+09:00",
    "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "1220611b14c4bb12",
+   "title": "太陽光で走るEV車 いわき市で実証実験開始 カーボンニュートラル実現へ（2026年10月10日掲載）｜中テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWpvUGFVS3l6dS1waXlQTjl0aVBhdFExZFNOZ2M2dnB0emx3ZGpZaElGWm1iNi1wdmxsWTFrRVJGekIyaWxRUE1IdFdmSGNjeUIxZDFBZndocjNfOW00bTJSNEd6NFl5VUxrWmhwQXdmTlIwMW5xdG1tUWtxOTIxYURfZ0gzNWc?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "太陽光で走るEV車 いわき市で実証実験開始 カーボンニュートラル実現へ（2026年10月10日掲載）｜中テレNEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T18:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
   {
