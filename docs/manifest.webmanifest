@@ -9,7 +9,7 @@
   "background_color": "#0F1419",
   "theme_color": "#0F1419",
   "icons": [
-    { "src": "icons/pv-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/pv-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    { "src": "icons/pv-round-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/pv-round-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
