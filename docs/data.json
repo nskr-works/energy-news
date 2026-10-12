@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:51+09:00",
+ "updated_at": "2026-10-12T10:55+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,63 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1b130ce059e4da47",
+   "title": "一体型ソーラー折りたたみパネルの世界市場（2026年～2032年）、市場規模（低電力（100W以下）、中電力（100W～200W）、高電力（200W～400W）、超高電力（400W以上））・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadm1mTGVPZkJUYk5XTWxzeUhOa2RyMVFzRVV2cVRZODR5MGxwMExqTVVtbHloM1hUTlVoYm90SzJoWEUxLTZOcENkZU9Gakk?oc=5",
+   "source": "アットプレス",
+   "summary": "一体型ソーラー折りたたみパネルの世界市場（2026年～2032年）、市場規模（低電力（100W以下）、中電力（100W～200W）、高電力（200W～400W）、超高電力（400W以上））・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-12T10:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "429321b0e6383e42",
+   "title": "【蓄電関連】ポート：系統用蓄電所4カ所へ追加投資、2027年3月期の開発決定は計14カ所に",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kMG9GZ2xHQjFnRTdUQ3BUQUlrUEtWNkk2VzFaRlNVclVleTJZTEJVYkRfQzl5VS1uMTZpQ01fNXA4Uy1FYkw1OVIxcV9JYVR2OFBpME9DbjRTdFFtVnhxTDhXcXpBNzNtUnB3NXFnd2huZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】ポート：系統用蓄電所4カ所へ追加投資、2027年3月期の開発決定は計14カ所に みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T07:46+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1bd1c99585d0d553",
+   "title": "サステナブルHD、系統用蓄電池1案件で設備等売買契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sU015RzhSRF9jNUttTDR3eENXemhRaEY5NG4tRi1xQURRVm5tZWdiUThoMnV0a3oxbFRlM0FJaEZGaHBLMlRSYkpCcjRRZ3lCSWFQSFVRU2JIWlFaWDV5c1VrSndyMjVPWldlTy1fTldnUQ?oc=5",
+   "source": "SDGs NAVI",
+   "summary": "サステナブルHD、系統用蓄電池1案件で設備等売買契約を締結 SDGs NAVI",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T07:42+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "deec8e20705b8790",
+   "title": "【太陽光発電】大日本印刷：泉崎工場に10.8MW太陽光、反射シート8万㎡で発電量6％増へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Tem9wQzVRcXZucTliYzRVMnlTaHVvMmZWQTZlZlMtY3ZJUlJVYS1QWExnc0dQemh2NVpSaHZRN21LR3c5SkZsZndNcTZVbUhlR1Y1azRrUmVUX1IzM1BXZThVd3QxXzlDam0wNnlyWnVxZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】大日本印刷：泉崎工場に10.8MW太陽光、反射シート8万㎡で発電量6％増へ みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-12T07:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "4e08bd6f669f6288",
    "title": "太陽光発電 離島の営農照らす 電通大、伊豆大島で実証事業",
