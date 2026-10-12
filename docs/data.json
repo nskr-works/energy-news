@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T16:56+09:00",
+ "updated_at": "2026-10-13T06:52+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,135 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "dba16102c9e656ba",
+   "title": "ヒラソル、系統蓄電所をネガポジ運用／出力２倍の調整力供出",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQXRGV2Y0ZFZlTm5mazVDRXZ5LXlYY2pMUGtnZ09lOTA5MFExMkFHNEpBU1oyZjVpNmdHNVEzNTlZMG0td2ZJSkxlM0Ezd0RKT1huRUtZaw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "ヒラソル、系統蓄電所をネガポジ運用／出力２倍の調整力供出 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T06:02+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "43a13d3cedd4a367",
+   "title": "長期脱炭素電源オークション、ＬＮＧ専焼は還付額固定も／長期契約締結促す",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Rbk41WVNQbzBpRXVyd2NNbkZCZXcxNTJFekw4NF84cVFGbldZQmRoRUxVVU9lbG1JNkwyd2pLUU5yS1BrVEE5UGZkOVEyQTRvSjRWYWVyMA?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "長期脱炭素電源オークション、ＬＮＧ専焼は還付額固定も／長期契約締結促す – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T06:01+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8a569f9314f1d491",
+   "title": "米で外国製・定置用蓄電池に規制、中国製の扱いが焦点",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDhiTlpyN3pCV09VMkNxRFlyWDhaVVpqSk5udXg4YzVLMTMzbGw5Zmd2VnhxRG1JUWN3UlR4Wlp5bjZJQ1pXZmFVbEY2WkZ5aC1wSzh1M2ZBZGMwRkhkZDVmRFJkUkcyTGdFMHJETmZMamlJblZpalpCQUw3MnNudXhrRUR5V0tTcGRCMw?oc=5",
+   "source": "日経クロステック",
+   "summary": "米で外国製・定置用蓄電池に規制、中国製の扱いが焦点 日経クロステック",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T05:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9ee8a0c3817a68a2",
+   "title": "Sustech 求められる専門性 広がる系統用蓄電所市場",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZVQ5X3pIWlB2SFVqdnBoLU1wekRhejJiOEM1bGVuR3RONkdHSUxEOUhfRmJBUTFzVWFuUTREX3dnU1puZ0ItSHZOeEozQm03SFE?oc=5",
+   "source": "住宅新報",
+   "summary": "Sustech 求められる専門性 広がる系統用蓄電所市場 住宅新報",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T03:07+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9719e52293b41bc1",
+   "title": "【エネルギー】タイ政府、未署名の電力購入契約を見直しへ 太陽光の買い取り単価引き下げ タイ政府は、民間の発電事業者とまだ署名していない電力購入契約（PPA、国が民間から電気を買い取る契約）について、再交渉または取り消しを進める方針を固めた。電気料金の引き下",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeTdjUFZmREZURVVaNWx3SkkwWVJtdVhQeHBVbmJKMVZXQnpNVFFvTXRHSW5ieE9oUi1tWVdMaHQ4c2JUdDl1OFlkamJMRmR5?oc=5",
+   "source": "バンコク週報",
+   "summary": "【エネルギー】タイ政府、未署名の電力購入契約を見直しへ 太陽光の買い取り単価引き下げ タイ政府は、民間の発電事業者とまだ署名していない電力購入契約（PPA、国が民間から電気を買い取る契約）について、再交渉または取り消しを進める方針を固めた。電気料金の引き下 バンコク週報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-12T19:19+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "a597abe49ef65c3b",
+   "title": "Trinasolar社が、Vertex N G3 TOPCon 3.0太陽光パネルおよびエネルギー貯蔵システムを発表。",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzZZZ0JLME9xclRYYkUxUzNTcDlqRUswN0VBblVYSXh5eGFUdUpsb1cxeUxVQ2dmWlZBdmx3djJPa3BTMXhRTnBHR2J1a0ctQnJ6M3ZfbDhxd212Q0RyeURlSnRUNnM5UDV3U0tnZXEtUzZTM1NiU2xXNjFNQWR3N1RUQ201bmZ3ZlRXb3VnMlprM2l5WmFRNE1FZFZPS3dYS3B6RTNBa0k?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "Trinasolar社が、Vertex N G3 TOPCon 3.0太陽光パネルおよびエネルギー貯蔵システムを発表。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-12T18:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "65d33a1243f850e5",
+   "title": "系統用蓄電池は消防法・建築基準法でどう規制されるのか――規制の実態を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcXRKWFZwNG93OURLVWlTNTBNekQ1Wnotb2hOLU1Vem15OHF4eF9NWDRLUVNCYzFtMThCbUVRZXVySWRDQlFVT0hrekdaMWcxUmFCS2xUeGRvV1BqREk2aExPa2U1NzlielE?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池は消防法・建築基準法でどう規制されるのか――規制の実態を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-12T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "dc27da13d09e2246",
+   "title": "太陽光発電用バックシート用フッ素フィルムの世界市場（2026年～2032年）、市場規模（PVDF、PVF、ETFE、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNzFWQ2FaZzhZbzNBRE14b2xWNm8xVXFUZHRUU3NUMzlidzNNMHU4aTg4TjNMS0k1VmNYTng3N3hLWmxRSTFkR1loVVQ2UnM?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光発電用バックシート用フッ素フィルムの世界市場（2026年～2032年）、市場規模（PVDF、PVF、ETFE、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-12T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "17a3836a1ef67231",
+   "title": "太陽光発電アルミフレーム市場調査分析レポート：トップ５企業の生産能力・販売量・平均価格動向",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55dzduT2VXZmk4dThrNThEbkJUOHpzWDdiOS1NaURQelJHZ3pwekRETjg2SFFlcEU3MHVPVWo4NnRYM0VWNWJHRWRlenZ0Wnc?oc=5",
+   "source": "Newscast.jp",
+   "summary": "太陽光発電アルミフレーム市場調査分析レポート：トップ５企業の生産能力・販売量・平均価格動向 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-12T14:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "YH Research株式会社"
+  },
   {
    "id": "8d061438239ef7bd",
    "title": "レバノン初太陽光発電新型列車 旧鉄道網復活への期待が高まる（AP通信）",
@@ -89,6 +218,20 @@
    "published": "2026-10-12T07:41+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "13631abbc78fe146",
+   "title": "系統用蓄電所（４拠点）運転開始のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MSEFuUjdlMXk4ZkE4a3ZjRVZLMWdXNzM1ajhmUmk2Y3JWU0RVSzhCQjF4aUZ0eEtFME1ZX09yNHpJQW5LcVFMS3NfWVJmend3UjltZ29YVDBBRVk?oc=5",
+   "source": "朝日新聞",
+   "summary": "系統用蓄電所（４拠点）運転開始のお知らせ 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T05:59+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "4e08bd6f669f6288",
@@ -162,6 +305,34 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "5765ff6fb2876f4b",
+   "title": "【四国地方銀行グループ初】とくぎんトモニリンクアップ（徳島大正銀行）が系統用蓄電所のオーナーとして事業に参画",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNkcwNk51ajBUbkJfRlc0Y082eGVMVGUwdnQ4c0tNN1l5NWhiUWx4N3BMT28xbEM1dnpOQkVsbEJZMldnRDR6ZXBmRk1VNWdYMHFJN2xMbG9hbUZWODJITzVsRG1Odlk?oc=5",
+   "source": "山陽新聞",
+   "summary": "【四国地方銀行グループ初】とくぎんトモニリンクアップ（徳島大正銀行）が系統用蓄電所のオーナーとして事業に参画 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-11T16:21+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b15faea56529c564",
+   "title": "太陽光発電と次世代技術で農地守れ ヤンマー、岡山でプロジェクト始動",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MZmlSTV92REhtTVZrcGE4Z3ItaDdkaS1pMGlabzh1SVdoMk9ub0hTbk4xejlMRVdLXzBsY2RQVEdMWDg4MmEyMDA4Tjd5UmJ4VGc?oc=5",
+   "source": "山陽新聞",
+   "summary": "太陽光発電と次世代技術で農地守れ ヤンマー、岡山でプロジェクト始動 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "86d8dfaecc1a6ee8",
@@ -290,6 +461,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "1d1f3230f13cd773",
+   "title": "この発電所は、二酸化炭素を利用して風力発電と太陽光発電のエネルギーを数時間ではなく数日間貯蔵する。",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjdlRWZjSTVRcDQ2RmY1aWlOc3dpdkZZY2ttelNCTkVxSi1tZGhvN2JpZDcyaGs3YTkycktJbndwcWF2VjdCTXI1N1hkMHZ3ejhlUl9aWXFWRWhNSVlZSDZISHZKRUtobFlaQVZOOU4yc2Jobkt0NkV2MV9EN0U1V0JxSVNielJxWV9aVGdCVVdaOERZeXN0YkFkNWRLUjNkRVE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "この発電所は、二酸化炭素を利用して風力発電と太陽光発電のエネルギーを数時間ではなく数日間貯蔵する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T21:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "95483383ded3f3de",
    "title": "営農型太陽光発電の田んぼで稲刈り 宮城 美里町",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4ODBfbkFvajVnQW1obm5PQlhocVRmbWtGSFg3MDBaOU95dTRwTGNYSG9jdW5uN2g2X2dfcDVoaUptcURaQ1hURHlaZm1KSzl4aVJ2eDlCOVlTTVh6bE1F?oc=5",
@@ -388,6 +573,22 @@
    "published": "2026-10-10T16:30+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "bac6a57848d6b0af",
+   "title": "低圧太陽光発電所の空きスペースを新たな収益源へ ― 「FIP転＋蓄電池」・「低圧系統用蓄電池」の比較提案開始",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GWmdiV2QxWG9vT2VyTEE2bXJjTTEtUl9OcEtFanFzNlFOQjhHTnlRTk8zenhCYnY3YjBqR0JZWXlWTWx1ZVlueGx4NUd4Mm05dEE?oc=5",
+   "source": "山陽新聞",
+   "summary": "低圧太陽光発電所の空きスペースを新たな収益源へ ― 「FIP転＋蓄電池」・「低圧系統用蓄電池」の比較提案開始 山陽新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-10T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "政策・制度",
+   "storage_topic": "低圧"
   },
   {
    "id": "d6a742e72a7f66c4",
@@ -788,6 +989,20 @@
    "published": "2026-10-09T16:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "9eca5148fac7282f",
+   "title": "太陽光発電量をＡＩで予測 売電を省力、最適化 ビーズスタイル",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tQUhmOHJlVXMycGRiR19tZWFYZEFDVjU0dGR3a0xpX1JIejVFbl9va3VoeV9Lb0dhR2JaRnZjci1JR3NpRVBhaS1mcmJFd2ZQZ1E?oc=5",
+   "source": "山陽新聞",
+   "summary": "太陽光発電量をＡＩで予測 売電を省力、最適化 ビーズスタイル 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
   },
   {
    "id": "bd5c0d8c0b4ec87e",
@@ -1547,6 +1762,20 @@
    "published": "2026-10-08T15:51+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "cc84f2448f9ab964",
+   "title": "カナディアン・ソーラー・インフラ投資法人[9284]：太陽光発電所月次発電電力量実績及び出力制御による本投資法人の運用資産への影響（2026年９月）に関するお知らせ 2026年10月8日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9reFl5cmhsNjV3bWlndVIwa01GbHNNMzYwb1ZRTlpEWXAzSk1OWXNqU0ZXMkZYNWN2RlhyMmdnTkQyX0o0aXpsUnR2MDdyenRnOV9IRFdhXzJQeE16WFFLTGV3XzR5dVUwa2c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "カナディアン・ソーラー・インフラ投資法人[9284]：太陽光発電所月次発電電力量実績及び出力制御による本投資法人の運用資産への影響（2026年９月）に関するお知らせ 2026年10月8日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T15:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "8622f922100fe5f3",
