@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:55+09:00",
+ "updated_at": "2026-10-13T12:55+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "59dbbc89e6cf124a",
+   "title": "Q.ENEST（キューエネス）ホールディングス、自社所有の系統用蓄電池で需給調整市場へ参入",
+   "link": "https://prtimes.jp/main/html/rd/p/000000033.000126341.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Q.ENESTホールディングス株式会社] Q.ENESTホールディングス株式会社（本社：東京都港区、代表取締役：張 熙載 以下、当社）は、2026年10月より、当社初の系統用蓄電所「Q.ENEST 佐野高圧蓄電所」（以下、本施設）を活用し、需給調整市場へ参入し...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T12:40+09:00",
+   "company": "Q.ENESTホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "21a3d3ab10249d03",
+   "title": "Jackery（ジャクリ）が、令和8年熊本地震復興イベント「イザ！カエルキャラバン！in熊本」に出展！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000369.000039188.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Jackery Japan] ポータブル電源・ソーラーパネルの世界的リーディングカンパニーJackery（ジャクリ）の日本法人である株式会社Jackery Japan（東京都中央区）は、2026年10月17日（土）・18日（日）に熊本市の花畑広場および熊本...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T11:00+09:00",
+   "company": "Jackery Japan",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "5c13d7ed8f1adf95",
    "title": "テスホールディングス、鹿児島県の太陽光発電所に5MWhの蓄電池併設工事を受注",
