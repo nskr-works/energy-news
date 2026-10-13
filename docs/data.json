@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T06:52+09:00",
+ "updated_at": "2026-10-13T10:55+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,287 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "5c13d7ed8f1adf95",
+   "title": "テスホールディングス、鹿児島県の太陽光発電所に5MWhの蓄電池併設工事を受注",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWlVva05HU2txdG1xMDJCMjFDMEJOVGtBT0tyQmtlR1NzdXhpaUlicElWdTlhbmFNYnFrRXVFRHpzVU9aS3doQTVrS1BqbWl5cTVR?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "テスホールディングス、鹿児島県の太陽光発電所に5MWhの蓄電池併設工事を受注 ニュースメディアVOIX",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T10:02+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "c13667a32afa6577",
+   "title": "丸紅新電力-サンヴィレッジ/系統用蓄電池4件の需給調整市場への参入完了について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeEdBV2hEN3VIS1RkMHlILXd5eFUtQXVlTmtfYmk2anZ5NmNRdjhuR2dFYnRRWW9HVTloNGtIWExlWUxyUl9ZOFYwTFRJTWxnRi1lNkk0S2Mtbm15WUhZNmNmNUlVMHU3Y3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "丸紅新電力-サンヴィレッジ/系統用蓄電池4件の需給調整市場への参入完了について PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "丸紅新電力株式会社"
+  },
+  {
+   "id": "0e0fee7016d40afa",
+   "title": "太陽光発電量予測を、自社で組み立ててみませんか？――【PV予測セルフ工房】期間限定の無料トライアルを実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SN0k5REVoZGlHa0R3LVlmejVYMmMteGc3ZHhSd1RlcW9SeW1SdlN3MHJvU19QRUVrN1NzM2ZpSVcya05oS21kaUVzejIyOVNuUFlWazQ3Xy1DYzlNbkF5UkJuVlpKZHU2aUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "太陽光発電量予測を、自社で組み立ててみませんか？――【PV予測セルフ工房】期間限定の無料トライアルを実施 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守",
+   "company": "Weather Data Science合同会社"
+  },
+  {
+   "id": "320c51cb76add6ce",
+   "title": "テスホールディングス[5074]：グローバル・インフラ・マネジメント株式会社様の太陽光発電所から「蓄電池」の併設工事を受注いたしました 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMkh0a1d1by14bUhIOTNQUE40T0RGUm54aHlqb0NVdUVtV3BTa0wwd1B1MUJfNHR5czhHaHRMWXo1WVM1Zk85RXU0QTFrTTFlbVJ6dk9aaUJCc1JmT25EMVl0VjMxY2xvZ3c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "テスホールディングス[5074]：グローバル・インフラ・マネジメント株式会社様の太陽光発電所から「蓄電池」の併設工事を受注いたしました 2026年10月13日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "51ab3ca95d1ab940",
+   "title": "【調査結果】蓄電池の施工会社62社に水害に関する調査を実施、約4社に1社が「蓄電池の水害対応または相談を経験」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwYV8tcDFDb19QUzlPZjhPdmZPdEphV3E5RDJPVHJqUG54RmlhM01DMEVwb1V6RWZNczdvLVotbTljd1VYYnhmZS15a2w2Q0dNYnJBMFdEX1hMWHBTeVdDaExMTml2ejNOU0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "【調査結果】蓄電池の施工会社62社に水害に関する調査を実施、約4社に1社が「蓄電池の水害対応または相談を経験」 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社ソーラーパートナーズ"
+  },
+  {
+   "id": "0576586cf8a7f8f1",
+   "title": "系統用蓄電池4案件の需給調整市場への参入完了について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeTF2eFV4WkxYbjVkR05WWG5ZaGFUejJHNDFOVTJJZTVQaVB3M1kyc0JlSnh3TDBhTGExSkxLWmxJRjBLOHpNc3VybnN0eFZZd0RRYkF2NkczNGV5dm1VeExmZmNwTUtjT3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池4案件の需給調整市場への参入完了について PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "7a4175cc5a2271c0",
+   "title": "TESSグループ、グローバル・インフラ・マネジメント株式会社様の太陽光発電所から「蓄電池」の併設工事を受注",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aUg5VGdLb0NXYnh4TVdWS3Uta0ZqZFFEMlc4WEFqZk5mS1l6V3d0OU5JaGI0OFF0UWNMOTBhYzAya1FHdGxRazUyX2ZnZjBmQllqZkZNS3g1b2FNbTZKYUhvRW4zRktKTXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "TESSグループ、グローバル・インフラ・マネジメント株式会社様の太陽光発電所から「蓄電池」の併設工事を受注 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "発電所・開発",
+   "storage_topic": "その他",
+   "company": "テスホールディングス株式会社"
+  },
+  {
+   "id": "0d907db63d76635d",
+   "title": "天満紙器、つくば工場に太陽光発電設備を導入。工場電力の約34％を再生可能エネルギーで賄い、脱炭素社会の実現を加速",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GQ084R2k4WnY4VVFxWXh6Rjg2YWtOcGI0dUtWN293VzRINGtqeThBLU1tTWZEaUQwckJxYjJQcG5BcTdjNW5yTmJTWjdDTHcwQVhlNlBIcmpVRWY2bzItLXJPWnNQRUl1MVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "天満紙器、つくば工場に太陽光発電設備を導入。工場電力の約34％を再生可能エネルギーで賄い、脱炭素社会の実現を加速 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T09:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "company": "天満紙器",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "696edd9ca77b13b2",
+   "title": "ペロブスカイト太陽電池の高性能化へ 岐阜大が新材料：「エネルギーの階段」作る材料設計",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfVTV1U3E5TURtcW5ZRFJBYXpwS2pCbHZmR3A5aDZvUTdnS2pVWno5elBjWHlsMXR6ZjJhdmJQWFZTVngxaWllVUVsbVVPU2FmT0FRNnR2enFoZEJ6NmxpdnB0Wmx5VXFMMVJQQ3A1MA?oc=5",
+   "source": "EE Times Japan",
+   "summary": "ペロブスカイト太陽電池の高性能化へ 岐阜大が新材料：「エネルギーの階段」作る材料設計 EE Times Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T09:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "9f5e4a9768077eb1",
+   "title": "ヘリオス、クラウドで束ねた低圧蓄電所で一次調整力を実証 追従率100%・応動1.8秒",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN2xxNGdScXpRVkc3QnE2dnppUWUzWk5nekgxYU40RnE4MVFPal9iRGFEQXFhTDRPaEJMLXFObmFFMVpPMWtQdjJTVDVXZEw1R3ZucVg2MWJOMll1blV2ZmRsaFBNX2o2YVdUdU9jTUZVczJxbzNHYldnWQ?oc=5",
+   "source": "産経ニュース",
+   "summary": "ヘリオス、クラウドで束ねた低圧蓄電所で一次調整力を実証 追従率100%・応動1.8秒 産経ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-13T09:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧",
+   "company": "株式会社ヘリオス"
+  },
+  {
+   "id": "3877fbcaf360fce8",
+   "title": "アグリフォトボルタイクの日本での現状｜営農型太陽光の許可制度と見極めポイント",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRFh1WUNqTHpNblB6Zk9JbEJraUppbDV1QWhUNnpTQlVPaG5tVmNrWTd3SlM0TzRqRzJWbTdrdFcwMjByRDM4X1A3QXg?oc=5",
+   "source": "MIRASUS（ミラサス）",
+   "summary": "アグリフォトボルタイクの日本での現状｜営農型太陽光の許可制度と見極めポイント MIRASUS（ミラサス）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:29+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
+   "id": "50e8e757717c2187",
+   "title": "水害から土砂災害、山火事リスクまで‥‥防災専門家が指摘する「メガソーラー」の危険性（週プレNEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KWkVlNVZqUmJfd0xpbXdEWjQ4V1ZOcUdsMUZIenFUZjMzMUxMY04xRUxyWWNxbXU1Zk9BelQ3QkNURmJlSGEwSm9ZcWdLajlXOFRxVHY2Ym8ycFRDSkFhX1dZdnhZREVPQTlRcWZhTC1Ca3Rtd1RQeUlMVWlqVEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "水害から土砂災害、山火事リスクまで‥‥防災専門家が指摘する「メガソーラー」の危険性（週プレNEWS） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:06+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "be280315b7bc0b72",
+   "title": "【太陽光発電】アイ・グリッド・ソリューションズ：建デポ6店舗にオンサイトPPA、再エネ自給率約48％を見込む",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nbExvSk45M1ZZVTRod1RaaHF3OUt5TEVIaDZfdGxMUkxlZHhsX0F2S3RQQ0pqUHVYMW1kT1ktZHo3bVh3S1R4V1d2QXhuSGdBTmsydkpyLWtMUE4xMjNYOU9BR2haeUY3SVZ3YlFEMG5IZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】アイ・グリッド・ソリューションズ：建デポ6店舗にオンサイトPPA、再エネ自給率約48％を見込む みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "3b0a01bce62a68fb",
+   "title": "相馬市の課題を鋭く質問、子ども議会に16人登壇 メガソーラーや空き家対策:地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45U2laUnhhVkFVSWY5azNQcG81X1FaN1RzQldPN2VJNHB5dTUyTkluLWx1cElYRHZIeGxwVFhaYzl2M29EZ2ZEeEx1SG90c0xhTkFtUzBDVW5WVUxURktNY1dhZG9lWmxX?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "相馬市の課題を鋭く質問、子ども議会に16人登壇 メガソーラーや空き家対策:地域ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "fd6b5b6c9c91c226",
+   "title": "防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは (2026年10月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IYjVVbE5HQWRaZmdiQ1Q2MUxwdFRkN0VFQUF4VU0weWVmVzdENmhQcVJMZVhjUDFhTDNTZElBQmt3LTJxRGRqbXgyVmdtVnBEMURFNndQZ3ZOcFR6Unc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは (2026年10月13日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "6d346beb8feffa8a",
+   "title": "【蓄電関連】NTTアノードエナジー・JERA Cross・NTTドコモ：太陽光と系統用蓄電池でHourly Matching実証、時間単位の脱炭素効果を検証",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GQngybWpzZUp4T0pvVVRvazEyUjRLOTNDRS0tSDJSeHF3R21zNlR5OGVlTGJ3U1FFei1FcndUdy04UDR3R3hid25uZXBiV3dRSkQ0V092R3FhcjFUeHlEVnlxWXRZZDJ5ZGIyTUtLTTg5Zw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】NTTアノードエナジー・JERA Cross・NTTドコモ：太陽光と系統用蓄電池でHourly Matching実証、時間単位の脱炭素効果を検証 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T07:57+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "cc7d3d491ad073cc",
+   "title": "【蓄電関連】クラダシ：島根安来蓄電所を着工、2MW・8MWhで2027年1月の受電開始へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yWmwyR2NqLXF0bjVxSEJoMU1jdTdRRWVwOXZCN0pqMUNnMzJ0NHVoajNTZW9HNGdBR3BsNWphWUkxWHdra2w4TzZoQ0VXcVljRllNeUMwSFlMYVljbDlITjF1anR5R0VSQXkxbEtWUXNhZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】クラダシ：島根安来蓄電所を着工、2MW・8MWhで2027年1月の受電開始へ みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T07:47+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "12d1f92bd20dab68",
+   "title": "急増する低圧系統用蓄電池、分割設置による規制逃れ対策を強化へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLXZwZUJDREJLMGJQaWxpWUw3ekNhOFFMWDB2Zm5hT0c3NXRIMUljMTVoRnVITFNTNG5EY18tTEVPUGFlRjNsa3dVNFRVUFpiS2FJVUxwYl9pT2w5cTl5YTRlOXJPZDl0QVprZHlGTnRVWllz?oc=5",
+   "source": "ITmedia",
+   "summary": "急増する低圧系統用蓄電池、分割設置による規制逃れ対策を強化へ ITmedia",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T07:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "7c115fa28209e9ae",
+   "title": "京葉ガス 系統用蓄電所で国内参入",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90d2VwbFBTalpYZFJhNFprMV82dEpMcVdVZUZwSXlqUXZnRHk2dTUxQ21paGY1aENDRmlmRXRZS1RsVFU4eWxZR19IUDhvdTNIZWc?oc=5",
+   "source": "住宅新報",
+   "summary": "京葉ガス 系統用蓄電所で国内参入 住宅新報",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T06:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "dba16102c9e656ba",
    "title": "ヒラソル、系統蓄電所をネガポジ運用／出力２倍の調整力供出",
@@ -119,6 +400,20 @@
    "company": "ジャパンブランディング株式会社"
   },
   {
+   "id": "bb90486deb9cbc94",
+   "title": "系統用蓄電池は消防法・建築基準法でどう規制されるのか--規制の実態を読み解くウェビナーを開催 (2026年10月12日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EbFNEOG9DY3EyajdGRWprZEVjaEJMUndEUDJ6Nno4OUtBWkZKTUR2MHg5U1ZsRXk1THJqZTcxVDdWaHlld1huSDlnUS1NNGl2SmxhdUhaUmxVZS1CdHZfYU9B?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池は消防法・建築基準法でどう規制されるのか--規制の実態を読み解くウェビナーを開催 (2026年10月12日掲載) ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-12T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "dc27da13d09e2246",
    "title": "太陽光発電用バックシート用フッ素フィルムの世界市場（2026年～2032年）、市場規模（PVDF、PVF、ETFE、その他）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNzFWQ2FaZzhZbzNBRE14b2xWNm8xVXFUZHRUU3NUMzlidzNNMHU4aTg4TjNMS0k1VmNYTng3N3hLWmxRSTFkR1loVVQ2UnM?oc=5",
@@ -161,6 +456,20 @@
    "published": "2026-10-12T13:27+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "9bbf45b6376e147d",
+   "title": "ソーラーパネル洗浄機市場、2035年まで拡大へ：大規模太陽光発電の需要が成長を牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzVPSjRsS2I3WmQ0Yk5VYnVmTzY3NWt6Q1l3V08tT0lUVU52SHpRM09OV0loQ3ZGdVRONVpTdnRSSUR4ZmVwRkZUNFZOVjItZ1I0X21sTV96am5YcmtfN3lpRXhGWG1GRHRoQnJ2N195NTBZSmVVY09obmlTd2NPZEVXTXlaMGZUNjVoaFdpZkt0NkZXREtCX0l0TmJ0N3hFeHlZZFVTWEt0T2l1U1VUOXB2d3hVMElYMTNweENOY2REUUt6ZEN0U2JzeGpINU4xTEQ2X0JQcw?oc=5",
+   "source": "IndexBox",
+   "summary": "ソーラーパネル洗浄機市場、2035年まで拡大へ：大規模太陽光発電の需要が成長を牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-12T13:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "1b130ce059e4da47",
