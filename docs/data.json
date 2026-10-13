@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T12:55+09:00",
+ "updated_at": "2026-10-13T13:54+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,48 @@
  ],
  "items": [
   {
+   "id": "85997326a6acfa94",
+   "title": "リエネ・エナジーとアップルツリー、静岡県掛川市に系統用蓄電所 蓄電容量８・２メガワット時、２０２７年度中の運転開始へ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96R1pkTlJWYlBHNzVGMGZDT2xmb3Rlek9Day1hUUlUZUpNMVo2bnZxY2RMOXlWM09TYnhJVmZ6dkpuNmNfUmVkdjVxZm1rSUtBMzNGYy1QSGFOZTZTTUo5WjRDeHpaSnRMUHZWUFFNcEstZFNPOWRQeldTaw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "リエネ・エナジーとアップルツリー、静岡県掛川市に系統用蓄電所 蓄電容量８・２メガワット時、２０２７年度中の運転開始へ 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T13:51+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "9e9496bc22c69476",
+   "title": "ペロブスカイト太陽電池の高性能化へ 岐阜大が新材料（EE Times Japan）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EdS11Ymtzd1g0TzBVQjd4RlE4WjdtMGdsSXV5dW83LURwajFxbWRWZkhSNnB1NGp0MGN0XzdsOGFZTHlTQ0R4OFZIcDJhV1Q3ZVJmNWJLcVlKUGVkc0NnblEtU3NKcHJxUnY2YXUyaTlFeGgzbUVoYkM1TzdxaVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ペロブスカイト太陽電池の高性能化へ 岐阜大が新材料（EE Times Japan） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T13:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "05d157a7d552da4c",
+   "title": "日本蓄電池、全国7施設の収益を返済原資とするノンリコース型PF契約締結",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRHFNYXdKR2JlXy1tY3BZaDFma0xNSGwxX1Z5Vm4yZDlxanp6a3VGb0QxUllJOXgxczVpOWxKaXpOYVlhNEl0ZmhXb0FNYmpYNkJKXzlwOTB4UjJEM2JtZks4aURlT3dwYlE1QUVKNm44MTdaZTdMNUM4Zlk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "日本蓄電池、全国7施設の収益を返済原資とするノンリコース型PF契約締結 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:50+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
    "id": "59dbbc89e6cf124a",
    "title": "Q.ENEST（キューエネス）ホールディングス、自社所有の系統用蓄電池で需給調整市場へ参入",
    "link": "https://prtimes.jp/main/html/rd/p/000000033.000126341.html",
@@ -32,8 +74,64 @@
    "published": "2026-10-13T12:40+09:00",
    "company": "Q.ENESTホールディングス株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "bc08877ca06fe76a",
+   "title": "相馬市の課題を鋭く質問、子ども議会に16人登壇 メガソーラーや空き家対策",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04WXQyU1pYME1kb2lRU2NHRHlPYnVLZkoxZFBJRGdhVWUxUjdEWjhfMDdxQXJoMWthVXVETENhNHNfeTlzY0h5d1VsNA?oc=5",
+   "source": "47NEWS",
+   "summary": "相馬市の課題を鋭く質問、子ども議会に16人登壇 メガソーラーや空き家対策 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:37+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "47c3b7fedf8265c0",
+   "title": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5年で77%（＋7ポイント上昇）― 太陽光セカンダリー市場動向レポート2026年―",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iZWJIOTZkbXpGbDhOZDR0dEEyd0NqM2JORWtlc2F5RXhWc0F3RTRqeTZJQVZqcERYYlNqZ2h5YWVLZzFOdWxHN3Y1VUk2emZwWmZGNFJ1T0FpbGc2WHhDclZpbjNKZjhnZGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5年で77%（＋7ポイント上昇）― 太陽光セカンダリー市場動向レポート2026年― PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T12:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "株式会社グッドフェローズ"
+  },
+  {
+   "id": "5eb7ea43ed503730",
+   "title": "JPEA、住宅用太陽光のさらなる普及に向けて「既築住宅」への施策強化を提言",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sT3g5ZmtxaF9ENWJjbzZxcWdrdm5TY05xUU00ZlFDRmMydDB2MXRXWHd0UGZNUFBHeTFLRlh2bVpUY0tmSHNDZEdqbw?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "JPEA、住宅用太陽光のさらなる普及に向けて「既築住宅」への施策強化を提言 ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "28d373102ce769be",
+   "title": "メガソーラー規制強化へ条例施行から1年 施行後の申請4件、大きく減少 釧路",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HZzQwRW5rcFNLblA4clhPcnRTR0dBclh0dEswUUY3dm5sRmNQNnBCREMzcVJUVnhDUUdXYWVxM0pkZ1lSbktMczFKZVd3aHdoN3dLUWZ5WDE?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "メガソーラー規制強化へ条例施行から1年 施行後の申請4件、大きく減少 釧路 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
   },
   {
    "id": "21a3d3ab10249d03",
@@ -48,7 +146,6 @@
    "published": "2026-10-13T11:00+09:00",
    "company": "Jackery Japan",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
   },
   {
@@ -786,6 +883,20 @@
    "published": "2026-10-11T07:26+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "86bacf08b313c037",
+   "title": "【太陽光発電】LONGi：26年上期のパネル出荷29.93GW、主要メーカー公表値の比較で最大",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CV053X0Fmd1BWYjhLOGlHNHlyV19WWWVrWlJ1b1FjTllmWXV2a1pMWjd2UTJiNWVPem5YVEgxdmFCb0VEUGJYcHpUQjhYZm5zWTVEWmdYdEhTS3R1aGhIZ0tmZHJwQlIxM0tsVjNfczVQQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】LONGi：26年上期のパネル出荷29.93GW、主要メーカー公表値の比較で最大 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-11T07:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "d82bbc88bf8edfab",
@@ -3628,6 +3739,20 @@
    "published": "2026-10-06T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "4bcbe351cce70824",
+   "title": "【アンテナ】★…メガソーラー、市が公募も頓挫（北海道・苫小牧市、環境省）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycGVLRDBEWVdOUnlLMXZfZ1ZaNHB2WkVseHRyRF82WEg0a216Y0hVcmJLTmoyYjhfN2tYSWU5U2xTVzRWOXhvVEduVy1RTzhBbVo3a3ctSW5wVUJwVm5QRzFFWS15dG1Yb1ZpNmdwZw?oc=5",
+   "source": "iJAMPポータル",
+   "summary": "【アンテナ】★…メガソーラー、市が公募も頓挫（北海道・苫小牧市、環境省） iJAMPポータル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-06T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
   },
   {
    "id": "d6214c73386d3716",
