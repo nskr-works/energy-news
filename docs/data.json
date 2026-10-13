@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T18:54+09:00",
+ "updated_at": "2026-10-14T07:03+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,122 @@
  ],
  "items": [
   {
+   "id": "a361c3adb1ee3212",
+   "title": "系統用蓄電池、需給調整市場への依存に警鐘／エネ庁「上げＤＲ移行を」",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ybVB5NUt2eGV6RnVMTUFnRVE3U0ZPT2RrZnZNSzFDcThYUHdTdHRxVXE5dzRXRWVyM2FQQVB3dzNVLU0taUhzR1pWaEJWQ0Vwb2dQalNwWQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "系統用蓄電池、需給調整市場への依存に警鐘／エネ庁「上げＤＲ移行を」 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T06:03+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "cc2ccd08dfb90935",
+   "title": "アグリゲーター老舗・東芝に聞く、系統用蓄電池の将来",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTnVwbGpzSGF2ZDlZVjg1b1NOa0Z5Y3dlNWMyTVlfTFJwWERlNzVjRzBpbUdDSTZoSDd4RU5Zblo2RTBjMmtfNWxXREpjYTh1eEpMY1puUHlmQzR6NFFrOTFoVnVPd1NPWHpLRQ?oc=5",
+   "source": "日経クロステック",
+   "summary": "アグリゲーター老舗・東芝に聞く、系統用蓄電池の将来 日経クロステック",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T05:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "26d22ba0210d6a65",
+   "title": "日本の蓄電所、中国「未取得」の隙突く 韓国・台湾勢が攻勢",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Vk5ZeWRDZGRka3dIQ2haZkhaS2g4dmNJaS1ad1JqRjhwNm9GenpVZVhxd0d6bFBxaEJFdktOUzFLN1pSa0xBSkpMSzNseEw3YlFHQ0ZUbmNjNGxleWg3SEltblYzbzRETEhiMQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "日本の蓄電所、中国「未取得」の隙突く 韓国・台湾勢が攻勢 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1749dd0ea786db9b",
+   "title": "【江別市】雪国でも太陽光発電は有効？市内で16年以上続く実証研究、発電実績と設備の現状が明らかに",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HMjNFS2J2ZkV3NG93TmtodkNWUHBxM0xEeUpvVjRRSmxySmM2bTdDY0psbHJ4ZmdyM1Z2TUpQSFNlM19OaWc3NGJn?oc=5",
+   "source": "【えべナビ！】江別・野幌 情報ナビ",
+   "summary": "【江別市】雪国でも太陽光発電は有効？市内で16年以上続く実証研究、発電実績と設備の現状が明らかに 【えべナビ！】江別・野幌 情報ナビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T00:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "8d00737f0cac7482",
+   "title": "Q.ENEST、自社所有の系統用蓄電池で需給調整市場へ参入 佐野高圧蓄電所で一次調整力の提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZcFAtYzJOb3R3THBURkVMRThkaDlveDJZU2RiRmhTcUVLcjJuR1JFaWFjWDlZeGhjdWhCamZPbUlHcS1TcjFz?oc=5",
+   "source": "新電力ネット",
+   "summary": "Q.ENEST、自社所有の系統用蓄電池で需給調整市場へ参入 佐野高圧蓄電所で一次調整力の提供を開始 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T00:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "2cc8d1adb3a60e88",
+   "title": "英・蓄電池デベロッパーが日本進出、九州で運転開始",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTGV5WkRKdzRnSG93cWhEbHJNbUtOaGEwOU9lMXVSdmVDOVV1azVLV2llTzhIOTMzZnpBY1VmT1ZQclRTc3p3TnEzeXZDNFh0Z2M3Y0EzZEJUbHFoQ09BblNRZllFOVlfV3hTaE1lTHZsTUhxLWlKSw?oc=5",
+   "source": "日経BP",
+   "summary": "英・蓄電池デベロッパーが日本進出、九州で運転開始 - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T22:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1ca2d7c1020c0451",
+   "title": "水田に太陽光パネル４０００枚 国内最大級の「営農型太陽光発電」 美里町で初の稲刈りが行われる〈宮城〉（仙台放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80OEJzS0p6eklGZVB1VFJ3NTJfWG40WGpEWW1MNkk0S0lrYkpScy01LWg2N2NYMFN5eE54czdkMFpTNm1RaGhyLWVBbE42b1JibTd5SEVNMkV6am9Gd2pXWGhqamVQVjhDTzJxVFZ6c05VMXg2N1Z6R1BIcUJHbzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "水田に太陽光パネル４０００枚 国内最大級の「営農型太陽光発電」 美里町で初の稲刈りが行われる〈宮城〉（仙台放送） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T19:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "a888fddd7d0e3291",
+   "title": "【通期決算発表】 アスリナ：太陽光発電所の開発や売電等の再生可能エネ…(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFVUSFZkdFk2NGNIVFBiOURYcnZMSFZKMm40Sk0ybWlkOUxnRWxWQk43em9IclZMclNIMTNZb0FVdDJhQmNzUTZYM0d0YXpzNFlGZXc0MG51SXVic3RkRWVCZkZaaWFHbC1EX2RpTXVzR01yS2NLUjJ1YlVaTTZqWEN6VGdPU2c?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "【通期決算発表】 アスリナ：太陽光発電所の開発や売電等の再生可能エネ…(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T19:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "fcbaaba0568b4ad3",
    "title": "系統用蓄電池は環境アセスメント対象外――「蓄電所」という区分の盲点を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000065.000181124.html",
@@ -32,8 +148,21 @@
    "published": "2026-10-13T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "78d413c50f4b332d",
+   "title": "丸紅新電力など、系統用蓄電池4案件の市場参入完了 合計32MWh",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtQ2ZFVVFaSmJ3WXM4eGxVekNHVjNlbWNsVlM0OXB6UzQwTVRWak1HTHBidUpqUE5HSnhaNnNrWlFvNWRWUHdpODI5bEF4YUxGY3E4UzhWLWhlRG4wYmZz?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "summary": "丸紅新電力など、系統用蓄電池4案件の市場参入完了 合計32MWh 千葉テレビ放送株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T18:12+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "40e809c681260874",
@@ -108,6 +237,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "1f466fe265e08a67",
+   "title": "ホンダ、鈴鹿製作所の折板屋根にカルコパイライト太陽電池 断熱効果など検証",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMEdRaTVQejVvdEJfZWRONHRwb3c3UHFxcHVsai1nRWFCWFVRc2lEeER3QVlOZGdOek8xM2Vhdk9LeEk2NWkxd3FxbmhVYUN5cUptd3QxU3pKVDR4c1Bpa3EtZjBWSlB4emdIeXVub3JRMmhHaDBFQU1nVVg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ホンダ、鈴鹿製作所の折板屋根にカルコパイライト太陽電池 断熱効果など検証 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T14:13+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "4171367d6a69d53d",
    "title": "ペロブスカイト太陽電池導入ガイド公開、公共施設への普及後押し 日本総研",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zcnIxN1hVZUxBMS1jeXhHRDIxcFVqUHRlMmoxMXJGTnI1NDBnNldYV2ZiVUowTV9sOUpCSVNYdjZGN05Fb0sxcUhtRWdwZU14N2syZlpWNjR6SEo1dWlwNWwybG5oXzVOTDFvanRNX1dsVjJfRlU3ejFsT1k?oc=5",
@@ -178,6 +321,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "faa30637fcc0b4a9",
+   "title": "系統用蓄電所7カ所まとめてプロジェクトファイナンス 運用収益を返済原資に",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRHFNYXdKR2JlXy1tY3BZaDFma0xNSGwxX1Z5Vm4yZDlxanp6a3VGb0QxUllJOXgxczVpOWxKaXpOYVlhNEl0ZmhXb0FNYmpYNkJKXzlwOTB4UjJEM2JtZks4aURlT3dwYlE1QUVKNm44MTdaZTdMNUM4Zlk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電所7カ所まとめてプロジェクトファイナンス 運用収益を返済原資に 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "59dbbc89e6cf124a",
    "title": "Q.ENEST（キューエネス）ホールディングス、自社所有の系統用蓄電池で需給調整市場へ参入",
    "link": "https://prtimes.jp/main/html/rd/p/000000033.000126341.html",
@@ -205,6 +362,36 @@
    "published": "2026-10-13T12:37+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "c62fdf9e3e1935a8",
+   "title": "松山の太陽光発電システム販売「ＳＥＬＡＣＴ」破産手続き開始 買取価格低下で需要減 負債額不明【愛媛】（テレビ愛媛）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92MWVIUHdHcGxOOThEbzg5cm9yb3VoQl9ja0lxMmpYa2hxWWFMRFhGcjBtbHlkM21BVGhSWlpMR3VidC1xb1VIaVhuWXZWelh0d0lWcklKSlVlNDJIb0NmWEhkekpLQU1XSlZfS3FDbnJNTzBUaGRoLXowMGpqWWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "松山の太陽光発電システム販売「ＳＥＬＡＣＴ」破産手続き開始 買取価格低下で需要減 負債額不明【愛媛】（テレビ愛媛） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "ed2fdf1bd8c3c4b8",
+   "title": "高圧蓄電所で「プロファイ」、日本蓄電池が全国7カ所",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zR29oU3pldnNQMVJQcU1wNU1lMmF4Yi1yeVgtY0pIV2RJYTNCM0dyMXNiMUIwSENuclVZc09yS3kyanRGSFJpek1MQWI5MlJwX3FfSVh3cy1BcmUtVFJYNU5DOGNndVRFVDU0d0txTi1UN0Fu?oc=5",
+   "source": "日経BP",
+   "summary": "高圧蓄電所で「プロファイ」、日本蓄電池が全国7カ所 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:16+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "cb096bdcf51312ed",
@@ -279,6 +466,20 @@
    "company": "Jackery Japan",
    "via": "PR TIMES 新着（直接）",
    "topic": "市場・企業"
+  },
+  {
+   "id": "adadf4d2ab1a1a9f",
+   "title": "ヘリオス、クラウドで束ねた低圧蓄電所で一次調整力を実証 追従率100%・応動1.8秒｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVQS1jUDJ0MUJkdXVidUNMS0NiUTJWVHNES2ptX0ppV3RKYy1OaWdISm9ESFdRcXB0OGFqUzl3MDJFN3htTTRrWEVFR0R3ckpTUU01MWo2ZHlqVFJ5aWxoc1B3dDBoTF9jRFRkNlNHdGg1dw?oc=5",
+   "source": "Infoseek",
+   "summary": "ヘリオス、クラウドで束ねた低圧蓄電所で一次調整力を実証 追従率100%・応動1.8秒｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T10:15+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
   },
   {
    "id": "5c13d7ed8f1adf95",
@@ -509,6 +710,34 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IYjVVbE5HQWRaZmdiQ1Q2MUxwdFRkN0VFQUF4VU0weWVmVzdENmhQcVJMZVhjUDFhTDNTZElBQmt3LTJxRGRqbXgyVmdtVnBEMURFNndQZ3ZOcFR6Unc?oc=5",
    "source": "ライブドアニュース",
    "summary": "防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは (2026年10月13日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "4c0fcf5cf384c45e",
+   "title": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 1/3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4T3dQWG90UXgzZFhPM2F3LUlacVZycFM2MmJjVGpfR3p2cFMxaUhCcWtoV1paX0dqTGNNcm9HNEZEdU12aEo0SnBZd1ViMUNBTUxQLXE0M3pFOWRUaHJ3YVkwYkRwVWkwRF8xcTY0WlIySXliWm9OOGdRczU?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 1/3 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "f89a1ee269b390d1",
+   "title": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 2/3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RYUg1VHFHN05kbWoxRnBkM2wxbVBNRGJjLVRLUmZpRDFCWnA0NUJGM0NINHhsS0lRVW1yMmRlTEZPeEE1MGEzTlZfWTJ5Nl9pcGxHNDVZMjZvU3NrWGUwVUVMcTlSenpXNkxvQ0haTG03ZThadFlvVTMybzM?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 2/3 ライブドアニュース",
    "categories": [
     "solar"
    ],
@@ -917,6 +1146,22 @@
    "published": "2026-10-11T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "27a6be512e2e740c",
+   "title": "太陽光発電運用サービス 全国へ パワーエックス、蓄電池活用",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aMFY1ZzdLN09YQnp3cjQ3eEhIX29VOTF3TEhHSWlObDd1cnlYU0FqYl83Z0htcFhXQ3ByaUdZLXh4S1ltVUY1MzkwT096OE5CMjVrYUlvUTQxeUpoaGZVcDk1WFJsdHc?oc=5",
+   "source": "山陽新聞",
+   "summary": "太陽光発電運用サービス 全国へ パワーエックス、蓄電池活用 山陽新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-11T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
   },
   {
    "id": "86d8dfaecc1a6ee8",
@@ -3613,6 +3858,20 @@
    "via": "PR TIMES（太陽光）",
    "topic": "市場・企業",
    "company": "TechSuite株式会社"
+  },
+  {
+   "id": "e0a4c4f0119beafd",
+   "title": "ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SjVvc04zUXY5OHhmZVp5a1dPdWZoY1JWM2dkQmlmNHV0bkg2ZHpmZ1RFNU1SbS1odklfYXpBYmYzVnVMd2wyc1owMVdfeEhLWTB0dDg2VGtnc0tOYTU2Z2RPM2FjSXM0dFlLZlJ6bEtZQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "ペロブスカイト太陽電池に関するNEDO特別講座の委託先を決定しました｜Infoseekニュース Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-07T08:40+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "bc71c95b28b3997b",
@@ -9999,6 +10258,21 @@
    "type": "news",
    "published": "2026-09-15T14:46+09:00",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "777ce57cb1713cd7",
+   "title": "再生可能エネルギーのススメ「自家消費型太陽光発電」② 意識改革、新たな事業展開、企業価値の向上…。先進企業に見る、再生可能エネルギー挑戦がもたらすものとは - トピックス - 脱炭素ポータル",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJaDM0TGMxR0huUkphWFM2RlJCMmxZR0xnUkhkd2NfLVFORl9VLWJScWtTRmhNRVdtMElNSHJ0cnUwQ2IwZWFvRlphZTktVnBBeC1HY1VlRUthN05rZFdQcUNDRzBzXzlTUG1XMHlTNW1OUVVsVjRR?oc=5",
+   "source": "env.go.jp",
+   "summary": "再生可能エネルギーのススメ「自家消費型太陽光発電」② 意識改革、新たな事業展開、企業価値の向上…。先進企業に見る、再生可能エネルギー挑戦がもたらすものとは - トピックス - 脱炭素ポータル env.go.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-09-14T16:00+09:00",
+   "via": "環境省",
+   "topic": "住宅・自家消費",
+   "company": "環境省"
   },
   {
    "id": "80a86532ad64db61",
