@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T13:54+09:00",
+ "updated_at": "2026-10-13T16:54+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,106 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "40e809c681260874",
+   "title": "京葉ガス---群馬県伊勢崎市で初の国内系統用蓄電所が本格稼働",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMjJlX0VmVHVETmNSM2lYQXEzQW5BR1RZcjBtN3dRbnh4N2hUclRWUTNlWDFlM3BJRHhHbWE4T085X3FOcTZnNnIzWVVyTFpjZXc?oc=5",
+   "source": "株探",
+   "summary": "京葉ガス---群馬県伊勢崎市で初の国内系統用蓄電所が本格稼働 株探",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T16:51+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "57c223773ae4f339",
+   "title": "サンクゼールNAGANO Production Base(長野工場)、オンサイトPPAによる再生可能エネルギー電力の導入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tZFlSd2JvakVfakFiUGhIZng2MmJmbkQ0dDluTzQwNExrMXQzSnNlRGxqQ3doTXVYS3JSRnVBS1A2T1R6U2FERDg3bWxxZGI2Z1ktRkxYU3JGUlFvVENwU1NFbVJ2OGQ4X0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "サンクゼールNAGANO Production Base(長野工場)、オンサイトPPAによる再生可能エネルギー電力の導入 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T15:40+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "株式会社サンクゼール",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "7304965b6d68469d",
+   "title": "天満紙器、つくば工場に太陽光発電設備導入",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9teGlfeEp3Y0ZuOXJDbWRKWVI1cnAyVmlIZHVxRFZDamN3aldhZWkwYVBJLUQ1d0I1c01qeXJsc0FpcWFrOFZBcS13?oc=5",
+   "source": "LOGISTICS TODAY",
+   "summary": "天満紙器、つくば工場に太陽光発電設備導入 LOGISTICS TODAY",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T15:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "a95d0a14a69c1e12",
+   "title": "名古屋第⼀⼯場で川崎重⼯グループ最⼤規模の太陽光発電設備を活⽤したオンサイト/オフサイトPPA サービスの利⽤開始",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Xc3VQRmNEaVpWUTlVNFFsWTNzaGtOZGJKNjhGLWJRdGdLOFdpcVZxdkZfOURzUHhhNHFEbzZPcl9YQlU?oc=5",
+   "source": "Digital PR Platform",
+   "summary": "名古屋第⼀⼯場で川崎重⼯グループ最⼤規模の太陽光発電設備を活⽤したオンサイト/オフサイトPPA サービスの利⽤開始 Digital PR Platform",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "b8763b75a6db2c02",
+   "title": "アルミニウム合金製太陽光発電用ブラケットの世界市場（2026年～2032年）、市場規模（屋根用ブラケット、地上設置用ブラケット）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15YXE4cmxWTVZzTkFrQ19JRkxVdTJGUUxEU2FSQUV2LWs5cGRJQmU0dkEwTE5sTDRBOWlDZngzdmU1Nlo2eWFOZjVjRUxGWGM?oc=5",
+   "source": "アットプレス",
+   "summary": "アルミニウム合金製太陽光発電用ブラケットの世界市場（2026年～2032年）、市場規模（屋根用ブラケット、地上設置用ブラケット）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-13T14:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "4171367d6a69d53d",
+   "title": "ペロブスカイト太陽電池導入ガイド公開、公共施設への普及後押し 日本総研",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zcnIxN1hVZUxBMS1jeXhHRDIxcFVqUHRlMmoxMXJGTnI1NDBnNldYV2ZiVUowTV9sOUpCSVNYdjZGN05Fb0sxcUhtRWdwZU14N2syZlpWNjR6SEo1dWlwNWwybG5oXzVOTDFvanRNX1dsVjJfRlU3ejFsT1k?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ペロブスカイト太陽電池導入ガイド公開、公共施設への普及後押し 日本総研 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T13:56+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b9aacf0810041351",
+   "title": "カルコパイライト太陽電池をホンダの折板屋根に シート工法や断熱効果を検証",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMEdRaTVQejVvdEJfZWRONHRwb3c3UHFxcHVsai1nRWFCWFVRc2lEeER3QVlOZGdOek8xM2Vhdk9LeEk2NWkxd3FxbmhVYUN5cUptd3QxU3pKVDR4c1Bpa3EtZjBWSlB4emdIeXVub3JRMmhHaDBFQU1nVVg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "カルコパイライト太陽電池をホンダの折板屋根に シート工法や断熱効果を検証 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T13:56+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "85997326a6acfa94",
    "title": "リエネ・エナジーとアップルツリー、静岡県掛川市に系統用蓄電所 蓄電容量８・２メガワット時、２０２７年度中の運転開始へ",
@@ -91,19 +191,35 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "cb096bdcf51312ed",
+   "title": "GMOインターネット、石狩の再エネデータセンターに新拠点",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2U3hadE5CZkxqYi1CaGp0OXgwVEhFUFAydDJTOGdGdWxOaDNoSG9ILUhsZy1MSzJPMldvUm1WSWJQTFNNcHdMWUExUzJ1SVlqZTBfXzZtVXZPd3FMVmFocGR2VEprTVNZVGoxdWMyd0cwSzZY?oc=5",
+   "source": "日経BP",
+   "summary": "GMOインターネット、石狩の再エネデータセンターに新拠点 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:12+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "47c3b7fedf8265c0",
    "title": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5年で77%（＋7ポイント上昇）― 太陽光セカンダリー市場動向レポート2026年―",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iZWJIOTZkbXpGbDhOZDR0dEEyd0NqM2JORWtlc2F5RXhWc0F3RTRqeTZJQVZqcERYYlNqZ2h5YWVLZzFOdWxHN3Y1VUk2emZwWmZGNFJ1T0FpbGc2WHhDclZpbjNKZjhnZGc?oc=5",
    "source": "PR TIMES",
    "summary": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5年で77%（＋7ポイント上昇）― 太陽光セカンダリー市場動向レポート2026年― PR TIMES",
    "categories": [
-    "solar"
+    "solar",
+    "storage"
    ],
    "type": "release",
    "published": "2026-10-13T12:10+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
-   "company": "株式会社グッドフェローズ"
+   "company": "株式会社グッドフェローズ",
+   "storage_topic": "その他"
   },
   {
    "id": "5eb7ea43ed503730",
@@ -256,6 +372,20 @@
    "topic": "発電所・開発",
    "storage_topic": "その他",
    "company": "テスホールディングス株式会社"
+  },
+  {
+   "id": "1dba193d06b65d8c",
+   "title": "丸紅新電力-サンヴィレッジ/系統用蓄電池4件の需給調整市場への参入完了について｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54dnZQbC0tbTIxX1VNaVY3WmNNT0hXVEgtaV9IcERKcFFUZk9XR3RDT080QmItYm1oanQ0a1JXMTFUSFBnTGtJLWYtZWtFYTZtc0xNWmdFNHZsZDhGVkJpUl9sZk1XOTlCR1VDZUtJNDMwZw?oc=5",
+   "source": "Infoseek",
+   "summary": "丸紅新電力-サンヴィレッジ/系統用蓄電池4件の需給調整市場への参入完了について｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "0d907db63d76635d",
@@ -1996,6 +2126,20 @@
    "published": "2026-10-08T18:37+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "379ef054362a2b07",
+   "title": "アイスランドの「孤独な家」が太陽光発電に切り替えた。",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkZzcGpOWVRBNWtfSm5iS3EzeUNIVUhWUUREZk41RDJrbmNuWFFEdFB2dWZPcHI3MGlCSVhOanFDb3FNMnRkZm5Ld0R2ZmZ0YmRMa3N1ZjQ3SjdQVDZiUXdxM2ZLQ2hJTUFBZ3Mzb0p6X01uZEpybFlaOG5nSm5uRUFfeldyZlRRN0E?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "アイスランドの「孤独な家」が太陽光発電に切り替えた。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T18:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "9737824589e79f89",
