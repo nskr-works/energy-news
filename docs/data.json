@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:04+09:00",
+ "updated_at": "2026-10-14T14:02+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,170 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "279c842d78b35aa6",
+   "title": "浮体式洋上太陽光発電パネル市場は、2026年から2036年までの予測期間において年平均成長率（CAGR）21.23%で推移し、2036年には440億5,000万米ドルに達すると予測されています。",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XV0V4NE1vWWNxMDdWR1Zrdmd3Nk1CNm5jTWNKMWdUYUJUYjhlNF9hdm5MMGxHQWVrQTFoaHNjelhmVHhVaDI0LVhJN1MwMDlNNFdV?oc=5",
+   "source": "ドリームニュース",
+   "summary": "浮体式洋上太陽光発電パネル市場は、2026年から2036年までの予測期間において年平均成長率（CAGR）21.23%で推移し、2036年には440億5,000万米ドルに達すると予測されています。 ドリームニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T13:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "a1f7923ef4543cda",
+   "title": "＜日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBidzVsM2J1a0ExbUliakhFWUNGZE1Rb0oyMktTTlRoeldfV3JndTNudHRHbTM2bXQ5SEZBdmU0YjhJRE16VEV5OGpTSXh5dHRNMV90VWY5b1FDOTd4RWRHS2s1eFljSVBHUUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "＜日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-14T13:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "営農型",
+   "company": "株式会社染めQテクノロジィ"
+  },
+  {
+   "id": "8a08808d44a716b0",
+   "title": "東京都、太陽光・蓄電池助成金の不正申請でエコワンを処分 他2社も返還請求",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMU5NT01mZFdLYlVMZ050NjRIYjVycWFnVDl0X3k5SW10d3VSWHhjVGplUFVONlBteDg0ZFk0SmJhSlo5b0ZLUHJwOE16eDZzcnVGT0ZvTTVJSXFIMEk1Q2dUSTZoeDJPZndlLUk4c0lSR0dWcFlZTzNBN2I?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "東京都、太陽光・蓄電池助成金の不正申請でエコワンを処分 他2社も返還請求 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:56+09:00",
+   "via": "環境ビジネス",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "23cd63875d127493",
+   "title": "ｆａｎｔａｓｉｓｔａが滋賀県で系統用蓄電所の建設を開始",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EWWhvSEhFNFZVcnNTY0psUW5rejd3Z0d6UUFyUnlmbjZzS3VrYWhTZkEtVG9ESG5UdGx2Rlc5QktYa2UxTWl0LU9iQzlKNHl0N0tF?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ｆａｎｔａｓｉｓｔａが滋賀県で系統用蓄電所の建設を開始 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:32+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ed380484f0e755af",
+   "title": "系統用蓄電池事業の第2号案件始動滋賀県長浜市に「fantasista nagahama PSS」建設開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84UEdQeWs0dkxxbTNaWkcwb2JUR1kzYm9ESXJzX2pJRjJNRUliVlNNTHl1RFBkZUFKb0FzdHk5Z24td19wSUladmNJUzVYNGdIU1F2YVcxWFMzdklySXpBX2RBOTZ5MERXMGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池事業の第2号案件始動滋賀県長浜市に「fantasista nagahama PSS」建設開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T12:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社fantasista"
+  },
+  {
+   "id": "92b55f5bafbf5b30",
+   "title": "ｆａｎｔａｓｉｓｔａ[1783]：系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）の建設開始に関するお知らせ 2026年10月14日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHp4UzkyeUVJalFlUTNZd2RyWmdya0J6dUR5dVZ6Z1FGVHF6WEZQVXJUR3AycUcyMzlLTVowUzRCQkhReWt2SVY3WERHUVRWc1NmWUtqbndsTUFWRzc3LUVhNDUyQmh2ZzN0VkRjeGxjSmphdDNPbkRtNGlvd1R4YmdDTXJSZVhnQzFEWUVhc3o0RDVUY3p4TTBzQzVUa0lXczU3RzN6U3ZqUVROclp0ZGdlM3YtQ0dZVGg5LWdKaS1iWWgwNllwbTkzOG4?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ｆａｎｔａｓｉｓｔａ[1783]：系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）の建設開始に関するお知らせ 2026年10月14日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "e16ca6182ae8ee7f",
+   "title": "AmpotechとBuskowitz Energyが提携、エネルギー効率・太陽光発電・蓄電池を組み合わせた統合エネルギーソリューションを提供",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xd0NsMXhLUXBxOFJMUGtoSlZFamh2U3N2T1VPczBiS3JOUjlHMGtnZUkzVnlNV2tLWm5JUEpUNWRib29OOHVLNmEyTWlvaFdKSnhKVG1UeHA1UkU?oc=5",
+   "source": "共同通信PRワイヤー",
+   "summary": "AmpotechとBuskowitz Energyが提携、エネルギー効率・太陽光発電・蓄電池を組み合わせた統合エネルギーソリューションを提供 共同通信PRワイヤー",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e3d86811b8a66204",
+   "title": "川崎重工、グループ最大規模の太陽光発電設備稼働",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXUXZ4VkxYMlZsRWRHM002THZ5YUppUDU5OWNyOHRhcmVPaVFOQWFQcnJ6RWNJckNEVk1EWHRrQXo4RGZYbXIzYWxn?oc=5",
+   "source": "LOGISTICS TODAY",
+   "summary": "川崎重工、グループ最大規模の太陽光発電設備稼働 LOGISTICS TODAY",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "c9cac54a7496af12",
+   "title": "アイシン、ペロブスカイト太陽電池を出展…ASEANエネルギービジネスフォーラム",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FUF9tdUxMNklJa3U1ZWFMdGl3MlByVzJYWFNIcFE2YjFnNHVubWxRZmtudkszR0ROTDRQRWM5ZW5kU3gwZmQ4SlJ2WlZvTFVSTnlsaFpwRk5uTVhxa0tZ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "アイシン、ペロブスカイト太陽電池を出展…ASEANエネルギービジネスフォーラム レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T11:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0a241fa664d90b31",
+   "title": "AIで発電・蓄電・電力消費を一元管理へ AmpotechとBuskowitzが提携、フィリピンで太陽光発電3.3MWpを共同推進",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByY2o1SHRpdE9talJTZnBlbHdPUDNEQS1GSUxxWEstd09KNGlMOVNxdHRRdUFmZjdZUVZSNHlmeGRfR3IyVnZlaGJkNngwdw?oc=5",
+   "source": "アットプレス",
+   "summary": "AIで発電・蓄電・電力消費を一元管理へ AmpotechとBuskowitzが提携、フィリピンで太陽光発電3.3MWpを共同推進 アットプレス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T11:02+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "storage_topic": "高圧（特高含む）",
+   "company": "Ampotech"
+  },
+  {
+   "id": "0b77ac3e973c3e0e",
+   "title": "トリナ・ストレージ、「野津」のAEJ蓄電池プロジェクトに196MWhの蓄電池システムを供給",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYWVGUzFSQThsV2NZTXNHZ01BZFdDRFBCdGNJa0pDamhBZ0tGRnRWY2s3X2s5SVlxbnhESE5WVkdmQ0JXc2Nha1E2WEo3X3FhcjY5NVJVQlRXUFk3Z01NdHMwbFBQbzgyNmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "トリナ・ストレージ、「野津」のAEJ蓄電池プロジェクトに196MWhの蓄電池システムを供給 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "高圧（特高含む）",
+   "company": "トリナ・ソーラー・ジャパン株式会社"
+  },
   {
    "id": "f2cf19073fdd1e5a",
    "title": "太陽光パネルの発電は売電と自家消費のどちらが得になるのか (2026年10月14日掲載)",
@@ -134,6 +298,20 @@
    "published": "2026-10-14T07:32+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "1bbed9c20e2d2ba0",
+   "title": "【太陽光発電】前田建設工業：道路遮音壁にペロブスカイト太陽電池、愛知で地産地消型道路管理を実証",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RblJhN285N29jdDBCUGZuNTVkcnNBN1Q4U2phM3FGT1BadWZoX2NsM2RxQndVU19HMVM5Mm1oLUF2blROVDREbk1BWnBOUTJrWjA0YlpVT3drTEVfeEVlcDNCQkUyTkZ0OWRicVN3SlV0dw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】前田建設工業：道路遮音壁にペロブスカイト太陽電池、愛知で地産地消型道路管理を実証 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T07:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "ea1d1bc2b76ac70a",
@@ -280,6 +458,20 @@
    "published": "2026-10-13T20:47+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "99ddcd2df8a1df2e",
+   "title": "Tensor Energy、東京センチュリーと系統用蓄電池事業に関する包括的な業務提携契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LMmVHbjRESjV6dUljQkplOEpCeGZHZGp6Wk5SaDJNQkEwLXhnT1JWcWl1TmpST2sxZ2dUTXVhb2UyZHpEcGt3UEExRGx5aUp6VW9BZTE1bDYxNTA?oc=5",
+   "source": "朝日新聞",
+   "summary": "Tensor Energy、東京センチュリーと系統用蓄電池事業に関する包括的な業務提携契約を締結 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T20:19+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "1ca2d7c1020c0451",
@@ -1604,6 +1796,20 @@
    "published": "2026-10-10T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "f0ebad5e99905ac8",
+   "title": "アメリカ製の太陽光パネルが、キューバで予想外の好調な売れ行きを見せている。",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMkVGTHltTjZGQ3VEUmNsQTlxcDQtUUJtcXNnRWVGMk9WMDBuZW9EdGJGMkZ4Z2IwR21aSk1mNHhvN1FZNktSM1JqbFZJOW9uS1Z3dnRnbWtZYjI1cWFPYk4xRkY2U3o2VjE0cFdOd0ZCUzRnT0E?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "アメリカ製の太陽光パネルが、キューバで予想外の好調な売れ行きを見せている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-10T17:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "f00eaeb3cdf81da0",
@@ -9456,6 +9662,20 @@
    "type": "news",
    "published": "2026-09-29T12:00+09:00",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "a01441865667a9c8",
+   "title": "日本の屋根上発電に「変換効率」で 貢献する AIKO Energy独自のBCモジュール",
+   "link": "https://solarjournal.jp/product/67798/",
+   "source": "SOLAR JOURNAL",
+   "summary": "高効率なABCモジュールを武器に、AIKO Energyが日本市場で存在感を高めている。屋根設置型太陽光への需要拡大を追い風に、高効率・高耐久・高安全性を兼ね備えた製品を展開。限られた設置面積で発電量を最大化する独自技術と、日本市場での成長戦略を紹介する。 The post 日本の屋根上発電に「変換効率」で 貢献する AIKO Energy独自のBCモジュール first appeared on ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-29T12:00+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "次世代技術"
   },
   {
    "id": "70a46db5962b808c",
