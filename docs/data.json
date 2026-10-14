@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T07:03+09:00",
+ "updated_at": "2026-10-14T11:04+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,138 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "f2cf19073fdd1e5a",
+   "title": "太陽光パネルの発電は売電と自家消費のどちらが得になるのか (2026年10月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEZ0lNX0MxVmhYTFlwT1hHUzMwREhVZ0JuX0lpSk9ZRHJKU2NZbW5HVDA5a2RjdlpveHhELTFEMEhObWVpQUtCd0VpSllqSHl3bHZ6cnZlbHp4V09JZ0E?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "太陽光パネルの発電は売電と自家消費のどちらが得になるのか (2026年10月14日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:24+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "436ae3bcf9816c83",
+   "title": "教科書から「校内の実践」へ。サステナブルホールディングス、太陽光発電×AirElixirを活用した小中高向け「体験型探究学習＆避難所防災プログラム」を始動",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IV2lhcXo4aDV0aGI2S3o5NUZSaWwtZk1MTjlFX1RDWl92WmtPU25tckIzMjFyc0hha0Q4V2RqaGVLXzdEMVY1WWhfN3ZOUXZMNU1HRElBTjZqc3ZXZ1lxVDRaa2haYk9xZUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "教科書から「校内の実践」へ。サステナブルホールディングス、太陽光発電×AirElixirを活用した小中高向け「体験型探究学習＆避難所防災プログラム」を始動 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-14T10:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "512fea1bff271735",
+   "title": "V2H対応家庭用蓄電システム「POWER iE Connect」シリーズ 大容量10.7kWhの蓄電池ユニットを新発売。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85VmZLcFNfbGthS0ZwT0p6TXgzZ3JXdm0tQm1nSmc2MW1nVi1maUo5RXhHbUdGbTBGT3poSTVrdzBTVG80Q2ZwVVNtWDl0cXlkUW11X1JSenktTk5UZjlRMENhdkdzMFdLdnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "V2H対応家庭用蓄電システム「POWER iE Connect」シリーズ 大容量10.7kWhの蓄電池ユニットを新発売。 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "エリーパワー株式会社"
+  },
+  {
+   "id": "da5de3194d38a3b1",
+   "title": "需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb3lvVWJsNkw0YkhNaHRvNlk3TWg4Z2U3WTRfMkFLamlVdDlOWVRQOHp3SEozZ1pZalUxUzdYQjc3bzNUOTNyaTFXVGN3VTRpU1dKX2hSd3ZycTdNN19PeWR0VldfNGExbnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社Sassor"
+  },
+  {
+   "id": "d770f229770b0a22",
+   "title": "太陽光パネルを設置予定です。2026年度の売電単価は「1～4年目が24円、5～10年目は8.3円」とのことですが、発電した電気は売るのと自宅で使うのとどちらが得ですか？（ファイナンシャルフィールド）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNGtVbEloZW9qMnJldEhzbWM2WEQ3QmFpRFhWX0dyWk5rNmk4ZDFnUnhmaUxOVVN6c3RJTE5ITVdydEtVbTZFZGFDaDF5b0VIMHMtTW5laTB0S1hNSXM3d0JVcTdRc24yUHFuSlBJZlBTQ0hsYnhNQW9VazM2WFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光パネルを設置予定です。2026年度の売電単価は「1～4年目が24円、5～10年目は8.3円」とのことですが、発電した電気は売るのと自宅で使うのとどちらが得ですか？（ファイナンシャルフィールド） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T09:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "35c502f9133e5072",
+   "title": "川崎重工、名古屋第一工場に太陽光発電を導入 工場間で電力融通",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdkYzalRJalBjdWVrajFnb1dvcWNKMDZXX0Y1bU9rS3YwWGxOelF4Zkw4V24wTm9UcUZzajNLaWZfXzB5ZlNHdmU4ejFBY3hwdHNScXUwWlAyazdSZGl3Wnl5VEpLVmNOdHc3aA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "川崎重工、名古屋第一工場に太陽光発電を導入 工場間で電力融通 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T08:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "f6f352c06f95f669",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL91号 愛媛八幡浜第二工場系統連携蓄電池シリーズ 完売』",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1laG1aT1dQUkNuQnNDRXlwV2FLWlRkeWU1aHQyMEFxaldrNjZvOUVOVEl3SXVyU1hmTndGQVo5ZUJ3aUlEZi14RXp1ZzhvV2E3THBkbjJpMXc1VWdKVmRqMnlQbmlYc19pUnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL91号 愛媛八幡浜第二工場系統連携蓄電池シリーズ 完売』 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T08:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社グローバルクラウドエステート"
+  },
+  {
+   "id": "8cc1cceaa667e2af",
+   "title": "【蓄電関連】オリックス：大分・山形で計589MWhの系統用蓄電所、外部投資家との共同出資で初開発",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16RWZERlRUcmtIRHBUbWRFYmZLRmRxWndqbk9wcVRfY0hCZktFMFdqVEQ1SW4xdnZEU0IyS2xEZHZoTm9xRlgtQWZRY3lRSnJYZ2dQb1htaEhqenVhbnBJNzJfUFZTSUl3WGl2VHJsVk9rQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】オリックス：大分・山形で計589MWhの系統用蓄電所、外部投資家との共同出資で初開発 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T07:32+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "ea1d1bc2b76ac70a",
+   "title": "オムロンが家庭用蓄電システムの新モデル パワコン1台で太陽光・蓄電池・EVに対応",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/14/news017.html",
+   "source": "スマートジャパン",
+   "summary": "オムロン ソーシアルソリューションズ（OSS）は2026年10月9日、家庭向け蓄電システムの新製品「KPTP-Bシリーズ」を2027年1月から販売すると発表した。",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T07:00+09:00",
+   "via": "スマートジャパン",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
+  },
   {
    "id": "a361c3adb1ee3212",
    "title": "系統用蓄電池、需給調整市場への依存に警鐘／エネ庁「上げＤＲ移行を」",
@@ -64,6 +196,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "ab442abe707d0cbd",
+   "title": "日本の蓄電所、韓国・台湾勢が攻勢 中国「認証未取得」の隙突く",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Vk5ZeWRDZGRka3dIQ2haZkhaS2g4dmNJaS1ad1JqRjhwNm9GenpVZVhxd0d6bFBxaEJFdktOUzFLN1pSa0xBSkpMSzNseEw3YlFHQ0ZUbmNjNGxleWg3SEltblYzbzRETEhiMQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "日本の蓄電所、韓国・台湾勢が攻勢 中国「認証未取得」の隙突く 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "1749dd0ea786db9b",
    "title": "【江別市】雪国でも太陽光発電は有効？市内で16年以上続く実証研究、発電実績と設備の現状が明らかに",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HMjNFS2J2ZkV3NG93TmtodkNWUHBxM0xEeUpvVjRRSmxySmM2bTdDY0psbHJ4ZmdyM1Z2TUpQSFNlM19OaWc3NGJn?oc=5",
@@ -92,6 +238,20 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "b8977fbb63ebd62c",
+   "title": "丸紅新電力とサンヴィレッジ、系統用蓄電池4案件で需給調整市場への参入完了 合計8MW・32MWh",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BanlLUWc2UzR4RjBQeUVqRVQ4eV9xdUkzY2FzVjJldzkzdnNic0dLdVI3N2lPbzZpRmhKd0NqZUFjUFlfOVpz?oc=5",
+   "source": "新電力ネット",
+   "summary": "丸紅新電力とサンヴィレッジ、系統用蓄電池4案件で需給調整市場への参入完了 合計8MW・32MWh 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T00:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "2cc8d1adb3a60e88",
    "title": "英・蓄電池デベロッパーが日本進出、九州で運転開始",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTGV5WkRKdzRnSG93cWhEbHJNbUtOaGEwOU9lMXVSdmVDOVV1azVLV2llTzhIOTMzZnpBY1VmT1ZQclRTc3p3TnEzeXZDNFh0Z2M3Y0EzZEJUbHFoQ09BblNRZllFOVlfV3hTaE1lTHZsTUhxLWlKSw?oc=5",
@@ -106,6 +266,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "topic": "発電所・開発",
    "storage_topic": "その他"
+  },
+  {
+   "id": "3a04f8e6d6316d8e",
+   "title": "Tensor Energy、ポートの高圧系統用蓄電所のアグリゲーション業務を受託",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRHBUc2kwVmdPa0RSR0NKZ0xQZjRRRnhmTGcyeG9DdlVPeDV4d1VWbEt6SFhaX0dqM1VxOFU5WVdpcGlnWlZ0QWotZzhLajVfMVhXWGJzdGJfcjVKQXBZR0JXdktXRmhf?oc=5",
+   "source": "Dellows News",
+   "summary": "Tensor Energy、ポートの高圧系統用蓄電所のアグリゲーション業務を受託 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T20:47+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "1ca2d7c1020c0451",
@@ -136,6 +310,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "280907cdd3ef4272",
+   "title": "パナソニック系、太陽光パネルなど1410品目値上げ 価格4倍の製品も",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Vbjl0YllHM3VWcjRHQlJNOFJjNkc5ekFlMTNqQVJCS0JLdzQwM3V2MTBBTUhnSDNmaUJfeFlPbTIzY2xZdkQ3SzRWV0pFdlpuY3RsNk0yWURrdkZVbUI2SW9odzhrSzZOaHZrVA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "パナソニック系、太陽光パネルなど1410品目値上げ 価格4倍の製品も 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T19:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "fcbaaba0568b4ad3",
    "title": "系統用蓄電池は環境アセスメント対象外――「蓄電所」という区分の盲点を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000065.000181124.html",
@@ -163,6 +351,20 @@
    "published": "2026-10-13T18:12+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "ef4ddbf785a75ecc",
+   "title": "系統用蓄電池は環境アセスメント対象外--「蓄電所」という区分の盲点を読み解くウェビナーを開催 (2026年10月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UaEJPWjVOQm9WNkc2ZEV5emVYdjB3LUFZZElYNkhsOWhPZ2dBaG5odENVWlh5ODQyWlgyaHFiSHJ2ZzBSUUJpSGpWTHFIeDRzTjlldDYxa1VWYVMxRkQ4Nnln?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池は環境アセスメント対象外--「蓄電所」という区分の盲点を読み解くウェビナーを開催 (2026年10月13日掲載) ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "40e809c681260874",
