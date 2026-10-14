@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T21:04+09:00",
+ "updated_at": "2026-10-15T07:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,76 @@
  ],
  "items": [
   {
+   "id": "43fbf68722f9f9ee",
+   "title": "ペロブスカイト太陽電池で国産資源に脚光 世界的な産地で高まる期待 [千葉県]",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFh4bzUtbWp2OU9LVDZGM2lGQzRzUUNsYXkyeGh4Wm83cUYxeGVBbWlrUFk1MFZnbWI0Ulo1WHJubWNJaktXaU8ybERTdTNybGxFaXYzLXN2V3JxTGl5bktSVDE0bzYtTnBnSXJWR1BMNUNaZTJjbl9JZlliaEFtOXZ1aG9QVldkeDBkeDNnc18ydEJaWmJBS1lyb2xwcHBVcW9tODB1SXpVc3hBR3dqb2ZvdWoxLXZZZHlTQTZkdFhsOU4yREE1SWln?oc=5",
+   "source": "朝日新聞",
+   "summary": "ペロブスカイト太陽電池で国産資源に脚光 世界的な産地で高まる期待 [千葉県] 朝日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T07:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "c05d9974829c8e88",
+   "title": "ペロブスカイト太陽電池実証…三協立山、アルミ加工・設計技術生かす",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lQk5VVm5BblFyMGdacmZyMXFKbVpWZ2Z6NWduZWwxRXZQMk9YYjgtNmIzNDBxSmxYNkxnaGxqaGZyUQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "ペロブスカイト太陽電池実証…三協立山、アルミ加工・設計技術生かす ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T06:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "9910ad27b7650c1d",
+   "title": "蓄電所が災害時の「非常用電源」に、高山市が活用",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bGh2LTJ5NzNCa05wazc3UVBWQmRocjZ4aVp2UHdGMHBXZHh2M29RVXlROGkyUmc1Yld3SzA1Q3BFSkxsSU9NNTlURmJjME94MGVwVTdidjB0LW84akRDMHROWS1DMmVSdjg0cA?oc=5",
+   "source": "日経クロステック",
+   "summary": "蓄電所が災害時の「非常用電源」に、高山市が活用 日経クロステック",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "adab9568478ab21b",
+   "title": "タイゴエナジー、既設太陽光発電システム向けサービス市場が拡大する中、11MW超のリパワリング実現を支援",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZEczZWV2Nmc1NjVJZ2FjdmhUdFhKMnR6cm9XZVUtdEw5Vl9qa2llbkFIRW1kRlNMY0R1cU10YXMydEZNMlhMMTdhTWJYSG90ZzJUUXZRdS1kbmNPdFp1ejQ4bmJwaUE?oc=5",
+   "source": "Business Wire",
+   "summary": "タイゴエナジー、既設太陽光発電システム向けサービス市場が拡大する中、11MW超のリパワリング実現を支援 Business Wire",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T01:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "e02a0334d1f5021c",
+   "title": "2026年上半期世界の太陽光発電モジュール出荷ランキング (InfoLink)｜土肥宏吉",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWGE3RmYzN21TeXE1MXlKaVoxODhDaFFJZEZUa2lrSThLMVJoeExtdXdVcGt0N0VTQTZEci1HWTZUTUloNXBYdXMxeG1PMllwOG9wUEZRaDExSW03c3ZpRA?oc=5",
+   "source": "JIJICO",
+   "summary": "2026年上半期世界の太陽光発電モジュール出荷ランキング (InfoLink)｜土肥宏吉 JIJICO",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T01:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "1787c85a281b2ef6",
    "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始～",
    "link": "https://prtimes.jp/main/html/rd/p/000000002.000187082.html",
@@ -32,8 +102,22 @@
    "published": "2026-10-14T20:15+09:00",
    "company": "株式会社サンワシステム",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "b5f36af45a2e2451",
+   "title": "【想定年利20％・運用約5ヵ月】成長市場への投資！電力網への接続権利を整備し、実需家へ一括譲渡する『熊本県阿蘇郡南阿蘇村系統用蓄電池用 接続権取得・譲渡ファンド』募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IX2YybUhwMTJUMVFuamFPMzlpNVM5UkVvT1pDSGY2eW12VXJvWEdqU2txRzJSSnVOczNRWUFvM2RaanJtUXlDZTRjNFB0bFgyVmc1amRuVVY3QllBMDBZWV9XNUFnOU14N3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【想定年利20％・運用約5ヵ月】成長市場への投資！電力網への接続権利を整備し、実需家へ一括譲渡する『熊本県阿蘇郡南阿蘇村系統用蓄電池用 接続権取得・譲渡ファンド』募集開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T19:44+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ミラリタ株式会社"
   },
   {
    "id": "51a82cce717910c1",
@@ -48,8 +132,36 @@
    "published": "2026-10-14T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "f3fa699d6c25c931",
+   "title": "10月28日 SSKセミナー「低圧系統用蓄電池・VPPビジネス【基礎編】」RAUL株式会社代表 江田健二が登壇します",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YXZNV2hqYkhEWFpqOV93UVo5NVdNZTgyRTl4VWVmYmd5SjVkeExCb0tPd3Y1aGVwa2tDZGhXYzktRml6cjRnaDBQTzk0TTZNM3FV?oc=5",
+   "source": "ドリームニュース",
+   "summary": "10月28日 SSKセミナー「低圧系統用蓄電池・VPPビジネス【基礎編】」RAUL株式会社代表 江田健二が登壇します ドリームニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "d49d09d9477e9f44",
+   "title": "22,000サイクル※1の長寿命！ 純日本製の家庭用蓄電システムを新たにラインアップ エリーパワー社製「POWER iE Connect」の取り扱いを開始 | 株式会社エクソル",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kaE9PR3RJX2p3clNjRUxUcGpLcnhhY3hpWkdjSGNxTDRuT1JwdkFvemt6Zlg4RUVJQzRKbkdUOXYyUDljdjI5UFctT2VCZw?oc=5",
+   "source": "アットプレス",
+   "summary": "22,000サイクル※1の長寿命！ 純日本製の家庭用蓄電システムを新たにラインアップ エリーパワー社製「POWER iE Connect」の取り扱いを開始 | 株式会社エクソル アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T17:15+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "株式会社エクソル"
   },
   {
    "id": "775fbbac463bbd75",
@@ -66,6 +178,34 @@
    "topic": "営農型"
   },
   {
+   "id": "ce92961c1d338cdf",
+   "title": "日揮、ホンダ工場でフィルム型太陽電池「シート工法」実証",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zSGlvXzhiV1lRTmV1WERpeWhHcS1ncXdDRWUwMWhxcG82eGVGV1JWN2s3WDI2cTQxTFZyY1ozMVE0RVE3dmFrYVZhQmVqTFN3RUl0RXJqNjBXWW1HWHFtRHM0SDd6TWhoc24tUFBqMk5zTWVn?oc=5",
+   "source": "日経BP",
+   "summary": "日揮、ホンダ工場でフィルム型太陽電池「シート工法」実証 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:04+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "87d4386e6db6ff7a",
+   "title": "東光電気、ペロブスカイト太陽電池の建物設置を実証",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YZm5YTXl0bHdhUzN1MTBlX2hJVnZTVlVVOWZaWWxqLXZOVmY4WHBQdFVwWDU0aWtrc1JLbHZmd0Z4S3hFQXlnQmV3eS1URUtBV3pQaVIwM29LRUluMzV5cnFrcU14bEdsSDVJSENhLUlZNVFn?oc=5",
+   "source": "日経BP",
+   "summary": "東光電気、ペロブスカイト太陽電池の建物設置を実証 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "3778dddb98c2ab92",
    "title": "太陽光発電所の災害復旧サービスを本格化 復旧計画から発電再開まで一貫対応",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JR2IwNy10dER5ZmN2RUQyRVF0VFo2Q3BCRzYzVlMzNmw4OFlZU0tHOU1MbTBHbV9pb2FmcnFNb1pYODEwYlBwTHQ2UUhCOG1yZFB4cTFwdzZydkRKYnlQOTh3OFRMVXUwRmc?oc=5",
@@ -79,6 +219,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "company": "株式会社エンバイオ・ホールディングス"
+  },
+  {
+   "id": "5f589daba9b6aa99",
+   "title": "電通グループ、9カ所の営農型太陽光とバーチャルPPA",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GbUFLN1pId01RM2pYWG9yS0RORF9nTVl4RndBbjZLalEwdk8tbnJoSlJkY3hQNXFVbTJlQTZqRVg5djVRVnBvR3BNMW83WFFPYzN4MmdXbGoxOVBjRlI4VTFPQlV3NGJZSXRsd0xxOEVTRzNo?oc=5",
+   "source": "日経BP",
+   "summary": "電通グループ、9カ所の営農型太陽光とバーチャルPPA - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T15:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "25bf57baa98f8832",
@@ -183,6 +337,20 @@
    "company": "株式会社染めQテクノロジィ"
   },
   {
+   "id": "256faefd5eab234a",
+   "title": "蓄電池未設置のまま助成金偽装申請→3件処分 東京都の住宅向け事業で不正",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMU5NT01mZFdLYlVMZ050NjRIYjVycWFnVDl0X3k5SW10d3VSWHhjVGplUFVONlBteDg0ZFk0SmJhSlo5b0ZLUHJwOE16eDZzcnVGT0ZvTTVJSXFIMEk1Q2dUSTZoeDJPZndlLUk4c0lSR0dWcFlZTzNBN2I?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "蓄電池未設置のまま助成金偽装申請→3件処分 東京都の住宅向け事業で不正 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:59+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "家庭用"
+  },
+  {
    "id": "8a08808d44a716b0",
    "title": "東京都、太陽光・蓄電池助成金の不正申請でエコワンを処分 他2社も返還請求",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMU5NT01mZFdLYlVMZ050NjRIYjVycWFnVDl0X3k5SW10d3VSWHhjVGplUFVONlBteDg0ZFk0SmJhSlo5b0ZLUHJwOE16eDZzcnVGT0ZvTTVJSXFIMEk1Q2dUSTZoeDJPZndlLUk4c0lSR0dWcFlZTzNBN2I?oc=5",
@@ -233,6 +401,20 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHp4UzkyeUVJalFlUTNZd2RyWmdya0J6dUR5dVZ6Z1FGVHF6WEZQVXJUR3AycUcyMzlLTVowUzRCQkhReWt2SVY3WERHUVRWc1NmWUtqbndsTUFWRzc3LUVhNDUyQmh2ZzN0VkRjeGxjSmphdDNPbkRtNGlvd1R4YmdDTXJSZVhnQzFEWUVhc3o0RDVUY3p4TTBzQzVUa0lXczU3RzN6U3ZqUVROclp0ZGdlM3YtQ0dZVGg5LWdKaS1iWWgwNllwbTkzOG4?oc=5",
    "source": "日本経済新聞",
    "summary": "ｆａｎｔａｓｉｓｔａ[1783]：系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）の建設開始に関するお知らせ 2026年10月14日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "92729cb42bac6ed7",
+   "title": "ファンタジス(1783) 系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）の建設開始に関するお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaVXRaSFJhRU9iMVVsbk1WektRSDJVSzcyY3NjdXpZUHRHZkR5M01qVm5tb0k2cVRaZElCTGF6UUFtRjVXNnFCbg?oc=5",
+   "source": "みんかぶ",
+   "summary": "ファンタジス(1783) 系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）の建設開始に関するお知らせ みんかぶ",
    "categories": [
     "storage"
    ],
@@ -391,6 +573,20 @@
    "company": "株式会社Sassor"
   },
   {
+   "id": "3a4c1c83aab55fb7",
+   "title": "【画像】需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2cG9MeW96RVJnY194QUhrWGt1cVhyUHltZDBNcW05U3FBM3NjQUVvQUJ3TWlsRlZJZWl4M3N1OElEclRVaFBJOUFtOThjdlhQYjVMX0otYmx2Z2tyVE4tczYtX2dQZU5lX1k3blpvYzZrWGtuUVI4?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "d770f229770b0a22",
    "title": "太陽光パネルを設置予定です。2026年度の売電単価は「1～4年目が24円、5～10年目は8.3円」とのことですが、発電した電気は売るのと自宅で使うのとどちらが得ですか？（ファイナンシャルフィールド）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNGtVbEloZW9qMnJldEhzbWM2WEQ3QmFpRFhWX0dyWk5rNmk4ZDFnUnhmaUxOVVN6c3RJTE5ITVdydEtVbTZFZGFDaDF5b0VIMHMtTW5laTB0S1hNSXM3d0JVcTdRc24yUHFuSlBJZlBTQ0hsYnhNQW9VazM2WFU?oc=5",
@@ -490,6 +686,20 @@
    "published": "2026-10-14T06:03+09:00",
    "via": "電気新聞",
    "storage_topic": "その他"
+  },
+  {
+   "id": "0cdb03e9eb831444",
+   "title": "太陽光発電所を野生動物サンドガゼルの繁殖地に サウジアラビアで世界初の試みスタート｜もぎたて海外仰天ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZ1ZUckd1aWhHYVJ0aGNwNFRZTEZfUDVvZUVDdkFaeFhlMERqdktiVl91c283Y3pNYmhSRHk2ZlNrRnZjc1B2aTV3N3BvdnFVRmR1Q1NwbDlfNjV4YWlheE1zbFJWZw?oc=5",
+   "source": "日刊ゲンダイDIGITAL",
+   "summary": "太陽光発電所を野生動物サンドガゼルの繁殖地に サウジアラビアで世界初の試みスタート｜もぎたて海外仰天ニュース 日刊ゲンダイDIGITAL",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "cc2ccd08dfb90935",
@@ -1280,6 +1490,20 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RYUg1VHFHN05kbWoxRnBkM2wxbVBNRGJjLVRLUmZpRDFCWnA0NUJGM0NINHhsS0lRVW1yMmRlTEZPeEE1MGEzTlZfWTJ5Nl9pcGxHNDVZMjZvU3NrWGUwVUVMcTlSenpXNkxvQ0haTG03ZThadFlvVTMybzM?oc=5",
    "source": "ライブドアニュース",
    "summary": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 2/3 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T08:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "9d65e862d8ab340b",
+   "title": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 3/3",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BOW4yNUlGZEZzVXhLemVIc3RJdG5KY0RZeloxZlV1SkdqVHc5T1ZDUFRNdWZoOF9YVUEya0FQVkFVV0Q2ck1IbVJRQkZJU1VlN0hRNTZsN1laUmg0STFqeUFwMWdRdmVSdXJEZTF4bzY3R01OTHBmZS13T3A?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】防災専門家がメガソーラーの危険性を指摘、水害や山火事への影響とは 3/3 ライブドアニュース",
    "categories": [
     "solar"
    ],
@@ -2233,6 +2457,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "3ea6feb1b05facde",
+   "title": "株式会社ｅｃｏプロパティーズ、蓄電池私募ファンドでSMTBリースと融資契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBlNEY5OEd4RzZrUzI0SlBVR2l2YnF0SjFOVzJqRWZJd2FULWViLVRHN0ZpRzNYVjlRUllaaTZ6ZVdjekM2N1E?oc=5",
+   "source": "Dellows News",
+   "summary": "株式会社ｅｃｏプロパティーズ、蓄電池私募ファンドでSMTBリースと融資契約を締結 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-09T19:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "fa5348e051b5013c",
    "title": "静岡市内の「系統用蓄電所」建設計画が中止に 事業者「投資に見合う収益が得られないと判断」",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1la1VmbE52aV9aWjI2VThwVXY0VENqaWc3M1JXTFIxYkRhNEdpbDFVQ1hEalRhX0tKVUVrQVF0WWNaQmdkUWVmRVFfUy1MY1gyd1dTSg?oc=5",
@@ -2644,6 +2882,20 @@
    "published": "2026-10-09T10:54+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "0e75c208dc2a21ea",
+   "title": "2026.９.12(土)開催＞『動物園に太陽光パネル！「パルシステムでんき」の発電産地〝しずおか未来エネルギー″を見学しよう！ 』",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tWnY2NzVWc0FrZlBfdHEwQ21lUXNfT2JreEdkemlrMVEycEpfRHpMcVZzMmlTRWtrc1ZfbVVlNlNsRlYzSDVFT3I3Q2J2MXY2TzFMaGhjQzdyOWs?oc=5",
+   "source": "生活協同組合 パルシステム東京",
+   "summary": "2026.９.12(土)開催＞『動物園に太陽光パネル！「パルシステムでんき」の発電産地〝しずおか未来エネルギー″を見学しよう！ 』 生活協同組合 パルシステム東京",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-09T10:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "c407f855c39371e9",
@@ -10814,6 +11066,20 @@
    "type": "news",
    "published": "2026-09-17T12:00+09:00",
    "topic": "次世代技術"
+  },
+  {
+   "id": "9426c8948fe11030",
+   "title": "住友電工がＥＭＳ開発／蓄電所１００拠点を管理、複数市場に対応",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QdENzSjFKWUFQWVNnRzY0UzlxbUxBejB2SUMtZmhiOU4tZ19reFZybndwRUQwM21Kc0FTRnJXY3lHalhJSVBuTExIVGliejdLZnA3N1VUYw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "住友電工がＥＭＳ開発／蓄電所１００拠点を管理、複数市場に対応 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-09-17T06:03+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
   },
   {
    "id": "ab25c3cbd9a59176",
