@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T19:06+09:00",
+ "updated_at": "2026-10-14T21:04+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1787c85a281b2ef6",
+   "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000187082.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社サンワシステム] [画像: https://prcdn.freetls.fastly.net/release_image/187082/2/187082-2-7a48dc83d1f478cb13a3fabba39adb02-1312x960.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T20:15+09:00",
+   "company": "株式会社サンワシステム",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "51a82cce717910c1",
    "title": "系統用蓄電池の国補助金はなぜ「事業を完結させない」のか――1.8万円のギャップを読み解くウェビナーを開催",
