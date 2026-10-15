@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T10:11+09:00",
+ "updated_at": "2026-10-15T11:06+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,109 @@
  ],
  "items": [
   {
+   "id": "06d82eda09726e8a",
+   "title": "ヤマタネ[9305]：本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入 2026年10月15日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHA1QlVfeHZ5LUxDLXNTSmIxZ1JUN3dDRXZkMkxDNFA0NDdoUGItTG0tc2VFUy1vdG5OZzdiSTZHX0JUR3pHSmo1TkJsWUEwSGc3c1R2cS1ZLWtMOEEzbjdfUUNad2o0YnVKZ2RTaTRuU1c0OWdGM09ZQWFCbHh3blZEY0ZTeDdzcWVjd09sR1RQX0M1c3haX1IzRjdKOEJaYl9tUHQ3anJMWGFjUFdualByb2pOWHVTWEpxX1JUTGRGWGEzU2FseGZuVTg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ヤマタネ[9305]：本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入 2026年10月15日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "d17a116d0d329b53",
+   "title": "本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhaGV2VC1QbDRNbHVwWVFhYUw4akhBWlROcG12c1p1Um9YY2QyQXZDR0hKLVppN2hPOWtLNXFkRzZzSnFqTjh2MFFvQm9MaHh4UDJaTTFEQmJlS0ZnVlJ3TXBtY1pIbTREVEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "company": "株式会社ヤマタネ"
+  },
+  {
+   "id": "6c3462d14166cfdc",
+   "title": "兵庫県立大学発！広く長く安く使える、ガラス基板ペロブスカイト太陽電池：先端化学",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BdW5hd2tMdWhwOE5OMjBKd0ZNSkhPcWpWSmdhWVF6M0ljWE5KWlJXcjgxT0swc3FsMDVicDRmbEVURDdSUWFWUE1nVmphbncw?oc=5",
+   "source": "NPO法人生態会",
+   "summary": "兵庫県立大学発！広く長く安く使える、ガラス基板ペロブスカイト太陽電池：先端化学 NPO法人生態会",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T10:46+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4ddeb6cccebdb45b",
+   "title": "住宅用太陽光発電システムの世界市場（2026年～2032年）、市場規模（集中型太陽光発電所、分散型太陽光発電所）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3UHJJNUVtdXNzckJhbms5ZkRPVGJjQWxBdVB0amZiZmhxVldmd2x1aW85NXdwdjhHQ2lWaktzdEVjeV9aWUVENXRlb2tPT2c?oc=5",
+   "source": "アットプレス",
+   "summary": "住宅用太陽光発電システムの世界市場（2026年～2032年）、市場規模（集中型太陽光発電所、分散型太陽光発電所）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T10:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "cf2bd1752d5de871",
+   "title": "電気代高騰に悩まない年中快適なZEH住宅の普及を目指す「建て得ソーラー匠の会」総会を開催！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZHR2Y1hLVVhkU21qOGxpbVItX0pBc2JCVk90WklDWlVGZXVDMG9jMUVVeFFhcWUxd1ZqZU41ZXBKRjlRdHdiLTBQUWZpX0EtU0dDbDNCTmttX05PbE82NDRQVnJqdTh4WWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "電気代高騰に悩まない年中快適なZEH住宅の普及を目指す「建て得ソーラー匠の会」総会を開催！ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T10:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "住宅・自家消費",
+   "company": "株式会社ライジングコーポレーション"
+  },
+  {
+   "id": "262e1377f5685dec",
+   "title": "【日本蓄電池株式会社】滋賀県長浜市にて系統用蓄電施設「NC長浜市三川町蓄電所」需給調整市場への参入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UeERCY3MyRzNoT0I1Y1ptcDhVTGtoRjJEb1FpVzIzSWF6eWZiTmNGcENVdVQ3bzJpcGRhZFVDY2ZDUnRTMDNMUEp0MVdhWjRiM1FFWVNQZWVYUVdoSnlkVUdEQ0Nydnc1RkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】滋賀県長浜市にて系統用蓄電施設「NC長浜市三川町蓄電所」需給調整市場への参入 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-15T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "da3f02a348447726",
+   "title": "蓄電池型超急速ＥＶ充電システムを活用したＥＶ充電サービスの提供開始 | 株式会社パワーエックスのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZaE93OHAxRVN1OGg4MDQxOVBlSkFRWlJIdHlHOHk1SE1hQ2JYZzVBaGd5TjJTTHk1bEJ2VWoyb0x3ZjBVYlE0RWE1NkxzMnVxSHpOSnE2QW9tbXhUcGZmU0hTVFFxNzZUQUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電池型超急速ＥＶ充電システムを活用したＥＶ充電サービスの提供開始 | 株式会社パワーエックスのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-15T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
    "id": "0a95dc19457790ea",
    "title": "GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表",
    "link": "https://prtimes.jp/main/html/rd/p/000000182.000110590.html",
@@ -32,7 +135,6 @@
    "published": "2026-10-15T09:40+09:00",
    "company": "GBP株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
   },
   {
@@ -48,7 +150,90 @@
    "published": "2026-10-15T09:40+09:00",
    "company": "株式会社グローバルクラウドエステート",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4d8e262610b28c96",
+   "title": "グローバルクラウドエステート、蓄電池ファンドCAMEL88号の概要を公表",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94SkkyUGYwek9SbDE5c2l1a0hzOWJRUnVFcWNTQUs4Z2JNZmZOWFI1eDNkTUVUeUxtUWZFdjhaSjdLVHUyWUxRTWJJMXhxdkhOOEpyTm5Pd003V29ncVFwRUI1cW4?oc=5",
+   "source": "Dellows News",
+   "summary": "グローバルクラウドエステート、蓄電池ファンドCAMEL88号の概要を公表 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T09:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "dd4c89d3629c4e2a",
+   "title": "市民の灯した光を守る。原爆の図 丸木美術館に太陽光パネルの再設置を",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qS21rVmRycDhpMlRRN1BDMFZ6Y2xlbmhSM3dYNzV0WVV2RFIyTGNKMV9QQVJsNE9iR3JCZXFGY0lKVU8wN2tXNFlOODdOMzN1?oc=5",
+   "source": "クラウドファンディング - READYFOR",
+   "summary": "市民の灯した光を守る。原爆の図 丸木美術館に太陽光パネルの再設置を クラウドファンディング - READYFOR",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T09:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "55fb323bafdb8730",
+   "title": "窓を活用した太陽光発電で、雪が降っても発電を続ける",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OX05ic0JUeVV0UkgxaDVGanZzY09qQkJYQTRmQWdpM0NNcWRmVUstcVoxcjczUi13MkgtV1pWX1ExZnJHVGxSY1BpOWw?oc=5",
+   "source": "ジチタイワークスWEB",
+   "summary": "窓を活用した太陽光発電で、雪が降っても発電を続ける ジチタイワークスWEB",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "497b59968d51dcb2",
+   "title": "三協立山・三協アルミ、豊田市ペロブスカイト実証事業に協力",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nS2EtdDdfQ3AyR3hKRDVCbkEwS0VBQUpIS1FPU3ZxdXJqM0FvLXR1OXdOS0ZnR2lNZTlwdXBaa1g5OXlpdVg1VktCamhpaUhua2c?oc=5",
+   "source": "新建ハウジング",
+   "summary": "三協立山・三協アルミ、豊田市ペロブスカイト実証事業に協力 新建ハウジング",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T08:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "6ae42351c86c241c",
+   "title": "【太陽光発電】中部電力：青森・八戸で出力1990kWの太陽光発電所稼働、年間340万kWhの発電を計画",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BWWNPZmdCbTlseU9xMk03SF8zMmxPamhXckNEMEd3UEtLWmFHT3NWWm95Z2Q5WFlJaWpPTFhTTm54UzBtd1VHdEtVSkV1amZ6dkdCaG5JS2lvaFE4T2Z3aTZaVnhCYzZjRWlhMkJHcm5qUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】中部電力：青森・八戸で出力1990kWの太陽光発電所稼働、年間340万kWhの発電を計画 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T07:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "681084768d377fbd",
+   "title": "【蓄電関連】サステナブルホールディングス：系統用蓄電池の用地選定項目を公開、ハザードや法規制を事業化前に確認",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yR21HLUpfREF3ekxRbFNBLTBPZHd1RXROVlpmQThZZWVmUFBGMmlkSzhrUzM0VUJzQ3BKUzRwdnp4MWdWUFhERmRNdHpDc1gwNVBFdUNvd3pLdmVxSGNBQlpBQUN2d25LcHU4ZVBmLS1ZUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】サステナブルホールディングス：系統用蓄電池の用地選定項目を公開、ハザードや法規制を事業化前に確認 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T07:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -94,6 +279,34 @@
    "storage_topic": "その他"
   },
   {
+   "id": "d2e8f97e4002e9ef",
+   "title": "「蓄電所がけん引するIoTの第二段階、電力全体や店舗にも波及」、シンガポールUniversの百合田カントリーマネジャー",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNnBPU1Y3RjF4anJRVVRaOUY3STBIVWc0Nk14T043eGh4M2w5dGtSRmQwTkJZS3dfUzN1M2Q3Q09NVDhnVkRQZ205TlVyS0FRcVUzbTFZOVYzTnZKbWIwbEh0YldEMjlZYXhEdDlFV3otOURJZHZKVA?oc=5",
+   "source": "日経BP",
+   "summary": "「蓄電所がけん引するIoTの第二段階、電力全体や店舗にも波及」、シンガポールUniversの百合田カントリーマネジャー 日経BP",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2d55a73eb6c0119d",
+   "title": "両面発電の太陽光パネル、スネイルトレイルで焼損も - トラブル - メガソーラービジネス plus",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04X3RhUDI5N0FiLUV4UjlOWFZuRVkwNVRvbkNTVHhSX1p1RUd6Y1FENk1zZUhfcE00azVFd1U4QmtNejBMcVhvVlBWSEozOGIwS09sck9GYVVteWc5Umo0NG9LNFVpU2t6d0pBQVNQU0o4Y3hDeTJxUg?oc=5",
+   "source": "日経BP",
+   "summary": "両面発電の太陽光パネル、スネイルトレイルで焼損も - トラブル - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T05:00+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "トラブル・地域"
+  },
+  {
    "id": "adab9568478ab21b",
    "title": "タイゴエナジー、既設太陽光発電システム向けサービス市場が拡大する中、11MW超のリパワリング実現を支援",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZEczZWV2Nmc1NjVJZ2FjdmhUdFhKMnR6cm9XZVUtdEw5Vl9qa2llbkFIRW1kRlNMY0R1cU10YXMydEZNMlhMMTdhTWJYSG90ZzJUUXZRdS1kbmNPdFp1ejQ4bmJwaUE?oc=5",
@@ -120,6 +333,20 @@
    "published": "2026-10-15T01:15+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "1fdfe9484ccc16b5",
+   "title": "太陽光パネル、再資源化参入 穴吹興産Ｇなど、大量廃棄見据え協業 設備再生事業も 来春開始目指す｜四国新聞WEB朝刊",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGRWQ2VjJUN2NfdXdONHp0em1pVFJKUjRSOE5xbGRKVjJERmItTjNCVHEtQ0lmOWlkSnJST0FZMll3Rjk5LXNOdFV5SklNOFJFRVpUY0o0SFlpLUFYcF80bFJhV2R5TU41bjNwNXBmRU5JbjRCV2JURGhPeFfSAXxBVV95cUxQRkVkNlYyVDdjX3V3TjR6dHptaVRSSlI0UjhOcWxkSlYyREZiLU4zQlRxLUNJZjlpZEpyUk9BWTJZd0Y5OS1zTnRVeUpJTThSRUVaVGNKNEhZaS1BWHBfNGxSYVdkeU1ONW4zcDVwZkVOSW40QldiVERoT3hX?oc=5",
+   "source": "四国新聞",
+   "summary": "太陽光パネル、再資源化参入 穴吹興産Ｇなど、大量廃棄見据え協業 設備再生事業も 来春開始目指す｜四国新聞WEB朝刊 四国新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T22:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "1787c85a281b2ef6",
@@ -179,6 +406,20 @@
    "published": "2026-10-14T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "2339c4c5a359c801",
+   "title": "系統用蓄電池の国補助金はなぜ「事業を完結させない」のか--1.8万円のギャップを読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcFprY1JONldTRTZUZXNRbUdOUDR3Nm03UktEcDljX0plUVVOZ2E3ejgxdTNsYlo3eGU3QjA0TTItVFlnVFNsNXZPbEJCYmg1RDl4dm1ZWUpwV3pXN2JVS21n?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池の国補助金はなぜ「事業を完結させない」のか--1.8万円のギャップを読み解くウェビナーを開催 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "d49d09d9477e9f44",
@@ -3184,6 +3425,20 @@
    "published": "2026-10-09T00:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "a2228e2fa4cbf9c6",
+   "title": "日本総研、自治体向けペロブスカイト太陽電池導入ガイドを作成",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YT0ZsNVVmeEQwWHo5VTliM3poR19yYW9rOUliOTgxMVRybXhGdzdpM005WTE5MnlGdW84RFhTSlAwYld6eUE?oc=5",
+   "source": "Dellows News",
+   "summary": "日本総研、自治体向けペロブスカイト太陽電池導入ガイドを作成 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-08T23:55+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "006af76cb09da102",
