@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T17:08+09:00",
+ "updated_at": "2026-10-15T18:07+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -77,6 +77,22 @@
    "published": "2026-10-15T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "897df9cd3b4827af",
+   "title": "Jackeryの薄型ポータブル電源「SlimPower H1」が「グッドデザイン・ベスト100」に選出！「グッドフォーカス賞［防災・復興デザイン］」も受賞",
+   "link": "https://prtimes.jp/main/html/rd/p/000000370.000039188.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Jackery Japan] ポータブル電源およびソーラーパネルの世界的リーディングカンパニー、Jackery（ジャクリ）の日本法人、株式会社Jackery Japan（所在地：東京都中央区）は、2026年7月に発売した薄型モデル「Jackery ポータブル電...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T16:00+09:00",
+   "company": "Jackery Japan",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
   },
   {
    "id": "5a7455434322fc21",
