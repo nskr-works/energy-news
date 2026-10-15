@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T03:03+09:00",
+ "updated_at": "2026-10-16T07:02+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,90 @@
  ],
  "items": [
   {
+   "id": "f2a6afc9cab4bcb1",
+   "title": "再エネ活用の進展へ 太陽光発電設備の実証試験で協定 知名町と東洋製罐グループホールディングス",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWV9mcFMwVkE3WUNFSHg5Ykl4a3lZLTBvQ0VYUWo2aEwwVW5WSDBGa1VYallhaC1lNXdqYWdVbV81TWZvY3FJd1d2ck5SSlJVemUtLUZlYl95U21QMUFzbzRfSllWNHJBOEtFUFFXWHJuWnNXanNPQkx5eC1wc1RyMEd4ZzFZeFdpTndXUTRzTTBZemNwTlB5aVNCVDYxVHdPTDlSamFpel9YQU5rS3BCcTdVcnJVeUdKbHhEX0ZLc2ZNaVEtVDhsWHRLOVNXeWNZeFF1SXFoWDcyY1hsOUVnYWxvWFRjdEVtUGMxT0JYS0tZWTR6NklhQTVkYWpDbTdGWHpvM1BjTnNjQlR4bENHemtQMDEteVdVRl9fb3dIZG15S2NhcElxV0xNY3A4S0V4TjRnUkZBRThwdXBSaWthLVg5NFRDS3I1WEpFSWlaa3FSSXMyR0phbXhBeVY?oc=5",
+   "source": "南海日日新聞",
+   "summary": "再エネ活用の進展へ 太陽光発電設備の実証試験で協定 知名町と東洋製罐グループホールディングス 南海日日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T06:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "75fcdf6dfed1d257",
+   "title": "薄型・軽量かつ高効率…ペロブスカイト×カルコパイライト、タンデム太陽電池量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfd1RCRE52REpqSEJtMnFlS05acWNLOW5KSnU3LUliT0lRSlpxclJKZlV2SGx6WUtTRmxsTjBZRkcyUQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "薄型・軽量かつ高効率…ペロブスカイト×カルコパイライト、タンデム太陽電池量産へ ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T06:02+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "5e8b144f4dc2779d",
+   "title": "オーロラ・エナジー・リサーチ、AMP-lify株式会社による福井県美浜町における系統用蓄電池プロジェクト（50MW／2",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTRWdRT3c1ejdHaUhYVmdEblVWdUs0UEdTWUc0LThPbzlMTTBsRkljdTVLUHFmSWVicHhLa0NNMUlWN0FHVVVpWHRJa2ZVdHJJX1FnZHFldVZyWUNsMGdKTWZzb29IWHRy?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "オーロラ・エナジー・リサーチ、AMP-lify株式会社による福井県美浜町における系統用蓄電池プロジェクト（50MW／2 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T05:45+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "4561eb246bc7df93",
+   "title": "ペロブスカイト普及促進協議会、製品登録で連携主導",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhWjFYcFdWT1lDRWVkMG50WXlSRk5GZlFrRV9aYTI0alpzdUh0Z0lVQ3d3T1Q2NGIyVE9NSTZsMld0VllSdmJ4MzNVQWc1SHFGTzZZ?oc=5",
+   "source": "化学工業日報 電子版",
+   "summary": "ペロブスカイト普及促進協議会、製品登録で連携主導 化学工業日報 電子版",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T05:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "8baef59eac8e2312",
+   "title": "中部電力、三重県の農業ため池で太陽光発電 企業に供給",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakNHUlh5XzAwZERtWUZCTi1nSDg1WTJVbU1qRjBSaXZfOWlVY0M3bEozU2pIWi1sejFKa2ZpZEZpQnViNzJaV2dtRk5KSk5kOVRqVDBUQXU1Z18xQ29USVk2OHlKb0NtbFljcDRCN1llNHZPZWkxaUs0WXJOel90NXpmbjM4NVdsbHJUQlJReUtUVndQa3NFNTRqQmo?oc=5",
+   "source": "日本経済新聞",
+   "summary": "中部電力、三重県の農業ため池で太陽光発電 企業に供給 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "99c509023490251f",
+   "title": "伊東・メガソーラー 宅造法変更許可取り消し、反対住民の主張支持―静岡地裁",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CcmZJQ2ZmR2ZVX1owNzNPT1RlRHFqMzljZm5rVF81YlhPMHYtYk1ibkNTaUJwc3YwY2NMTnpMTVVpdk1rcmc3ajdBaXRad3dzYXFsOG1SS05RM1Mw?oc=5",
+   "source": "伊豆新聞デジタル",
+   "summary": "伊東・メガソーラー 宅造法変更許可取り消し、反対住民の主張支持―静岡地裁 伊豆新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T03:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
    "id": "79f386a50ee41ad8",
    "title": "「auでんち」が2026年度グッドデザイン賞を受賞",
    "link": "https://prtimes.jp/main/html/rd/p/000000063.000124795.html",
@@ -32,8 +116,261 @@
    "published": "2026-10-16T02:10+09:00",
    "company": "auエネルギー＆ライフ株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "家庭用"
+  },
+  {
+   "id": "2f149d0e5d281ccc",
+   "title": "SAMURAI証券が北海道系統用蓄電池ローンファンドの募集を開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hdnNiRFVWQ05wbVpBa1RmU3BXSlp1Qm9YTDY3R1U4ZFU2ZXBoVldndnFUeFdDb3ItLWhwcXgzbGdVSmFDS09yWmVyRUhmeUoxSUtFd3hCRUwwdEtRZWw5dXQ1aUk?oc=5",
+   "source": "Dellows News",
+   "summary": "SAMURAI証券が北海道系統用蓄電池ローンファンドの募集を開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T00:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "79ed234508066a93",
+   "title": "伊東市メガソーラーめぐる訴訟 住民側が勝訴",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaSURGT1Byb2hoSjFkcXlqLUxJN3c4QlNFa3dhUFItb2V4Q3lKdnVPa2RLYjYzYUk3bzR3dllObHdzczBmLW9lTHNEb2xCa0VLRnVCUkx4ZTB2TlBUT0xJ?oc=5",
+   "source": "NHKニュース",
+   "summary": "伊東市メガソーラーめぐる訴訟 住民側が勝訴 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T21:59+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "30a8bfae096482fa",
+   "title": "両面発電の太陽光パネル、スネイルトレイルで焼損も",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUc3UXowUjYtQXNPN1BOcmM3WklRRDZtUTdxWWR3bzF0OS1oUHAxVVJGY1RRMmg4WUYxeG10MVNHMWFNV1RNWVpXTnQ1dXpQbW1INGdPY0pUSXNOdGF4UXotMTVtWGw0aXdVVHlKVE9SWGVaakNhSFNlbkh4RVpTUDFEdmM0bTkxbG1UaG5Ma1NNQXRMSVE?oc=5",
+   "source": "日経BP",
+   "summary": "両面発電の太陽光パネル、スネイルトレイルで焼損も 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T21:37+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "その他"
+  },
+  {
+   "id": "44211608c114c7da",
+   "title": "エジソンパワー、蓄電所の新規開発を終了、投資環境の悪化で",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUNUVDYXJCTUprRUEtXzJ1aDRXeWxlSlhFQmRldHREc3YxcjhLQ041dmdtNjZqNmlXd3lLNl8zaXVBZ3NjVmlJa0RSZ1U3aTA3YUNzazJ3NW5fUE1rU0FjWi12Mm5Pd0FpT1U4aHo2Ui1kaFpL?oc=5",
+   "source": "日経BP",
+   "summary": "エジソンパワー、蓄電所の新規開発を終了、投資環境の悪化で - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T21:11+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "be6418950fefcecd",
+   "title": "今上半期の中古太陽光売買数、昨年1年間の約2倍に急増",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LUjZsWVVGTW8zS1dJS1F5RFFVZXZOSnM5V2hsVU9DQ2VnUEVsVXBYOXBIR2RObmxNWDE3WDRQUTlIdzhrLVFmVlI5RmtjTUk4ZVRmbE15Qm9CSUxHMDhJcWJMSWRiTUs2UEllUDROdUZRTi1n?oc=5",
+   "source": "日経BP",
+   "summary": "今上半期の中古太陽光売買数、昨年1年間の約2倍に急増 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T20:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "c5cd61019a591661",
+   "title": "トーエネック、アイシン製ペロブスカイト太陽電池の実証開始",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kZ1ZhUlEzT3BLby05S0d0LS1EZFYzWlpHYlN1VDR4QURxMlBLOFdBSFdET1dIZmhhN2ZEU0JSdGl5OF9pbmtvSFF2eGFPUThWSkIzU0JTcWNVWFl6c2MteFJYODM2Y1BYczZGV2NWem9laUFF?oc=5",
+   "source": "日経BP",
+   "summary": "トーエネック、アイシン製ペロブスカイト太陽電池の実証開始 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T20:24+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "acbf6d3ccd464e3f",
+   "title": "静岡・伊東のメガソーラー許可取り消し 静岡地裁「住民軽視、本末転倒の事務処理」と非難",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQUpENHFGRGN5N2MwV09RUzRyTzZwQ29pMmFlZzI0V0NyNmswX0p6aDhJV3FscHQ4OW5VemNFdjNpemhoUF9IdE1PWE5lbXVMQjl5eUhocWxYQmJxVFhCNzhaVzNrLWxpQlRzNmZWTXZkVXZaSEE?oc=5",
+   "source": "産経ニュース",
+   "summary": "静岡・伊東のメガソーラー許可取り消し 静岡地裁「住民軽視、本末転倒の事務処理」と非難 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T20:09+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "4e07161f249e7e52",
+   "title": "静岡地方裁判所 - メガソーラー許可取り消し 静岡地裁、災害対策不十分 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EZTNwSTJXbnN1MWNtZ0s3M0std2c4dGZ3VFVmbWp6M09lOEdLUXdselJKbXF1clZiUWZma2VEY0JEa0x4UHpYaFppVl9INDNYZFZsNWhDOA?oc=5",
+   "source": "西日本新聞me",
+   "summary": "静岡地方裁判所 - メガソーラー許可取り消し 静岡地裁、災害対策不十分 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T20:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "17bcfaf8827dc573",
+   "title": "軽くて柔らかい「フレキシブル太陽光発電」",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iZXcyNnV1N1ZWYUxYVE4wdHhkX29hT0FrLXlTbzh6SEF5c1FQQThNaWNUTVRHanRFN3hsSlB5dlpyMjdZakxOODdhSGl0U0VOeHppbDl2aw?oc=5",
+   "source": "奄美新聞",
+   "summary": "軽くて柔らかい「フレキシブル太陽光発電」 奄美新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "7687268b22dc015c",
+   "title": "メガソーラー許可取り消し 静岡地裁、災害対策不十分（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oUnptSVk1SnRjaHVnUEtLZnpsMWQzck1fQ1p0M1BOV3lfZEh0bC1fUXJWUmNZb09WOFYtZHhzbF9WaGVXd1VqWjk2aEZtVnFqajRudWdvUnZZMjlYTWxQem5xeDQ4bHpPRk01MzJ4b1EzdlNZQm5lczdoWTNHQTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "メガソーラー許可取り消し 静岡地裁、災害対策不十分（共同通信） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "4b6d18e71525a54d",
+   "title": "メガソーラー許可取り消し",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ta1ZoTkdRWWV5cjRjUk1kUEdqVzF4eV9pZmQ2QVZSS00xMlZpdC1qZzJReTdzZlMxdTNOTWVVU29rTkw4Rm1RUFJ1T2d5MDc4T3cyY214ZFpqZw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "メガソーラー許可取り消し 中国新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "bb242b8ece1e6355",
+   "title": "【写真】メガソーラー許可取り消し 静岡地裁、災害対策不十分",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTFh6bVJHNUJZMGQzck1DYm54ZG4zb1F1RW5QbzhxcnM1NVU4Wi1qcF9hRU9xOFhCdVV6UkluUm1vSnJ3cUlSQ1BTMzNNT01tbVBGWUNQNE5WYXJZdVBqalVqQnpqWlZa?oc=5",
+   "source": "南日本新聞",
+   "summary": "【写真】メガソーラー許可取り消し 静岡地裁、災害対策不十分 南日本新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "ac6e4e334fb94cb5",
+   "title": "【速報】静岡地裁、メガソーラー許可取り消し",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwSDdUTVUyMEdnNzBiQ0NZMmYzeU4wLWs5emt3Vng3dWpSUGtrcjlGRm5EakF4bEJPRTd0ZUhxN2EyazJTWXRlUW1xVQ?oc=5",
+   "source": "47NEWS",
+   "summary": "【速報】静岡地裁、メガソーラー許可取り消し 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:29+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a128e59f64e64228",
+   "title": "静岡地裁、メガソーラー許可取り消し",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BM2ZLQ0Y2cFRTVlhsdk9mUkFfLWdTQTlkWl9RSVdjaHAxV18zek1lcXN3cWNjTDVSdGQ4cHNVbjkwSjlUb1R2QmtRX3JyUGwwZEppbXY1WWo?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "静岡地裁、メガソーラー許可取り消し 京都新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:29+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a52d3bc334203263",
+   "title": "メガソーラー建設許可取り消す判決「防災の観点を考慮してない」 弁護団「期待以上の判決」 静岡地裁（静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Tk9pUkh6cEtQVk1UaTR5UWtXbXBXN3lkRXJkUk4xTjZIYTJvZzZxQzcyU1FsUGVRQ3JIalY3UGFQZWY0b21yWHpzQmtVbWlSNGVfQV9NT2dSUmxzMTFXdTBOWHNFdkJXNlNjNm5XQndvdkQzZFR6Tk91R1FpbjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "メガソーラー建設許可取り消す判決「防災の観点を考慮してない」 弁護団「期待以上の判決」 静岡地裁（静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:26+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "fb923b6079d6d88f",
+   "title": "ウエストHD、27年8月期純利益17%増へ 蓄電所事業がけん引し最高益更新",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DMWVBdnhPdWRxV0VFNlQtbEwxc1p1alk5OXMxeUpQUzFCYVAxVWhkM3pXUEZkQnhzWTFtaV9YYkpxQnZUX0czQ2x0Rk5IVDV0RGdsbmJLYzBPWUpzVjAxOFlhanNtM1BfQVFKZnc5LW8wbjRi?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "ウエストHD、27年8月期純利益17%増へ 蓄電所事業がけん引し最高益更新 BigGo ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:25+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1fe977d4439c2b73",
+   "title": "伊東のメガソーラー訴訟、住民側が勝訴 静岡地裁が工事許可取り消す判決",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wbTRCVFNoSWk3UDZNSk12cU5TSS1BcVZRNVVLYVV3cW0xTUYwMUhQdThjei1hcDBITFBLZnU5UGVqVXJDSzM0ZTNNb0JNQQ?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "伊東のメガソーラー訴訟、住民側が勝訴 静岡地裁が工事許可取り消す判決 静岡新聞DIGITAL",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "f11020ecf34761b4",
+   "title": "決算:ウエストHDの純利益17%増 27年8月期、蓄電所事業が好調",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPd285Wkk4QVdzUFg5ekRmQzBUOEZac2haZ2drdVBob0lBcUhsbDhJSC0tdkNvQ1N2WGJaUFVmQzZIZHpxQzJTQnhDWkpLVDV2VVprVm1fXzd5OFdJVEpQNThpdmEtcEpWNDhSdw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "決算:ウエストHDの純利益17%増 27年8月期、蓄電所事業が好調 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T19:02+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "e3f6691043045e02",
@@ -48,8 +385,35 @@
    "published": "2026-10-15T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "86f20c232b5577b4",
+   "title": "ジャパンブランディング、系統用蓄電池の制御方式を解説する無料ウェビナーを11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56LUF4bmZLQm5OdmhpNG9XT1BTS210RS1sZFp4N2EtVnJMU2sxaE1RWnkxTW94SzJjRVZDTEhIQXF5Y2N6MnNnWnl0ZkRtTjhZUF82NVVDcW44U1NhSEZnU2lkZEI?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の制御方式を解説する無料ウェビナーを11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1c722a312974e54d",
+   "title": "中部電、ため池に太陽光発電所建設＝脱炭素加速、27年度から順次運転(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1R3X1F3d3JxazE2RlRRb1l1T0MzeVNlZ3RDdTRZT294cFdCTklIT0tEVDdkZTFacGw2elFla0J0ZnMwRk05bzBxeFFRb2Jab2l2QmJ4aGNYc2N1WU5hbXFjMy1BUzdMai1rTk1FNXk4eGpiOXczODVCcHhfLUtYNERYN1p6LUE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "中部電、ため池に太陽光発電所建設＝脱炭素加速、27年度から順次運転(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T17:17+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "5a5561da047670fb",
@@ -64,6 +428,34 @@
    "published": "2026-10-15T17:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "eb5a73ed7625ca3f",
+   "title": "【決算】ウエストホールディングス（広島市西区）蓄電所建設増え、2年ぶり増益",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QcW9VXzNJWGlVTmg5S28yYjMwTUNxWVdCT1l1Y1g2V2FxSzNPNUZYRE1OSkpYVE1TQjhSODc4TFNHRktkZlJNTmNQNE5qenRoVFIyZWVzMWRndw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "【決算】ウエストホールディングス（広島市西区）蓄電所建設増え、2年ぶり増益 中国新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:57+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "94864e3e0da51247",
+   "title": "系統用蓄電池補助金の要件、広域認定とJC-STARへの実務対応",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wZGtuejVabDhjN0hvc3NYQnMwaEc1VGVhXzFmUnFMLVRqS19KRzQ1SUhWSkp1bVlTeEhKRmlrRVlxSUNFMFhmVG9CUmhhN2pQVHlBdGZvZEwydw?oc=5",
+   "source": "ブライトイノベーション",
+   "summary": "系統用蓄電池補助金の要件、広域認定とJC-STARへの実務対応 ブライトイノベーション",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:35+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "5aaee15abf4c6077",
@@ -81,6 +473,20 @@
    "topic": "O&M・保守",
    "storage_topic": "その他",
    "company": "株式会社Gen R."
+  },
+  {
+   "id": "d659a225832f30a1",
+   "title": "【速報】メガソーラー建設許可取り消し訴訟で住民側が勝訴 弁護団「期待以上の判決」 静岡地裁 （静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYTBraGFPaVhnbG93WXBidWZNSXNsVkQ4MGRqejQ3c1QwaTdweThYR1lkY2pFOVl3VGZOd2djX3JsUE5PV3pHMW5QYVE0TWNJZG1lUS10OV9jVnFGaEFHR003WG4wb0ZOamF0SmY1MTZfSkFLWDlJOURBWEhJQ0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【速報】メガソーラー建設許可取り消し訴訟で住民側が勝訴 弁護団「期待以上の判決」 静岡地裁 （静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T16:26+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "845eb973931001e7",
@@ -123,8 +529,21 @@
    "published": "2026-10-15T16:00+09:00",
    "company": "Jackery Japan",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "57dd4fcf561347fb",
+   "title": "【太陽光発電】太陽光発電協会、2026 年度「ソーラーウィーク大賞」発表。上越マテリアル、資源化で特別賞受賞",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkVYeW5aWlNMZU52UEllcXRvdDhYRURSYXk5LXFqclNqVzFZZjNOU2FrMkNDdlhITkxnd3diSi1aYmd1LUtnU0RLcHhieXhkOC1POEJGMWt3OWpCWnhWZ05SU2o5ODNhVzZWNGU4UGJBd2pGWjRFcUJIVDRHdU9HWWJ1Rkp3M1JEVldsZ3JPOHp6SVA4VUJBR1lhVUF4VEM3dUFvVDUxcTRjY1FybFhKS3llNFY3MEdRblI2T2dFM2dmXzV5Z1NQa0ZZaTZSOGZLMUd5X3k3MHhqTndIcDY2YXlYUlVaNERoT25Gb0wtdjFjZGJMazRDd29LcnIzVXdLWm9HYlhnRXpCeTBIc0I2amxmSjNTZFk1M2l4eXZ3RU5GZHM0RjZNeUowdlhPNlZ4Njc5eFpSd0hlQlhrRU9rZEhKZ3NlTVJWOFVUSzdEeEM?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【太陽光発電】太陽光発電協会、2026 年度「ソーラーウィーク大賞」発表。上越マテリアル、資源化で特別賞受賞 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T15:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "5a7455434322fc21",
@@ -242,6 +661,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "691727155b8d2bb7",
+   "title": "久世福商店の食品工場屋根に太陽光 オンサイトPPAでCO2年36t削減",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16OFBrSktYUE56aFAzc3RRMGxhNWFZZk5QZllIQ0tQV3h6dlAtekFzY1NUNlZ6a0h0VUJnVjNMN3ZmcFhZZXZza3N5ZmFGLXNzOFU5YkhkaGFtRTVESHVOQmhzd2l6SWxSSUowSnNZamo1T2FvS2dwVDZfcjY?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "久世福商店の食品工場屋根に太陽光 オンサイトPPAでCO2年36t削減 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T13:25+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "c689d4219c11303b",
    "title": "【通期決算発表】 ウエストホールディングス：産業用太陽光発電所請負事業、非FIT発電…(フィスコ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRURCTG84VEFTVGs1NUc4eHB1M0tTb2hHVHFFV1hCdXJvQ0lJSkNrN3R5Z3F5QXJTcUVxelZLeWVCTXhabzl6ZnRfd1JpemZVMThrdnZTdFNVR0FHZlAxZmV2UGtzWl9WRWRSXzJ3dWZmb3FPbUM1VUlHaUh0X21WaDctbUlBN3c?oc=5",
@@ -253,6 +686,20 @@
    "type": "news",
    "published": "2026-10-15T13:00+09:00",
    "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "192604595b30f54b",
+   "title": "本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80dGZZN09GaTlVN18xUmFwUEdKTGFYMW5PdjRMQ0N4UFZNVlZEMGFaN0Rzb3VHcTh6Nnd4R0c4b2tCVHJLeWxfNkg0LU1uWTlvamZnQTdyUFZsX0VaX1JlRzV5d1hvX3lvNmhLcUVPcEFkQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "本牧埠頭営業所でオンサイトPPAモデルとFIP制度を組み合わせた太陽光発電サービスを導入｜Infoseekニュース Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T12:45+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "政策・制度"
   },
   {
@@ -269,6 +716,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "SAMURAI証券株式会社"
+  },
+  {
+   "id": "d3074a2e38a0c94d",
+   "title": "エジソンパワー 清水区の蓄電所計画中止",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd2VxdGdIQzhiWEZRdHNnZDZOVHNuMjJGOVozY0VHc1JpSzNBSFNBcmx0SmotTXR3aXNmazNLd2ZvSGk3dkJ4R21LUEpYWGtoOXJmcktkU0VTTmE4dTJaNTlmajJ6TGlITFN3WUJHYTBJRnFxSGNQZ3hsU2dhZjM2cw?oc=5",
+   "source": "建通新聞",
+   "summary": "エジソンパワー 清水区の蓄電所計画中止 建通新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T12:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "71540ff2db8e28ff",
@@ -572,6 +1033,20 @@
    "published": "2026-10-15T07:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "2920352c79db644b",
+   "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWNUVyVE1MZG1vc3FTajd3ZzFSczB0LUxMNUtmLVRidmpEZUF0akstRDV0N3N2ckFKMzcxVTFFUE4yV0p2S1huSFhweGhOaXNobXFPR0Vtb3BLWkRrXzk4YTdnMmdRUjlINWlEb0xFTkE2cnVUbU1pNy1Qcw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T06:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "c05d9974829c8e88",
@@ -944,6 +1419,34 @@
    "published": "2026-10-14T14:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "451f0ab5c21b9580",
+   "title": "キラルな一次元ペロブスカイト半導体の理論模型を構築｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZXFEcjB1VW9HYjdKMkFMeGFQaE9RX2VlSTdNbjJXUnJCWEEyRENKbEh6RUxXS09FeDV0ek5FZDQ1UDU2eV9wRmx5OVRwMVpJWUNXUzMxVFZBVjNxZUVEZmVJNjh3VlU?oc=5",
+   "source": "Infoseek",
+   "summary": "キラルな一次元ペロブスカイト半導体の理論模型を構築｜Infoseekニュース Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T14:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "79e367102401ee83",
+   "title": "川崎重工業、名古屋第一工場で7.9MW太陽光発電",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xcHlGQXA4M1VGa0U5YlNTbGJ3bnB3cXZROGp4WEhDXzk4LXNUQWQyckgyLTB4UVdTMjRIRjhFWEd6TVE1RGFCNg?oc=5",
+   "source": "航空新聞社",
+   "summary": "川崎重工業、名古屋第一工場で7.9MW太陽光発電 航空新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T13:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "279c842d78b35aa6",
@@ -1894,6 +2397,20 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HZzQwRW5rcFNLblA4clhPcnRTR0dBclh0dEswUUY3dm5sRmNQNnBCREMzcVJUVnhDUUdXYWVxM0pkZ1lSbktMczFKZVd3aHdoN3dLUWZ5WDE?oc=5",
    "source": "北海道新聞デジタル",
    "summary": "メガソーラー規制強化へ条例施行から1年 施行後の申請4件、大きく減少 釧路 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-13T12:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "1c9b7e4b010c1148",
+   "title": "釧路市メガソーラー申請激減 規制条例1年 パネル廃棄費用の保証義務付けへ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fQWZaamp6S2JMMTYzNF9hMEozazhLRW9PN1RacnB4ZHBiRDI5czAyak03Z0dobV8wN2RMN1NqYkJndU94R2x4X3RnUnNwVnNXa1dVd2NvTXpRUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "釧路市メガソーラー申請激減 規制条例1年 パネル廃棄費用の保証義務付けへ 北海道新聞デジタル",
    "categories": [
     "solar"
    ],
