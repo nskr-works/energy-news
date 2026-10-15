@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:05+09:00",
+ "updated_at": "2026-10-15T10:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "0a95dc19457790ea",
+   "title": "GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000182.000110590.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GBP株式会社] GBP株式会社（本社：東京都港区、以下「当社」）は、電力管理・監視システムを手がけるドイツのJanitza electronics GmbHの日本正規代理店として、高速周波数計測器「UMG 604-PRO」の一次調整力向け周波数計測へ...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-15T09:40+09:00",
+   "company": "GBP株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1882b96a891d0854",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
+   "link": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社グローバルクラウドエステート] [画像1: https://prcdn.freetls.fastly.net/release_image/136212/163/136212-163-f1b5a9d742b0f1b7590c9c892e7b980a-800x570.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-15T09:40+09:00",
+   "company": "株式会社グローバルクラウドエステート",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "43fbf68722f9f9ee",
    "title": "ペロブスカイト太陽電池で国産資源に脚光 世界的な産地で高まる期待 [千葉県]",
