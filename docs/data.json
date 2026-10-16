@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T16:16+09:00",
+ "updated_at": "2026-10-16T17:08+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,77 @@
  ],
  "items": [
   {
+   "id": "e8cbaa60f6d1a5f3",
+   "title": "東邦ガス、米国の太陽光発電事業に参入 トヨタにみなし供給",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nQTJ5OWlJOUtQUEstalhHbjB2ZEpmS1lnRC1FMUgyNUVoZDJTeTBERGJ4YzEzYVFBc0U0ZGVyWmNQSGNCRjZzaUlHMXNnUjMzQzVUclZHT3VaNW5sU0RiejY2UnRwME5jd05kQg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東邦ガス、米国の太陽光発電事業に参入 トヨタにみなし供給 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "70187c4b75e01bf0",
+   "title": "【無料配布キャンペーン】住宅への太陽光発電導入をサポートする「SOLAR JOURNAL 住宅号」10/30 発行！",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xdDJ5SkYyUV9qMTN6cUhLdWZUeDVJN3dOZUd2b293OEUtWVo4bU9sSENEZkE2X2tPQjN4UW9OZXRlWl91QU1WMEFTSQ?oc=5",
+   "source": "solarjournal.jp",
+   "summary": "【無料配布キャンペーン】住宅への太陽光発電導入をサポートする「SOLAR JOURNAL 住宅号」10/30 発行！ solarjournal.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "49898e7f3a6c433b",
+   "title": "POWER POOL、総事業規模約45億円の系統用蓄電所事業を展開｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41RzlIMTNwcWxESGlhTDhvMVN1VnU4RDJsNGI4MDJwYWFzazVsNjFxZU5ramF5VHFfWVVjX0dUbkh3STRYNHRPamNEZmNYWktPMmhPU3luS2JSYnNQX0hPeTlmcmpETXdKRlFOV1B0NW5EUQ?oc=5",
+   "source": "Infoseek",
+   "summary": "POWER POOL、総事業規模約45億円の系統用蓄電所事業を展開｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:40+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "c3186058fb8d53b7",
+   "title": "POWER POOL、総事業規模約45億円の系統用蓄電所事業を展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000183333.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[パワープール株式会社] パワープール株式会社（本社：東京都港区、以下「POWER POOL」）は2026年9月18日、国内の高圧系統用蓄電所6案件を投資対象とする「PP7号合同会社」を設立いたしましたので、お知らせいたします。 本事業では...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-16T16:40+09:00",
+   "company": "パワープール株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "1046171e6987d027",
+   "title": "京都府北部の小学校で、初の太陽光発電設備 児童が太陽電池の実験で仕組み体感",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sc2lEdFVnUDBlOEtIY1VZZU9DTXVNS3AzRkJQcndlUzZDOG1sQnVBN1RuYzBPcm55WUhmaTN3VUhRQ2owX0I0VUhsak56T19pYUlSZnBydkI?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "京都府北部の小学校で、初の太陽光発電設備 児童が太陽電池の実験で仕組み体感 京都新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "c5aa7ed4e2a66b70",
    "title": "豊田市鞍ケ池公園におけるペロブスカイト太陽電池の実証を開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000184483.html",
@@ -32,8 +103,121 @@
    "published": "2026-10-16T15:45+09:00",
    "company": "株式会社トーエネック",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "次世代技術"
+  },
+  {
+   "id": "1be55f6aa23e31e9",
+   "title": "株式会社トーエネックなど、鞍ケ池公園でペロブスカイト太陽電池の実証を開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwQ0FCcVZRc0VCczAwN3BmblJJYzFtNVhkZU9pY0ZsTFFjQzBmUG5vbXR3TEgtVW5WTGROSVZnNDM1ZXBOSGQ1RVVOdmxwMWlDbktYckhSMUJzRUNIemlWRFVER1k?oc=5",
+   "source": "Dellows News",
+   "summary": "株式会社トーエネックなど、鞍ケ池公園でペロブスカイト太陽電池の実証を開始へ Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T15:27+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "1a3fdb0b5b7b2fce",
+   "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tWTkxSUMtdjJxMGdjanluOVZnTVJPODRaZWtfd3V5SWI5bU5WVjd0T3kxc3ZKMEFSMUZUejNkT29fM056c2hhVXgwZ1ozcmRmRXgxanl1RkI1UFdTS0szbElSTnQ2WU11clE?oc=5",
+   "source": "PR TIMES",
+   "summary": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-16T15:10+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "テスホールディングス株式会社"
+  },
+  {
+   "id": "60f2c07cdfbf0a66",
+   "title": "テスホールディングス[5074]：TESSグループが開発する「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施いたしました 2026年10月16日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUltdWI1VlJwcFRqQmc5TUpNZ1pORkxzeUVPaWpWNzFTQU4tVnRMV1d6SUxYWEktRzJwMWJSbjdud0JfVHBoNHNfTEZqakJPVjhxNGxBNzJmeDd4T3RwTjNPZ19Fd0FsSzdGU2gwV25FaHNMbC1IRHhMLXlrbnNiYTdOaDk4RWgyRTg0VmRIdlQxcEZSR1pHOFRJdGpqemNIVlZ1MVZDSE12OHVPUmdCdGIxVGtKZW5tajV1M3J4WUlrbGlYSkJvM3VpOUE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "テスホールディングス[5074]：TESSグループが開発する「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施いたしました 2026年10月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T15:10+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6b0d1183d1bb4222",
+   "title": "テスＨＤ(5074) TESSグループが開発する「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施いたしました",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tTHRYM1Zlb1UwYUw4UHBuc0VvQldHaHc0RmZSeG44clNZSHVGY09sRC1NeFl4UkZuSWRCNVExMjFFZXhqVUZfVw?oc=5",
+   "source": "みんかぶ",
+   "summary": "テスＨＤ(5074) TESSグループが開発する「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施いたしました みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T15:10+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5b4b7c071b4ebce3",
+   "title": "米テキサス州で太陽光関連事業の一貫生産体制構築に向けた日米協力プロジェクトを開始(日本、米国) | ビジネス短信",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81VGZOX0txUVMyQU1jcTdDSDJ0and6dGVObTN0Q3A0TFJYMHhjRDQ2VUxYQk9Tb294N0o3Zk1BbmVmUGFKX0lmY3F4NldYNXZ4aHNsMThhYkpXeFJiYzhWeFdIUnhaYkxqeUFsZ3Z3?oc=5",
+   "source": "ジェトロ（日本貿易振興機構）",
+   "summary": "米テキサス州で太陽光関連事業の一貫生産体制構築に向けた日米協力プロジェクトを開始(日本、米国) | ビジネス短信 ジェトロ（日本貿易振興機構）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T14:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "88c00707afb7f682",
+   "title": "太陽光由来の再エネで食品容器を製造・供給、工場電力34％を転換 天満紙器",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ieWE3eVlfUU9sX3NWdUN4dTdCODg1MnlWMnM4NVg5UGN3Z3ZKWFN4bFdjMnR2VHBobVU2anpRaTdyeERKa1IzMkFwSUtOdDE4aVhYMnRwc0NTY0pJRkNhQlFnSk9tRnJNbVlQZUFqVDUyS0hQVl93X0pRd1c?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光由来の再エネで食品容器を製造・供給、工場電力34％を転換 天満紙器 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T14:21+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "2442c34583af1a06",
+   "title": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!!",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbjJBYmtlaFJaTHlZazd2a09MVHlHajYxbUZ2aFN5MmhSclljckNZTEZOSXpvcHhUYnpicVlGSUFHSVJod2ZRNzRQLVBVRG10bzVQWC01NXE1b0NFY0NXTGFsZ0syTTZHNnZCY1NxX0xjdF9WUFp4SklB?oc=5",
+   "source": "イザ！",
+   "summary": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!! イザ！",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T14:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "ffb9f7cd73d4f660",
+   "title": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSTHZwb0lOUnRlTlJGb1pFTmVySTc3QmxkRVEwVjBhRmhEVWx0UnZJWlVDb1d0a1VQajlSOFg1VTJScnZuMVpULTZtUDd0ZV9xY0FNeHJSM3I4Vl80X01ETU00VkluNUJjanc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-16T14:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "低圧",
+   "company": "株式会社 新社会システム総合研究所"
   },
   {
    "id": "b39f24578b52acbc",
@@ -48,6 +232,20 @@
    "published": "2026-10-16T13:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "3b61f318b4992f3a",
+   "title": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して、ベーカー&マッケンジー法律事務所（外国",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwSXFZWnBLZndQZ3MyWVNhUVF4UWtGRkxFY0JDNm9CRFFRZHhOVFZISXQyNG1URjY1azNQNXphcFJ3aEJuNFc5YllXbldxZ21mTmI2dXl1LVNQcnRlWkpYVE54UXZfdVhzbWFPU0FURjVDOGJOUjRkZ1Y5Zw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して、ベーカー&マッケンジー法律事務所（外国 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T12:45+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "36b5f0c11cd508e7",
@@ -523,6 +721,20 @@
    "topic": "その他"
   },
   {
+   "id": "256bf60216303c85",
+   "title": "深層断面／薄・軽 フィルム型太陽電池に商機",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5idzUzY3BEWHlzLVVma2hZUGNlNENsS1UzY1BuSjRLb2hJX2o4SC1iU0ZDSzBCUFFhMk9FUzE5c2I1WFR3MnF6d2lTV1FIa3FWcnZvemFIYlc?oc=5",
+   "source": "日刊工業新聞",
+   "summary": "深層断面／薄・軽 フィルム型太陽電池に商機 日刊工業新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "99c509023490251f",
    "title": "伊東・メガソーラー 宅造法変更許可取り消し、反対住民の主張支持―静岡地裁",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CcmZJQ2ZmR2ZVX1owNzNPT1RlRHFqMzljZm5rVF81YlhPMHYtYk1ibkNTaUJwc3YwY2NMTnpMTVVpdk1rcmc3ajdBaXRad3dzYXFsOG1SS05RM1Mw?oc=5",
@@ -993,6 +1205,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "de8bc83c05690637",
+   "title": "CAMELが系統用蓄電池ファンドの概要公開 一次調整力市場を主軸に展開へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MOF95Q3R3R2RyRnU2YUtaTzVpUUwyRVV0NWFPNFg4S2RyNjIwcEZjU1M4dU51ZU9RS0p3Q283VElJM1E5X1VuaWRiS3dXNkJPNGwteVdvcVFRdGNvVHg0YW5GZGV1REhM?oc=5",
+   "source": "Dellows News",
+   "summary": "CAMELが系統用蓄電池ファンドの概要公開 一次調整力市場を主軸に展開へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-15T15:53+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "57dd4fcf561347fb",
    "title": "【太陽光発電】太陽光発電協会、2026 年度「ソーラーウィーク大賞」発表。上越マテリアル、資源化で特別賞受賞",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkVYeW5aWlNMZU52UEllcXRvdDhYRURSYXk5LXFqclNqVzFZZjNOU2FrMkNDdlhITkxnd3diSi1aYmd1LUtnU0RLcHhieXhkOC1POEJGMWt3OWpCWnhWZ05SU2o5ODNhVzZWNGU4UGJBd2pGWjRFcUJIVDRHdU9HWWJ1Rkp3M1JEVldsZ3JPOHp6SVA4VUJBR1lhVUF4VEM3dUFvVDUxcTRjY1FybFhKS3llNFY3MEdRblI2T2dFM2dmXzV5Z1NQa0ZZaTZSOGZLMUd5X3k3MHhqTndIcDY2YXlYUlVaNERoT25Gb0wtdjFjZGJMazRDd29LcnIzVXdLWm9HYlhnRXpCeTBIc0I2amxmSjNTZFk1M2l4eXZ3RU5GZHM0RjZNeUowdlhPNlZ4Njc5eFpSd0hlQlhrRU9rZEhKZ3NlTVJWOFVUSzdEeEM?oc=5",
@@ -1005,6 +1231,20 @@
    "published": "2026-10-15T15:42+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "ebe56e796d47cade",
+   "title": "中部電、ため池に太陽光発電所建設",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzRG5RNVlUcVljZWR5MG5VMl94T2hBWUd0NXNkVzJERnd1bDIwbWM3VjFEY2lfSDZnd1QwaGhtdl9lYzZnRll3dm1xZm91ZmlkdGxuNWQteXVoSmw5ZFdTVndjRExKVFNmdlcxdkJzQUZHVGsyZERrRkRTNNIBgAFBVV95cUxPZXB1RDFDZWpoYTA0ejk4Vm9rOEJKZENfWnFLVlZaMkp0SUxTS1QwTmE3N1N3NUtZQ0FhXzFSUEx5Vlp3bFd2V0UtX2RUaFNHWWJ5b3F4ZENfcWw5c0twTkt5MEhnbWp5YzF1WHhsR0ZBNTVURHFVN0xTYjhQMWh4Qg?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "中部電、ため池に太陽光発電所建設 ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T15:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "5a7455434322fc21",
@@ -1779,6 +2019,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "company": "株式会社エンバイオ・ホールディングス"
+  },
+  {
+   "id": "29b3c8e8272560f2",
+   "title": "NextDriveと自然オペレーションズが系統用蓄電池事業に関する戦略的提携の基本合意書を締結",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4weENBbUNPVTMtY0tvX2dCQlZia1VoZFZnS2FkRHpDTjFlMXlrclR6RXFRcks2NFJDTGlMM1ZiVWQyQy0wZGxSLWgwTGNwVklnTDhQSmdUR3hkLTFxcml4U3hHZ0xjdWFrOS05REFxXzRpUHB5clE?oc=5",
+   "source": "山口新聞 電子版",
+   "summary": "NextDriveと自然オペレーションズが系統用蓄電池事業に関する戦略的提携の基本合意書を締結 山口新聞 電子版",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-14T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "5f589daba9b6aa99",
