@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T07:02+09:00",
+ "updated_at": "2026-10-16T11:08+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,36 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "e6614c6a12e5d91e",
+   "title": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して、ベーカー&マッケンジー法律事務所（外国法共同事業） 玉川 雅文氏によるセミナーを2026年11月18日(水)に開催!!",
+   "link": "https://prtimes.jp/main/html/rd/p/000004719.000032407.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社 新社会システム総合研究所] [画像: https://prcdn.freetls.fastly.net/release_image/32407/4719/32407-4719-4059a119565fde44e6497ec585bfaf9c-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&.",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-16T10:40+09:00",
+   "company": "株式会社　新社会システム総合研究所",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b9dd6635c2de2492",
+   "title": "【系統用蓄電池の複数契約案件が開発段階へ】2026年9月末時点の事業進捗を公表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000196.000096742.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[サステナブルホールディングス株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/96742/196/96742-196-b3958aae5aaddd8b126a3140f2177180-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-16T10:40+09:00",
+   "company": "サステナブルホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
   {
    "id": "f2a6afc9cab4bcb1",
    "title": "再エネ活用の進展へ 太陽光発電設備の実証試験で協定 知名町と東洋製罐グループホールディングス",
