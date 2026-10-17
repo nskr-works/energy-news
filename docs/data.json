@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T07:04+09:00",
+ "updated_at": "2026-10-17T11:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,49 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "27e908322ff4e457",
+   "title": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeTNnU212YWVRZXl2M3dwVnlkS3MtMnNhWDVBRFVWNGRpdzN4M2ZzQTFmMXkwMUJ1UElQOFFsWld0NWdfOG92bzlFeFJ0TDMzdDdrcjRDV0FFNzkyUi1OLVFCSmRfYVJ6RFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-17T09:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "2dada996a9b02526",
+   "title": "【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjSFZNQ2lnVm1PQlJGek9ybGlfSXExZFlXSkU3X1Q4NncySFVaY1QzZE5FS2E3V1Z1TTZROWVKeHBsUWhiRE13SDZkLWp6R1ZKV3Q4UDV2bVAxX3RiRWxUemVZeTAwc3lhM3hHelN0c0QtUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T07:13+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4230c4d59c5dfb01",
+   "title": "【蓄電関連】パワーエックス：大和ハウス工業の福岡・鞍手系統用蓄電所に9.8MWh納入、運転後の運用も担当",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZFhCQW5ybUtyQy1xenVlMTR6WDd1bHBWNzd4cW0tbWR3N196WGhNSl9Ma25hNHZVOUM0SUE5dFdpNFZDTGJuVFRPck02SzRydVduaFJuME9FSXZWMmdyWFJTZXpNdHdBMERQR1hmX19JUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】パワーエックス：大和ハウス工業の福岡・鞍手系統用蓄電所に9.8MWh納入、運転後の運用も担当 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T07:13+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
   {
    "id": "afb5d862bbe59674",
    "title": "中国政府 AIや太陽光発電などの重要技術の流出を防ぐ狙い 輸出の禁止・規制の強化発表",
@@ -89,6 +132,20 @@
    "company": "GBP株式会社",
    "via": "PR TIMES 新着（直接）",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "62fb5296410ec893",
+   "title": "Sassorとポート、高圧系統用蓄電所のアグリゲーション運用で契約締結",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQ2JVOXZySzdZejF6VEpNZjAyVzRQRXB2YWZCZWhnM2xKZ1BCeGM2VFQ4SlB6aENXZGtQWlk3WkdqM1lCcnhxY0JvcXNEYU96eE9IOHpKZXg2UEZxeGc?oc=5",
+   "source": "Dellows News",
+   "summary": "Sassorとポート、高圧系統用蓄電所のアグリゲーション運用で契約締結 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T20:09+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "83d168dbf7516ce7",
@@ -620,6 +677,20 @@
    "topic": "営農型"
   },
   {
+   "id": "c2e3a38b9853badf",
+   "title": "10MWh級の「岩石蓄熱」、東芝・中電など実証",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80RGpKcXQ4UTNKNTRzTGtDRURWMkNURW5qRERLNFRSUFo1U21MSUU0YmxrUXp1WUpIcVZOTndDSE1sMG5ud1A4b0xDUWlGNUt6dThNbHFFb2hxQ212ZHJ4RU05VWxQRkRqRUc0cGcxUEJuQ3dP?oc=5",
+   "source": "日経BP",
+   "summary": "10MWh級の「岩石蓄熱」、東芝・中電など実証 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T11:27+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "fefe1641adc2963d",
    "title": "OKI、鶏舎6棟に「超軽量フレキシブル太陽光」導入",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtRGFpOTg4X3pFWVFJanNCbXpWT2tFS3NldEJmZV8zMkpIRzJtaXpMOHRfSmhKdWxWTkR6dmFWdV9oZU91RGR1UmlycHFSYVo1NGZ1blAxOERWdUxRU2E0VzdoRDV6OEJXRE96ZXd2WDBXa3hf?oc=5",
@@ -791,6 +862,20 @@
    "published": "2026-10-16T10:03+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "d43551830401f32d",
+   "title": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して、ベーカー&マッケンジー法律事務所（外国法共同事業） 玉川 雅文氏によるセミナーを2026年11月18日(水)に開催!!｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jZ2hpMG9hLXVRQl9HN3JzRzhTM1doWkcydDBMTHF2dThPQnFWMDVHRkQyeXM5dC1kTzAxenFQUVlteVpwRFZGRlZxdExKTGxDdUpkaThDUDJLM3hzU18wWE1qUDZ1Y1Q0QUFGQVRkelVfZw?oc=5",
+   "source": "Infoseek",
+   "summary": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して、ベーカー&マッケンジー法律事務所（外国法共同事業） 玉川 雅文氏によるセミナーを2026年11月18日(水)に開催!!｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "211de6e102a8ef1f",
@@ -2253,6 +2338,21 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kaE9PR3RJX2p3clNjRUxUcGpLcnhhY3hpWkdjSGNxTDRuT1JwdkFvemt6Zlg4RUVJQzRKbkdUOXYyUDljdjI5UFctT2VCZw?oc=5",
    "source": "アットプレス",
    "summary": "22,000サイクル※1の長寿命！ 純日本製の家庭用蓄電システムを新たにラインアップ エリーパワー社製「POWER iE Connect」の取り扱いを開始 | 株式会社エクソル アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T17:15+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "株式会社エクソル"
+  },
+  {
+   "id": "1d3415961daa5b7f",
+   "title": "22,000サイクル※1の長寿命！ 純日本製の家庭用蓄電システムを新たにラインアップ エリーパワー社製「POWER iE Connect」の取り扱いを開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kaE9PR3RJX2p3clNjRUxUcGpLcnhhY3hpWkdjSGNxTDRuT1JwdkFvemt6Zlg4RUVJQzRKbkdUOXYyUDljdjI5UFctT2VCZw?oc=5",
+   "source": "アットプレス",
+   "summary": "22,000サイクル※1の長寿命！ 純日本製の家庭用蓄電システムを新たにラインアップ エリーパワー社製「POWER iE Connect」の取り扱いを開始 アットプレス",
    "categories": [
     "storage"
    ],
