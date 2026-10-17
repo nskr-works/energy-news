@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:05+09:00",
+ "updated_at": "2026-10-17T13:59+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,77 @@
  ],
  "items": [
   {
+   "id": "a16b095d995650b9",
+   "title": "メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWTFzMmxQOUo0ZmwwM25tQ1RvVm1qOXNJZW1rOC1NT2NyVVZYOGloMEN6b0Q0N2RBZmlFUkN1dlJXMU1nWTRYWnJlVVB4dy1OcllSQnozZnFZZEpIQWVkNmRkUzVQR2F6NlBKNmNveWZMZw?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野 Excite エキサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:14+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "561084338abf8db8",
+   "title": "メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野（Daiichi-TV（静岡第一テレビ））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cnlXWGRmcUxWWGVaRUY5ZW5ja3lvdU9YYmgxbXZqUFB2UU5FYVVQb0FseE1qMFlHMFdqS1NDbmIwVmFITEdSNUhLRW02aW9fR3NlT09RcjhsenVBcGRNLWdOdlQ5VlJhTkJMOTFpWmNKSXRUTHBheFZUNXFBMXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野（Daiichi-TV（静岡第一テレビ）） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:13+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "67d9fe6be3ac7e66",
+   "title": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ib3RiRzdGbHZzRk5VWHhMMEZzcTFlUjlzdzg1bm5RSjZyZlAyLVBaUk15cThGT3ZJNFZ0bDlhSjZNZWZMdnRvN2pCZzlhMWdCZW5BTTFZOVExRnh0YmhQWGNLMTFCMzZBTTU3NTBOSXFTZw?oc=5",
+   "source": "Infoseek",
+   "summary": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T12:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d43d452f4aeefee3",
+   "title": "ソーラーメーターの世界市場（2026年～2032年）、市場規模（UV-Aソーラーメーター、UV-Bソーラーメーター、UV-Cソーラーメーター）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYTGJ1SUVKeHZpVjRqcmtKOFc5N3lpZlctYXN4bWptUDF4VUhNYVJYeWxsTmNXUVZRYk02M3M5SlNTT0RBNVROa09YN2VVR00?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラーメーターの世界市場（2026年～2032年）、市場規模（UV-Aソーラーメーター、UV-Bソーラーメーター、UV-Cソーラーメーター）・分析レポートを発表 | 株式会社マーケットリサーチセンター アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-17T11:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "610ee5fc9560801d",
+   "title": "【政策】経済産業省：系統用蓄電池の接続検討が2億1100万kWに拡大、市場収益の偏重是正と家庭用蓄電池・DR活用拡大を議論",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSzZYU0xRMXdDcDh2R1IyeG9seWJwVGFWbFp2Y0Z6WXJ0d2RSeHlHTjFudUxDYkFzZThMbnhBY3RBU1g0N3hpdFl5OFQtVDRpZ3ZkS1JYYnIzWWlPY3B6b2hDWVhieV91RGJXNVg2dzJXUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【政策】経済産業省：系統用蓄電池の接続検討が2億1100万kWに拡大、市場収益の偏重是正と家庭用蓄電池・DR活用拡大を議論 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T11:18+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "家庭用"
+  },
+  {
    "id": "27e908322ff4e457",
    "title": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeTNnU212YWVRZXl2M3dwVnlkS3MtMnNhWDVBRFVWNGRpdzN4M2ZzQTFmMXkwMUJ1UElQOFFsWld0NWdfOG92bzlFeFJ0TDMzdDdrcjRDV0FFNzkyUi1OLVFCSmRfYVJ6RFE?oc=5",
@@ -33,6 +104,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "eb93b61438f50cce",
+   "title": "【太陽光発電】グリーングロース：FIP太陽光由来の非FIT非化石証書を相対取引、需要家への直接販売も視野",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44eEx3VGpRMXgzYm5mU3RMeGR1dUtOcVZEZ01RQUUyYUFpNThPNmlhdkdTaFZYS1ZhM0Vxamt0WU50LUFaQW9jTzBMcEpVaFB2TTVVWVJKUHJXV1lqZzlteUhoRmNzZzJOQ19Pdk9YS3NqZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】グリーングロース：FIP太陽光由来の非FIT非化石証書を相対取引、需要家への直接販売も視野 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-17T07:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "2dada996a9b02526",
@@ -75,6 +160,20 @@
    "published": "2026-10-17T00:01+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "5c6f936ab29f6296",
+   "title": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株)",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jbWs4OVBMaUZpZmsxV0xBc2NnekVpaVQ2Q04yR1R1NnRNUU5fakZTczgtd0xpWE8yM1ByUGJpeHBIYXF5OVlveHZ4SXEzX3NsYXN4b3d2b0tYM3Rad1d3WWtmV0dwalNPMmdqTDR4YXhjdDNId3EyU2dUMA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T00:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "0b2e886c86d49216",
