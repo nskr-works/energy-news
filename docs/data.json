@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T16:58+09:00",
+ "updated_at": "2026-10-18T06:58+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,105 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d966399c9f5f3f00",
+   "title": "【クローズアップ】営農型太陽光発電の新規開設が伸び悩む 電力買い取り価格下落、普及へ企業は試行錯誤",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NzQ5NVMxUTVPS1NIcmd6RTdLQlJYZnplYmowWnVWanh6eHBmcmRJUWNCYkV5WUVqZFNHZ0wzamVxQkdnMWFtZFZQNnp4RVhvaEM5Ym1B?oc=5",
+   "source": "徳島新聞デジタル",
+   "summary": "【クローズアップ】営農型太陽光発電の新規開設が伸び悩む 電力買い取り価格下落、普及へ企業は試行錯誤 徳島新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-18T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "a7f3d71d0f481316",
+   "title": "福島・先達山のメガソーラー問題 アメリカの大学生が現状を取材 光害や景観は？ドキュメンタリー映画制作：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzRkEyUUU3VFhZV1RZSmgxS01jV1k3N0Vib3RmaTN4OFFIUHJLM0FkOEx5bkUxWWEwenJmS0dZazNiXzJleUxBRFpUM0IzQkpreTZWWlQ3X05tMzFfUkd3SFJiZ0RfZ0tiQ1RqY2RNMWVGRWI2U0s4bVZB?oc=5",
+   "source": "FTV 福島テレビ",
+   "summary": "福島・先達山のメガソーラー問題 アメリカの大学生が現状を取材 光害や景観は？ドキュメンタリー映画制作：ニュース FTV 福島テレビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-18T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "4b7e054c5eafb48c",
+   "title": "福島・先達山のメガソーラー問題 アメリカの大学生が現状を取材 光害や景観は？ドキュメンタリー映画制作",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGMnBJQ0hzUkFBcjZ2Qm9LRVpIOW15S0UxOHR0OVkxcVBfQmJsYVNNOFA3U3dZWmU2QV9lNHpTNlVBbzQ0LWprRHkzend0dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "福島・先達山のメガソーラー問題 アメリカの大学生が現状を取材 光害や景観は？ドキュメンタリー映画制作 FNNプライムオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-18T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "9dfbd2aaa6d8f17c",
+   "title": "サンヴィレッジ、京葉ガス初の系統用蓄電所を群馬県伊勢崎市で建設し運転開始",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JMm1qMDE0bi1XbVN4alRxR2RRdWpPTHZ3SFlQaXpsRTBJTnJaZlJLVW9HM3RVbHYyZGFMbXI4cDRpeFRHeWc?oc=5",
+   "source": "Dellows News",
+   "summary": "サンヴィレッジ、京葉ガス初の系統用蓄電所を群馬県伊勢崎市で建設し運転開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T04:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "843565d35ac03c93",
+   "title": "スリランカでは、太陽光発電の過剰発電により全国的な停電が発生した。",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR2xLQ3hZMEhFVDk1X3hHcVlmS1VuU3B3RkpDaHBfTkRiblIxSTgyRzZUMjd4VjNEQ0VRRmo5TWJTZ2pyUVBScVhPSE1sYVJwVDVkRThONk9xVkZzU19aeU1YbHpPZnkxWXhqS0VkMmJydndsSHhiU281c0p0dWRUb0tsdWFOZw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "スリランカでは、太陽光発電の過剰発電により全国的な停電が発生した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-17T22:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "f6bc26c72a350fd5",
+   "title": "【四国地方銀行グループ初】とくぎんトモニリンクアップ（徳島大正銀行）が系統用蓄電所のオーナーとして事業に参画、系統用蓄電所完成記念セレモニー開催",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4Z2dlYU1Obk1wcUhDaUpsTTlqRDc1dExtRHZvZG91eFZOci13MHVqQnNXeVZITWxmSk1qMS0ta0lIcHc5S3dtS0U3WVV3bnoxOHc?oc=5",
+   "source": "山陽新聞",
+   "summary": "【四国地方銀行グループ初】とくぎんトモニリンクアップ（徳島大正銀行）が系統用蓄電所のオーナーとして事業に参画、系統用蓄電所完成記念セレモニー開催 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T19:38+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "764601cf2affdeab",
+   "title": "系統用蓄電池はなぜ「需要家」にも「発電設備」にもなるのか――託送料金の二重構造を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15b3BHSnRVVW9VNnBELTFDbEpGR2FvRGlmT1ZtNENkSGZablN6NHhMc1VlZDVOLW85cFEwX1dvbzN2bjlnZGtwdjJGa3NMSUV5VHVnajdlRk5ucWM3cG9yZ0tQc1hJTFh1Tmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池はなぜ「需要家」にも「発電設備」にもなるのか――託送料金の二重構造を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-17T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
   {
    "id": "b6967233a1795c76",
    "title": "太陽光発電モジュール自動洗浄ロボットの世界市場（2026年～2032年）、市場規模（据え置き型、移動型）・分析レポートを発表",
@@ -233,6 +332,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "40f12111b8c88032",
+   "title": "決議70-NQ/TW：自立型屋上太陽光発電のプロセスを標準化する。",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREhJOHZja2s5WE5zSzFxWVhhWDdqM1Fwc2t6dUptekhHWWNVb3FtYlVnNGJZVXJYRmhqNl9BUkZydWJtdEhjSU90UlBEMFdKdFMyZDFzRi1nUmlFR2EwZmNyY05PR1R0d2ZBczUyWE1teDRYRi1OTlI4a0JHSENwN19WdFd0Tk9FdEdONHgxQTlLbkl5X0FsN09WV0tPTkttdDhwRQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "決議70-NQ/TW：自立型屋上太陽光発電のプロセスを標準化する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T20:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "4cd8e95f89e0fec3",
    "title": "GBP株式会社、JEMA「第75回 電機工業技術功績者表彰」において優良賞を受賞 ～太陽光発電所の銅線盗難・コスト高騰などの課題に対応する「幹線アルミ化ソリューション」の開発が評価～",
    "link": "https://prtimes.jp/main/html/rd/p/000000184.000110590.html",
@@ -260,6 +373,20 @@
    "published": "2026-10-16T20:09+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "5894983bb158b33c",
+   "title": "【激論】メガソーラー乱開発と再エネ賦課金の闇！役所が逃げる「言い訳」の正体を暴く【水ノ上なるあき×石本たかし 前編】",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBxdzJLaThoeVd5S3JWRkR1TGhITjZ0b3N4eWZuQTJ1MUFfSkdFVXJadDJNS0F4amRwWkJZ?oc=5",
+   "source": "Howl.link",
+   "summary": "【激論】メガソーラー乱開発と再エネ賦課金の闇！役所が逃げる「言い訳」の正体を暴く【水ノ上なるあき×石本たかし 前編】 Howl.link",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T20:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "83d168dbf7516ce7",
