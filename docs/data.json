@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T11:05+09:00",
+ "updated_at": "2026-10-18T13:59+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "864848743596e3d2",
+   "title": "太陽光発電モジュール用フレーム接着剤塗布機の世界市場（2026年～2032年）、市場規模（半自動、全自動）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wMU5GYmx4dE9HRkpqcUl1eWZJVTljZm5EVUxpU1NNa2xDOFBfazJfT2NvRzhoeldnZlFoNjBLcWZTT0ktaHZpVDFLUm9JQUE?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光発電モジュール用フレーム接着剤塗布機の世界市場（2026年～2032年）、市場規模（半自動、全自動）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-18T13:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "ad33becae3f80f51",
+   "title": "統合型太陽光・蓄電・充電ステーションの世界市場（2026年～2032年）、市場規模（大型、中小型）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX3o1SkUzTE96UmFCeDhaUXZhUkhxdjhFUE0zQTVrVm5JalFCN0puam1DTDUyU3djcm04b0c4VDhuZjA2cWJUZ0pMaGpsclU?oc=5",
+   "source": "アットプレス",
+   "summary": "統合型太陽光・蓄電・充電ステーションの世界市場（2026年～2032年）、市場規模（大型、中小型）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-18T12:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "67436c5f9daff3ff",
    "title": "ジャパンブランディング、系統用蓄電池の料金体系を解説するウェビナーを11月開催へ",
@@ -187,6 +219,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "447aff0f978227d0",
+   "title": "系統用蓄電池はなぜ「需要家」にも「発電設備」にもなるのか--託送料金の二重構造を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSUJSSFFubG9wM0QzME02VVBxenZHNzQwRENabHQyc3RDaVliUzFubF9XRFQtRTFKMWdpYnQ3Y2lxQmNRUUFBSy1wZVdNNGtoWEU4YTRueVdXUlV1aWtFaU5B?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池はなぜ「需要家」にも「発電設備」にもなるのか--託送料金の二重構造を読み解くウェビナーを開催 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "b6967233a1795c76",
@@ -1557,6 +1603,20 @@
    "published": "2026-10-15T20:09+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "ea45c56b7a1c5102",
+   "title": "リカレント・エナジー、スペインで200MWの太陽光発電プロジェクトを開始 執筆",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tczZ6TEgtZTE4VDNHQTlqazhOUm8wZG1JbVRaRURNZ2s2TFlfLUQwVTVfQzJEbTJzQlM0SVAyMXU4UnVIM0NUSDhCU2tPNGNndTZpb3k2Z0FlZW9NWjIxT0ZmUE1ZS3RpU1g3eHQxSmE?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "リカレント・エナジー、スペインで200MWの太陽光発電プロジェクトを開始 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T20:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "4e07161f249e7e52",
