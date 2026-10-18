@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T06:58+09:00",
+ "updated_at": "2026-10-18T11:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,62 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "67436c5f9daff3ff",
+   "title": "ジャパンブランディング、系統用蓄電池の料金体系を解説するウェビナーを11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SVjZaWEFTYzFaa1QyOXZSSTZwT2JSekR4WnRTS0ttOHNocEQwQU5jTmJMdy1WbkhwYVFjdU9PdzljcXEwb3doRHd0OWdEZktWRGZOVDRHdFpuM2dKbUo1bWtKLTA?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の料金体系を解説するウェビナーを11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T09:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6c95ba5c65cd94b5",
+   "title": "【蓄電関連】京葉ガス：群馬・伊勢崎で2MW・8MWhの系統用蓄電所を稼働、国内蓄電池事業に参入",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ybU1IRDdMUkV3czgwcDdWS1VnSHpqY2daRGdGeHZhS1dkWmpEMUJBb01OZXpaS2JFbF9PMkxscWtqMElQZjN0eVRnTWZEOXVKMTZ3WDV5X2VJUHZsZEs0NG5DallBNkVJMXNXVWFHWF8yZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】京葉ガス：群馬・伊勢崎で2MW・8MWhの系統用蓄電所を稼働、国内蓄電池事業に参入 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T07:35+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "9e3086a0813667f9",
+   "title": "【蓄電関連】Tensor Energy：ポートの高圧系統用蓄電所をAIで運用、約2MW・8MWhを2027年度上期に開始へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KQmNodGh6ampBdEc2NTlvTWFVcGpCOU9Ndm53bkFKMTdZVG9tWC1RQmVOdDZLYl94aWluSWtEdWI5SUtZYW5NbFBqX3RVOU9yQjhLR195VlFuRXBTUDBlTm5lVjJvMXJiTXdTX1dEVzlaUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】Tensor Energy：ポートの高圧系統用蓄電所をAIで運用、約2MW・8MWhを2027年度上期に開始へ みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T07:25+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "c6e7228ea2347fc6",
+   "title": "系統用蓄電池の契約や交渉を解説するセミナーが2026年11月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VbTJhOFNiWWFxdUN4bzQ4eXBLd2VaNHg4WjhuWDZyNGtvR2FsZXplbDQwMEZrajdLVkJfOFRZNmk3XzYxSHFlSHVhYTB6ZlVNSXZ1TjJUSDd0dFFyamtLNlpjS0Q5Tjhv?oc=5",
+   "source": "Dellows News",
+   "summary": "系統用蓄電池の契約や交渉を解説するセミナーが2026年11月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T06:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "d966399c9f5f3f00",
    "title": "【クローズアップ】営農型太陽光発電の新規開設が伸び悩む 電力買い取り価格下落、普及へ企業は試行錯誤",
@@ -74,6 +130,20 @@
    "published": "2026-10-18T04:10+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "17156be4ed455bb2",
+   "title": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験や出力測定サービスを提供",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QVXdkekNOcEdDZ1ViMFZsV0FlRDcxWmRRTUZjenYzOV82d19nWHZia3l1SnRUOENMODFmcjBHaWpVUWFIS3c?oc=5",
+   "source": "Dellows News",
+   "summary": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験や出力測定サービスを提供 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-18T04:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "843565d35ac03c93",
