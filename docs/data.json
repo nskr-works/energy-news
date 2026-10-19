@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T14:09+09:00",
+ "updated_at": "2026-10-19T16:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "14e07453138fe36a",
+   "title": "Jackeryと大阪府羽曳野市は、「災害時における物資等の供給協力に関する協定書」を締結しました",
+   "link": "https://prtimes.jp/main/html/rd/p/000000371.000039188.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Jackery Japan] ポータブル電源・ソーラーパネルの世界的リーディングカンパニーJackery （ジャクリ）の日本法人である株式会社Jackery Japan（東京都中央区）は、2026年10月19日（月）に羽曳野市（大阪府）と「災害時における物...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-19T16:00+09:00",
+   "company": "Jackery Japan",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "a29325e051f49a44",
    "title": "テュフズードとエスペック、蓄電池システムのNITE安全ガイドライン対応サービスを提供開始",
