@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T19:12+09:00",
+ "updated_at": "2026-10-20T07:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,149 @@
  ],
  "items": [
   {
+   "id": "45201f42130294df",
+   "title": "ヤマタネ 本牧埠頭営業所で太陽光発電サービス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRWkY5ZXVYZ1Y3RzRoM1F6QjZFOVZHamg4dExsNmNxdjZQYzJrdWl1SEotRHhlVHQwNERTRmdGbU1hRDFoWXBSOU9YSWhXTjBqckhkUUJVN0E1VUFzN05z?oc=5",
+   "source": "カーゴニュースオンライン",
+   "summary": "ヤマタネ 本牧埠頭営業所で太陽光発電サービス カーゴニュースオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "706f9da286251223",
+   "title": "蓄電池の発火､エスペックが試験･認証事業 安全指針対応",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZW10OXEwUzRLUWtGaHZhSG5aY2dFWVJvM2YzbURjQS1CVVducVlIdzEzTG1Mc3BRcFVYTWxWX04xeWU1dU94V0tyZzR3VlF6cEJyYUp6cUVnYXI1SHJBUGZ6cW9zSGNDek4zOXI3NE84SG5ETll3?oc=5",
+   "source": "日本経済新聞",
+   "summary": "蓄電池の発火､エスペックが試験･認証事業 安全指針対応 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "37fa249469ceacbf",
+   "title": "ペロブスカイト薄膜の独自材料、製造費1割減 中国新興",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZGx3VVNJbFR3c2E3SWpTSXcxN0lmbWw2RnVEeHNUUXJMMjg2Q29MTjdKdWhWWFFvOFV5VjFyVlhja0N6ZU1VRVVKQkI4RmEtdUpmeDlWUWhCODE5TTZlOGx6UG1zdS1BNGhNMUNVZzNJLW1xc21F?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペロブスカイト薄膜の独自材料、製造費1割減 中国新興 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b1cb66c893994d7d",
+   "title": "メガソーラーの建設 住民が反対署名提出 町長、議長に",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Qm90eEtzczlua3ZRSW9GamVVcDN0V2pTOHJ6dGE0TGJOMklRbm1XOHJxQWVNWTB0cFJwNGxYdkJydU1Bb21Db2g4U1hDeU52cThvclFwUDVXZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "メガソーラーの建設 住民が反対署名提出 町長、議長に 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T04:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "d0534e552fdcb6b7",
+   "title": "くらしナビ・環境：従来型太陽光発電 まだ伸びしろ クライメート・インテグレート代表 平田仁子さん",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xLWV5cDhSMDl4UWphWG1xSjlJVVU3VTFCMks3ZkV0UEFVVzJwRkdiM0tiTHd3VUdNZEF0V1BlcmlaaWotWF9pMmsyc015ZzNEM3hlYmo4OTFLQm5yQV8teFdlWjN5Q29C?oc=5",
+   "source": "毎日新聞",
+   "summary": "くらしナビ・環境：従来型太陽光発電 まだ伸びしろ クライメート・インテグレート代表 平田仁子さん 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T02:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d74a002602ea1529",
+   "title": "2.E.3 太陽光発電（Photovoltaics）（PFCs）",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tRU1RUnZ6RTVBalFybDBwVnNMeTJiUDV6WVVEdWNodzdMQ013UWdRX2ZVV29kQ2g4Z3RkdHFlMjVkOWo4LVZhbC1TZVgtSndOSFlpUHBn?oc=5",
+   "source": "環境省",
+   "summary": "2.E.3 太陽光発電（Photovoltaics）（PFCs） 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-19T23:27+09:00",
+   "via": "環境省",
+   "topic": "政策・制度",
+   "company": ""
+  },
+  {
+   "id": "3390d7d0c6303b94",
+   "title": "HEMSデータを用い、太陽光発電・蓄電システムを提案",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dGFhTmRzZHQzUXN0cVBuTmJ1X1JaaWRvMkNtSVlCckZYWDJqVWVSTUppcW9ORG1CZHRUVnotM0dwQXRkVFc3eVRKeXZ1dmF0MDJiaEhXY20?oc=5",
+   "source": "株式会社ＭＭ総研",
+   "summary": "HEMSデータを用い、太陽光発電・蓄電システムを提案 株式会社ＭＭ総研",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T21:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "0f54eab3dbf8e526",
+   "title": "メガソーラーから銅線約900万円分窃盗容疑 4人逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5LUI3ME8xQUp3eFpJTXJjTU93V3NwUVVXeWpxejlKSWJJd0VGMmVld0xodC1teXlQcGwwOElZMzZPZnNqdDRrRmMwMDRjUFdMbnJYejJTeDhndkdXMVRF?oc=5",
+   "source": "NHKニュース",
+   "summary": "メガソーラーから銅線約900万円分窃盗容疑 4人逮捕 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T20:34+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "a3cee560144ab16a",
+   "title": "沼津市の住宅街に「系統用蓄電所」整備計画 住民ら反発、ルール作り求める声も",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjemU4aWtud3RjOXFhZ3hPdUF3UU1ySUoyWkUwaUw3YldUZ3N6ZHlDMlFvMGRjWUhnN2N4RzVkZmdkUEd0NmpQN0s0UkxxZw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "沼津市の住宅街に「系統用蓄電所」整備計画 住民ら反発、ルール作り求める声も 静岡新聞DIGITAL",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:49+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "fe6153016083a4d0",
+   "title": "中電、津市内の農業用ため池2カ所に太陽光発電所 27年度に運転開始へ：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S2ZRby1LelkwWV9LR0s2UVF5cGV5cUVwVHN5QzR6LWkxMmdZc3ZJRzRvWUQxWnhPdDdLX0FEekpwWG5qaTh6d1JBSDdDcHRzdUpKQmRRNnkwMVdFVElV?oc=5",
+   "source": "中日BIZナビ",
+   "summary": "中電、津市内の農業用ため池2カ所に太陽光発電所 27年度に運転開始へ：ニュース 中日BIZナビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "c31fa5a1d4d49f2e",
    "title": "系統用蓄電池、日本と海外で何が違うのか――米国FERC命令と長時間貯蔵支援策を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000071.000181124.html",
@@ -32,8 +175,78 @@
    "published": "2026-10-19T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "dc2115e7f4bac8f2",
+   "title": "富士電機と日本気象協会、系統用蓄電池の運用最適化で連携",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OeDVKVDVuUWZRempucm5od1ViT3BGUEduRWZTLVpaaFdrWVNPcmRQOWktcURoS2xIOHpZUXFkcV9SZ1pEcVVnbmE0NFhBLUhKVGxld2xhNXdsVHlzOVR2NDhFdmxVWG5m?oc=5",
+   "source": "マイナビニュース",
+   "summary": "富士電機と日本気象協会、系統用蓄電池の運用最適化で連携 マイナビニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:02+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "856c9c2dd0a43cf1",
+   "title": "ジャパンブランディング、系統用蓄電池の手続きに関するウェビナーを10月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoRWlGX3hhOUI0TzZ1RDh2WXN4RTVrdTdPUUZISldOZlpyWUNCZUx1SmRlMVEzUk5fSGlWekQ2VVlEWEhJMEM0UTJLdWE4Nm1oWkJCVnFiYkJBaVpKMWc?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の手続きに関するウェビナーを10月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:02+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a27a7f31ca063df1",
+   "title": "富士電機と日本気象協会、系統用蓄電池の運用最適化で連携｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcC02dXBjT0NpNmM4RENmV0V3YXZHNW9GOVZJM0hRZTlSdTk2TENhQzkzdEstU0dSbVBmWEV6NlMyVXlWcWNEMVJuaUtSX3lVM3ZHRGpiNnBEMVlHVWpNZA?oc=5",
+   "source": "Infoseek",
+   "summary": "富士電機と日本気象協会、系統用蓄電池の運用最適化で連携｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:02+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b74027610e82ed25",
+   "title": "ジャパンブランディング、系統用蓄電池の制度設計を学ぶウェビナーを11月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvREZmOTRjbU9VNjdScGVSZlRGSFJrLUs3MG1RNXAxdm1lUUlqcEhtX2tLcUt4OVJsTjVPUzY5eDliV2I2dGZmTU9QVjl4enFCY2JEbjR3cE94V2ZIVVh2N1FJUVI?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の制度設計を学ぶウェビナーを11月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3abae09a677d69cc",
+   "title": "家庭用太陽光発電バッテリーの供給市場規模レポート2026：2337.72百万米ドル到達予測、年平均成長率17.86%で拡大",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsV2Rvdm1YMldxREZScXJrcE9mRmpJUVJmc1QyWkRKREZGTHk1Q24zeHhMRUhJQXRtQ3lJX2phRGRINXE5TnFxU2hnc3NTSTg?oc=5",
+   "source": "アットプレス",
+   "summary": "家庭用太陽光発電バッテリーの供給市場規模レポート2026：2337.72百万米ドル到達予測、年平均成長率17.86%で拡大 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-19T17:23+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "住宅・自家消費",
+   "company": "QY Research株式会社"
   },
   {
    "id": "3c39c69f0c0b1e42",
@@ -63,6 +276,34 @@
    "via": "PR TIMES（太陽光）",
    "company": "株式会社グリーンエナジー&カンパニー",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "f21a7bdfda4d0a40",
+   "title": "パナソニックHD、ペロブスカイト太陽電池から資源回収 量産に備え",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3RVFCSUppUGFGdzBfM3lEOTBXbGhPSmZSVUVPN0ZMVWNJbDNMdXk2RTVsMjNyeFFDeldOaU1sMXNjZWFwSnE4aTlNTnp6NFBSSkNMU1dfMktzR0xnRDNibFBaMzMzd200c0dDMw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "パナソニックHD、ペロブスカイト太陽電池から資源回収 量産に備え 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "c227209d1bd43465",
+   "title": "【ペロブスカイト太陽電池】サカタインクスとSofab社、インクジェット用ETLインキを共同開発",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSWJUTHE1NHRfZUdMLV9qX3Q4X2JxTnpOcGdudjRPcjhEYWM0M19EeUV0cGdJMFRmQzVHWElmQXVaOEJ2RGR1bHNyWDU5T09HWFRWOGNFX25BTjFIbXBObGRYQjZncHprZFhERWVRbzdoZ0FTbWZSQU56SUVmOXhhUHAyN1lYTFJ6R1BtNmgtM2x4Z0xxdGRpR1VlN2FaUEU0SkFqZE1GeUdVd2FrN0F2U0s4MU9HZC1VTWpYMFpvSHcyNFRHVWhFRVQzWjl3X3VRNm1MQThWTTNDUi0yV2pKTks4cVN2ai1zbkdOTHNveWJCc21fQlUxcjYwc05GUVNOUkgtLTkwQzE4VXlQLTZhajA0MHlSMm5sSUlRMGdSaVYtTUJ1ekdUUExyRzMyZjgyd1NwVEV6dWhJMk1rWUdFakZsTFRJelV2VXh5Z0czRFc?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【ペロブスカイト太陽電池】サカタインクスとSofab社、インクジェット用ETLインキを共同開発 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T16:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "14e07453138fe36a",
@@ -235,6 +476,20 @@
    "published": "2026-10-19T13:41+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "9d0189794952efc5",
+   "title": "「次世代地熱」の商用化に向け実証、三井不など3社",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5dWtDY3Ftd05mb3piTVZZMXN6MV92RlVqYWNrbldQZ0gzUjEtVmtidmc5UHczRktmemQxZE1wOGxJWGREdktjWEtZNkJycFFqS0FfWkxONXFoTU1md0U3VzJOQ01IeU1KUHljbEEzOHRDeGJx?oc=5",
+   "source": "日経BP",
+   "summary": "「次世代地熱」の商用化に向け実証、三井不など3社 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:25+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "次世代技術"
   },
   {
    "id": "aa9b2c0dda296df6",
@@ -484,6 +739,20 @@
    "company": "RSアセットアドバイザーズ株式会社"
   },
   {
+   "id": "4f470692e8bcc99d",
+   "title": "RSアセットアドバイザーズ、系統用蓄電池事業ファンドのアセットマネジメント開始",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IYW9POUlGR0JtSjkxb3RoZGlTRzFWNzBNQWpQa05Tdm5rVVJEVC1JWmI5YlVxdzFFODlFQ0NhbFFFV1N5ZEE?oc=5",
+   "source": "Dellows News",
+   "summary": "RSアセットアドバイザーズ、系統用蓄電池事業ファンドのアセットマネジメント開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "a0ea2a624ab7fb7e",
    "title": "CAMELが栃木那須の系統用蓄電池を活用した投資ファンド概要を発表",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NlB3V05yN2xXQ3lKU0xtUGFnNFpKaW1mejBkZXJvMkowOXdYMHZ2dDFfNkxRZlRNX2psQ21rU3dzWldyeWNjMUZnVW1jM2laZWdhSl9pMmxibjJQUWh4QnoyLVk?oc=5",
@@ -510,6 +779,20 @@
    "published": "2026-10-19T09:48+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "46eb7cb83910b4aa",
+   "title": "太陽光発電の災害復旧サービス、現場確認・各種工事・運転再開手続きまで提供",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WRjhTMHViY09XS2xFUW1tTk1Zc0dkNFVvOV9IRDVWMGd6N2dmUEt6VVVzZmo4Q3dRdTZlZ19WOXEzSzZqWm9nMUhYb2laNmZsWXJDS3JEMUF3RVFucjZIeTZuQkt3ZFRUNGp0NmVkTEdOZnVIXzJuVGZJcGQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電の災害復旧サービス、現場確認・各種工事・運転再開手続きまで提供 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "d115a3338207e4c0",
@@ -3635,6 +3918,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "df7545092cce6b9b",
+   "title": "コメと電気を同時に予測! ――GXを支えるソーラーシェアリングの設計ツールを整備――",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSkVEZTZkRGJueC04VFVGQWxSRmxjbnk2d0xHd3RGejdONUc1RWdGUVdjakpQVXk4U1VfR3NJU2loRjMwM0RpMURPWnQ3di1XbTRmT1dOTTJZTmZ0cC01Z0x0NWtZUk43?oc=5",
+   "source": "東京大学",
+   "summary": "コメと電気を同時に予測! ――GXを支えるソーラーシェアリングの設計ツールを整備―― 東京大学",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T19:37+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "51a82cce717910c1",
