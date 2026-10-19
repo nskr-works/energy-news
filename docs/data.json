@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T06:58+09:00",
+ "updated_at": "2026-10-19T10:14+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "54cf75e75a4216c2",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL90号 栃木那須系統連携蓄電池シリーズ 74号ReFund 完売』",
+   "link": "https://prtimes.jp/main/html/rd/p/000000166.000136212.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社グローバルクラウドエステート] [画像1: https://prcdn.freetls.fastly.net/release_image/136212/166/136212-166-9329271f40f6a0a2889a2977f83df504-800x570.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T09:40+09:00",
+   "company": "株式会社グローバルクラウドエステート",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d5e8f993727ff1e8",
+   "title": "GCL製ペロブスカイト太陽電池モジュールの量産出荷を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000006.000186354.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社コシダテック] 株式会社コシダテック（本社：東京都港区、代表取締役：越田亮三、以下「コシダテック」）は、中国のGCLグループのKunshan GCL Optoelectronic Materials Co., Ltd.（本社：中国江蘇省昆山市、Chairman：Fan Bin...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-19T09:40+09:00",
+   "company": "株式会社コシダテック",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "次世代技術"
+  },
   {
    "id": "7bf9e02555ddd41a",
    "title": "台湾国際エネ展示会、“サステナブルな島”目指し／蓄電など日本展開も",
