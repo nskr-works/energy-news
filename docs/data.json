@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T11:08+09:00",
+ "updated_at": "2026-10-19T14:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,123 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "a29325e051f49a44",
+   "title": "テュフズードとエスペック、蓄電池システムのNITE安全ガイドライン対応サービスを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wcW0zYWwxTHBpVWc5alNmWktyQ0N1dHZEN1ZBNHJfMUZWMUlfVmg0QnpWN2VLOFk5ajlOWVAteGsxbXRnRnVmSlVkdjZ1SGJFUW9rVUxvZHRaRFh5VmlkeUJ2d196U2hXYkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "テュフズードとエスペック、蓄電池システムのNITE安全ガイドライン対応サービスを提供開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "テュフズードジャパン株式会社",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ee7d6543cefccb28",
+   "title": "【受託試験事業 新サービスを開始】NITE「公共調達・重要インフラ向け蓄電池システムの安全ガイドライン」テュフズードジャパンと協業し、試験実施から認証までのワンストップサービスを提供",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFSFktbUVqWURuUFV4WWQ3MHQxQnVfU090TmhuUmU1TW1xRHFSYlo1dW52Z3pnSnhPMTNVbEE3cVhlYUFnWkFxa05zX1ZlZHFxaE9rWmtHWWUtbklBTXpkd1pVamJNMmpUTUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【受託試験事業 新サービスを開始】NITE「公共調達・重要インフラ向け蓄電池システムの安全ガイドライン」テュフズードジャパンと協業し、試験実施から認証までのワンストップサービスを提供 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "エスペック株式会社",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "613dd4a40311c5c1",
+   "title": "富士電機－底堅い 日本気象協会と系統用蓄電池の運用領域で事業連携(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk9PTHZkSVFMYU9aS1lGSFptVkR2ZnExWDFWV0U1MU4tYTZIbkd1Y1hOaks2bEgwNEQ3d0pzNk9Mb05FdVRLVTJCYU5sX21MZDRORnNkMU1ROXh2SnpPQXphQmhpNDktMWdhcDBWMGV0QVNRYXBjRUo4VXFTbk1YRElmNGwxUlk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "富士電機－底堅い 日本気象協会と系統用蓄電池の運用領域で事業連携(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:42+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e3a21ae778ca3210",
+   "title": "家族ごとの暮らしに適した太陽光発電・蓄電システムを提案新サービス『スマートコンサルティング』を新築戸建で提供開始",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UFRtdU9PSms0SVB2V2lyZ0IxQUtmYTQ5eHRmOUV1YXZaOUJPN3lKMTdTV3ZpLU9ES2l0LU1fOUh3S3BYckZqZDU3ZkE5Q0FfMkQyRE5BbWxpVm9oaFF1ZmpCVENVTjUwUElR?oc=5",
+   "source": "時事ドットコム",
+   "summary": "家族ごとの暮らしに適した太陽光発電・蓄電システムを提案新サービス『スマートコンサルティング』を新築戸建で提供開始 時事ドットコム",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T12:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "61efc9cdc7bcbf00",
+   "title": "リミックスポイント、自社保有蓄電所25か所計画の進捗率48%に到達",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EXzhMVzlOeTltN0pLandBdC1vQ1p2QlhmY3dWYmFfVmtaV045Z2FRQ2RsRmYwa05QbjhGak9fQWkwQllTdTU0akNnRnZ2eFRQcGhv?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "リミックスポイント、自社保有蓄電所25か所計画の進捗率48%に到達 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:02+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "75e5f665f8e9dc7b",
+   "title": "【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYTl6dTVUNS1hSDlMR2paVWJsRFhVTlY5UFp6YnY3MF9uRi1WR1p3WkxzX1prbjRycWIwcl94Rk1XVzB0dkx3WlV4anRjVXNuTkhLZkc1MzRRMlZ0SW9ybUxCaU9abTRJU2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "株式会社リミックスポイント"
+  },
+  {
+   "id": "b6ea09dbb9d619f0",
+   "title": "ミツウロコグリーンエネルギー、北海道北広島市の蓄電所で需給調整市場に参入",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQ0QzLV9SOUlwU2pQUHIxOE9SWjgwUFp1R3lxelFTSU11RXlWb3hhLXRyd2ZzTjlDNzk1X0FodERsRzZlN3Fma2lqZFZwM2JQeVFzVmpzdGNMNFpFc0Q5Y2wxU0o?oc=5",
+   "source": "Dellows News",
+   "summary": "ミツウロコグリーンエネルギー、北海道北広島市の蓄電所で需給調整市場に参入 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:41+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "bf68c747960d5e87",
+   "title": "【フィリピン】北欧２カ国の政府ファンド、比太陽光発電に出資（NNA）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZXpEWTZ4Xy1ldjBfQmsxZVpRc09VUHJZRVpGa0VMZ0xEVkJ6N0stS3V6TWVpaWhQQWF2STAweEVTdnNtTU1QbkdEVk5aNjFTdnF5WVF3UWNQQVJVMkthTkpjYU56NEdBNV9WWUtua1hMaE1ZOFUxeWtzU1JKVG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【フィリピン】北欧２カ国の政府ファンド、比太陽光発電に出資（NNA） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
   {
    "id": "a9c14262a614403e",
    "title": "東海理化の本社工場向けに蓄電システムを受注",
@@ -208,6 +325,34 @@
    "topic": "その他"
   },
   {
+   "id": "e323165ff433c60d",
+   "title": "【ペロブスカイト太陽電池】コシダテック、GCL製リジット型モジュールの量産出荷開始。日本市場へ本格展開",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQeEpMb0kyVWR5WWRfdkhxOENoSmtRaDVrb1NnY3phNlA2Y3VFZjU4Z3ZpTVVnaFhhZ2pueld5dU5SdXZWVWFudHdFU3VsUG9iVDJrbFlHa0FsX0ZiVWxPYm9uR29wSDhxbkE5TzNwS3VVM3oydDNSamxrbXhZVmY0LUdjT2pJR1hET1FTSVNzZUlBcGg3aXppYnA2SEFuOVMtS3IwUFlKVjlNa0V4YkIxT256QjNORlR4ck5tSG9ReEZlWnFDektWQXRxbVhSWVZIS0xLQ3l0THZwaVJydTlJdEk2RktSVC1OMGtMNlFtN3R0MFdmV19NN2FTbmtpQVhUTGFQZEhRaFZIMUJiOW9QRnl3c29Ea2RxeDY2T1F2Wi1JcFU4RW9kaVlDODc5SkdSdWdFclNhSkRrWXlJR2g4Q1BkSmE4Z2hnSHNLR1dn?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【ペロブスカイト太陽電池】コシダテック、GCL製リジット型モジュールの量産出荷開始。日本市場へ本格展開 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "11ec9780fd225cef",
+   "title": "ウエストホールディングス(1407)の今後|蓄電所の成長と再エネ事業の減益による株価への影響を検証",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHVXbDZVQ0NVaXFQRmNkZVdqekJtdjdpRkdQbmpVczRiR3luNjhhdUU2UzR4NGtEN2lLRzVQbnNxa1N5dlJGRGVrcWVBei1zcUs3NWVLU2pCUQ?oc=5",
+   "source": "日本投資機構株式会社",
+   "summary": "ウエストホールディングス(1407)の今後|蓄電所の成長と再エネ事業の減益による株価への影響を検証 日本投資機構株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:23+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "a2f147f6222825d3",
    "title": "【蓄電関連】パワーエックス：八戸の系統蓄電所向け7.52MWh受注、港湾事業者の参入をグループ支援",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZWlQMUtQbFZtVlB0aEE3RmtNVU12V25BTnRlS1A4TUlXc0ZQdXI1Vkp2Rm81eEhuVXh1VFpVYkF3UlRNWXhhSVlEWmJsQzRLekJEZ2laaEpFMC1UWkRaOXg4SFM3MVVKeWY5Mkp3YVlmdw?oc=5",
@@ -320,6 +465,20 @@
    "published": "2026-10-19T03:15+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "eb45f0adc78f9939",
+   "title": "グッドフェローズとロケットモバイルが業務提携 太陽光発電の遠隔監視で提案力強化へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yZTQzanh5b1p5LTJUOV9VY20yaE1sMUJkNzEtR1lncXZPUGxqN0hZWjJnQ1Nac3hzSEh4NXBvc213QjVkVlctTE8yNWhYTHJ2VTRRU1YxUGVIWHIzNFJNWHgzMV82T3NP?oc=5",
+   "source": "Dellows News",
+   "summary": "グッドフェローズとロケットモバイルが業務提携 太陽光発電の遠隔監視で提案力強化へ Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T02:28+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "O&M・保守"
   },
   {
    "id": "54f57d02ca72165f",
@@ -704,6 +863,20 @@
    "published": "2026-10-17T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "390e1c509a53be65",
+   "title": "【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UkFRemJLNDN1bUNHYnpxN2cxTVNlY25Od3ZCbTdNc1F5MDVMaXE4NjZVOHNMOGRfWkJ6akxxcXkydmNaYUxPbEgwY0JnRFBWblE?oc=5",
+   "source": "山陽新聞",
+   "summary": "【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
   },
   {
    "id": "b6967233a1795c76",
