@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T16:26+09:00",
+ "updated_at": "2026-10-19T17:15+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,35 @@
  ],
  "items": [
   {
+   "id": "3c39c69f0c0b1e42",
+   "title": "パナソニックHD、｢ペロブスカイト｣から資源回収 普及へ仕組み確立",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3RVFCSUppUGFGdzBfM3lEOTBXbGhPSmZSVUVPN0ZMVWNJbDNMdXk2RTVsMjNyeFFDeldOaU1sMXNjZWFwSnE4aTlNTnp6NFBSSkNMU1dfMktzR0xnRDNibFBaMzMzd200c0dDMw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "パナソニックHD、｢ペロブスカイト｣から資源回収 普及へ仕組み確立 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f7870c005089d70b",
+   "title": "相続・資産承継を見据えた“分けやすい資産”という選択肢。ZEH仕様・太陽光発電 を標準とした戸建賃貸住宅「GREEN BOND」発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WbmpyMzVGRUlDeXQzemp4c0Q0WEJFWEtRM3BBbjNreUlZc0t5dFlONmFFcFhSVndMODFUV0lvY2lJUFBKV2RQVGNzOHhyUWl0WmlRWGhMbWdpa1IxZzJ4SEhQbzhaZERDOXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "相続・資産承継を見据えた“分けやすい資産”という選択肢。ZEH仕様・太陽光発電 を標準とした戸建賃貸住宅「GREEN BOND」発売 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-19T17:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "株式会社グリーンエナジー&カンパニー",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "14e07453138fe36a",
    "title": "Jackeryと大阪府羽曳野市は、「災害時における物資等の供給協力に関する協定書」を締結しました",
    "link": "https://prtimes.jp/main/html/rd/p/000000371.000039188.html",
@@ -32,8 +61,177 @@
    "published": "2026-10-19T16:00+09:00",
    "company": "Jackery Japan",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "9c3754048240e95e",
+   "title": "川崎市の学校内で太陽光発電、余剰分を外部に供給",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RdlhmTDhTbkh3VGQ3d0NWY3hUU0ctSTU0NlZCal9pbC1MZnJqT05UQnpHVWRKdGtvbS00akRxMEVGc1lkT2hKS1ZoMjJfdXRDV3kw?oc=5",
+   "source": "日本教育新聞電子版 NIKKYOWEB",
+   "summary": "川崎市の学校内で太陽光発電、余剰分を外部に供給 日本教育新聞電子版 NIKKYOWEB",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "4970fb14647bef7b",
+   "title": "太陽光発電がついに全世界の発電量で原子力発電を上回る",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UZWhYbTJsb3k3STh0Zk95bC05a2pWUFJPLVpQWVA2dTh6UC1KajhwbEV1VU5vYXc0U2tFcEpReVZjQm91b2FRTVI0UGxjVEJVZVJKUnpSak1feDZYM00zazRNTWpBOTYxT3pjOWV4QThUNTNLUkVJUGphMmpxdTg?oc=5",
+   "source": "GIGAZINE",
+   "summary": "太陽光発電がついに全世界の発電量で原子力発電を上回る GIGAZINE",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "6a10b8e041f22af4",
+   "title": "サカタインクス、米Sofab社とペロブスカイト太陽電池向けインキを共同開発",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81WlRyNW02VC1ORnB4eW5iVE5ZMHlJYjlFcHVaNVItZUFiU05oTVE3MUtaUFVDMzhxc2pGZFZURVNncHlURU5ZZWwxcXE4U1kwTDVj?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "サカタインクス、米Sofab社とペロブスカイト太陽電池向けインキを共同開発 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f9981c9c217979cd",
+   "title": "Sofab社(アメリカ)と、ペロブスカイト太陽電池向けインクジェット用ETLインキを共同開発",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80a18yMm9BcFk3cFJ6QjhHYTRNMlBKS0tTMFJCYlNGNkJuYUxVeERBUTJLSEpFTy1qMGh2aS01bHFFSE9OajFFTGFMSzcwbU0tbVExZTV6R1NVeWpHNkI2VUlxeEwyVlZDejhuRE9jWDRLVV9MaHk3WHlVZw?oc=5",
+   "source": "産経ニュース",
+   "summary": "Sofab社(アメリカ)と、ペロブスカイト太陽電池向けインクジェット用ETLインキを共同開発 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "aad1c37f30a62ea1",
+   "title": "太陽光発電のサンワシステム、初の系統用蓄電池稼働 2027年30MW目標",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kTWg1eFhWTlJ5LWFSWFhjbE96ZHlTRnEwMXEzVmhYNDBkbHVXcFpoQW90UmhtX3hBT1JjV3dVeGI1bUhyVXM1QWFCTVB6eGk2NlFXajJ3S2xFRGhKT3VFcUFzYVpRcUFXOHNjZWFlbDR0Mk1uT09uVGl3cnU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電のサンワシステム、初の系統用蓄電池稼働 2027年30MW目標 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T14:47+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "b9da1f1c609dc38a",
+   "title": "ヤマタネ、本牧埠頭営業所に582kW太陽光 オンサイトPPA・FIP併用",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdC1EdzF2OUFyVnlWZVhqWWVTSUNiWElPNlNXSXNnOGVnU1IyT3NoSGpfMTVhTHVDV2h2ZWs2emQ2ZlN3NktKQlp5QWVPb0NxNGVGMFdvQTZ4Qm5aS0kzSXVMX0Z1ZkxHSEVidllPX0czNjRGRml1bXU2U3E?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ヤマタネ、本牧埠頭営業所に582kW太陽光 オンサイトPPA・FIP併用 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T14:47+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "91745588085342ae",
+   "title": "容量10.7kWhの新型家庭向け蓄電池、エリーパワーがラインアップを拡張",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/19/news088.html",
+   "source": "スマートジャパン",
+   "summary": "エリーパワーが家庭用蓄電システム「POWER iE Connect（パワーイエ・コネクト）」のラインアップに、容量10.7kWhの蓄電池ユニットを追加。既存の6.4kWhのモデルとの組み合わせも可能で、幅広いニーズに対応する。",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T14:30+09:00",
+   "via": "スマートジャパン",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "d5d9ac586eb406e4",
+   "title": "神奈川県川崎市、市立学校の太陽光発電余剰電力を市内へ供給開始 3校・年間約60MWhから再エネ地産地消を推進",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTlBjX0l1Zmk5LVdWUlhMMHd4THdKOE50aVcycHRXZTdRNHRiNjMxSDJGRk9OejNYVG05N0wwMnIyVmREUEFWdG9TblNVQnFnQnlFS2I3VEQ0THdOZmd1TXVRMG5wTzVkaDg4Qg?oc=5",
+   "source": "AMP[アンプ]",
+   "summary": "神奈川県川崎市、市立学校の太陽光発電余剰電力を市内へ供給開始 3校・年間約60MWhから再エネ地産地消を推進 AMP[アンプ]",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T14:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "c3e1b3107f10f0d0",
+   "title": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xVTVJNXBOMmx1SmVxQVA5VU5pR2hTWkxDaHR5Rm9xOUhCX0NSaTV0OEliMlVxVUlsUks4Ml9DWXg0TGp2VFpaMDk5TDVlMl9NRjVxZGljU3o4WnI4VEdnNTRKZHU3cXZ5?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:51+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "99a63a9ff8e39e40",
+   "title": "〔Market Flash〕ペロブスカイト太陽電池は量産化へ～東海東京 | 個別記事 | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tVzB2MGY4Z2EtZmh0LXkxaFhtd0FjRTZjVm56OWJQd2h0akhmSzJTZGVTN1E0LVdtNFctZkJWSGg5b2xvTEJPSmdPLWpQYXdMRGZNem5waWdyRF9T?oc=5",
+   "source": "トレーダーズ・ウェブ",
+   "summary": "〔Market Flash〕ペロブスカイト太陽電池は量産化へ～東海東京 | 個別記事 | ニュース トレーダーズ・ウェブ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:45+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "71bacc73d558957d",
+   "title": "リミックスポイント、岐阜で蓄電所12か所目取得、2029年3月期に自社保有25か所計画 | マーケット速報 | 企業情報FISCO",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SZGJXMTl4NlZZMWJOZk43d2hRbi11YWc5MWREVUVndnk2RE1tRmlWb1NrOGYyXzEzY1pMaXJMMm5lVlhnNklnMmg1TU1TQUJqV0ZyY2RnckhKRlBTTmZ1UGwwNGlRUF9HUmw5T0lWQVNUYkY5eWU1VFVQOA?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "リミックスポイント、岐阜で蓄電所12か所目取得、2029年3月期に自社保有25か所計画 | マーケット速報 | 企業情報FISCO 投資情報のフィスコ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:41+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "aa9b2c0dda296df6",
+   "title": "エンバイオが大幅続伸､太陽光発電事業の譲受を材料視",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ydzd5blRlUlVBektHZVVqTFhqZWowTkZiTUxGeElnTm1KVjJPTVEwbk96OFNHQ2hMa2xWRkRyNkNpT1FWc3FlQ3JIcDhRQnE0RzVxTy02dw?oc=5",
+   "source": "四季報オンライン",
+   "summary": "エンバイオが大幅続伸､太陽光発電事業の譲受を材料視 四季報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "a29325e051f49a44",
@@ -125,6 +323,20 @@
    "company": "株式会社リミックスポイント"
   },
   {
+   "id": "ebadaec5e8105d11",
+   "title": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を推進｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZQVlESm1fMjd5dVRNVkk2LVg2emNWQmZTOFExNVFxTWl0Qnl4Sjd0WmN5eHdadFdiTHZ1UFI1dzNHNEEwMThmcFNzUUhjT2x2YmU5b0UyTjZ2ZkJPNmpDREdSeXNYcWplN21fODhkbk14UQ?oc=5",
+   "source": "Infoseek",
+   "summary": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を推進｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T11:45+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "b6ea09dbb9d619f0",
    "title": "ミツウロコグリーンエネルギー、北海道北広島市の蓄電所で需給調整市場に参入",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQ0QzLV9SOUlwU2pQUHIxOE9SWjgwUFp1R3lxelFTSU11RXlWb3hhLXRyd2ZzTjlDNzk1X0FodERsRzZlN3Fma2lqZFZwM2JQeVFzVmpzdGNMNFpFc0Q5Y2wxU0o?oc=5",
@@ -195,6 +407,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社ミツウロコグループホールディングス"
+  },
+  {
+   "id": "2d71b88c01685d37",
+   "title": "エンバイオＨが続伸、太陽光発電関連事業譲り受けを好感(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1ROY3FlckdUMWRlbWNIS1RxcENsTG9LQzNHcW5iZV90WmZEdzZsNXBGWWJodHJDUm1YdWdzS1hPRGZwX0pOekd6OHY5QlRWSGcxeVp1T2hQOU1HNnVfRFRVZk5Xb2Q2VF9GdDdhUHA1dURDaDNpOU9kYmJELW5lRDFLMS1jWGs?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "エンバイオＨが続伸、太陽光発電関連事業譲り受けを好感(ウエルスアドバイザー) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "ccc917e93e90ce75",
@@ -467,6 +693,22 @@
    "published": "2026-10-19T05:00+09:00",
    "via": "日経クロステック",
    "storage_topic": "その他"
+  },
+  {
+   "id": "273def531ebada15",
+   "title": "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42MmlwdFdITlM3X1QzMjBpdGdBMHNSZTdjYUFiS0hnYTZCT21KZEUzZjRvT2pRa09pTjdQeG1PU1NHc0ItQzdGRmVFTVVISk9PQkdLaE1yRTVLNGtwdDR0TDR2ZDJoeWNWWkxXZUkyRVpPV1dwcThoTw?oc=5",
+   "source": "日経BP",
+   "summary": "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "8d29ba1e5f56e9ef",
@@ -943,6 +1185,20 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUQ5eXpSU3lIcHg2MGxsRWExNjQ0RkJubC1ITlZBMFpGRDNmTlNTSXVybTRfeGNzSjBoVk03c2JvcUo2RzFmNHR4TjNOcHE0d0o5OVRhZ3NreG1PaDJUeG5oZkc5d1luLXJOQUtMRDBqajBuQkhaTDVLMjR1Y2pPVDIxNlFKV00?oc=5",
    "source": "日テレNEWS NNN",
    "summary": "メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野（2026年10月16日掲載）｜Daiichi-TV NEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-17T13:13+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c1209d063e04b9fa",
+   "title": "【画像】メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6ZVFhZGVBY0FoUWs4dmtfSjhlZ3hOUlRKMjRGd1VBSVRYZG5fbkJWd3c1M1Q5MG5icjQ5Umo1T3hhSlJoWWxuQXdnaUIxRHhIQkE5bTFGb1hTQ3JXemZ5eW9UTmNGTUZiNFYySmFfSlZlcUx5eF9lYXlFMWI?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】メガソーラー訴訟で住民勝訴 県に工事許可取り消す判決 伊東市八幡野 ライブドアニュース",
    "categories": [
     "solar"
    ],
@@ -4246,6 +4502,20 @@
    "published": "2026-10-13T22:17+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "671b3a60ca2991b1",
+   "title": "系統用蓄電池4案件の需給調整市場への参入完了について｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qM2NCbmtHYndtYzBrRXlic3QxN1lRREtWOVd3SHBzSWRXOC1lT1pLaDRUTkZDUjlrU0Y3RlEtTGtiZTFhd0JabzMwaEtaUDZySnF6NjNQUGF1Q1FMbXZjM2NSQV8xQ2FWd3hReHR6ZU4tQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "系統用蓄電池4案件の需給調整市場への参入完了について｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-13T22:10+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
   },
   {
    "id": "2cc8d1adb3a60e88",
@@ -14741,6 +15011,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "07de5180608772da",
+   "title": "損保ジャパン、ペロブスカイトのメーカー対象に保険／導入リスク抑制",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PVF9jNEUtUzNXUzZhOEpGdzlzTFZnTG96MndxaEZUbE9ZY2wyYzhQcVhZQldpaE93TUk2dU1DTko4MXFpdFhsdnB5aG1QRmxQMWs2enlNWQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "損保ジャパン、ペロブスカイトのメーカー対象に保険／導入リスク抑制 – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-03T06:02+09:00",
+   "via": "電気新聞",
+   "topic": "次世代技術"
+  },
+  {
    "id": "068a8102a9135a0e",
    "title": "卒ＦＩＴ太陽光発電所対象、運用代行サービス開始／関電",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0teTlRUmpLVG9ZQ21mSFFWN0lZeVgxaXBPMnhkaVA3cDd1T1MzU0htU2lBeU1WWTY0Z25Ocm5felpHZy1Db0lVLU5UNUJOQ2hyU1o4eU1OOA?oc=5",
@@ -14752,6 +15036,34 @@
    "type": "news",
    "published": "2026-08-28T06:03+09:00",
    "topic": "政策・制度"
+  },
+  {
+   "id": "f040519be43adf2f",
+   "title": "西部ガス系・北九州市、次世代太陽光でＰＰＡ／公共施設へ導入促進",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12M2lWcWtnVWNTMjNkd0JBaEFSTU9zaEF1SXV6UVg2cUx2eF9qU21ZYVJGbWRrOVRrcFRHd3RTYU9yNWw5ODV0NkgyejVadFdSSE85UTBlUQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "西部ガス系・北九州市、次世代太陽光でＰＰＡ／公共施設へ導入促進 – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-08-25T06:05+09:00",
+   "via": "電気新聞",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a5aa03d16c6f4a5f",
+   "title": "小売各社、蓄電池でＤＲ／東電ＥＰが対応機器１万台へ、新電力は無償配布",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CeE9GQUFiSkJ1eWNHT2M3dkQ4VXdxbkhoNEhtbHJCdDRXU2tpU0g3dFdFaGtGdU91d1RIZHprQm9MdlJJcl9DMVY1Vmo0R1JLRm5HQUhzdw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "小売各社、蓄電池でＤＲ／東電ＥＰが対応機器１万台へ、新電力は無償配布 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-08-05T06:02+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
   }
  ]
 }
