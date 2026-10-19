@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T17:15+09:00",
+ "updated_at": "2026-10-19T19:12+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "c31fa5a1d4d49f2e",
+   "title": "系統用蓄電池、日本と海外で何が違うのか――米国FERC命令と長時間貯蔵支援策を読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000071.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T18:15+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "3c39c69f0c0b1e42",
    "title": "パナソニックHD、｢ペロブスカイト｣から資源回収 普及へ仕組み確立",
@@ -114,10 +130,11 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-10-19T15:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
+   "topic": "次世代技術",
+   "company": "サカタインクス株式会社"
   },
   {
    "id": "aad1c37f30a62ea1",
