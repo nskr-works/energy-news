@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T10:14+09:00",
+ "updated_at": "2026-10-19T11:08+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,136 @@
  ],
  "items": [
   {
+   "id": "a9c14262a614403e",
+   "title": "東海理化の本社工場向けに蓄電システムを受注",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZmhoeXVwS2JyUFFReUZXaEE4UU01VzJwNGxkWDBaZlRJWmh5bmNxclV5aWs0OW4ySzlNMFBFaUpfQzRaVXdBRDZqVWkyTnNLNU44dFpCaExURGJ5czdRVU03OGliUGNXVXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "東海理化の本社工場向けに蓄電システムを受注 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "36a7c2da260b6a93",
+   "title": "中国、太陽光発電製造技術を輸出規制リストに追加へ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWRDOXl0MGFfQ0dMUHpTaXVSZldJdXVmUDRhdnJaLUJiU3NZUnRPclJ1WmtRTnA4bGRicFYtTjBEc1RfVU5iaXhKMnVFVFEyQTRvNFpIUkZSd0NFd2EtTXAtNkxxQVE3T2k0TVVnYmMydzlhQklFVmhxNkNlSHl4djlhSmd5TmM?oc=5",
+   "source": "Reuters",
+   "summary": "中国、太陽光発電製造技術を輸出規制リストに追加へ Reuters",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "ad75b0041a5a3ace",
+   "title": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を推進",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZS1YTUN5U1h3Rnc4MzRsVmxHMURwVlBqTmRXZTNBYzF6WmdPTkxfVUJwSDdXSGJ5a3hmbUNGUWphOTFtYjJLT0FZT1Z4WUlJMFM2STZyeUg4ZnlhbUR0Y3RIdlNoMU1RQWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を推進 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社ミツウロコグループホールディングス"
+  },
+  {
+   "id": "ccc917e93e90ce75",
+   "title": "富士電機と日本気象協会、系統用蓄電池の運用領域で事業連携 ～蓄電池運用の最適化と収益性向上に向けた意思決定支援を強化～ | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2TWNwSEhvd1RSb2NOWjV5dWczWm84bXAxZy1DeHdFLVdzT3lkTVAzdW12TENyTFAtNmdhNjBXZlJzMHFUSTl6NHNydVFOY3dQUU9r?oc=5",
+   "source": "一般財団法人 日本気象協会",
+   "summary": "富士電機と日本気象協会、系統用蓄電池の運用領域で事業連携 ～蓄電池運用の最適化と収益性向上に向けた意思決定支援を強化～ | ニュース 一般財団法人 日本気象協会",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T10:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "30bb8165d4cc1f59",
+   "title": "【日本蓄電池株式会社】系統用蓄電池事業ファンドの組成及び運営開始のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUFnT0ZnMWxIT3g2X3l3aTNjU3U0cnpkMGM4NWFvVXdTQmF2Y3NCUS02YTIwQVJVRDVxTjMxUFZqdldXbkpCZXJDZzhBa1J1R3hFUVIzbEdXODk4SHBJejRCOW9veDJUcVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】系統用蓄電池事業ファンドの組成及び運営開始のお知らせ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "d285322490eea168",
+   "title": "系統用蓄電池事業ファンドの組成及び運営開始のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMFpFRWVfbENxRjktWElKa19tRm1QbFAzSjI2SVIzMEoxdEV6VlhmbEp4cU14eFBTR1JydWw0X2R2MW1zV2lCRjZKVTItUnRyaVVPZDlCaGl1M1ItRjc5R1Z3bHRWQlNiRGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池事業ファンドの組成及び運営開始のお知らせ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-19T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "RSアセットアドバイザーズ株式会社"
+  },
+  {
+   "id": "a0ea2a624ab7fb7e",
+   "title": "CAMELが栃木那須の系統用蓄電池を活用した投資ファンド概要を発表",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NlB3V05yN2xXQ3lKU0xtUGFnNFpKaW1mejBkZXJvMkowOXdYMHZ2dDFfNkxRZlRNX2psQ21rU3dzWldyeWNjMUZnVW1jM2laZWdhSl9pMmxibjJQUWh4QnoyLVk?oc=5",
+   "source": "Dellows News",
+   "summary": "CAMELが栃木那須の系統用蓄電池を活用した投資ファンド概要を発表 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5bc3471059eba1a1",
+   "title": "エンバイオＨはしっかり、住宅用太陽光発電設備事業など譲受",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LaHdxNzBPaHRsY08wc3d4ME5RVk4xM2I1cktNVTFqYW4ydzZUWWFRSWJKeHI4ZmxJd0hfRkxwcERvT0ZCajAxMFZXNHBheDlLTlE?oc=5",
+   "source": "株探",
+   "summary": "エンバイオＨはしっかり、住宅用太陽光発電設備事業など譲受 株探",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "d115a3338207e4c0",
+   "title": "太陽光発電所の災害復旧、土木工事から発電再開まで対応 エンバイオが本格化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WRjhTMHViY09XS2xFUW1tTk1Zc0dkNFVvOV9IRDVWMGd6N2dmUEt6VVVzZmo4Q3dRdTZlZ19WOXEzSzZqWm9nMUhYb2laNmZsWXJDS3JEMUF3RVFucjZIeTZuQkt3ZFRUNGp0NmVkTEdOZnVIXzJuVGZJcGQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電所の災害復旧、土木工事から発電再開まで対応 エンバイオが本格化 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "54cf75e75a4216c2",
    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL90号 栃木那須系統連携蓄電池シリーズ 74号ReFund 完売』",
    "link": "https://prtimes.jp/main/html/rd/p/000000166.000136212.html",
@@ -32,7 +162,6 @@
    "published": "2026-10-19T09:40+09:00",
    "company": "株式会社グローバルクラウドエステート",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
   },
   {
@@ -48,7 +177,92 @@
    "published": "2026-10-19T09:40+09:00",
    "company": "株式会社コシダテック",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "topic": "次世代技術"
+  },
+  {
+   "id": "766eaf42f192547d",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL90号 栃木那須系統連携蓄電池シリーズ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yQVRmTEw0NDBmR0tGQkpCZTBoSFhJN3o5RmxNQlNqOExCNU1aRzdodGZWU0Y0QU5sOUEybGgybG9XTlE1OVJQYVdnR3JrZ0hQOS1WbWJGXzRmYnh6SEZkUFlmbTZ1aVRpaEFPcGJnM0pYdG9nbGNWXzVPUQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL90号 栃木那須系統連携蓄電池シリーズ ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "dd1fc5860236e29e",
+   "title": "エンバイオＨＤ－続伸 太陽光発電関連事業を譲り受け 27年2月予定(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnp4ZmlnYTZ0dVBqc2NlaTZCUTgyckxuTWFDbElRU3V2X0owNGRSMGRpSjlxcDl3SUZIWnBmWFZIeTlTMDdYOUJHN1E3Zmk1TElNdEtTLVMxamtrOV80OEVCVUwzTTM0RDlVd3BxVXNPd2I5NDdBWndlZW5ubGNVN1VvQTFETEU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "エンバイオＨＤ－続伸 太陽光発電関連事業を譲り受け 27年2月予定(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:12+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "a2f147f6222825d3",
+   "title": "【蓄電関連】パワーエックス：八戸の系統蓄電所向け7.52MWh受注、港湾事業者の参入をグループ支援",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZWlQMUtQbFZtVlB0aEE3RmtNVU12V25BTnRlS1A4TUlXc0ZQdXI1Vkp2Rm81eEhuVXh1VFpVYkF3UlRNWXhhSVlEWmJsQzRLekJEZ2laaEpFMC1UWkRaOXg4SFM3MVVKeWY5Mkp3YVlmdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】パワーエックス：八戸の系統蓄電所向け7.52MWh受注、港湾事業者の参入をグループ支援 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:04+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "ef7f812ae88991ad",
+   "title": "【太陽光発電】コシダカホールディングス：長野高田店に198.4kW太陽光と蓄電池、購入電力量3割削減へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95WmJMVWlrNEtpZ0ZCLUVWbXZ3UzdjUjZWY0NRdVNjVXYyVi1WalFRdnVBYmNldjNNYnJTTXFzNHBhRTdVa095T2FzUkptelZmb1Q2UDN0WkpuR1pvdlVjOEtnOERZTnpWbWt6dXk4V01JZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】コシダカホールディングス：長野高田店に198.4kW太陽光と蓄電池、購入電力量3割削減へ みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T08:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4b72a7c5039c4845",
+   "title": "【太陽光発電】センコー：浜松PDセンターに362.59kWのPPA、余剰電力3割を市内で循環",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03MTZMWXlnZkozOG5lQ3BZaldQbDd1bm1haFBjSlQ0ZFg0WmxsWTVhVWJWMS1FMWozQnNmT21vV2p4VlAyQy1nOThrT0U3RVFHQ08zX19pMGhwTGxRaXJvSGZpSkNkQzR3N3pLSTg1Y0lPUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】センコー：浜松PDセンターに362.59kWのPPA、余剰電力3割を市内で循環 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T07:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "8a625f32d8272998",
+   "title": "【研究】NEDO：ペロブスカイト太陽電池人材育成講座の実施体制決定、東京大学などが2029年度まで展開",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKN04zRTNGb2ItZU40S1dZcTdfeHNTVmFrNE92ZEZTM1lqdktqelhvVHdCSUhYdzVObXBpV2VTci1WWmFyV25ZX29jb3lPc2pNNjFhVVpPa3dZMWlZeUNDM1FLTGxvdnlQRmhhVzJFQkt6Zw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【研究】NEDO：ペロブスカイト太陽電池人材育成講座の実施体制決定、東京大学などが2029年度まで展開 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T07:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
   },
   {
@@ -165,6 +379,20 @@
    "company": "ジャパンブランディング株式会社"
   },
   {
+   "id": "268885ecda95293b",
+   "title": "系統用蓄電池はどこまで法規制の対象になるのか--技術基準とJIS・JET認証を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83dFQ4NkJkc2x3T2VRV2V3SDFJckdFb21qd09URno4eFk5b3docktRd1FidUZzN0I1VnVoVWpCeklnMHBCcnRxeURWSktnQUdkbWNsbDlRQlpOMHQ5aGJtZ0dR?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池はどこまで法規制の対象になるのか--技術基準とJIS・JET認証を読み解くウェビナーを開催 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "dafa060667f890a0",
    "title": "中国、太陽光発電の主要12技術に輸出規制を提案 執筆",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kaUpQTFRYOU10U0VveGcySjNTTV9RaERHLThxR3gtTHNSejZlX3VlQW1TaWR0U01UZUVsMXczNGRQMDZmeTlsMW1tM1VNNGhjSVIwMm5VVkowMERETm1rSmV6QW9MaWxKcmc?oc=5",
@@ -234,6 +462,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "1248bf8e85de40d8",
+   "title": "EX4Energy、系統用蓄電所向けEMSを2026年10月1日に本格展開へ",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yOV85c19MM2RxejRxdkZXTWpHY3Utd05VRUdYRXhUMTVqQ1dZY3duVGxNVDRUOFhVdjZpQjdOQWNXV1FwUldLMnN0QkQyWTQ5Z1h2dVpxY1RTNGVlaHpqOA?oc=5",
+   "source": "Dellows News",
+   "summary": "EX4Energy、系統用蓄電所向けEMSを2026年10月1日に本格展開へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-18T12:58+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "ad33becae3f80f51",
@@ -3541,6 +3783,21 @@
    "published": "2026-10-14T10:00+09:00",
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "9e3752a02c780005",
+   "title": "需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 | 株式会社Sassorのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb3lvVWJsNkw0YkhNaHRvNlk3TWg4Z2U3WTRfMkFLamlVdDlOWVRQOHp3SEozZ1pZalUxUzdYQjc3bzNUOTNyaTFXVGN3VTRpU1dKX2hSd3ZycTdNN19PeWR0VldfNGExbnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 | 株式会社Sassorのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-14T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社Sassor"
   },
   {
    "id": "d770f229770b0a22",
