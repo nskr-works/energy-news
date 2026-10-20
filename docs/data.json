@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T14:04+09:00",
+ "updated_at": "2026-10-20T17:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,111 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "49369c9f4bf4d498",
+   "title": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000940.000118641.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社NTTドコモ] ■発表のポイント ・世界初、無線基地局における通信処理負荷の拠点間移動（ワークロードシフト）と、太陽光発電・蓄電池の制御（エネルギーマネジメント）をAIで協調して制御する実証実験（以下、本実証）を開始 ...",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T16:41+09:00",
+   "company": "株式会社NTTドコモ",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "564dcafccbbe33f8",
+   "title": "NTN／PPA導入、取引先の物流センター屋根で太陽光発電し岡山製作所に供給へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ON0hSS3NOWThRUUlZQTd3RXRhbFcxVC13ZWtnTGNQTXFQYklPRDlFeUtiR2dLOG9vUmp5eElNeEJMYzA4d25ObTl4S3BnZzdHNEpKNw?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "NTN／PPA導入、取引先の物流センター屋根で太陽光発電し岡山製作所に供給へ 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T15:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "5b85b12602bdc3d2",
+   "title": "PRESS RELEASE アイ・グリッド、2026 年度「ソーラーウィーク大賞」大賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdW95UC1lRWVyMExPLVk4WW0wWlk2LVMxY1FxeW55MVZ1WFAtdWUzTmpRTDNYZ1lfcUN3SkVXZ0VjNlc4bTJlaElFX19VT2t2TXVTRWxHZGowMVpVNldqY1hzekNxTkU4MF91cjdkUDlybHFKUFREZ2RLMm5oMnJpUDJyZWhXb0RSc3ZxaG5n?oc=5",
+   "source": "PR TIMES",
+   "summary": "PRESS RELEASE アイ・グリッド、2026 年度「ソーラーウィーク大賞」大賞を受賞 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T15:43+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": ""
+  },
+  {
+   "id": "efd353c64a123834",
+   "title": "イーレックス、系統用蓄電池第2号案件の商業運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SWHdwQ3JrM0V4TXoweDFwWlJSSk1lZUljUDJXUnlYS0lBXzF4QTNUUjhtNUVqVVh3cGtROEp2MzM3bWx2VDB1dm12MkJxU1lXdGhmbW1NQ3hRMEpHUU9CcG5VcjNGLVhlLVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "イーレックス、系統用蓄電池第2号案件の商業運転を開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T15:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "イーレックス株式会社"
+  },
+  {
+   "id": "60388175b3a84fa2",
+   "title": "パナソニックHD、ガラス型ペロブスカイト太陽電池の本格量産計画を一年前倒し、2029年4月より長浜拠点で生産開始",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa0NfQlFyWmdUZG5URll0bzh3N0R5WnF6N19nWTJNVzdpb0RJZXI2OF95R1Z4VDdud3Z2cnVJSG01Skp2Vjlodk83MjU3bHRyVEZPY2JNVnRNZw?oc=5",
+   "source": "Panasonic Newsroom Global",
+   "summary": "パナソニックHD、ガラス型ペロブスカイト太陽電池の本格量産計画を一年前倒し、2029年4月より長浜拠点で生産開始 Panasonic Newsroom Global",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T15:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "14ed8f67ea719223",
+   "title": "アイ・グリッド、2026年度「ソーラーウィーク大賞」大賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZXJNbThFc25LRVp3a2txeFZhLUZsdjJxNldzZjNCVTI1Qkp5X0hDbUphTnVqUXFhNDZwel9nc2tGV1lmYUVQZkVfVFdzYkdGZ0ZBSGJPTkY0bWhYVXBMMVc3RGtTOEhFV0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "アイ・グリッド、2026年度「ソーラーウィーク大賞」大賞を受賞 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T15:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社アイ・グリッド・ソリューションズ"
+  },
+  {
+   "id": "c4e962e190ba2b2c",
+   "title": "【日本蓄電池株式会社】福岡県嘉麻市にて系統用蓄電施設「NC口春蓄電所」需給調整市場への参入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13TUpERThJTVhVWTgtTzNMMklFX2o2ODN0MFhyQ0I1ZVd4bm1xNDl4R0E4VUJrR0ZTYTdFSFJCdEcwcEJhVTloblBPNHhHTFdOdmFpMW1qYjJaQUpRU0dSbHRDSzZRVzlUeUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】福岡県嘉麻市にて系統用蓄電施設「NC口春蓄電所」需給調整市場への参入 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T15:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "日本蓄電池株式会社",
+   "storage_topic": "その他"
+  },
   {
    "id": "d3fa290610fa1ba4",
    "title": "外資系IPP、福井に200MWh系統用蓄電池 欧・INGから64億円調達",
@@ -59,6 +164,20 @@
    "type": "news",
    "published": "2026-10-20T13:56+09:00",
    "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "c775891b88ad788b",
+   "title": "リミックスポイント、福岡県の系統用蓄電所が需給調整市場参入、4か所目 | マーケット速報 | 企業情報FISCO",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWE9ONmtZMlNSMFhESFBuVEtsU2g5N043MEJEeFhTUWZwRTRMSm5wQUJLeERzdXphSWVWSmhSVkh1bmxFNFZTaE1SeUtpVDJiTnBoMTlUdHlZM3MyNkJESjdSTWp6RjJPV2x3WVBTRU5rV1pTS2V1aGNvRQ?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "リミックスポイント、福岡県の系統用蓄電所が需給調整市場参入、4か所目 | マーケット速報 | 企業情報FISCO 投資情報のフィスコ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:38+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
    "storage_topic": "その他"
   },
   {
@@ -161,6 +280,20 @@
    "topic": "トラブル・地域"
   },
   {
+   "id": "d61322dd989f782b",
+   "title": "【画像】メガソーラーから銅線90本 約900万円相当を盗んだ疑い 大阪市の男ら4人を逮捕 熊本・芦北町",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4QXkzX2hJMVoxV1c3ck5IdWZleEo5Q3FTQWZyTTlQT1hFNURUSGV0U0VrVDFWXzE4aHB4WTRTSzA5WU1rTUo2QXlvN0Z0eDQ4UkwxUEJCU195LUl4d2o3ekEtaGFSV0V1d3pEd3VQV0MxVDJqVnZIdHktMUM?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】メガソーラーから銅線90本 約900万円相当を盗んだ疑い 大阪市の男ら4人を逮捕 熊本・芦北町 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:39+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
    "id": "add32b2b3073d631",
    "title": "鳥取がソーラーシェアリング現場視察会を実施、営農型太陽光発電でJリーグとともに気候変動への取り組み (1/2)",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11NFR2TFRGSER2WkNkazU2bGdsVzAzNERFM3ltQmY1QU9TaFhoSzZUcERJNFBiV0xMNTFQUVQzYjhicmk5cUJPTGVITy1NUQ?oc=5",
@@ -187,6 +320,20 @@
    "published": "2026-10-20T11:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "c52b8d519a457f30",
+   "title": "テス・エンジニアリング、糺の森から岐阜県の系統用蓄電所設置工事を受注",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XaGNNbExHWFR2dHNsSVVjRV8zOFJ5LUJYVUNrakVZMDlBRnVTSkl2UFlBUTNNYk44THYxVmVvUDNMOVkxdjdfclhwM3pKZ0xTZFEyZjJPU2RFYWpXZTI1SVFaOXo?oc=5",
+   "source": "Dellows News",
+   "summary": "テス・エンジニアリング、糺の森から岐阜県の系統用蓄電所設置工事を受注 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:41+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "c9e67db3cef2548b",
@@ -259,6 +406,50 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "company": "株式会社ティーエスピー"
+  },
+  {
+   "id": "2448bc71c66d8db8",
+   "title": "関電、FIT太陽光をリパワリングして取得、300カ所目標",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PX3JNdXZDcFRRbGpMRTlESVFSRkJ1WjJoSVFEY1U4WGlaTE04a0UxNi1XYmNOUmFPYV8wYnBGakU2bFNzaWh3Z19zcklDLUJMLWZmeEMzZ0hQckJBQ2Y1Sm9ObUl5N1FQU19wOEQySEh1UGxk?oc=5",
+   "source": "日経BP",
+   "summary": "関電、FIT太陽光をリパワリングして取得、300カ所目標 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "81e36f2a86fae2a2",
+   "title": "東邦ガス、米国で150MWの太陽光、トヨタとバーチャルPPA",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16UGxLZnJJOTZlbExPTURab3o4elFwcHdNdmpYREhzNGNKQzZrNmwwdm1XdUxFM2ZYVEdveTV0bWtvRjNHWXY4LUlEVDVFQmUyZDNJUTVWNUM2M2J5UkJvcDNKbnpzYXFDV3dfNUp6dzlGUko1?oc=5",
+   "source": "日経BP",
+   "summary": "東邦ガス、米国で150MWの太陽光、トヨタとバーチャルPPA - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "b5617e7c4169f5d5",
+   "title": "日本気象協会、蓄電所の運用で連携、価格予測を提供",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wWGZSVkotRUd4T0FMbTFHdjVJa2l4MlJaVEtkWEhVcEdqSGxPOWk4dDRlNkw2Q0ZEcnNuSDJOVVV5Q1JXYWlRaVVPdExXb1ZnaExIY2themR0Y0NOTHJ2Z0EyVzUtY25RekJBMEZBMWpCbkRD?oc=5",
+   "source": "日経BP",
+   "summary": "日本気象協会、蓄電所の運用で連携、価格予測を提供 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:42+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
   },
   {
    "id": "c17b6297d20ca681",
@@ -1082,6 +1273,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他",
    "storage_topic": "家庭用"
+  },
+  {
+   "id": "c508a637ca1e5d27",
+   "title": "東海理化の本社工場向けに蓄電システムを受注｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxekJ0dDRjTl94Q0JYdGNDNHBLZmdFLTVOZ3Byb2xXaXFMc0JrTFdSOUVMOU5GRWVhYXdwRWpZRDlyTVgydmxMUjRncmpmVGx2UlpLRmVKVFJVQWZSTnZwVjduRklmT3JHRVI5TnFQWFM1QQ?oc=5",
+   "source": "Infoseek",
+   "summary": "東海理化の本社工場向けに蓄電システムを受注｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:15+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "61efc9cdc7bcbf00",
