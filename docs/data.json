@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:05+09:00",
+ "updated_at": "2026-10-20T10:15+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,24 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "aa4a254baa31ee58",
+   "title": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介 ―",
+   "link": "https://prtimes.jp/main/html/rd/p/000000186.000110590.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GBP株式会社] 再生可能エネルギーの総合ソリューション開発企業であるGBP株式会社（本社：東京都港区、以下「GBP」）は、2026年11月18日（水）から11月20日（金）の3日間、インテックス大阪で開催される「PV EXPO［関西］～第1...",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T09:45+09:00",
+   "company": "GBP株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
   {
    "id": "45201f42130294df",
    "title": "ヤマタネ 本牧埠頭営業所で太陽光発電サービス",
