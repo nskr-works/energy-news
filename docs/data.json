@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T17:09+09:00",
+ "updated_at": "2026-10-20T18:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6e2f7067d63f5037",
+   "title": "【蓄電池単体販売セミナー開催決定】2026年11月に全3回を予定―系統用蓄電池「Raptor」の導入・設備構成を解説",
+   "link": "https://prtimes.jp/main/html/rd/p/000000257.000096742.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[サステナブルホールディングス株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/96742/257/96742-257-36ce02a9cb9677514b1c04ce75e0f419-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T17:40+09:00",
+   "company": "サステナブルホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "49369c9f4bf4d498",
    "title": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始",
