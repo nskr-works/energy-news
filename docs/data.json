@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T19:06+09:00",
+ "updated_at": "2026-10-21T01:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "f51b8a8096a2b2a7",
+   "title": "旅と日常が交差するファンタジーRPG『ステラソラ』のリリース1周年を記念し、「魔王モデル」のオリジナルソーラーウォッチが登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000002028.000025284.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ウエニ貿易] [画像1: https://prcdn.freetls.fastly.net/release_image/25284/2028/25284-2028-c16ebdd3b1dc17c05d23711a078d2ce4-1000x650.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-21T00:15+09:00",
+   "company": "株式会社ウエニ貿易",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "3585eb228f489709",
    "title": "系統用蓄電池、連系済み容量はなぜ3年で10倍に増えたのか――導入量の推移を読み解くウェビナーを開催",
