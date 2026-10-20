@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T11:06+09:00",
+ "updated_at": "2026-10-20T13:08+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "da0aa807e21c9fd4",
+   "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光(R)」を活用",
+   "link": "https://prtimes.jp/main/html/rd/p/000000025.000068968.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[TSP] [画像1: https://prcdn.freetls.fastly.net/release_image/68968/25/68968-25-e53952c33a828cfaa0f15933dfa00721-1980x1280.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T12:40+09:00",
+   "company": "TSP",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "発電所・開発"
+  },
   {
    "id": "b01d47155ba4b377",
    "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光®」を活用",
