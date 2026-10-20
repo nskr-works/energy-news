@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:15+09:00",
+ "updated_at": "2026-10-20T11:06+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,79 @@
  ],
  "items": [
   {
+   "id": "b01d47155ba4b377",
+   "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光®」を活用",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZ21fQm8wR21uRGNYNk1EMGl1MEVXVzNGaUdKQVdpQjZ2cWFKYXNQTWwzekpqRDhqMjlUZGZGV3pfSGN3dzdTNDdRcG5ISFJMX2o0ckxyUGY1QWtGN0JHT3lrYjZONVJjakE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光®」を活用 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T10:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "株式会社ティーエスピー"
+  },
+  {
+   "id": "384eed56ab07803e",
+   "title": "SK Materials JNC、ペロブスカイト・ナノ結晶素材の量産化でSN Displayと提携",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3BJOEMwVzJ4M0VzM1hJMzhKUnRFRGZnbHRSN1RpWkFEOS1xZ1VJN2NUWTdHRUtxUHhhWVhMM3k0UzNkUU9zcTZTSG1nTUtYQWVfSjBBeWFWWjlXTmE0VURHYUtKcFlzbFBTcmJWTGNtdGM4U0gxWTJXVHIzWDZXLXM2V0FfZlpSWGJDTjRYUHI5RmhkQmZnZ2NYWTYzbFlkOW9qR3h3dUVySDZHR3pWZUtSVTF6MGZmc0J3SFQ2SXZGZDRQREVv?oc=5",
+   "source": "디지털투데이",
+   "summary": "SK Materials JNC、ペロブスカイト・ナノ結晶素材の量産化でSN Displayと提携 디지털투데이",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:25+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "8678e210dea116b7",
+   "title": "テスHD、容量6.3MWhの系統用蓄電所を受注し2027年納入へ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9icUlHWWNUeTdjMVJzUkZuaXpBREJJdnhUdjRiNktQZEtXU3dkbGdQWnp0Y1VMMlkwOG1mQlp2S29kdi1JZFQwZWVxcjM4Wm1qQ25j?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "テスHD、容量6.3MWhの系統用蓄電所を受注し2027年納入へ ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:03+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "caf0443ff0a39f74",
+   "title": "TESSグループ、株式会社糺の森様から「系統用蓄電所」の設置工事を受注",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMenFnMEdDRXRHdWdCSmJjZXU5T0FDMnhJQm56aUdnV0VwYkozX1FLRDl6T1h1Rm5zTldPR0sya1I0LTUybzc2LWlZeUd3N0xjNHhMRzJwMU81bUNodHIydktZUVZOSUtOSWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "TESSグループ、株式会社糺の森様から「系統用蓄電所」の設置工事を受注 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "テスホールディングス株式会社"
+  },
+  {
+   "id": "df4a54a627487a79",
+   "title": "NTN株式会社 岡山製作所において、近隣サプライヤーと連携した地域連携型オンサイトPPAの導入工事に着手",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MTBCNTRzZ3lGR1NvUnVYblhEQUY3a2ZZNENoVjlsUzk2ekMzckNYVEtGYi1lTFkwbXRJSG9OMnFrNGR3VGd0TUFRaEEyX2JYM2lyRFY2bUJBbGJGOWVUSWJxejR5TVJENkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "NTN株式会社 岡山製作所において、近隣サプライヤーと連携した地域連携型オンサイトPPAの導入工事に着手 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "住宅・自家消費",
+   "company": "Daigasグループ"
+  },
+  {
    "id": "aa4a254baa31ee58",
    "title": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介 ―",
    "link": "https://prtimes.jp/main/html/rd/p/000000186.000110590.html",
@@ -33,9 +106,112 @@
    "published": "2026-10-20T09:45+09:00",
    "company": "GBP株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業",
    "storage_topic": "その他"
+  },
+  {
+   "id": "92106ff7c675d99f",
+   "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdTJYMVlkN3hHS0VLZHNSa0kxN1hEZnlJcWl3NC16bVl1UEFDNUVoTEFfV0YzbkJjV2o2NEtyOFpOSjJuTjBKZEdmc2RiOUJTdjBLejNLWWJmTFlCR2FWWUEwNE5ERG1STmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T09:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "株式会社グローアップ",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "be61b68d5b6732e0",
+   "title": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMVZWSEdvOEdpNkhPV1dlamNTdUthN1VWb0xjM3dfNHg4Y1JQcjNIT3RuY25VaFI1aFdlY2RtTWdLTHVMSWV0UzlaOWd0LWUwdmx2NXFLbzVfMExpNjdiSmxWUldMaHRfbVM0MzNaSXUweF9JUGFmUmZB?oc=5",
+   "source": "イザ！",
+   "summary": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介 イザ！",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T08:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a2f64dea0cafbea8",
+   "title": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介 ― | GBP株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zY1NWRW15Q1V2amN1bGNtaUVoRGxyTU5Ca0lxbXlJS2hZNmFiNVYwSTFzaEVXd1B4VEEtUU1sZ3ZBYkM4V1VnOGFSQmtkX1J4ejVjRkhKU1FCSHJvZnJFYk1VcjJ1Z0F0UXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "GBP、PV EXPO［関西］～第14回［関西］太陽光発電展～に出展 ― JC-STAR取得製品をはじめ、太陽光・蓄電・データセンター向けソリューションを紹介 ― | GBP株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-20T08:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "市場・企業",
+   "storage_topic": "その他",
+   "company": "GBP株式会社"
+  },
+  {
+   "id": "6e43b01d74b1842f",
+   "title": "ペロブスカイト材料の試作ライン整備へ 中国・日耀光電、車載・宇宙市場狙う",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1iSld6UWMySVVmaDgyUnZrdXV2SV9RSWhoSDJjdDdyQ2dRSW1JeHZlY0VGQWxBR0trTm9F?oc=5",
+   "source": "36Kr Japan",
+   "summary": "ペロブスカイト材料の試作ライン整備へ 中国・日耀光電、車載・宇宙市場狙う 36Kr Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:33+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e9e8dd0750ffa4d0",
+   "title": "【蓄電関連】ワンズエナジー：分散する低圧蓄電所を仮想統合、一次調整力の制御試験に成功",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWmVrNWJlUDNUS0ZWNEQ4QzlNcmxUNEs4UDRwNFBmUFVFVkNMTG9RLU9pQVZfekw1cjRvelJvRlhLUnY5LWVPOHFieHBJTHViZ0ZibEt6TnJwalI5ME1kcmN5REt2dVhVYWp4eUh0UEgtdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】ワンズエナジー：分散する低圧蓄電所を仮想統合、一次調整力の制御試験に成功 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:19+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "935faf43f39a50dc",
+   "title": "【プロが解説】エネルギー安全保障を支える「軽くて曲がる」次世代太陽電池への期待",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZRGgtQVA2SkJCNFVCR2NjYWV0YkFBTzNOYjc4UHNJWERza2wxWlRGQWhKTjhTUmVrVTJ6YWFTME9RellwdWlGU19wU0N3aERlMUJNUEVHMjB5Nks3NHlScUhkeUxXR245MGRRT2pJaGcxVHo2OG9OWkZ6blY3LW_SAX9BVV95cUxOWURoLUFQNkpCQjRVQkdjY2FldGJBQU8zTmI3OFBzSVhEc2tsMVpURkFoSk44U1Jla1UyemFhUzBPUXpZcHVpRlNfcFNDd2hEZTFCTVBFRzIweTZLNzR5UnFIZHlMV0duOTBkUU9qSWhnMVR6NjhvTlpGem5WNy1v?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "【プロが解説】エネルギー安全保障を支える「軽くて曲がる」次世代太陽電池への期待 ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "d40110479f43f664",
+   "title": "日本の住宅用太陽光発電市場の最新動向",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZWHZCMDNOOGlvNWlFaHJKVDBtVExGRk1JZWJRaGlGYWVaNnUyemd4MXJLNlg4dzZCeWZxbk1pRG5vamRCamRZb01B?oc=5",
+   "source": "pando.life",
+   "summary": "日本の住宅用太陽光発電市場の最新動向 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T06:16+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "45201f42130294df",
@@ -524,6 +700,20 @@
    "topic": "その他"
   },
   {
+   "id": "7fa3a30f4265bcdd",
+   "title": "津市の農業用ため池に水上太陽光2件、中部電力が開発",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iTWZmMmZQcW5ydUQ3STZBTl9UbDJkMnFDSVdJWHdkQ3JOR3VOaXQtYmZ1d25JXzRIa0dEU2xBRkhLZzVBeTliSlhSZmxuc3k3c2V3enkzcUc2TU5idFBTQ1Q2Y0F1eG9RQ2RzWUJLaWk1RFpn?oc=5",
+   "source": "日経BP",
+   "summary": "津市の農業用ため池に水上太陽光2件、中部電力が開発 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T13:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "a29325e051f49a44",
    "title": "テュフズードとエスペック、蓄電池システムのNITE安全ガイドライン対応サービスを提供開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wcW0zYWwxTHBpVWc5alNmWktyQ0N1dHZEN1ZBNHJfMUZWMUlfVmg0QnpWN2VLOFk5ajlOWVAteGsxbXRnRnVmSlVkdjZ1SGJFUW9rVUxvZHRaRFh5VmlkeUJ2d196U2hXYkE?oc=5",
@@ -611,6 +801,20 @@
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他",
    "company": "株式会社リミックスポイント"
+  },
+  {
+   "id": "1aa4fbf8425c0382",
+   "title": "リミックスポイント[3825]：【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得～自社保有25か所計画を推進、運用による継続収益の拡大へ～ 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dGpRYkpiRTR4UGNPeE1xNkhVNVpIRXhPUXZ1ckZDcVRPSXlhZ1FFbkFEcS1kaTdGQlNlUTVoeldYZkg2SkxpUF9aMVAweWY1MzJTY05ILTE5d0Fqel96LThqMWJGRU5zalE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "リミックスポイント[3825]：【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得～自社保有25か所計画を推進、運用による継続収益の拡大へ～ 2026年10月19日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "ebadaec5e8105d11",
@@ -854,6 +1058,20 @@
    "published": "2026-10-19T09:40+09:00",
    "company": "株式会社コシダテック",
    "via": "PR TIMES 新着（直接）",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "c9839d06118fcba9",
+   "title": "東光電気工事、ペロブスカイト太陽電池等の実証実験を本社などで開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yRE54NnlqTkc4MzVTUjlMTzJORXFIUng4SEo3Q3I5YVZmcVpyVVBlYk9nM2swRVoyLUlzQXpjZ2lERjk4bFhqOWx3Q2NIWWpRMTA0MDNNajVHQm85VDNQMWE0YUUyMVhD?oc=5",
+   "source": "Dellows News",
+   "summary": "東光電気工事、ペロブスカイト太陽電池等の実証実験を本社などで開始 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:34+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
   },
   {
@@ -1964,6 +2182,20 @@
    "published": "2026-10-16T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "6f522bceb6d90c14",
+   "title": "デジタルグリッド、系統用蓄電池の取扱量が計100拠点・200MWを突破",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LOE1rZEphUDNYdDB2QVhHTVRVaXNibTdaUE9Eb05waGZ6eG95MHE3d2JzSVNOeTZ6WTlnZnBBeTNiZk9mUTNiVF9YRjZwTFNaM09fd3o0NWlIaVNJdlE?oc=5",
+   "source": "Dellows News",
+   "summary": "デジタルグリッド、系統用蓄電池の取扱量が計100拠点・200MWを突破 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "c5aa7ed4e2a66b70",
