@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:08+09:00",
+ "updated_at": "2026-10-20T14:04+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,104 @@
  ],
  "items": [
   {
+   "id": "d3fa290610fa1ba4",
+   "title": "外資系IPP、福井に200MWh系統用蓄電池 欧・INGから64億円調達",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SdzU4Slc2eGFlNXViRzdEUFhKM19MQndvWGd4bkNLSWJLS21LRmkycGszbXNSalo0cVhjTWVkbHlfY2FxR1FHeFdUaGxVTTJCTDB5NmgzTnJjOWtSZDFZOFo0bzV3cnpqejhsUzFkQ0RaalZGcmxBWGRVYjk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "外資系IPP、福井に200MWh系統用蓄電池 欧・INGから64億円調達 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:56+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "9df0daa788f79356",
+   "title": "フォルクスワーゲンが太陽光PPA導入、年4.6GWhで2053t-CO2",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43TTkzZ0ptVDZKajZKbjhwTjdRcnhTVW9US3lpM1Y1a180T05UX3JERGtIUEJWWEFodlBFSXFJa0xzZWNGamh5M2JsQ1pGdUdnWXhHYjE3Tk5YN21PTm9NT2tMY2IzYVBxWElJYndOYjJRdkpZMExnVnlfOFo?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "フォルクスワーゲンが太陽光PPA導入、年4.6GWhで2053t-CO2 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:56+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "129ffc3e196f47fb",
+   "title": "NEXTES、債務保証制度活用で20億円調達 定置用蓄電池の生産体制強化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uTHg4TTJrRHdxS2J4TFlDWWtLcEI5b21Tc0NoWjlSWFpjUXFGa1gwd1kxT3JLM1VBZ3dhek1qRDI4MkQ0V3E1NXg0NVo3dlpaZFdXX2pxNDRHOVFkNlNpSU5KMDFTNnNPMjZ2R21sRnM2TEItbnhzS19zdlE?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "NEXTES、債務保証制度活用で20億円調達 定置用蓄電池の生産体制強化 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:56+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b6609101869d38c7",
+   "title": "【新制度解説】農林水産省が営農型太陽光の省令改正・告示を公布 2027年4月施行の新制度を徹底解説",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lSUhoeXdUZmVFSUpISGY0dmtWQUJnOEtFN2l0aFBZb0pOVVJmcnNYRm1OZ0hKeDBaQlVuU3FHLXNXRTJRU05fcnR2NWNhdw?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "【新制度解説】農林水産省が営農型太陽光の省令改正・告示を公布 2027年4月施行の新制度を徹底解説 ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T13:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "2209358c5304872b",
+   "title": "太陽光発電所に侵入し銅線ケーブル90本(約900万相当)を盗んだ疑いで男4人を逮捕",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaldUOUFOemZKNzVBQV9aeEl5MjRGam1HZkZ5RVFBVGs2UHVTV29WNFdMczR4V2VfZmpnbktLMWlHTV9Wei1fRXpqNGd1eENRS1lpWEhIMXBlbEhYTHZlZTBTNUFqcHJyU3RtNFZFWlFzZGNma0tJVGJKVU1SZFVIYXVSZ1BIanc?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "太陽光発電所に侵入し銅線ケーブル90本(約900万相当)を盗んだ疑いで男4人を逮捕 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "e5786600ff07b793",
+   "title": "環境省、データセンターの脱炭素化に補助金 再エネ・蓄電池・未利用エネ活用",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWW96ZGl2LWpxeXJXUVlKYnlZZTdVZU9YZFBuVFI2U05FOEFROFFyMmdiSmIxWHdUcEY4YUtRZEIxVWVxeExxY3FLblFPbFQ5d21ka252N2VTSlFvM3FTWHpibG5Gc1E3RlVXeVlWck5qQjItMVBwbEVvTlFnazQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "環境省、データセンターの脱炭素化に補助金 再エネ・蓄電池・未利用エネ活用 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:56+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e1f43c0ad527a148",
+   "title": "蓄電ビジネス参入のサンワシステム、2027年30MW目標 初案件9月稼働",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kTWg1eFhWTlJ5LWFSWFhjbE96ZHlTRnEwMXEzVmhYNDBkbHVXcFpoQW90UmhtX3hBT1JjV3dVeGI1bUhyVXM1QWFCTVB6eGk2NlFXajJ3S2xFRGhKT3VFcUFzYVpRcUFXOHNjZWFlbDR0Mk1uT09uVGl3cnU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "蓄電ビジネス参入のサンワシステム、2027年30MW目標 初案件9月稼働 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "da0aa807e21c9fd4",
    "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光(R)」を活用",
    "link": "https://prtimes.jp/main/html/rd/p/000000025.000068968.html",
@@ -32,8 +130,120 @@
    "published": "2026-10-20T12:40+09:00",
    "company": "TSP",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "発電所・開発"
+  },
+  {
+   "id": "8e1758fe78d92b4b",
+   "title": "メガソーラーから銅線90本 約900万円相当を盗んだ疑い 大阪市の男ら4人を逮捕 熊本・芦北町（RKK熊本放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM2JORlM0cWprQTM2ckt6OXVWYmIyTEltRTNYRFN4T1BxWTNSMzl6eVBVeW1zX05qSzhDdDY1c0szSERpVXU0UTc1aVBrQ0N4N1JMUHQyeGtCZ25JYzdjVVlpakRPWjhacWRHZ2w5OTJZSDFkWXM2X3VMdkRRQ1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "メガソーラーから銅線90本 約900万円相当を盗んだ疑い 大阪市の男ら4人を逮捕 熊本・芦北町（RKK熊本放送） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:40+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "55e2672c42159974",
+   "title": "メガソーラーから約900万円相当の銅線ケーブルを盗んだか、男4人を逮捕 (2026年10月20日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUTBKTFU1ZEV6eUdGcXZpeTBSS3FvejlSSmt4bTI4N1BnY3VLYUhpVkcxN3pRV245ZUctei1kRkZYUWE0VHFnTHBBVFRQWnRIcVJRbkR3UWVLNTVPX0E?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "メガソーラーから約900万円相当の銅線ケーブルを盗んだか、男4人を逮捕 (2026年10月20日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:39+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "add32b2b3073d631",
+   "title": "鳥取がソーラーシェアリング現場視察会を実施、営農型太陽光発電でJリーグとともに気候変動への取り組み (1/2)",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11NFR2TFRGSER2WkNkazU2bGdsVzAzNERFM3ltQmY1QU9TaFhoSzZUcERJNFBiV0xMNTFQUVQzYjhicmk5cUJPTGVITy1NUQ?oc=5",
+   "source": "サッカーマガジンWEB",
+   "summary": "鳥取がソーラーシェアリング現場視察会を実施、営農型太陽光発電でJリーグとともに気候変動への取り組み (1/2) サッカーマガジンWEB",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:27+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
+   "id": "a01f422ee7d097fe",
+   "title": "太陽光発電所で銅線ケーブル“900万相当”盗難…買取業者に売却か 男4人を逮捕（熊本ニュース KAB ONLINE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lck1YbUpaNDVHOTJSa2ZWRFYza1RoV253TFprcllySFhUYmxybTVZSGlIR1BiYnBZM18tTHVkUGpSVk5Pd1dkRWZvbHVZX1VqWERXUDhfSzJwZl9pLThWRWJLamxEeG0tbjJIVENDUDlkOXBKM0Y1Ny1iV0F5S1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電所で銅線ケーブル“900万相当”盗難…買取業者に売却か 男4人を逮捕（熊本ニュース KAB ONLINE） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c9e67db3cef2548b",
+   "title": "環境負荷低減に向け、18店舗の屋根上に、太陽光発電設備を新たに導入年間約114万kWhを発電、CO₂排出量453.7tを削減",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IaWcwZFFiRVJ6Tk5Lb2JKR2FkLTVfMGVZeFlFaHZVU2NoVHcwMmJuRllkTjhXcGE4M3phMTFpajE1dTJPWWFjZ0FUSDhEOUQ5ODAwQ1BTWmNjSk9XVTNTNVY1VGFLSmR6QWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "環境負荷低減に向け、18店舗の屋根上に、太陽光発電設備を新たに導入年間約114万kWhを発電、CO₂排出量453.7tを削減 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-20T11:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "company": "株式会社ネクステージ",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "a71a43681a812227",
+   "title": "ＮＪＳ－底堅い 札幌市と太陽光発電設備導入で協定締結(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUtZRU1JZVZPUFNNUFJqbmVwTUVXb1RxREhtUDFpTlZaU0c1UF9rT25iZi1pMzM0MU5mczl2ZzlxR0ZGYmxvU0k2OHcySjlqYjJ3ME9oSFJWVFNjZnZlaWJ6aWd0akFyV2JvYzEyZHowNkZKQThTLVlDYUZad204QWVvZ3FKTWs?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "ＮＪＳ－底堅い 札幌市と太陽光発電設備導入で協定締結(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "abc8bdab4b1223fa",
+   "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zNTIzNGp0MGtvRVoyT0llU1VZTTZLWGpyc3Z1WW5xbFBBckZyMDFQcTRrMGdRV1BUY0N0SlZtaFB0SVBvT25oanVEVEJpZWpLTmN5QWtEU0xSRXczUFJ5czk3aGRIYktpLVdwUHNyMjltRXJXdy1HMWRyVQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "683142cdf6f18ef6",
+   "title": "６市町村２９５ヘクタール森林区分外に すでに太陽光発電施設整備",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aby1jUmtMWW8yQ2hEZDJlaUFrVjRtYVVzb0YyYXh3dTlZOGt6X0d1YmJqaDBCSkNhVjh1dXNPLUxBQ2lrbU1DbFduSQ?oc=5",
+   "source": "47NEWS",
+   "summary": "６市町村２９５ヘクタール森林区分外に すでに太陽光発電施設整備 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "b01d47155ba4b377",
@@ -49,6 +259,34 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "company": "株式会社ティーエスピー"
+  },
+  {
+   "id": "c17b6297d20ca681",
+   "title": "ジャパンブランディング、系統用蓄電池の制度解説ウェビナーを10月下旬に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RMURxejd0QjZKLWpBVG1LTEJBeWwyM3gtY0c5a1Z6VXdQT1lzcjdyTE9BTGJ0NEtaczdqazFScEhLbFFfcHc?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の制度解説ウェビナーを10月下旬に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b58c62a2aeccf1ca",
+   "title": "グローアップ、系統用蓄電池向けAIアグリゲーションのかせぐりを開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhckxQN2dqZXZMQzJsb2l5aVNHN3NTQ2o3NFVwM25CNU4xMTUzT2RWSFowOHJEOWtLMlpJRlJDek0tQ2RqVnV2czFkRGRJYVBhNjl6Wkk2NzZwWk8tdmgySGNaVlE?oc=5",
+   "source": "Dellows News",
+   "summary": "グローアップ、系統用蓄電池向けAIアグリゲーションのかせぐりを開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "384eed56ab07803e",
@@ -315,6 +553,20 @@
    "company": ""
   },
   {
+   "id": "43a60dba5232e31c",
+   "title": "操電が取締役会設置と監査役に岩田淳氏選任で経営体制強化 分散型蓄電所構築へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZUNaQWw0R3dTZnNxYUFJTVRzYlRqTW9OV3YyMExxcmhiQ1BLLW9BLTlpeVp6S2lyelQ4aXhULXBQalVUY2c?oc=5",
+   "source": "Dellows News",
+   "summary": "操電が取締役会設置と監査役に岩田淳氏選任で経営体制強化 分散型蓄電所構築へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T23:16+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "3390d7d0c6303b94",
    "title": "HEMSデータを用い、太陽光発電・蓄電システムを提案",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dGFhTmRzZHQzUXN0cVBuTmJ1X1JaaWRvMkNtSVlCckZYWDJqVWVSTUppcW9ORG1CZHRUVnotM0dwQXRkVFc3eVRKeXZ1dmF0MDJiaEhXY20?oc=5",
@@ -441,6 +693,34 @@
    "type": "news",
    "published": "2026-10-19T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4e3cdf1f6506b26c",
+   "title": "系統用蓄電池、日本と海外で何が違うのか--米国FERC命令と長時間貯蔵支援策を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yS3BRNVM4RFJTQ3FNZXgxUWZFRlpITGpXeUlUQzJYX29TQWpKSmhwWVZWOHZSWC1TaC0zMmgtcVd3bWx6dnROaERrUzhzSDBpRmpNWjJRN2xyNlRGNXpsdnl3?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池、日本と海外で何が違うのか--米国FERC命令と長時間貯蔵支援策を読み解くウェビナーを開催 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "09685ba51fa52828",
+   "title": "大和ハウス工業の系統蓄電所に蓄電システムを納入 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUpNS25ZaVRLd3VpRVdHRFRod2x0aXRld2xKM0U0S3JFZG1rdXpWdmZ1eFM0UHVJei1hWTA4SEFpWjc3ck45LXlaN0JjNDlpU1k0cFNUbnpXV21DYjlrUkNMSTZsTDl5X3cyRmxORDVPV3YwZlFCUnh2dHJCMjE1Sg?oc=5",
+   "source": "南日本新聞",
+   "summary": "大和ハウス工業の系統蓄電所に蓄電システムを納入 | 鹿児島・九州プレスリリース | 生活情報 | くらし 南日本新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T17:43+09:00",
+   "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
   {
@@ -586,6 +866,20 @@
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術",
    "company": "サカタインクス株式会社"
+  },
+  {
+   "id": "ab8bd5fb4fe28e82",
+   "title": "サカタインクスと米Sofab、ペロブスカイト太陽電池向けETLインキを共同開発",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wTXdtWU4wZllRaERveVd5MHNEb0pLZWYyNGVMUDJ1aTV4YWhBdlhvdFB3UmR5QnFRbXNLVk1aQ1RJV3czZGVsdlJheFprVnRrODd5V2pBdHdpWE5VYXlmX3B4SXo?oc=5",
+   "source": "Dellows News",
+   "summary": "サカタインクスと米Sofab、ペロブスカイト太陽電池向けETLインキを共同開発 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T15:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "aad1c37f30a62ea1",
@@ -1921,6 +2215,20 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzV6eFZIVU1FMlZMYlZEVXBNeGhJaVhhdEdyaFp6NkprbnAybGVmbGNjRVI3MDM1WE81UVJOazN4UUwzaGJRWGc2ejh2azR4M3pGQ09Na1ptVHVKVzRRR2JfVU9BZEEzTXIwYXIyeVhpMVE0blhEZ1VvdVRMMDhmanhMNnFSZW_SAYcBQVVfeXFMTl81enhWSFVNRTJWTGJWRFVwTXhoSWlYYXRHcmhaejZKa25wMmxlZmxjY0VSNzAzNVhPNVFSTmszeFFMM2hiUVhnNno4dms0eDN6RkNPTWtabVR1Slc0UUdiX1VPQWRBM01yMGFyMnlYaTFRNG5YRGdVb3VUTDA4Zmp4TDZxUmVv?oc=5",
    "source": "ｄメニューニュース",
    "summary": "エンバイオ・ホールディングス＜6092＞、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得 ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T21:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "9a054139aef7032b",
+   "title": "エンバイオ・ホールディングス 、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUnRRX01oZXpPWEVOXzdmZ0tKbk84azBzYV9ZeXhIUzczZi1Na1R1M25GeU11R2JvMjRYcUJhVnVvTU5fMUtvR1pn?oc=5",
+   "source": "M&A Online",
+   "summary": "エンバイオ・ホールディングス 、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得 M&A Online",
    "categories": [
     "solar"
    ],
@@ -5026,6 +5334,20 @@
    "published": "2026-10-14T05:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "bd2ca228f1fe4c13",
+   "title": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbl9oNGFVY2swTDRfcTc3bFlaYmZ6d040Z21TcFA1Sl9sT1ZqaU9Uc2VFRms1dTh6aWZTX2NhMVZGNVFMdlpVczNVUDk5UGg5d2JSQg?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-14T02:15+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "発電所・開発"
   },
   {
    "id": "1749dd0ea786db9b",
