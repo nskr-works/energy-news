@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T17:12+09:00",
+ "updated_at": "2026-10-21T19:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,40 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "790879220b149a6e",
+   "title": "系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000073.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T18:40+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7cf1fa6c9b52ad28",
+   "title": "KIBOR株式会社は、10月より低圧アルミケーブルの国内在庫・カット販売を強化し、材料費の削減と盗難リスクの抑制に貢献してまいります。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000008.000185116.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[KIBOR] 近年の銅相場の急激な高騰と変動の激化により、資材費の抑制と安定調達、また現場での銅線盗難被害などの問題が、太陽光発電所や蓄電池システムなどの建設における課題となっています。KIBOR株式会社は、こうした...",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T18:15+09:00",
+   "company": "KIBOR",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "トラブル・地域",
+   "storage_topic": "低圧"
+  },
   {
    "id": "27869b009adf9f73",
    "title": "太陽光パネル洗浄ロボットの世界市場（2026年～2032年）、市場規模（固定式、移動式）・分析レポートを発表",
