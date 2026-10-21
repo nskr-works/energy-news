@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T07:06+09:00",
+ "updated_at": "2026-10-21T11:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,93 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "ff41481a296cd218",
+   "title": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hazRtTzhacXBZb1RId01VRm1LZ2otSERkUm1DcGllb3dHUnpoTWJzeHUzZlczRkVMR05wNEprajFVX1dSZGpIODZDTWh2Smo3bHdRZDdNX3k5ZVVOOWR0OVRsVGpyck5hTHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！ PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他",
+   "company": "株式会社NEXER Group"
+  },
+  {
+   "id": "0b1b3de998c85087",
+   "title": "メガソーラー…埋まらぬ溝 福島・運転開始１年、市民「景観悪化改善せず」:福島ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MDNRSy16MXF1U1p3LVU3RnVKNHQ1VmlQVXRFNFhkWVpzQ1d5OGVGTWtLOTEtdk9ZMEFqTXpEZjYxNTlXUVYtcXBkQ1hrd01OMWNxS2pGbnUxMklMbWhBNnRJZE1nWERJ?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "メガソーラー…埋まらぬ溝 福島・運転開始１年、市民「景観悪化改善せず」:福島ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T09:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "1fad0c1cd83e20e2",
+   "title": "メガソーラー…埋まらぬ溝 福島・運転開始１年、市民「景観悪化改善せず」",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtOFhnZmdzYktBVkpLRVR1UHVXSXRqS3lYVUlzejc5WDF0Z3RpLXlNTFFRUlozcmNNaEJUNlBWRDNfNXRrdmtxMjRmMA?oc=5",
+   "source": "47NEWS",
+   "summary": "メガソーラー…埋まらぬ溝 福島・運転開始１年、市民「景観悪化改善せず」 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T09:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c4d76c376a669171",
+   "title": "パナソニックＨＤ、ガラス型ペロブスカイト太陽電池の量産を１年前倒し",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaVM4WkN0SGRid2Q2Q182RTliZTdrVHczT2JxTkFrcDNNOG16Q0NBQml1TVZ6dTdqenZHaDFhZGJHQU1NcjlxMjJtRS1QZHBZZkF0Yg?oc=5",
+   "source": "https://kabu-ir.com/",
+   "summary": "パナソニックＨＤ、ガラス型ペロブスカイト太陽電池の量産を１年前倒し https://kabu-ir.com/",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T09:14+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ebbd4e2d710af6df",
+   "title": "パナＨＤ反発、ガラス型ペロブスカイト太陽電池の本格量産計画を１年前倒しへ",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcDZtSjFUZWNTdHdPb3FQektuclIzcmwyU2JhajNVQzBJVFZtRmNqSUZiME8zUnhJVENnaXo2SGs5Uk8wYjVlLTZ3YXRVRzRiY0ctbnNXLTRPYVE5SjJ0Qg?oc=5",
+   "source": "株探",
+   "summary": "パナＨＤ反発、ガラス型ペロブスカイト太陽電池の本格量産計画を１年前倒しへ 株探",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T09:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "340f1094dffc5a2f",
+   "title": "J-クレジットの適用を緩和 東京都など太陽光発電の導入義務化自治体でも登録可能に",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40VVk2ZndEUWJqMnRfODU4QUctNjNpX19PQmUtRmxOdDdwZnhxa0MzZ3dhRXNsbEtoWWNubXpTR2tOOXRhTUxXZ1plVDJWbFpoZ3RLWTNOeWY3ay00akVfaWpoT0lsQlhieHR4bnUzUzdnbmo5ZjlV?oc=5",
+   "source": "ITmedia",
+   "summary": "J-クレジットの適用を緩和 東京都など太陽光発電の導入義務化自治体でも登録可能に ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
   {
    "id": "64f048461f4c5f3e",
    "title": "堺の太陽光余剰電力を市有施設に供給 AI活用の仕組みが「ソーラーウィーク大賞」",
@@ -44,6 +131,20 @@
    ],
    "type": "news",
    "published": "2026-10-21T05:26+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a2b49250040682e4",
+   "title": "次世代型太陽電池 パナ29年から量産 ペロブスカイト 窓、壁に設置",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaajBnUl8yWXh0OENLUmJaRmJ0MGNLcE95blpzbGdkSWJkNng1bHI0cGlWQzFJdUtWdmxKV3ZqUjhBZkhjN0lvdVFqenM4MWJvak1DaFZrR3RJUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "次世代型太陽電池 パナ29年から量産 ペロブスカイト 窓、壁に設置 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:01+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
   },
@@ -88,6 +189,34 @@
    "published": "2026-10-21T05:00+09:00",
    "via": "日経クロステック",
    "topic": "次世代技術"
+  },
+  {
+   "id": "4ce86a62fa5b44a0",
+   "title": "薄くて軽い「ペロブスカイト太陽電池」、パナソニックが２９年４月量産開始…窓ガラスの５倍以下の価格目指す",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UnZ1aThLeWZiZ1hZWHNQWDlyWUx0UE5ZbW9DN2xqSTh2Zzlpb2ZQVXpKbkRCX1R1anc1TzM3TVpQbk1lX04weWRQYlp1OVdUZHpzNEpFRFNhWkNYdGJJYkNqNmM?oc=5",
+   "source": "読売新聞",
+   "summary": "薄くて軽い「ペロブスカイト太陽電池」、パナソニックが２９年４月量産開始…窓ガラスの５倍以下の価格目指す 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a47b11da94fa310b",
+   "title": "NEXTES、水冷式蓄電池を「NXシリーズ」として展開",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NQnRGOUVfRl93SFRrVWtZQzIzZ3dianBONWVfck9BazN4VlMzLXdGakNmSHZlcFhTRTZGbDEzQ3d1MTk3TG94TGcxNFczVmtEdmNMV2l0VGt6SXM?oc=5",
+   "source": "朝日新聞",
+   "summary": "NEXTES、水冷式蓄電池を「NXシリーズ」として展開 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T00:48+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "374ed9701e6cf56f",
@@ -161,6 +290,20 @@
    "published": "2026-10-20T22:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c76cbb02a62ca73e",
+   "title": "“ペロブスカイト”量産化 日本勢シェア拡大のカギは?",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CU2VTdG9tSGczbG40RFh3bVFNY2psMW1KbG5oSnNUN01TNHR6Uzl0NnFKVmo3TmZxVGtjYXpNOHZNdTAwU0F4NzhPREFrNHBzSlZkM0FMVlB2eVRNUDhWZ193?oc=5",
+   "source": "テレ東BIZ",
+   "summary": "“ペロブスカイト”量産化 日本勢シェア拡大のカギは? テレ東BIZ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T22:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "cb189ac2055a2f5e",
@@ -322,6 +465,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "555c6ea7b5ab6403",
+   "title": "系統用蓄電池、連系済み容量はなぜ3年で10倍に増えたのか--導入量の推移を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a2ExV184MnV5RUctXzcyaGtxalEzeHN2dHl3S3FLSTB5bm8zek1qMWFtQUMtQ2RXcTFSRkZYRXlNc2xsbThkenlRWDlJblJXUFVha2V2aFFjeFIzVVVmTTNB?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池、連系済み容量はなぜ3年で10倍に増えたのか--導入量の推移を読み解くウェビナーを開催 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "e918f43340a113b6",
    "title": "パナソニックHD ペロブスカイト太陽電池 2029年度に量産開始",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iVm1QWGJZWjA0OXJxVWRMc2YtdVdFWnNNdTRXdkp5bkdKQTZHcXB3VFpQS25FakxONV9fWFgyd0o5cDhwTGVUNTVtLXJKY0tlR2xOZDR5Z2lXaU90NS04?oc=5",
@@ -348,6 +505,20 @@
    "published": "2026-10-20T17:53+09:00",
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "328acc8765c6335a",
+   "title": "工場外の物流施設で太陽光、NTN岡山へ直接供給",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EU2N6WWhHNUdWU2cySEIzZlRPTDRJOVh5ZzhfaW9LRmFTOXA5SjlJZkplQXRERnJBTEZNR0lmbkQ0XzZ5NnhiSkZB0gFPQVVfeXFMTW15eDRFekhCUS01STlmVG9MLTVDR2hqQi1tU2haengyWG5sbW9wMlA2RlF5dHlQcl9kX0duM0tXU2o4YkROUUZYRkVqTFctQQ?oc=5",
+   "source": "LOGISTICS TODAY",
+   "summary": "工場外の物流施設で太陽光、NTN岡山へ直接供給 LOGISTICS TODAY",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T17:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "94abcd38000b5bbf",
@@ -494,6 +665,20 @@
    "via": "PR TIMES 新着（直接）",
    "topic": "市場・企業",
    "storage_topic": "その他"
+  },
+  {
+   "id": "4b25dfada009db9b",
+   "title": "窓ガラス発電を実現へ、パナソニックの透明な太陽電池が本格量産を前倒し（家電 Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wYlFGTHV5SVBqNUxRNmtja3RBclNESTFaQ3ozS0phSjhEYi1OQzJsZGpxV1FyLXlrcDFBaXZwY3JzNk9ONDZjLVJ6aFdSWTJHWjJPNGYtc1dnNTMxOFA0NVluajQ1OFU5dUIwVVZuQ0dHck1sUEdGOE5kR0hKOWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "窓ガラス発電を実現へ、パナソニックの透明な太陽電池が本格量産を前倒し（家電 Watch） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:32+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "59d7a034a4031ea8",
@@ -922,6 +1107,20 @@
    "topic": "その他"
   },
   {
+   "id": "82562bef9b4a38dd",
+   "title": "ＮＪＳ[2325]：札幌市手稲水再生プラザにおけるPPAモデルを活用した太陽光発電設備導入事業に関する協定を締結しました 2026年10月20日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUlFUWENrZmF1LVUxV19tYXpHTnlDR185ZHBBXzVfRGthdHRfM2hNamNUSDR2eXhHdldkVEp3eVZudWRuZXdpdjJKNFl6TXBxc2FGU1FiaWhmM2JpVld6aWQyLUxMMHoyUEE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ＮＪＳ[2325]：札幌市手稲水再生プラザにおけるPPAモデルを活用した太陽光発電設備導入事業に関する協定を締結しました 2026年10月20日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "b01d47155ba4b377",
    "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光®」を活用",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZ21fQm8wR21uRGNYNk1EMGl1MEVXVzNGaUdKQVdpQjZ2cWFKYXNQTWwzekpqRDhqMjlUZGZGV3pfSGN3dzdTNDdRcG5ISFJMX2o0ckxyUGY1QWtGN0JHT3lrYjZONVJjakE?oc=5",
@@ -1021,6 +1220,20 @@
    "published": "2026-10-20T10:40+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "4c4d05ec5e1a4fdd",
+   "title": "TMEICの川上技監、IEEE から表彰、電力変換器の技術開発に貢献",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3SlAzTGtmODNoSkxYRi1fYkJzMFNlYTRac0cwbWVNYjNTN1dlVXFUVy1CZ3dUMVREeWZodXR2QzBBWUo3ZW1aVUZuLVBJbjJUNXZ5QVJiamRIQlZpTTE3eGdpYk8zOV9HTTdseDVjNkFDV3BD?oc=5",
+   "source": "日経BP",
+   "summary": "TMEICの川上技監、IEEE から表彰、電力変換器の技術開発に貢献 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T10:39+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "384eed56ab07803e",
@@ -1124,6 +1337,20 @@
    "published": "2026-10-20T09:10+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "company": "株式会社グローアップ",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "39354193c3463019",
+   "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zNVdmTVRTeTkzS2EydjJDYXlKaHpWU2NidElmdDhWMUp6b1VUTmRaUzdYa1hLT0pERkRVUXdtdUhYLWNCQnZGZmpjbkhFS19rRktodG9sTjFfaDF2c3RlNDhzcnNtcFMzU0NFdjBVTEJVQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T09:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -1641,6 +1868,20 @@
    "company": "Jackery Japan",
    "via": "PR TIMES 新着（直接）",
    "topic": "市場・企業"
+  },
+  {
+   "id": "5698dd14f4ee56b9",
+   "title": "GCL製ペロブスカイト太陽電池モジュール量産出荷スタート（MONOist）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44YzdEREZJRXVrS1ZKb01Jbl9OdEVGaWtfTjRqTExRanc5X2FTSHlEbVJoY1BxUkVldWx2UWlRdC1oOWZzRk5nalRFTGdfQUlVQW5VUUFrVmhWdURMS29yUE9WQkdOSkU0QnBnci14dXJsal8tZ3AzeHNfZ2hMczA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "GCL製ペロブスカイト太陽電池モジュール量産出荷スタート（MONOist） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "9c3754048240e95e",
@@ -4010,6 +4251,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "トラブル・地域",
    "company": "GBP株式会社"
+  },
+  {
+   "id": "85328b7b574b1e61",
+   "title": "オーロラ・エナジー・リサーチ、AMP-lifyの美浜町蓄電池計画の分析支援",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YekdPOTI4MnRDWEI5d25wYTNKdDlTeUlyaWFWUkVRckpOUE1lckJZcmVjeGh0dzFiZ19nM2JTQldEdVJWZnZmUFZLWkU5MmRRTnZYNXBRQVN6SVN1ZjFtRU85cjhDcWQt?oc=5",
+   "source": "Dellows News",
+   "summary": "オーロラ・エナジー・リサーチ、AMP-lifyの美浜町蓄電池計画の分析支援 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-16T07:43+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "3f76c0949f135544",
