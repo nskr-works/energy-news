@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T19:09+09:00",
+ "updated_at": "2026-10-22T07:07+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,118 @@
  ],
  "items": [
   {
+   "id": "48b3fc8a79c515a9",
+   "title": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVmxhWDVpczJTUFZfaTBlemZIeVYzSDJza2EzVFZ5MkdqdEUyRm5FUUdEcTBkQWZXbklVYkVNczBkMW04bEhQVkU2OTNGbGJEdmNnZE5xNjZwS0M4ZHRScVMzUGVobGpyUTg2SmdXZVZqUzhCaXdDMU13?oc=5",
+   "source": "日経BP",
+   "summary": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？ 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "5c401c4bf7f2aca8",
+   "title": "太陽光発電施設から銅線約４５００キロ盗む カンボジア国籍の男２人を逮捕 ７県で同様の被害を確認（仙台放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BanpZNXBnZU9QZ0ZEUEVOdW5mUHpQNEFrOGpaRGlHUUduWnVVZ2Zzc3ZwNk9TYUFqREV1YzRJZG45ZWd2ZjRXMm90MGN2WVBwQTVMTlVtWDBWZVFlQ0otYmR5Z3JISHhQOFdUNmtWZnJpa3p0alMtRGZGd01ZSHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電施設から銅線約４５００キロ盗む カンボジア国籍の男２人を逮捕 ７県で同様の被害を確認（仙台放送） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T05:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "4209a42ce6119318",
+   "title": "太陽光発電の課題など説明 郡山でセミナー",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xX01ZbWRFelhfY3lfOURQcWFkZGpSWlRKWWIxUlBxU0x4c29EVFZtMDdDTHhDb082Ym1VV1JsZzRITEFMV1AtZkZObmZIeGs?oc=5",
+   "source": "福島民報デジタル",
+   "summary": "太陽光発電の課題など説明 郡山でセミナー 福島民報デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T05:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "107c480a3f28bf4f",
+   "title": "太陽光発電、本当に限界? 「次世代」推しの政府が踏むブレーキ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNcGFiZnBDTnNCVDFvNEd1VEdfalhZdURMOUpXUFQ3eXpmSkwzSjB2SWd5Zm1iekZ1bUJtOW50YkJDZVNxcUxMYVRiUm9rd01XMVpaN04zc0g2N0FFclVWVnVBRUdhY1NC?oc=5",
+   "source": "毎日新聞",
+   "summary": "太陽光発電、本当に限界? 「次世代」推しの政府が踏むブレーキ 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "71c19ad58bbe6764",
+   "title": "中間柱なしで有効間口8mを確保できる3台駐車のソーラーカーポート",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01071/",
+   "source": "日経クロステック",
+   "summary": "ネクストエナジー・アンド・リソースは、住宅用ソーラーカーポート「Harmost（ハーモスト）」に、中央の柱をなくした「3台用中間柱なしタイプ」を加えて、2026年8月に販売を開始した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T05:00+09:00",
+   "via": "日経クロステック",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "cccd3d8eaf953cbe",
+   "title": "テスホールディングス、静岡菊川蓄電所で機関投資家向け見学会を実施",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83TE1QdTlDUVVTOE5CZFAxS3VEMlNsSWg3VFg4eVd6UTQzMUJBa3hoTFNmbUItTllnVzlNSDhaMlg1Qm8tWFE?oc=5",
+   "source": "Dellows News",
+   "summary": "テスホールディングス、静岡菊川蓄電所で機関投資家向け見学会を実施 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T21:25+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "971ca7003e674a2d",
+   "title": "fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xd0pIcmh2Rm93UXpRSldHbGhpWFZpZXlVYmVCblJqTHNMTURnQTZzSU93UFRaektaN205cjQ2T1NWcERkeVpPWURkRGRSSGNIOG5GTFYtWDFHazZFN0E?oc=5",
+   "source": "Dellows News",
+   "summary": "fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T21:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "456a399b16b0af46",
+   "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OWnVBVFBfRG5jWU1SY2ktbWowR00yNElHdGZpb2VEelBsYzcyN0NpQ3dWYXlsZFM2SE5CSnhEQVNwZFFiV2ZybUVCQkZFV0ZDdzJnZw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T19:30+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "790879220b149a6e",
    "title": "系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000073.000181124.html",
@@ -32,7 +144,20 @@
    "published": "2026-10-21T18:40+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "349779c89b75c7b7",
+   "title": "ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yNWkxdkFtQjhldXA2Nmk5bkJBeEZZbVNNQndkOEFrcnQ5R0puVDBQTGI0YV9rdTBuTTBnYmhRSnFfRnVXaVVnMmI4WVI2X2pjWVZFVExqVXdtSmVQV1daaGdQOTM?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T18:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -49,7 +174,6 @@
    "published": "2026-10-21T18:15+09:00",
    "company": "KIBOR",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "トラブル・地域",
    "storage_topic": "低圧"
   },
@@ -67,6 +191,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "efc2bf08b6c31d8e",
+   "title": "パナソニック=ペロブスカイト太陽電池の量産1年前倒し、29年4月開始｜クリーンエネ｜マーケットニュース｜マーケットニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQXE5d3lCcGdSUjVjc0lJZ3JIVjVfc0VmTFNoQ1gyXy1MR0Q3b1pULVpvLS1BWlJ1cmh3RzBNbXRCZmdXX0JDTzYxcTBmS2t3U2I5V2xyWUxBbXBuTHg2MENTU0Vlczg?oc=5",
+   "source": "リム情報開発",
+   "summary": "パナソニック=ペロブスカイト太陽電池の量産1年前倒し、29年4月開始｜クリーンエネ｜マーケットニュース｜マーケットニュース リム情報開発",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:56+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "310321deb45348a1",
@@ -140,6 +278,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "bbcb6f538a072423",
+   "title": "SSK、系統用蓄電池の収益構造を解説するセミナーを２０２６年１１月２７日に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96Z2JrYkpkMExXempSclF1MTFad3hiVmgwdm1BUF90M09WYmxQbDd1SzNjOWVwNEM3NURDSHhpQ2NPcXA2aUE?oc=5",
+   "source": "Dellows News",
+   "summary": "SSK、系統用蓄電池の収益構造を解説するセミナーを２０２６年１１月２７日に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T13:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "60b2d537d98af2f7",
    "title": "カンエイ・TERASが系統用蓄電池事業を共同開発、Bluefield Energyがアグリゲーターとして運用",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNU9kb2VtQ1lOWDV2clJfTm5DMWFIX1BDVjl5d2ttdnJLYzVLRTlmcnhEaGdUdEY5ZHdqY1ExMkhOb05GSFA0VW1yeUJUWEtGdURRVlhiM1BxSng0SS1XZ05qeG5YeEpqbGhPck1LZU16TkFSQWVPWA?oc=5",
@@ -153,6 +305,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "Bluefield Energy株式会社"
+  },
+  {
+   "id": "6ad0df5f22f345d3",
+   "title": "ペロブスカイト×光るミャクミャク、次世代太陽光技術PR 大阪府庁舎に設置",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IZzhQNUlkYUtUTDgxLTNlMlkwd29uSG9SQ3hpQTRCV1B6SzFIRXB3U0RkTnZjRWhVOGFjM1E2U05wX1BxZ2lidjU1YlBBUWlZZEdBQmxWT1duVHJHNW1fV0V5YjRpU3kxT2lzQ1huWTlGSWJzS1dNUm1BdG4?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ペロブスカイト×光るミャクミャク、次世代太陽光技術PR 大阪府庁舎に設置 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T13:14+09:00",
+   "via": "環境ビジネス",
+   "topic": "次世代技術"
   },
   {
    "id": "38e06c34b9700b91",
@@ -241,6 +407,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "c8b7b6c467ad0211",
+   "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdDhxU0M1YVF3RWgyWUtaVWpZYkhESEpjbk40N3ZOdmtiUmN3U2tJRHV0MVlUV0FvUnE2X3lsV3FVeVg5UGNydHI2c2VGcFRaT1VoeVR2RDl5S3EwckNnRlZjdUJ4ZVJ2QWlWc2pFMW5Edw?oc=5",
+   "source": "Infoseek",
+   "summary": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "5100cb815f717101",
    "title": "【ミャンマー】太陽光設備の設置義務化、建設業者が負担懸念（NNA）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OEJiNkpQdkN2eFFBU18weEZQUkh2YmRpd0dMRWsyaGRWTERmUWhxaklvMk5QQ0RuZlI3MTdnM1dQX0toeEpkMElhQWd0bFVtUnVWN1laNDI5RlpKUUFpQ1NxOVUwZFNWdWc5V2w5MTFoaGI5SHg0eHc5cTRGNG8?oc=5",
@@ -281,6 +461,22 @@
    "published": "2026-10-21T10:50+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "bdd63893735821c5",
+   "title": "日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mcGhtWGI3OGhiNHBZQU52MG1wd0lmeVJRS01CanNLRENpMHhNdEpwOG1uSkwtWFNNNS1SNzhCaHd1NGJubVVMVzNodER6LVZlUFZjelV0N29vUUQ2SUpOeTAyMlc1Z3B1VUx1SzEtY2xUbVdO?oc=5",
+   "source": "日経BP",
+   "summary": "日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T10:47+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
   },
   {
    "id": "b8546b3303f3904c",
@@ -410,6 +606,22 @@
    "published": "2026-10-21T05:49+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "fe2f599e1e2865a6",
+   "title": "メサ・グランデ・バンド、保留地初の公共太陽光発電・蓄電池設備を導入 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTV95NjVheXdCTERzWmZYaGt2UUFlZ0l3MEhrVkxKem9QbG02NWQxSHVDdGozSVRVbHRPWDNEdGhfcllrVVM2WjM2Rzdab0lFNkhYZUJYekxyU0E3VWJ5eU5hTTJza3Z2YmtjdVEtRTYwSlAxVkdWR1p3T25SelJjX0xoNWNNLUs5Q0VFQlNuMHRUMkpxbTF4a2JyaGh0YXBGVDFrYV9rMV9LdnV3QlpDRVdpRQ?oc=5",
+   "source": "IndexBox",
+   "summary": "メサ・グランデ・バンド、保留地初の公共太陽光発電・蓄電池設備を導入 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
   },
   {
    "id": "2dc298b963845e47",
@@ -5568,6 +5780,20 @@
    "published": "2026-10-15T11:40+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "190ba84d9759910d",
+   "title": "ペロブスカイト太陽電池実証に参画…三協立山、アルミ加工・設計技術生かす（ニュースイッチ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTnp1WGJ4OHVOcDJ6b0NIMWZ2YndFSmZvbVI5OTV3dWNCbUJwakdKT21FTVd0SHdUcmNXVGVIcjhXS05tT2R4eVZlMzBveVVwZjdYdThRZkVJTDNWM2syY2Npa0EwZUtLTi03SmhZQ0I1eHZkQlZnU3c3aGNZZjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ペロブスカイト太陽電池実証に参画…三協立山、アルミ加工・設計技術生かす（ニュースイッチ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T11:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "06d82eda09726e8a",
