@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T13:09+09:00",
+ "updated_at": "2026-10-21T14:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,63 @@
  ],
  "items": [
   {
+   "id": "60b2d537d98af2f7",
+   "title": "カンエイ・TERASが系統用蓄電池事業を共同開発、Bluefield Energyがアグリゲーターとして運用",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNU9kb2VtQ1lOWDV2clJfTm5DMWFIX1BDVjl5d2ttdnJLYzVLRTlmcnhEaGdUdEY5ZHdqY1ExMkhOb05GSFA0VW1yeUJUWEtGdURRVlhiM1BxSng0SS1XZ05qeG5YeEpqbGhPck1LZU16TkFSQWVPWA?oc=5",
+   "source": "RBB TODAY",
+   "summary": "カンエイ・TERASが系統用蓄電池事業を共同開発、Bluefield Energyがアグリゲーターとして運用 RBB TODAY",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T13:16+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "Bluefield Energy株式会社"
+  },
+  {
+   "id": "38e06c34b9700b91",
+   "title": "ミャクミャク様が光る！ 大阪万博のペロブスカイト太陽電池、大阪府庁舎移設",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IZzhQNUlkYUtUTDgxLTNlMlkwd29uSG9SQ3hpQTRCV1B6SzFIRXB3U0RkTnZjRWhVOGFjM1E2U05wX1BxZ2lidjU1YlBBUWlZZEdBQmxWT1duVHJHNW1fV0V5YjRpU3kxT2lzQ1huWTlGSWJzS1dNUm1BdG4?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ミャクミャク様が光る！ 大阪万博のペロブスカイト太陽電池、大阪府庁舎移設 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:59+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "1cd78ba94e41ea58",
+   "title": "ネクステージ、全国18店舗に太陽光発電設備を新設 年間約114万kWh発電 CO₂排出量を約453.7トン削減へ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeWt1Mjd6cXlvREtxNzFsN001Tmw0MXNZSGFYc09FUnJnVDdlREN3NVllU29DekV1UUYwcFh1NVNxZDQ1MVhPcmZkMmJtbkRrWkJJek1mVQ?oc=5",
+   "source": "AMP[アンプ]",
+   "summary": "ネクステージ、全国18店舗に太陽光発電設備を新設 年間約114万kWh発電 CO₂排出量を約453.7トン削減へ AMP[アンプ]",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "2f02acb7f1d2432e",
+   "title": "畜舎環境の改善提案 ペロブスカイト太陽電池も パナソニック│",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbExtSzVUYk5zTnlZVzNKQVM0c3dQOTE0bTFUcFRyM1AxQlJLLU5MSXI2Z2JRX0RaRzlNVmFOUTNpeDhQX1p3VGNJajZfUWxyUTBOWkd5emNic1U?oc=5",
+   "source": "農村ニュース",
+   "summary": "畜舎環境の改善提案 ペロブスカイト太陽電池も パナソニック│ 農村ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "97454d71560300c7",
    "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進",
    "link": "https://prtimes.jp/main/html/rd/p/000000001.000192958.html",
@@ -32,7 +89,77 @@
    "published": "2026-10-21T12:41+09:00",
    "company": "株式会社GBG Technology JAPAN",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "11c375f6f2f8430e",
+   "title": "イーレックスが反発、系統用蓄電池第２号案件の商業運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MTURRS2ZLZldEdzExbVZjd3dUb1VzOXpPb2FGMVpZSzdqeGFQUktNQURQbnJTd1gxd0JRLXh4YkVJZnFXNVNPczN5a0l6bFR5X2VXUW9aWnF2Q1IxVEtZ?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "イーレックスが反発、系統用蓄電池第２号案件の商業運転を開始 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T12:39+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "306eb54838a57ff4",
+   "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ2VBS3UyUEVhQlFYS01BeUMxWEl4b3gtaDVLTkxUdjJLbTM0WldJSzBNYzkyR29iSkIxc2h5NVJiTUlvUVFKcFJ3REpXVFhGbkxWcmNEOWtMamlLYVZpOEM3dEhIVTV6Rnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催! PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T12:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "株式会社　新社会システム総合研究所",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5100cb815f717101",
+   "title": "【ミャンマー】太陽光設備の設置義務化、建設業者が負担懸念（NNA）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OEJiNkpQdkN2eFFBU18weEZQUkh2YmRpd0dMRWsyaGRWTERmUWhxaklvMk5QQ0RuZlI3MTdnM1dQX0toeEpkMElhQWd0bFVtUnVWN1laNDI5RlpKUUFpQ1NxOVUwZFNWdWc5V2w5MTFoaGI5SHg0eHc5cTRGNG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【ミャンマー】太陽光設備の設置義務化、建設業者が負担懸念（NNA） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "28e677e20917c754",
+   "title": "ドイツが太陽光発電の節目を早期に達成、業界は今後の課題を指摘",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aE9iRVZDeTN5dGR3cUhDZTFsYmxzSm8wMTg5Tk5FNVVuZU9yS2FYbFM1dmpnMnNkdTI0OUFxQWgwVWZCV281X21BNVoyajVfWEhtUWhqb3V1Y2ZXdDZFQ1lObDBtZw?oc=5",
+   "source": "幸せ経済社会研究所",
+   "summary": "ドイツが太陽光発電の節目を早期に達成、業界は今後の課題を指摘 幸せ経済社会研究所",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T11:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b8546b3303f3904c",
+   "title": "電気を蓄えて放電 芝山町に新たに“蓄電所” 電力の安定供給に効果期待",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50bkFTUlR1RWJOYkF6UU44MnpkTUFXc3hfZWt3dkpIenR0TnRxWnVEZ0Q0VjcwcG5SRHB0VklXb25PLWpaWU9JWkFHNWVKU1B5aHYzWEVPTHF1YzVfc01R?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "summary": "電気を蓄えて放電 芝山町に新たに“蓄電所” 電力の安定供給に効果期待 千葉テレビ放送株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T10:41+09:00",
+   "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
   {
@@ -51,6 +178,20 @@
    "topic": "その他",
    "storage_topic": "その他",
    "company": "株式会社NEXER Group"
+  },
+  {
+   "id": "e7c63bd1816f5bc9",
+   "title": "レノバ、大規模太陽光は前年と比べ2割超減少 9月の売電量",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVi1oaDVlLVc2WHlqVTlndTNRY3hiQnhuWFdWZ2xtTlA1V1VBM0laTjNYQkRvVTJ0MU1LSXVIVmVub096ZWtxSHZad1piNjBoT1V4YnhFOEpfOTJzQ1lWSWEwMjI3N0FBeE9iNw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "レノバ、大規模太陽光は前年と比べ2割超減少 9月の売電量 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T09:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "0b1b3de998c85087",
@@ -336,6 +477,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "7ef26b5372082824",
+   "title": "パナソニックHDの「ペロブスカイト太陽電池」＝20日、東京都港区",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVFIQnVrelhlZFV3YjZxX3VmNExhX1oxb2MwVmxuMk5xQlNxNEtyUkY3d0NRTWZ4NTR3b1czVFdFNklhZmRxc042NzZ4ODY2ZnJLZkRPZU1IVDFUMVJCZ1VzaENndkJBSnYyT3c2NG9wUmVDZ3BXemxsNWYxU1E5d3l5eUo0X1J4UDdzOFZBTXF0NlJsUkhWOEs1YTFObmctQ2c?oc=5",
+   "source": "産経ニュース",
+   "summary": "パナソニックHDの「ペロブスカイト太陽電池」＝20日、東京都港区 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T20:46+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "acbee82f16ccb07c",
    "title": "パナソニック、ペロブスカイト量産前倒し（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5feXgtdVFNY1duMHBiUXA0RFBjSTNqUkhWVXpGSmtjRVV4a3FrNTQzQi1HZkJqbFZRek5QLU1RTU9lX1dfZndGR1hrLU5sYmhyTzA3SzVYb1dMa3ZaWU9xZ09lU1h2aXZOX3oxbGJkWFNkWlRxMHJGeDVjYkNoLTQ?oc=5",
@@ -364,6 +519,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他",
    "storage_topic": "その他"
+  },
+  {
+   "id": "07291d589efe4fe8",
+   "title": "ヤマタネ、本牧でオンサイト型太陽光発電 | ロジスティクス | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtN0txQzJXSkVVbFcyUTZ5d3gzRG55RWZLUTJNWWdEanA3QW1uY1pjTWRLRThkWVpDNWc4QUJLaFU0TVNXejA2SHVsT3dvTWdtZFpUWFNzM3BjLU9pMkRYcU5UbE9ZcUNtZEE?oc=5",
+   "source": "Daily Cargo電子版",
+   "summary": "ヤマタネ、本牧でオンサイト型太陽光発電 | ロジスティクス | ニュース Daily Cargo電子版",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T19:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "b8a0363b69569558",
@@ -520,6 +689,20 @@
    "type": "news",
    "published": "2026-10-20T17:53+09:00",
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a0d6440f591a9e4a",
+   "title": "プレスリリース：［蓄電池単体販売セミナー開催決定］2026年11月に全3回を予定―系統用蓄電池「Raptor」の導入・設備構成を解説（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWVjIwUEZPNDBtbmh0MTV1YVlKUUNYVjRkOC14WlZPNkh3SHczMFQzRjdJZ2gtUWp1VzdyOGZuOFhtdkhPNnRSSVJUUm83Wl9tYWVRbEF3b2QxWkVkZVBRV2JHYk5kTjdq?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：［蓄電池単体販売セミナー開催決定］2026年11月に全3回を予定―系統用蓄電池「Raptor」の導入・設備構成を解説（PR TIMES） 毎日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T17:52+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -5609,6 +5792,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "39bc6c93eb3df159",
+   "title": "日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BcUNudHMteXZEUFRWMmpsYVhnU1NsbVFkX25sYWxKbWdCX0V1TFZHWU82bF9GdElqR0pBRXNDN2JyekJDU0hQX1dOcndpUHk5a0l6Tw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T00:45+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
    "id": "1fdfe9484ccc16b5",
    "title": "太陽光パネル、再資源化参入 穴吹興産Ｇなど、大量廃棄見据え協業 設備再生事業も 来春開始目指す｜四国新聞WEB朝刊",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGRWQ2VjJUN2NfdXdONHp0em1pVFJKUjRSOE5xbGRKVjJERmItTjNCVHEtQ0lmOWlkSnJST0FZMll3Rjk5LXNOdFV5SklNOFJFRVpUY0o0SFlpLUFYcF80bFJhV2R5TU41bjNwNXBmRU5JbjRCV2JURGhPeFfSAXxBVV95cUxQRkVkNlYyVDdjX3V3TjR6dHptaVRSSlI0UjhOcWxkSlYyREZiLU4zQlRxLUNJZjlpZEpyUk9BWTJZd0Y5OS1zTnRVeUpJTThSRUVaVGNKNEhZaS1BWHBfNGxSYVdkeU1ONW4zcDVwZkVOSW40QldiVERoT3hX?oc=5",
@@ -5809,6 +6006,21 @@
    "published": "2026-10-14T16:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "de8c33ef1980b21d",
+   "title": "環境省の二国間クレジット制度を用い、ベトナム工場に1.24MWの太陽光発電システムを設置",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SajNJM2FxZlBQRldETFpvTmoyc0JCc2luT2pTQzUyWnhkU3ZybktIVG5vSGdXbHZUUHNMRWhKVlllZnRVWHNfX05vdmZhTVhMY2h2OG5ydFNNQzhNS1hMbnlKU0ZUcFVGeUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "環境省の二国間クレジット制度を用い、ベトナム工場に1.24MWの太陽光発電システムを設置 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-14T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "company": "株式会社ヨコオ"
   },
   {
    "id": "5f589daba9b6aa99",
