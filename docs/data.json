@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T11:10+09:00",
+ "updated_at": "2026-10-21T13:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "97454d71560300c7",
+   "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192958.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社GBG Technology JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/192958/1/192958-1-17be8639f6594b44532a620b0ffce8af-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=boun",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-21T12:41+09:00",
+   "company": "株式会社GBG Technology JAPAN",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "ff41481a296cd218",
    "title": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！",
