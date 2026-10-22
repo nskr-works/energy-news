@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T16:24+09:00",
+ "updated_at": "2026-10-22T17:13+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,21 @@
  ],
  "items": [
   {
+   "id": "0f5f8d70e554a524",
+   "title": "DHLジャパン、EVバン「F11VS」1台を導入 ー 物流拠点の太陽光発電で充電し、都心の集配へ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uVVZLeXh5ODhzVFY1NGVSdnlXRldiSFRlLUp4WDRWSDJTQTBVVTBUSng1eWx3ZTVMWVJSOUwtQ3BLT3ZJTDlBcjZPbTBpdGljRTVRWGp3UUtmc2kzdXpsRXFpSXRVdElkVlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "DHLジャパン、EVバン「F11VS」1台を導入 ー 物流拠点の太陽光発電で充電し、都心の集配へ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-22T16:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "DHLジャパン株式会社",
+   "topic": "その他"
+  },
+  {
    "id": "d6c359e627fd06fe",
    "title": "「スクール発電所」の余剰電力を川崎市内へ供給開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000408.000124454.html",
@@ -32,8 +47,123 @@
    "published": "2026-10-22T16:00+09:00",
    "company": "川崎市",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "6eb6027401f91b22",
+   "title": "BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZmRkZ0hEXzJUaGtjZGdLdm03ZWNRb3hIb2hFSHB1S21POEN5c3Q0amlTQ2NobW02MGRoeVZ0bklUenpkMDgyZUdrQWZpZFk?oc=5",
+   "source": "アットプレス",
+   "summary": "BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移 アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-22T15:52+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "その他",
+   "company": "QY Research株式会社"
+  },
+  {
+   "id": "cf6040fc6cc977f8",
+   "title": "新しい省エネ型高温焼却装置、27年製品化 将来は太陽光パネル処理も可能に",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qVEU2QWprd2w2NU50dFMtMU9KWl92c01adWlxdHZ4ZjJuQ3h5a2lmZEdCQTNsVUthajlRbVZabnlVdnhuT3lBTE1wZ284ZmFia2JXVWRpQ0MzS0tJMFJHVE5DN1Z0Y0VXRW1UeXphdUJGczRfa0hRRzRmUzM?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "新しい省エネ型高温焼却装置、27年製品化 将来は太陽光パネル処理も可能に 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T15:19+09:00",
+   "via": "環境ビジネス",
+   "topic": "その他"
+  },
+  {
+   "id": "611b8db7c84160c7",
+   "title": "ジンコソーラー、日本の販売パートナーと技術セミナーを開催 Tiger Neo 3.0の市場展開をさらに加速",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoLS1WTzFTWElmS1FLS2RNY1o3XzRYdUhKTXYzZGtFdFRESkdtWU9KRlQ2Zkk4WWNxRlFpRUxPWGlJTGdMbTVvYWFrUTN3NEFyS3k3ajNhcG40UGw5ckdwNFFGZGgyQUw1S3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "ジンコソーラー、日本の販売パートナーと技術セミナーを開催 Tiger Neo 3.0の市場展開をさらに加速 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-22T15:11+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "市場・企業",
+   "company": "ジンコソーラージャパン株式会社"
+  },
+  {
+   "id": "1024684c1d6cffa0",
+   "title": "パナソニック、ガラス型ペロブスカイト太陽電池を発売（EE Times Japan）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekhLbW5wSXU5ZTdWLWRub191M21qckdzWEhabmFuVE9CMFhfMVRfUS1UdXhIMUdSSTJUSjBreFc1bUJtaGQyMFR6cXpUUU5yTFF6dTMtdUI1YU5LRHNsbFJTTEQyZ184Umo4dDFlYndENzgtbUZEOWpMdTZRaDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "パナソニック、ガラス型ペロブスカイト太陽電池を発売（EE Times Japan） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T15:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "07f44947763ad043",
+   "title": "経産省、太陽光・蓄電池向けJC-STAR、「ラベル２」以上も検討へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTDkwaE1EUllRMEE2V1RXdEdZZF9iSlNicEtaaVRxWHRZaTNQMVY2ejhTbkpTSThMZkVRTkRac21NLUZrWmwxdkU4VkhfWndDejJxYk9EOEJfZTI0Vk1rNHhIaUFkbThuYzZPbUx2NC1adGhf?oc=5",
+   "source": "日経BP",
+   "summary": "経産省、太陽光・蓄電池向けJC-STAR、「ラベル２」以上も検討へ - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:17+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "34092b1b57913e7a",
+   "title": "中国GCL、ペロブスカイト太陽光を量産、日本に販売",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnSExxbWtpRnY3QzBNdmc5b3JCWkdabDNJQVdVTXRmSVhXVWlnaURudGZjYXNQdTFvNXI1V1hObG9iRmhHT0hSNjNMQlBQOTBJUDA0NFJTb3cwNW5IRnB3UXZWcmtjR3dsa0NMbnc0RTh6bEZF?oc=5",
+   "source": "日経BP",
+   "summary": "中国GCL、ペロブスカイト太陽光を量産、日本に販売 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:15+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "932c27c620822798",
+   "title": "ドコモら、通信処理を太陽光発電状況に応じ基地局間移動 AIでの最適化実証",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SLUNQdnQ4VGNhWGY3YXZINzFpMVFQRDZBWTZ2aWcwN0NjaF9CcVIzZTAyZXRzSTN6VlZGTWRaaElFR2kwd0FZYkYydFl4Ukd4VS1SX043a2oxbVFDRDlhMGdrVVJDNW4tM1VhcGdOSWJSQk1DeG1fMFZjSjQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ドコモら、通信処理を太陽光発電状況に応じ基地局間移動 AIでの最適化実証 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:08+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "5cfebe6a4daf0ff0",
+   "title": "屋上太陽光発電は、バクニン省のコスト削減とグリーンエネルギー開発に貢献している。",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUxMdkdwTTN6dFVIZDdMYURkR1dIbGVfaEhFYXNaS0VOMWlsWEZtVzRtSVd6RWs1dUxXZFNYS2ZWbkxQN2FvbzFNN3VtcW9ra2FNajlqOGI2UV9xay1wSFVCTGVwcjlFN0g4ajdJTGRNRjRmbTlxTlJFZUlrSXlEV3NycHYwTklTYVF5WTE1LURqMVR5VmowYnZhYTN2WndjR0VIX3dDNEg?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電は、バクニン省のコスト削減とグリーンエネルギー開発に貢献している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T14:08+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "その他"
   },
   {
    "id": "47fe2b49c428af87",
@@ -79,6 +209,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "462377f2990e5156",
+   "title": "パナソニックがペロブスカイト太陽電池を本格量産へ 建材一体型で差別化を狙う：太陽光（2/2 ページ） - スマートジャパン",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEQ1E5Q0JDTlpxOFpFWjhoY2s0dUc4Qmxad2M1RllXalNhdnlXQklCWHVOWkp3S1oySURpN1Q5Mlc0U3Jzc1I2cHV0WUtiOHlfMzJkaFlwN0pTZHVRdlkzMkxqUjdJNUJERWRXVXdseDV1Ni1zZkpr?oc=5",
+   "source": "ITmedia",
+   "summary": "パナソニックがペロブスカイト太陽電池を本格量産へ 建材一体型で差別化を狙う：太陽光（2/2 ページ） - スマートジャパン ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T13:35+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "b0edc7ac46d6ee16",
    "title": "既存ビルのバルコニーに薄型太陽光、4住戸で個別に自家消費・蓄電を実証",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBby1HbjY0ZHRnWDBUbTktNTltalU1a3FEaU0xclVLU2tJbmp5LTE0WWRqU0dkTkkxb3N0N3NXRnRsWF9KNm9vV05rRFdhNUhkWEY2X296ejRPRDZEdFAxNGR2RWtJMllMMVlQa3NCYnB1OUg3V2xxODY4b1M?oc=5",
@@ -93,6 +237,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d988a88a29ff07a2",
+   "title": "パナソニック、ペロブスカイト量産29年に前倒し ガラス型でサイズも拡大",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yN3p4MkNaTnNnbUNzQ0Y5N0ZsdzNyOEFGZk5NeTJlbV9mbXdVTy13dWFiOVl6anlDU1VIbF8zS2ljQk9WOF83SlpMcTQ4NkVBZXkwclZsWVgya1hZNU03NzRmV1FudF9mTU5DcmpRbDBTTlNUaFdOeUZBQ2M?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "パナソニック、ペロブスカイト量産29年に前倒し ガラス型でサイズも拡大 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T13:08+09:00",
+   "via": "環境ビジネス",
+   "topic": "次世代技術"
   },
   {
    "id": "b2519085039f3ee4",
@@ -324,6 +482,20 @@
    "type": "news",
    "published": "2026-10-22T07:00+09:00",
    "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "51a2eb45f5e04dc9",
+   "title": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？（5/6）｜日経エネルギーNext",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvY00wdnN4Mm83R3VhclB2MnZFczdlbkxoV2k1QVhHVEF3ZW5LM3QtWkRqMFJnQWpIdFF4dmxiMlMwQnhlazFqa0d5bmNlNkVLYVZqTU9obmw2Z1llTUtuVXI0RVdNM19zNFMwTEQzR0ZXNVdrQTJFWEV6RzJaeUk?oc=5",
+   "source": "日経BP",
+   "summary": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？（5/6）｜日経エネルギーNext 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T07:00+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "その他"
   },
   {
@@ -590,6 +762,20 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VkVQZ3NBNU03eXlBU2N2OGhYX3JNaXdjSDhrcW8xbUhIbjNndFlsekltWTU2U05Iemp4dmo1UzNMRUwzdjdfVlJiZzFkQ1hYWU5CNkx6RDJBdnJDel95aA?oc=5",
    "source": "株探",
    "summary": "伊勢化は大幅高、パナＨＤのガラス型ペロブスカイト太陽電池の量産前倒しで物色人気化 株探",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T14:14+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "91fa66b2513026b8",
+   "title": "伊勢化は大幅高、パナＨＤのガラス型ペロブスカイト太陽電池の量産前倒しで物色人気化◇ (2026年10月21日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNZnJCY19UTTJyTWMzUks2Q1R4OFRSV1RYNGp6ZGRGaHRQektSUGJnSm80X2gwU0c3VHV1M211Zi13VzlmZFRFTVBocjJTTERUeU5KOEYwSGcwYUJzOXc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "伊勢化は大幅高、パナＨＤのガラス型ペロブスカイト太陽電池の量産前倒しで物色人気化◇ (2026年10月21日掲載) ライブドアニュース",
    "categories": [
     "solar"
    ],
