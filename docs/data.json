@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T07:07+09:00",
+ "updated_at": "2026-10-22T11:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,107 @@
  ],
  "items": [
   {
+   "id": "3d054ce29d9dde4e",
+   "title": "パナソニック、ガラス型ペロブスカイト太陽電池を発売：29年4月の本格量産目指す（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0cnVXNnVrVTh0X3dPYk8wR0ljVWg3NUZZSlF1bUxqWnRwcTNVeXA1U2pXR2lDZ1lDU2JDNHYyNUpHWU4tcjN0QkZlamVQYmJDYk9fUWJEbXBFeE8zd3BSM2lOUGRfMjZpSEo3clNWZw?oc=5",
+   "source": "EE Times Japan",
+   "summary": "パナソニック、ガラス型ペロブスカイト太陽電池を発売：29年4月の本格量産目指す（1/2 ページ） EE Times Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T11:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "60b577b7c40536ce",
+   "title": "大鵬薬品 つくばの創薬拠点に太陽光発電設備を新たに設置 -カーボンニュートラルの取り組みを推進",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUVp6bzVvVTYxZm1xeGRUZTJsMk1YdmFCMHU3Y09qbUtoT3FuTkxpZUlzUlVfaUF2ZW9VcGZvY0NIclZLT2c2ZS1LTDhpWjZ5TG0wYmpBLVloN0k?oc=5",
+   "source": "共同通信PRワイヤー",
+   "summary": "大鵬薬品 つくばの創薬拠点に太陽光発電設備を新たに設置 -カーボンニュートラルの取り組みを推進- 共同通信PRワイヤー",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "564df3ade34dafe0",
+   "title": "「日欧の蓄電池事業とNKESの取組」と題して、（株）日本総合研究所 段野 孝一郎氏/日本工営エナジーソリューションズ（株） 小川 隆行氏によるセミナーを2026年11月25日(水)に開催!!",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdmdnUTBKR3hGLXZEbGFadmExYjZlR0MxRUxKVkV3c2pvX2tGOFFsRFFYWGoxcEF4bExoU2I2Unl5blZUbngxejFfNFJLb05zdUhNRGl6ZFp3VXdJS1JqUnIxVGFBdlE3NXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「日欧の蓄電池事業とNKESの取組」と題して、（株）日本総合研究所 段野 孝一郎氏/日本工営エナジーソリューションズ（株） 小川 隆行氏によるセミナーを2026年11月25日(水)に開催!! PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-22T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社　新社会システム総合研究所",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "c2a924e9ff7cddf8",
+   "title": "ispace、JAXAの「月面太陽電池タワーの実現に向けた概念設計」に選定",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54RDJNVlBFcEZTQWxIc1NMX0RNem1IMlAxYjY5THptZWY4N3pyODNBQUJET04zdlBNZ2lqbnNYUFItbmx5Rk12cjZ5SkhZdEFRQXBsRkdvYkpvbldUZkJQVjlmT2p3bWpGSlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ispace、JAXAの「月面太陽電池タワーの実現に向けた概念設計」に選定 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-22T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社ispace"
+  },
+  {
+   "id": "6895d4997bf3c818",
+   "title": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04OUR4d0EtandpNGV6Z2dSMkFkNkViVGZUYk9CY0liVEhKUGx4SGVLNFlsN3Mta00tcXYzd1pUUjdGZi1RVEFQSkplTlg1azA3cGxUZ3U0MVhqZk4tcFc1M1RvRkpOQU5EYjI0bG41Y3dYOTFJWWZnMjM3bw?oc=5",
+   "source": "産経ニュース",
+   "summary": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ 産経ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-22T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "54ea6eb9fe203e15",
+   "title": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNmIyN0hNUWNTeEtyOUc2WC1pM2xFMjU1dndwT1hRa3N1cXp5RTlhODNodzA3ZXRKVEctM3ZlZk5jSW5qYlpqTklUWGM2MDdUeEdLZGtLbzJJYTctZFFjemEtQVd5OUlKemxaamxjUDFzUQ?oc=5",
+   "source": "Infoseek",
+   "summary": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-22T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5346c56692abac56",
+   "title": "窓が発電の場に、パナソニックHDがガラス型ペロブスカイト太陽電池を本格量産：材料技術（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KNExzeWxpaExQQTVxTUVjei1STDItVFdYaHBFc0FVbklaZGM0ckVKdEFfak55YVR2cDNUQmEzMVRrbzJmUXNYTHpQOGNJQmxUSUVrZTFIbGgxbGM5SkE3dlJQMXFBdkJ1S2s4aXZFNA?oc=5",
+   "source": "MONOist",
+   "summary": "窓が発電の場に、パナソニックHDがガラス型ペロブスカイト太陽電池を本格量産：材料技術（1/2 ページ） MONOist",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T07:15+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "48b3fc8a79c515a9",
    "title": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVmxhWDVpczJTUFZfaTBlemZIeVYzSDJza2EzVFZ5MkdqdEUyRm5FUUdEcTBkQWZXbklVYkVNczBkMW04bEhQVkU2OTNGbGJEdmNnZE5xNjZwS0M4ZHRScVMzUGVobGpyUTg2SmdXZVZqUzhCaXdDMU13?oc=5",
@@ -32,6 +133,20 @@
    "published": "2026-10-22T07:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "e294cfbb685e3f44",
+   "title": "「ガラス型ペロブスカイト太陽電池」29年本格量産…パナソニックHD、1年前倒しの理由",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzX1NmcEhkZzMtQWVzTE5wQW1Bd0JNYlFseFB0SHVBdTlwNjhFYW9OZkhYQ1NISFFXaUNCNHYzc1pYQQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "「ガラス型ペロブスカイト太陽電池」29年本格量産…パナソニックHD、1年前倒しの理由 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T06:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "5c401c4bf7f2aca8",
@@ -176,6 +291,20 @@
    "via": "PR TIMES 新着（直接）",
    "topic": "トラブル・地域",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "65d41ca8caba3f82",
+   "title": "系統用蓄電池市場は2050年に何倍になるのか--2030・2050年見通しを読み解くウェビナーを開催 (2026年10月21日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93enNmcFZXUVN0Wm5CR0lIQnBOTHhrbE5SQVIzQk80WGtuaXF4UTBqejJaR3B6NHljQU9MVGRoRkFfZEFsNEEyVnVqZF80M2I2bVVleVcxdWc2X1RVcnduc0Fn?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "系統用蓄電池市場は2050年に何倍になるのか--2030・2050年見通しを読み解くウェビナーを開催 (2026年10月21日掲載) ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "27869b009adf9f73",
@@ -5365,6 +5494,20 @@
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d8e079172146e2f1",
+   "title": "（変更・訂正）「太陽光発電所月次発電電力量実績及び出力制御に関するお知らせ」における「予想発電量」の記載方法の変更および訂正に関するお知らせ 投稿日時： 2026/10/15 18:10[適時開示]",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85RFFXX3BzT1RzRDdEQm91dUpqSXdjbEowaXFNcG1TTHNGcnQ1TXlZTmpTU3NPZEJ5emR5R2dRXzQ5bUVjT1E?oc=5",
+   "source": "みんかぶ",
+   "summary": "（変更・訂正）「太陽光発電所月次発電電力量実績及び出力制御に関するお知らせ」における「予想発電量」の記載方法の変更および訂正に関するお知らせ 投稿日時： 2026/10/15 18:10[適時開示] みんかぶ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-15T18:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
   },
   {
    "id": "86f20c232b5577b4",
