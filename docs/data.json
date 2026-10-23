@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T10:18+09:00",
+ "updated_at": "2026-10-23T11:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,65 @@
  ],
  "items": [
   {
+   "id": "defd958306195a71",
+   "title": "【法人導入事例】富士山七合目に太陽光で充電できる環境を。LooopがEcoFlowを選んだ理由",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZWlDVkVqQnRJWVdkNXdoZzFuRlNSY2tZbUthR2ppb2ptV3Jod0k5bFUxMHVkeDRtRWhQNGU4ajM4V1U0NEN1ajlERGJ5dnV5TkJjMm1WUklLRnduMWRQWXI2eHR1VlZjcUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【法人導入事例】富士山七合目に太陽光で充電できる環境を。LooopがEcoFlowを選んだ理由 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "EcoFlow Technology Japan株式会社",
+   "topic": "その他"
+  },
+  {
+   "id": "746d0968765a3556",
+   "title": "【2MW／8MWh級の系統用蓄電池で複数の設計依頼を受領】配置検討・設備設計に対応",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ubHY5amRXQzh6VXVOSjhIRUdNMlZMal9OMnlqSHpIX3JnZDFrakdaZmY4T045SVgzVW54Rnk1TXd0U2VfbTIyUGRxT2E0cmItSUJ3YWFEMElNNkVhVmI3bk1wNDdCSEZSdmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【2MW／8MWh級の系統用蓄電池で複数の設計依頼を受領】配置検討・設備設計に対応 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "サステナブルホールディングス株式会社",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "44e52214193761af",
+   "title": "住宅用太陽電池「スマソラ黒シリーズ」を本格展開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tMXNPZU5DekR0YjA4SGl1YW5yWnpRQXE0SFZIOW5CcVV4Z0xCTy0tZWIxTXMtaXQySW5oZ3FUZVR6b2pwUTVNMzZsOXFfckg1aU9VWlZfSXlLOFJmMzNlX2w2QS1RNHJiSXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "住宅用太陽電池「スマソラ黒シリーズ」を本格展開 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T09:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "スマートソーラー株式会社",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "826f73ba24a57b54",
+   "title": "営農型太陽光の制度見直し 農水省が市町村向け説明会を28日から開催",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Md3pQNkRrdV9naUdnTWNsZ0Q2Vy1YcUE2d1VUbWx0QUxzV2poRVE4QnoxSTRTTkxTZVBfY0RubEY2MWxEdnpjM2pRb0RwWDdN?oc=5",
+   "source": "アグリジャーナル",
+   "summary": "営農型太陽光の制度見直し 農水省が市町村向け説明会を28日から開催 アグリジャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T08:03+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
    "id": "cd7979455d551df0",
    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉長柄系統連系蓄電池プロジェクト 75号ReFund 完売』",
    "link": "https://prtimes.jp/main/html/rd/p/000000167.000136212.html",
@@ -32,8 +91,50 @@
    "published": "2026-10-23T08:00+09:00",
    "company": "株式会社グローバルクラウドエステート",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "8296aff98f7f9146",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉⻑柄系統連系蓄電池プロジェクト 75号ReFund 完売』",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTVBidUlNakk2alpGVjdOUGFqVG9xOUlaX0ZNbUthaVBYN18wS0tBemVjRk10bkh2ZVBMLU9ycTBRZ2dReHpaenpsU3NBRkVpYjlmWUJQY0ZGN1dERjd4U0ZKWGtoZUdVblE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉⻑柄系統連系蓄電池プロジェクト 75号ReFund 完売』 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T08:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社グローバルクラウドエステート"
+  },
+  {
+   "id": "177104623c45a444",
+   "title": "窓が発電の場に、パナソニックHDがガラス型ペロブスカイト太陽電池を本格量産（MONOist）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHVtQmxvRUxabEFYemwzeHRacWZNUTMtTGZ4ZU9NeU1PTnFIVFFwOG1oOWVMUUtHaGRsMW9NMVFNdVo5OUViVHJnQmdQZldRc1kxYi1ZTExtYXpJRGw4VzlzNmN4NUIwY3N2Q2lMZmhwU1FGTEVzSDFFbDNqVzltN0dCd0s3N1ZY?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "窓が発電の場に、パナソニックHDがガラス型ペロブスカイト太陽電池を本格量産（MONOist） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T07:37+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2d54da9d35a817e7",
+   "title": "水上太陽光発電所を開発へ 津市の農業用ため池で 中部電力",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ja2lkWlkxd1hfYkYyblFqaXpJakc2bWsyRU5SSHNNbnJYdjJ5Q3JrRmpQWHFtUlFqRjRnUjNqTjlmVkhDNGlFM21Ja1k5QTJ1MVRDTmR1S1RLRkZkMzFMa1pwc0pWTjhOWEhtSHhVdzlHWjNHMGVfZmFQYw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "水上太陽光発電所を開発へ 津市の農業用ため池で 中部電力 環境新聞オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T07:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "84d511b921d2dc6a",
@@ -132,6 +233,34 @@
    "published": "2026-10-22T21:12+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "5c02b628e4e5507c",
+   "title": "地上設置型太陽光架台市場、2035年までの成長見通し：大規模太陽光発電の需要が牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGg0YU9sNzFxLUFJUjgteXgzejBpT2ZxVW5WOXVfV2szbklvazB2ZVJZcTJKalkyYTlTNkJ5ck5Mb2NaTUtZeFlxWWpFS2RtUjJta25BNkdLR0dXUTNiV19RbWRmRnpkRTNQLV9xWEdZTjdITENsVVRwTjBBMVoxUm5vUFVfTS1reWt5TjN0YjlfWHl0NVdpaklqdlNxX3RQVDNhSGJmcml3WDZWUXdQODU0OU05WE0tamlHMXBlbFN5dkE?oc=5",
+   "source": "IndexBox",
+   "summary": "地上設置型太陽光架台市場、2035年までの成長見通し：大規模太陽光発電の需要が牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T21:01+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "39c2c93725f6cbe2",
+   "title": "UNSWの研究、東西方向の地上設置型太陽光発電は単軸トラッカーより最大40%劣化が少ないと発表 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHV6OGJucGxydXE3TXVGWVprYUFGVUtmWnY3QkJrRkU5MUpJYXNTWUdENFpoX0NEUk9KbWYyTzlkVWJsUUlnckNEMWttSC1kV1RvMzZqcWpQNUpWeU1raVQwZEViSDlfdXFucEFnQ1lMNzJRYlRUYmRGY19WUTlVR0NFeGdZUmJoLS1CcFlXV0ozRTdEUFlQMGZRZzNCeWRfb3hhcVNLakdWWVh3Zk94aw?oc=5",
+   "source": "IndexBox",
+   "summary": "UNSWの研究、東西方向の地上設置型太陽光発電は単軸トラッカーより最大40%劣化が少ないと発表 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T20:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "a9a64499d7e269aa",
@@ -1189,6 +1318,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "8dc24645b889fd16",
+   "title": "日本蓄電池、今度はSBIらと系統用蓄電所7か所のプロジェクトファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRHFNYXdKR2JlXy1tY3BZaDFma0xNSGwxX1Z5Vm4yZDlxanp6a3VGb0QxUllJOXgxczVpOWxKaXpOYVlhNEl0ZmhXb0FNYmpYNkJKXzlwOTB4UjJEM2JtZks4aURlT3dwYlE1QUVKNm44MTdaZTdMNUM4Zlk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "日本蓄電池、今度はSBIらと系統用蓄電所7か所のプロジェクトファイナンス 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "5db0aa1761706715",
    "title": "川崎市立の学校で太陽光PPA、余剰電力を市内企業へ供給する取り組みが開始",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XUUkxVkMtcGxQQ3AyRTVMQkd0dGRhaG5OLXpENTBOdEVNVzU5M2FLRFVsd1JhR2txMTRKemJseU15YWJjS0RYTHFkNkJ2MUlBM0ZiNTgxbm52M2trejhWOW9mdnlCdGxFNHlBMG5DRDNndTVZMDIzSTI5VHU?oc=5",
@@ -1652,6 +1795,20 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UnZ1aThLeWZiZ1hZWHNQWDlyWUx0UE5ZbW9DN2xqSTh2Zzlpb2ZQVXpKbkRCX1R1anc1TzM3TVpQbk1lX04weWRQYlp1OVdUZHpzNEpFRFNhWkNYdGJJYkNqNmM?oc=5",
    "source": "読売新聞",
    "summary": "薄くて軽い「ペロブスカイト太陽電池」、パナソニックが２９年４月量産開始…窓ガラスの５倍以下の価格目指す 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "170bc89943bf8a5e",
+   "title": "パナ、次世代太陽電池量産 「ペロブスカイト」２０２９年に",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fMHZ3akVHRVBBVzFCRkltd2VGeHRKeEZkSlZzQ3pQWE5oUFU5NnFFTnpISXhFV3ZYSW9XTGlhWUFtUzgxQkpDeGNqMA?oc=5",
+   "source": "北日本新聞webunプラス",
+   "summary": "パナ、次世代太陽電池量産 「ペロブスカイト」２０２９年に 北日本新聞webunプラス",
    "categories": [
     "solar"
    ],
@@ -2221,6 +2378,20 @@
    "published": "2026-10-20T16:08+09:00",
    "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "e92c3bf33a1d0bf4",
+   "title": "イーレックス、千葉県で系統用蓄電池第2号案件の商業運転を開始 アグリゲーション事業を拡大｜プレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NS0Nqd2wtbzZ0eUtIcVdkUnJkUG5BTnBfV0k0OC1kczlBUFVMbDNid3VjODBGcmJiNWhjaDdMS1lvdXlBM1VV?oc=5",
+   "source": "新電力ネット",
+   "summary": "イーレックス、千葉県で系統用蓄電池第2号案件の商業運転を開始 アグリゲーション事業を拡大｜プレスリリース 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "564dcafccbbe33f8",
@@ -3791,6 +3962,20 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dGpRYkpiRTR4UGNPeE1xNkhVNVpIRXhPUXZ1ckZDcVRPSXlhZ1FFbkFEcS1kaTdGQlNlUTVoeldYZkg2SkxpUF9aMVAweWY1MzJTY05ILTE5d0Fqel96LThqMWJGRU5zalE?oc=5",
    "source": "日本経済新聞",
    "summary": "リミックスポイント[3825]：【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得～自社保有25か所計画を推進、運用による継続収益の拡大へ～ 2026年10月19日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "efed3c5ab55c624c",
+   "title": "【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NclpmRHE0TEtfMC11bFFpSThYcW8zdzJad3ROWGNXYzhVT2FoNU9lYkNZS3pHeFZ0UDFnd0dBOXlZcThRMWVDMlZOd2wxZHl1b0lMS25lUzZnazNER3lzNWpNd0xQZWFQZFlydFlxbVh3Zw?oc=5",
+   "source": "Infoseek",
+   "summary": "【自社保有案件蓄電所12か所目】「恵那岩村3蓄電所（仮称）」の開発用地等を取得｜Infoseekニュース Infoseek",
    "categories": [
     "storage"
    ],
