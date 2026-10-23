@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T07:07+09:00",
+ "updated_at": "2026-10-23T10:18+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "cd7979455d551df0",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉長柄系統連系蓄電池プロジェクト 75号ReFund 完売』",
+   "link": "https://prtimes.jp/main/html/rd/p/000000167.000136212.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社グローバルクラウドエステート] [画像1: https://prcdn.freetls.fastly.net/release_image/136212/167/136212-167-d9e2ea184540748d46d8f32c99a0fbeb-800x570.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T08:00+09:00",
+   "company": "株式会社グローバルクラウドエステート",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "84d511b921d2dc6a",
    "title": "蓄電池のスポット市場における収益状況は？ 蓄電池やDR運用の現状分析",
