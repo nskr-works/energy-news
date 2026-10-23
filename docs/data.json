@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T19:09+09:00",
+ "updated_at": "2026-10-24T07:06+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,105 @@
  ],
  "items": [
   {
+   "id": "22236d4075d1cbd8",
+   "title": "省エネへの取り組み（太陽光発電システム）",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZ2RIekV3djNmbFdaekxOY3Z4YjhOT05VNmFINzBIT2thdFBVZlpTQ1V3Z3RLUVdjUVNXcTZtTXNmbWdfcmMyRkh0U0w5SDRCZm1DWFBDOVdMalYwUVdsQWdLSUk?oc=5",
+   "source": "東京工科大学",
+   "summary": "省エネへの取り組み（太陽光発電システム） 東京工科大学",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T23:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "85db136dc55fb726",
+   "title": "「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会（第1回）",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMy1DemNyazNFcXhNNHh3bHAyVjMxdVhsdVFmZDM5RkdjQUZlMVhVbjg2VmxLUl9QcWRmVDE3SVNoNkVseUdWWWY3bmlkVzhJOEs2THhvOGxuN1FJRXhxWUJVaUM4TjBHNmZyYXB2R2hmcUIx?oc=5",
+   "source": "経済産業省",
+   "summary": "「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会（第1回） 経済産業省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T22:31+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "topic": "政策・制度",
+   "company": ""
+  },
+  {
+   "id": "e36f08f173cc1cc0",
+   "title": "伊那市のメガソーラー建設、市長が許可方針を表明 水害懸念への対策を条件に",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YODlWUmxZZXpUVnlwNVhacmJrS01PVGdlbFJ1QmJFZkVnNzFRdnF5WXg3czUyY3hfWEJ3ZHZOR2EwLUU5YU1UYUxTV2FNa0lXREFLNTVRV1l3eHltdjlhb2xlY3gyMC1ka3NXcXFYWEI?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "伊那市のメガソーラー建設、市長が許可方針を表明 水害懸念への対策を条件に 信濃毎日新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T20:35+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "9217c22f3921a93b",
+   "title": "メガソーラー開発を規制 環境省、北海道の釧路湿原国立公園の区域を拡張へ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HQVB1aExnSnRCVGNKSmRYR0FtZTFHOHBuLXExekFpVWoyTEVxRERjb2lkajBmeWs0b0hDSGNXTUNPbnlGSUZYTVVrbTQ5ZGwzSEJaZTB3djVyRnhaTmVtRVoxV3ZUT1ZUeWYwLURnanpyWHhxRkE?oc=5",
+   "source": "産経ニュース",
+   "summary": "メガソーラー開発を規制 環境省、北海道の釧路湿原国立公園の区域を拡張へ 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T19:45+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "992522040d3532c4",
+   "title": "伊那市 前原の太陽光発電施設稼働に関する合意へ｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80YW1RWk1qS1JmVy1Ha3A4ZG1HM1AtbllUbTcxbXF3bzJvczhBaTlXLVZ5N2VqMzluUGVSSS1QblZCUkQxVFM2R3JTZUZHTDJhUzdsWVNuVQ?oc=5",
+   "source": "伊那谷ねっと",
+   "summary": "伊那市 前原の太陽光発電施設稼働に関する合意へ｜ニュース 伊那谷ねっと",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "ac76aa0901007d10",
+   "title": "日本蓄電池とSBIスマートエナジー、系統用蓄電池事業ファンドを組成し運営開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZWlg1TGlfQm9zNTdKTkVDN2RfZ2RsUXZFenNmR1B2WXRHX2Zpakc0V2FNUTVqRFd3VlJnbFhIWFpyTnA1ZmhOVFNwdFdPajVHeW9sa3B6WUdEb2VMZ3RHeXA4UWZZMWE0?oc=5",
+   "source": "Dellows News",
+   "summary": "日本蓄電池とSBIスマートエナジー、系統用蓄電池事業ファンドを組成し運営開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:39+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b24005e492724d37",
+   "title": "【10/26 〆説明会開催】農林水産省が営農型太陽光の市町村向け制度説明会を全国5ブロックで開催",
+   "link": "https://solarjournal.jp/policy/68166/",
+   "source": "SOLAR JOURNAL",
+   "summary": "農林水産省は、2027年4月に施行される営農型太陽光発電の新制度に向けて、市町村担当者向けの説明会を全国5つのブロックで開催する。今回の制度見直しでは市町村の役割が大幅に強化され、農業の担い手による持続的な営農の視点も重要になる。 The post 【10/26 〆説明会開催】農林水産省が営農型太陽光の市町村向け制度説明会を全国5ブロックで開催 first appeared on SOLAR JO",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:22+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "営農型"
+  },
+  {
    "id": "55f95e4bfe8dc942",
    "title": "系統用蓄電池になぜ多様な業種が参入するのか――協業モデルの実態を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000075.000181124.html",
@@ -32,8 +131,120 @@
    "published": "2026-10-23T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "4788b830916e6805",
+   "title": "センコー、浜松PDセンターに太陽光発電導入…余剰電力を市内で地産地消",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoWVVUNHh5bFlmVFNEbV82WmExMlNhSVhBeEVzUXFGeEVtNkJvY2pNdlNQM2I5SHhWaGF3YjZJY2FfM3A0ZGIwSWJJcDVUQ1VFOGJHdzdlaTl1dDhHWXdz?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "センコー、浜松PDセンターに太陽光発電導入…余剰電力を市内で地産地消 レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "244589da2a19b00b",
+   "title": "系統用蓄電池になぜ多様な業種が参入するのか――協業モデルの実態を読み解くウェビナーを開催｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zTDNCQ1ltRTYtXzNMTVZjSFZRTjM1cXZ1bmF0YUh2Ml9HWTljc09ZQnE0RGJjRzQwREd3RzNrSXdRZW1QWjEtaVhjQWFidTNwdlVDQ3VSZTdHcDBIb2k0cnhOSTVBWGoteEQ0MVh0LXZldw?oc=5",
+   "source": "Infoseek",
+   "summary": "系統用蓄電池になぜ多様な業種が参入するのか――協業モデルの実態を読み解くウェビナーを開催｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6a683595d5dd2b39",
+   "title": "ジャパンブランディング、系統用蓄電池の協業モデルを解説するウェビナーを11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2a2dtVGEyM2Vvd1d0eURxZHZnNnE0MUZzSmxKM2YxSGFHNklHZG5tNFVsTnVWU0M1V0JWODJlVjFXRjIybmc?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の協業モデルを解説するウェビナーを11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "bf4a6da75bca7664",
+   "title": "太陽光で充電できる風変わりな電動スクーター「Lightfoot」を試した",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80aF9vUGkxRXlHTnVwTFlIb1c4UTlqUHF4djJNT0NaVnZobUVWTnhDVkMwWWFmOEY2U3VGVWVWV0lkMGIyR0FLVkJUeTN3X3daWUJZaGE2WktWTVVMb2xTUXdBTEY?oc=5",
+   "source": "WIRED.jp",
+   "summary": "太陽光で充電できる風変わりな電動スクーター「Lightfoot」を試した WIRED.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "e63ed1853238c094",
+   "title": "高森町に計画の「系統用蓄電池施設」建設 住民の会、中止求め町長に署名提出 「生活環境脅かされる」",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WZFp4aHROb3FYLXFhaEZQbDJfQk5EWGNFbF9ndGFrVnlDRTU5UkJacEZxTmVDV0xuNktGdHdVRXhQelNYU2h2SDlJU0dxOHc?oc=5",
+   "source": "熊本日日新聞社",
+   "summary": "高森町に計画の「系統用蓄電池施設」建設 住民の会、中止求め町長に署名提出 「生活環境脅かされる」 熊本日日新聞社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:57+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "338b6d558ec8d2f5",
+   "title": "釧路湿原、公園区域拡張へ メガソーラー開発規制",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhbUR4Mm5ySzR3cHJKcERpWENkejZnUFN3eC00WWZEQ240d3JqMVZ1Y1AzUDY2TVlKNHRIamhEUkRDOFF1Q3VYZUVZOA?oc=5",
+   "source": "47NEWS",
+   "summary": "釧路湿原、公園区域拡張へ メガソーラー開発規制 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "ab056aab5f3b95f2",
+   "title": "大鵬薬品、つくば研究所に太陽光発電を新設 CO2年約185トン減",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMVFDWDM1b2J6MGtVdzdlMkRKVTF3ekROSUhTd2dVMlR3SGVCbU43bTE0OGFlaUtHdGNmYjhyYWZYSjA5c1A5SXlFMUVkN09sRHlmOFU4ZTlPQWdNdi1YZ25qTTg2X0toZVpnYw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "大鵬薬品、つくば研究所に太陽光発電を新設 CO2年約185トン減 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T17:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ea4f8db9766a7a5f",
+   "title": "「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会（第１回）の開催について",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRWdXTENtOEFiTk1CSEo1Mjh5Rm5CRnItOWxvaF84alNrckxFYmVkZkRBM2JqbVdubl9KeW9XZGhHVTFOVEliNmRHSkw3RmFyU3c4emJaMA?oc=5",
+   "source": "環境省",
+   "summary": "「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会（第１回）の開催について 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T17:06+09:00",
+   "via": "環境省",
+   "topic": "政策・制度",
+   "company": ""
   },
   {
    "id": "81af1844a32c34b0",
@@ -108,6 +319,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "2917b1a4b4bf8c4a",
+   "title": "【画像】別荘地に蓄電所計画 住民が建設中止求め要望書提出 熊本・高森町",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnTkFGcmlCdmo0QTN5NFdzdWdvQXJWME8wTmJOaURXQ3lPS1ZScGllVjdfYmhfd0pTd3hGU0dlV2VHa3EtRVI5aTdyRmRDTjVZalh6RWV4TUhWWXlITDRQdnplcE1jX0cyZzRaQjRRWEVReWpya3U5d2MwbmY?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】別荘地に蓄電所計画 住民が建設中止求め要望書提出 熊本・高森町 ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:57+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "d7e20c89b2ae71ae",
    "title": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000095.000092942.html",
@@ -168,6 +393,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "bf62635bba41bf35",
+   "title": "Sustech、綜電が所有する京都の蓄電所2件のアグリゲーション事業を受託",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQaHpLNDlwVy1yanlEZUROcEgyQ1hfOG1SRFlwMkIxUHh3dmNXekI3TDd5S2dJSjRPVGVLVVlScVNFUnhVb1E?oc=5",
+   "source": "Dellows News",
+   "summary": "Sustech、綜電が所有する京都の蓄電所2件のアグリゲーション事業を受託 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "2d36dec47760a89a",
    "title": "ネクストエナジー、エンバイオHDに事業譲渡 住宅用太陽光など",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aUElsS2IyQmNoMF85dTN2bVliQ2tLallqSHhyaG1WR3FuTjliTTBUbFdTclJrX0ZuZDlQNVZkcmRMcVVMTGhYTjJhWGIzUm9ZY1E?oc=5",
@@ -180,6 +419,20 @@
    "published": "2026-10-23T14:33+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "d136d981359984f8",
+   "title": "台湾の蓄電池関連メーカー、管理システムでJCーSTAR セキュリティ強化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PdFlOVlpfOUhza1BUb0hQc2R1VmNQTVVfSkJMQnNlWDVSVHJjUzNKR0NOSEF2LXpDMHdnLXhFU000NW04aWxON042dFdWV1NxMGR2QTdfMG9wX3d6bzAzNWxmMGI2U3A0WXZ2eTVyOU5NWUV0dnB5UnVZZ2M?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "台湾の蓄電池関連メーカー、管理システムでJCーSTAR セキュリティ強化 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:29+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "e9519e413d834b0d",
@@ -283,6 +536,36 @@
    "published": "2026-10-23T13:29+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "b7a39d0e47aa5266",
+   "title": "各階のバルコニーに太陽光、薄型パネルと蓄電池を設置",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vOXZTRVIzWndPa0xKQ0VSX2hSZElOUHFRTzBWRWFYYmhjUzhaVGViUG43Z1pVakpib1ZZaEhSYlowamI1YTBzTGk4WlZ3QU1VSDQ5bzlKc1RIQlJ3VE5MUTZSQnM4Slpub2hQd0pud1VNT3Y2?oc=5",
+   "source": "日経BP",
+   "summary": "各階のバルコニーに太陽光、薄型パネルと蓄電池を設置 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b0a1dd3bc1517e63",
+   "title": "15MW級風車に対応した「浮体」、海事協会が承認",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82aTFNSk0taXRaa3Y3b1V0SVBnc2ZObldnSURmWHJsM0E0cWdaWTB2T1RUMFR3d0N0RTAzOXZvNWIyREItbGZpODk1b0M2ekF6LXRKT3pSQnViQXhWVU4wR1JYdEs5NTF1em51UjNGZ3NPckcw?oc=5",
+   "source": "日経BP",
+   "summary": "15MW級風車に対応した「浮体」、海事協会が承認 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:04+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "14fd4fcddc15163f",
@@ -756,6 +1039,22 @@
    "type": "news",
    "published": "2026-10-22T17:20+09:00",
    "via": "Googleニュース「系統用蓄電池」",
+   "topic": "トラブル・地域",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b825594ed5cd44c3",
+   "title": "【画像】【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MOExDNFlDWVFvM0h6STJqQ0VyVk5lWmFMeFBiQmZyV3RsbTRNWmFHMUw0Y21nVl9GU1ZnSmx1SnE5Q2hsNXlTN1FlbUF1SEd1a25QV2hzWkd4X256SXp0MW81NE96WjZiU245MHhHSmlFT19rdXJrRlowdC0?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-22T17:20+09:00",
+   "via": "Googleニュース「蓄電所」",
    "topic": "トラブル・地域",
    "storage_topic": "その他"
   },
@@ -2441,6 +2740,20 @@
    ],
    "type": "news",
    "published": "2026-10-20T18:55+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "6b216df643100dd8",
+   "title": "パナソニックHDの「ペロブスカイト太陽電池」＝20日、東京都港区 - パナ、ペロブスカイト量産へ 次世代電池を29年から滋賀で - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZeWt2Rl93cDQwNkI2dWZVNlRKejdFVkNoc0twRTlhQS14cTktUERDeU5HZTBOWWhJU18ybXF1Q0hvT3BBYklrVjRsaUpRekxXRVhZdXRKUQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "パナソニックHDの「ペロブスカイト太陽電池」＝20日、東京都港区 - パナ、ペロブスカイト量産へ 次世代電池を29年から滋賀で - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T18:52+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
   },
