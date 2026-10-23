@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T16:22+09:00",
+ "updated_at": "2026-10-23T17:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,78 @@
  ],
  "items": [
   {
+   "id": "81af1844a32c34b0",
+   "title": "家庭用蓄電池「てるまるでんち」４５７台の群制御で電力需給ひっ迫に対応し、累計７８７.５ｋＷｈの需要抑制“下げＤＲ”を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Q3VpVFlaVG5LOE90RWVaUnNhMzRNaHhJTEw0bEwzSVMyLUY1LUR5U0t3MjFUWHZuaUlrbTBNVUl4X1BnTGUzQ3hmX0o5anhkOTVaRjBIQlRXNDRmZmNTWFdyd1dGSjNZVHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "家庭用蓄電池「てるまるでんち」４５７台の群制御で電力需給ひっ迫に対応し、累計７８７.５ｋＷｈの需要抑制“下げＤＲ”を実施 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T17:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "株式会社 東急パワーサプライ"
+  },
+  {
+   "id": "718ef7ec556e751e",
+   "title": "【速報】メガソーラー規制で釧路国立公園拡張",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCNmN6ZGRvOEJTN1BER01STFU5ZFR5TDZTVFc1U2NHdHdTRndUbEJ0ZFk3VkR6d2RDbEV3ekc5dlgxY01QdFFTNFd2Yw?oc=5",
+   "source": "47NEWS",
+   "summary": "【速報】メガソーラー規制で釧路国立公園拡張 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:43+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "445825727141c86e",
+   "title": "メガソーラー規制で釧路国立公園拡張",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40Y1Jybkl4VkczLWk1NDczSW91d1JSZVlxOU50WWpxWGt3SmlTM3NaMzl6RDdqaXZxeEEtUnJzRTNSSVl4VDlpU3hvQWZRbzNTVHBxZXVJS0JuUEExaThsVUFZRQ?oc=5",
+   "source": "nippon.com",
+   "summary": "メガソーラー規制で釧路国立公園拡張 nippon.com",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:43+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "b87946e806d67c77",
+   "title": "TAOKE ENERGY、群馬と岡山で系統用蓄電所が系統連系を完了",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVF8wV2FBd0xjZEMyVE8yQnc3ZmVwT3dPVmlUalE1UjlLMmJUdFF0clNZNllUS3B4T0dhYmFUTjBBdTVGZXJ0NWdxVHBVcDc1SEQwT2E5V0ZhdW9HR2t2eF9hTzFRN1FacWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "TAOKE ENERGY、群馬と岡山で系統用蓄電所が系統連系を完了 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T16:32+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "TAOKE ENERGY株式会社",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f613b4028b66efa4",
+   "title": "別荘地に蓄電所計画 住民が建設中止求め要望書提出 熊本・高森町（RKK熊本放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRZ0MyNEttSEY5VTFlVkhNUDQtSmJURkJnMzdpa3plTFNuSml3RGpsbXp6YmV4VkVIVzR5TTZwNGd4S1dPdVUxTEY4eHQyZWxqSHV0WVhJcGFYVi1JNC1xcm0wNTI3QW90SmtoMERSQVFEWHFQSTFyRWlUak9lNWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "別荘地に蓄電所計画 住民が建設中止求め要望書提出 熊本・高森町（RKK熊本放送） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:59+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "d7e20c89b2ae71ae",
    "title": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000095.000092942.html",
@@ -32,7 +104,6 @@
    "published": "2026-10-23T15:45+09:00",
    "company": "株式会社Sustech",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
   },
   {
@@ -49,9 +120,64 @@
    "published": "2026-10-23T15:45+09:00",
    "company": "フィンテック　グローバル株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用"
+  },
+  {
+   "id": "82b8ce81f2059a8d",
+   "title": "充電制御装置を活用した系統用蓄電池の接続（対象系統の追加）について",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VVpDVDVrQjhFS1dPQThSRlFKSjg2VjBSX0p6VVYwYU5qVElCQ3RxQUNUUG81MG0zRTRhT29YeDFSSnZOeFFZVkVCUjNHYmloWW1DWmdwNnZHVlc4NURUbUJIN2szTmZJQ3ZkTkVoYm4?oc=5",
+   "source": "北海道電力",
+   "summary": "充電制御装置を活用した系統用蓄電池の接続（対象系統の追加）について 北海道電力",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:43+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b9c5b701e204195c",
+   "title": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43NzIzWnZnRWFudEozaER0dHBsNUpIYTZVdjVEempVeTJKRG1TNDVuek5KOEozV2poRlVlbmlxaEJERmlUbHF3emdHQWtmUHI3bnM5b3NFWTRidll2d1ZUTWNjQU1RN0dfbGYyeG9oSXljdw?oc=5",
+   "source": "Infoseek",
+   "summary": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T15:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2d36dec47760a89a",
+   "title": "ネクストエナジー、エンバイオHDに事業譲渡 住宅用太陽光など",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aUElsS2IyQmNoMF85dTN2bVliQ2tLallqSHhyaG1WR3FuTjliTTBUbFdTclJrX0ZuZDlQNVZkcmRMcVVMTGhYTjJhWGIzUm9ZY1E?oc=5",
+   "source": "新建ハウジング",
+   "summary": "ネクストエナジー、エンバイオHDに事業譲渡 住宅用太陽光など 新建ハウジング",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "e9519e413d834b0d",
+   "title": "スペースを最大限に活用 住宅用の太陽電池モジュール »",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTjNiUmFVUmM4Z0g4T1g3NEN3Y25yRFVjWHBjWUszZjBReURNRWc4MGgwd0dpVldjWjNsb3FnTkpORVZGTlpra0F4MzhfRkNNTGdPdElLSHBvWU5tcDRsRg?oc=5",
+   "source": "Housing Tribune Online",
+   "summary": "スペースを最大限に活用 住宅用の太陽電池モジュール » Housing Tribune Online",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:04+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "d75808e10bd831fc",
@@ -68,6 +194,38 @@
    "topic": "次世代技術"
   },
   {
+   "id": "8849cb7f1874def5",
+   "title": "太陽光発電併設型蓄電池におけるマルチユース運用の取組み ～複数の電力市場を活用し、再エネの有効活用と収益機会の拡大に貢献～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMXFQdmRnNURBMjBVbFBCRjU0LUxIY3lFY1NFRU9EQ3hjdllDQjJDTkhLemotQ3VQMnpuVzlXYk4xdHk1RTFfRDI5cVlEX05rVlpoVzRqMDFZYnBoSmRwdTVGdk1rWWczM3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "太陽光発電併設型蓄電池におけるマルチユース運用の取組み ～複数の電力市場を活用し、再エネの有効活用と収益機会の拡大に貢献～ PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T14:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "市場・企業",
+   "storage_topic": "その他",
+   "company": "E-Flow合同会社"
+  },
+  {
+   "id": "4246418ce916e234",
+   "title": "品川インターシティにおける環境課題への取り組み 太陽光由来グリーン水素を活用したカーボ",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYW9QOXlERlRNZnU0V1BPbFJXMlNLTGhQekZXc2hLRTJJVmFRYWIzNnAweW9sWGpPRzJTbmdDRWVMeDFGczVRUVpLYmVMVEcxUHh4SEhHdGw5YmZRdm02SGNKaHZkVGZsMFEyMElYVkhxeGZXQ0pHT3pWZzYwMGtDcm5qaE95UzdPX0M0?oc=5",
+   "source": "PR TIMES",
+   "summary": "品川インターシティにおける環境課題への取り組み 太陽光由来グリーン水素を活用したカーボ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T13:45+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "その他",
+   "company": ""
+  },
+  {
    "id": "86f720999258c0c8",
    "title": "ソーラーサーキット、「愛する、を建てる」を軸にリブランディングを実施",
    "link": "https://prtimes.jp/main/html/rd/p/000000021.000119682.html",
@@ -81,6 +239,20 @@
    "company": "株式会社カネカソーラーサーキットのお家",
    "via": "PR TIMES 新着（直接）",
    "topic": "市場・企業"
+  },
+  {
+   "id": "0166ae8996260f5d",
+   "title": "fantasista、長浜市に蓄電所建設",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWXJxaXVrX2lKbklWbjVYeWNFSGZrNHd3TDByUXJaMGwtVVdnSWpCRWtPNGJYdXVRMmJWdTZ6dnFZQlBYclE3dzFHbGdOOS1ITlhOU0dyYTlmdk80NGJOdTNGaWMxaEpVREhkdi0xeFg?oc=5",
+   "source": "plantdb.jp",
+   "summary": "fantasista、長浜市に蓄電所建設 plantdb.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:37+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "8acfa85a5e3f1284",
@@ -140,6 +312,20 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "b136fd787b820ed2",
+   "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉長柄系統連系蓄電池プロジェクト",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90M3lyRVRrcWhMLVJvcW40d1p3UGMxdmdtZWFiV25pSkRKYjBYVnppWmFyV1ZkZ3hDaWV2RVRNbjBMVXdGN1phQnlBUTJzbG9FSFFwT3ZLR2hTY3BFQy1ib1B3WGdjTG9US25neXVHRHVGS19LYUNYUkdKcw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL92号千葉長柄系統連系蓄電池プロジェクト ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T10:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "defd958306195a71",
@@ -373,6 +559,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "4789ab63d623f044",
+   "title": "太陽光発電設備用コンバイナボックス市場、電力会社規模太陽光の需要を背景に2035年までの成長予測 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXM3V3lmZS1XcXdkRGtkVzRRNHJpc1NNN1FZdTlrX0pyRkpEZE80Y1NvY19LYmdHcXg3Z3kzZmdXYjJ6VWlxX2JCT25na1g1MXlQa3lxYjBBeGUxYUFSZ2g0R2hvTGVWbzVLVzNndWtINWhpX1E5TXU2SzFIZWdCUGg2bTl6NFZ5Uklic0c2S1pDTTk0NmVqRl9ILWotaWFPc1F0VUtxb2JyUmN1TGpNeS1Ub3J6MUxqVFM2RHRhdzRjRmJKUXc?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光発電設備用コンバイナボックス市場、電力会社規模太陽光の需要を背景に2035年までの成長予測 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T23:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "0049685664d22a50",
    "title": "伊那市のメガソーラー、市が建設を許可へ 業者は訴訟を取り下げる方針",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdVBjX3R5cW12SUVZUFRpS1VkcWJWWGV3blYtdW1pNzE5dzRpOFdhR1RCT1FleDViZXl3b25hVm1BcEVTOG9WNkd3VU91S0V1NjllX2MwRHdkeFdOWVhzR2ZrcWo5cjdvRHpWUDRKYVI?oc=5",
@@ -413,6 +613,20 @@
    "published": "2026-10-22T21:01+09:00",
    "via": "Googleニュース「営農型太陽光」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "7148db521c21c41b",
+   "title": "イラク、再生可能エネルギー促進へ太陽光発電輸入の関税を撤廃 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUlhsQ3JqLTV5dVZzSmVPREo1eENKanZPQVdrRHNHZUNFMkt0Q2FkZHpsUWhnWDFnRTFNT0laMGJGYTl1LW11TFRXalNkSGJwVXM1ank3ckRNdjhRU3h5bWxhQ0NMbTU1ZFBTN2dudHJtbkVEczl1U2VpUHlXRFl1c3Q1X2hqSTFXVnU4RERHRQ?oc=5",
+   "source": "IndexBox",
+   "summary": "イラク、再生可能エネルギー促進へ太陽光発電輸入の関税を撤廃 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T21:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "39c2c93725f6cbe2",
@@ -2143,6 +2357,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "2b3fb842abb28bce",
+   "title": "中電ミライズが一部料金メニューの価格改定 太陽光発電増で昼間の料金を引き下げ：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0R3AyNjluYkVDdzFNY0l6SFlhT0xQWC11eUluSV9jZ3lHZnFHTDBIRlcweDU5OHdSaXh5MG9vZWp0eUlOdkxqZ1dUQ2taY1pENW9rWF9CQzFZOGNZa0dj?oc=5",
+   "source": "中日BIZナビ",
+   "summary": "中電ミライズが一部料金メニューの価格改定 太陽光発電増で昼間の料金を引き下げ：ニュース 中日BIZナビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T19:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "cd452547f69e67a0",
    "title": "基地局の処理負荷移動と太陽光・蓄電池を協調制御 ドコモとNTTが世界初の実証開始",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81cHRlc1VMRVNvbHAyMm53UE9yd3RJTTgwR3BCMzEyZktEWjNUNFdVWUFOMFpKb1BjdnVZZXZ3cElqQWFKcjI3VkFBRWs3MTd4Mkpv?oc=5",
@@ -3461,6 +3689,20 @@
    "published": "2026-10-20T02:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "1548600c54aeeedb",
+   "title": "中国、太陽光発電技術の輸出規制を提案",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzZYQkdvT3ZYYVUxVzdRcDltY19kYkgxRVZRQ3JmakY2TklRZHdrcnZoOTk4Zjd3RldsNHl6U1NfY2xmYVgyNWtVcnQxdW8tT2x0TDR6aEFZckRJRUcwNF9wcXNSbWpxdHRxdDZMSmVtekRjZFdlanNBMVZkVllQOWJOUF9KTERLMkJJ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "中国、太陽光発電技術の輸出規制を提案 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T01:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "5290777a376b7df9",
@@ -5261,6 +5503,20 @@
    "type": "news",
    "published": "2026-10-17T07:13+09:00",
    "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "2ebe6d4db244e5a2",
+   "title": "系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）」の着工に関するお知らせ｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oSEdxMUR5OVJSREVLUW85ZGJMY3kzemxjcVRnVkZGMmtRVHJaRG51NDZQQzZRLThhc2x2ZkxES25zWEJ0YmFoNmhtLTRJX0ZSczlFb0tNWnZLMUREdTZXQ25CNFRnNlE2aU1vS280UUt6UQ?oc=5",
+   "source": "Infoseek",
+   "summary": "系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）」の着工に関するお知らせ｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T00:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
   },
   {
