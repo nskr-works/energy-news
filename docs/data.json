@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T11:10+09:00",
+ "updated_at": "2026-10-23T14:05+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,94 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d75808e10bd831fc",
+   "title": "パナソニックHD、ガラス型ペロブスカイト太陽電池を販売開始 量産を1年前倒し",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oR0E0V3g4bERmY3ZMU2NqOERVUG9NLUVFY3R6QTkxb0g0ZDdhU1lGb2lKNEF6VkRMQWtVdi1TSFFvdU4wQVpzaUZCdnR6VDdEZXc1NzdKMlJXRTBCUFE?oc=5",
+   "source": "OPTRONICS ONLINE",
+   "summary": "パナソニックHD、ガラス型ペロブスカイト太陽電池を販売開始 量産を1年前倒し OPTRONICS ONLINE",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T14:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "86f720999258c0c8",
+   "title": "ソーラーサーキット、「愛する、を建てる」を軸にリブランディングを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000119682.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社カネカソーラーサーキットのお家] 「日本の四季を通じて快適に暮らせる”理想の住まいづくり”」をめざす株式会社カネカソーラーサーキットのお家（本社：東京都港区、社長：安田 寛治）は、このたびブランドタグライン「愛する、を建てる」を軸に...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T13:40+09:00",
+   "company": "株式会社カネカソーラーサーキットのお家",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "8acfa85a5e3f1284",
+   "title": "ペロブスカイト太陽電池の安全な普及へ NEDO設計・施工ガイドライン公表",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ybkZNMWk0NjhCbm1pQkl4UkdhYlRjRXlxRV9KNUhMdFplVEtxcU54T1NtcXl0U0NnXy1SU05qN0d0VUtObEZ5NVM5U0pNUzFLc2VOcDhrb2QxLW8xcVQ1SFNBZGluR0NOT2ZrUjR3ZFhFbTVNNm9DQVJSdmIyRlk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ペロブスカイト太陽電池の安全な普及へ NEDO設計・施工ガイドライン公表 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T13:29+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "14fd4fcddc15163f",
+   "title": "パナソニックHD、窓を「発電所」に変えるガラス型ペロブスカイト太陽電池の本格量産を1年前倒し",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50cldaSUwyWHZxNWJIdUZ2YUQ0b0EwT3Bud0FPMVgtQk1Ib2FNMmt1aVJhbk5OQmZNbkwxQ1ZpaUtXUU5ScmdxOHgyVFB6Um1xbm9XMERCYlY2ajJOUGdfZnpiM2I0WGpVdHNsR1pna0xUWGtaOF9URWxvbUhIYVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "パナソニックHD、窓を「発電所」に変えるガラス型ペロブスカイト太陽電池の本格量産を1年前倒し Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:55+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f710cd41600fbf3f",
+   "title": "「国の導入目標設定が必要」日本における蓄電池事業拡大に向けた5つのポイント｜自然エネルギー財団",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9abV90eUdNWk1aSDlXbG9DWFBheUt1MTdjeVBuUUw5aGZ4NzB1RWJWbzFPeTVleGZCNUlfSnFQbl9wdTNIWExlWEtMTQ?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "「国の導入目標設定が必要」日本における蓄電池事業拡大に向けた5つのポイント｜自然エネルギー財団 ソーラージャーナル",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:01+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d6c1391edf84ad9a",
+   "title": "グリッド脱炭素化の世界市場（2026年～2032年）、市場規模（太陽光発電システム、エネルギー貯蔵システム、V2Gシステム、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NS05KU2p5aHh5WHJrM0dzRHVWOUhlSWxWelBRRUg2ak4taFZUempkSnQ2MFV1NVpGbTFTM0RIUmpadVg1Nzl3ZnY5UlZnWWM?oc=5",
+   "source": "アットプレス",
+   "summary": "グリッド脱炭素化の世界市場（2026年～2032年）、市場規模（太陽光発電システム、エネルギー貯蔵システム、V2Gシステム、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-23T10:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "defd958306195a71",
    "title": "【法人導入事例】富士山七合目に太陽光で充電できる環境を。LooopがEcoFlowを選んだ理由",
@@ -63,6 +151,20 @@
    "via": "PR TIMES（蓄電池）",
    "company": "スマートソーラー株式会社",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "dd9dbaefbbaf2a20",
+   "title": "営農型太陽光の制度見直し 農水省が市町村向け説明会を29日から開催",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Md3pQNkRrdV9naUdnTWNsZ0Q2Vy1YcUE2d1VUbWx0QUxzV2poRVE4QnoxSTRTTkxTZVBfY0RubEY2MWxEdnpjM2pRb0RwWDdN?oc=5",
+   "source": "アグリジャーナル",
+   "summary": "営農型太陽光の制度見直し 農水省が市町村向け説明会を29日から開催 アグリジャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T08:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "826f73ba24a57b54",
@@ -221,11 +323,41 @@
    "topic": "市場・企業"
   },
   {
+   "id": "4ad8bcfadd44d510",
+   "title": "三菱UFJ銀行。南米チリの太陽光発電とエネルギー貯蔵（BESS）統合プロジェクトのグリーン・シンジケートローンのリードアレンジャーに。三井住友銀行も同国の別の再エネ事業へ資金供給（RIEF） | 一般社団法人環境金融研究機構",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xWWdxX3d5elBLak96Z1NlMGwxQkVpdXV4ZWRZT0ZjNTQzbnA1R0xVd3lKcmNBNTRDajhDTG9xLWd4dTNT?oc=5",
+   "source": "環境金融研究機構",
+   "summary": "三菱UFJ銀行。南米チリの太陽光発電とエネルギー貯蔵（BESS）統合プロジェクトのグリーン・シンジケートローンのリードアレンジャーに。三井住友銀行も同国の別の再エネ事業へ資金供給（RIEF） | 一般社団法人環境金融研究機構 環境金融研究機構",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T01:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
    "id": "0049685664d22a50",
    "title": "伊那市のメガソーラー、市が建設を許可へ 業者は訴訟を取り下げる方針",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdVBjX3R5cW12SUVZUFRpS1VkcWJWWGV3blYtdW1pNzE5dzRpOFdhR1RCT1FleDViZXl3b25hVm1BcEVTOG9WNkd3VU91S0V1NjllX2MwRHdkeFdOWVhzR2ZrcWo5cjdvRHpWUDRKYVI?oc=5",
    "source": "信濃毎日新聞デジタル",
    "summary": "伊那市のメガソーラー、市が建設を許可へ 業者は訴訟を取り下げる方針 信濃毎日新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T21:12+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "f2ed3b8377b3448f",
+   "title": "伊那市のメガソーラー、市が建設を許可へ 業者側は訴えを取り下げる方針",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdVBjX3R5cW12SUVZUFRpS1VkcWJWWGV3blYtdW1pNzE5dzRpOFdhR1RCT1FleDViZXl3b25hVm1BcEVTOG9WNkd3VU91S0V1NjllX2MwRHdkeFdOWVhzR2ZrcWo5cjdvRHpWUDRKYVI?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "伊那市のメガソーラー、市が建設を許可へ 業者側は訴えを取り下げる方針 信濃毎日新聞デジタル",
    "categories": [
     "solar"
    ],
@@ -3640,6 +3772,22 @@
    "storage_topic": "その他"
   },
   {
+   "id": "be70e0f34b150db1",
+   "title": "ペロブスカイト導入に最大10億円補助、2次公募 インフラ向け蓄電池も対象",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yZFo2NnhxY0drZDhnX0swTmRGY0dzRDROZW9TNm9lbWctQ0hZaHh5NG9pQjJ5Y0VqeS1FeWNUbzk0X2hWVkp3NWNlbXZGU2NITlJVRnBUNElzM21fYl9qMTBMODVHdXFCYkxiUDJQV0szdkUzenhvRzlFODE?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ペロブスカイト導入に最大10億円補助、2次公募 インフラ向け蓄電池も対象 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
    "id": "9c3754048240e95e",
    "title": "川崎市の学校内で太陽光発電、余剰分を外部に供給",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RdlhmTDhTbkh3VGQ3d0NWY3hUU0ctSTU0NlZCal9pbC1MZnJqT05UQnpHVWRKdGtvbS00akRxMEVGc1lkT2hKS1ZoMjJfdXRDV3kw?oc=5",
@@ -5422,6 +5570,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "90a81c51082d9bbe",
+   "title": "住宅への太陽光発電導入をサポートする「SOLAR JOURNAL 住宅号」10/30 発行！",
+   "link": "https://solarjournal.jp/news/68021/",
+   "source": "SOLAR JOURNAL",
+   "summary": "高騰する電気代や災害対策、売電収益など様々な分野で注目されている家庭用太陽光発電。この度SOLAR JOURNALでは、導入を支援する政策から、注目企業の最新ソリューションをまとめた住宅号を発行する。 The post 住宅への太陽光発電導入をサポートする「SOLAR JOURNAL 住宅号」10/30 発行！ first appeared on SOLAR JOURNAL .",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:34+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "7de56c4f7b5faa1d",
    "title": "系統用蓄電池事業ファンドの組成及び運営開始のお知らせ(SBIスマートエナジー)－ PR情報",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sekJMT0NQNVRRblBPY1dTeGduemJ1azNMN0FfemNpdS1ham4ySXVFOFhNTjJVbHFKQXlQVTBJNVRHX3VmNzV2UERmblNZaGFQQmpadExSMGxSUGZQZFdQbzF2RTFQQQ?oc=5",
@@ -5462,6 +5624,20 @@
    "published": "2026-10-16T16:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "d1177083b25baa60",
+   "title": "太陽光発電の地域貢献を表彰、2026年度ソーラーウィーク大賞 13件選出",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hNGhXVHhkbjJSZEJuMlpZVGpMZWVvYVZsTkt1NGZCa0xhYnRfSzZoRHVEeGZNLS1YM2FnWldxVVRtbWFLZTBhS3pydDZ0UGJyRFlhSkVyXzRkMTJJSWZYN05qekR0cmFtam5wamhsZHk4eGVkLWNUZ1FyMy0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電の地域貢献を表彰、2026年度ソーラーウィーク大賞 13件選出 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-16T16:00+09:00",
+   "via": "環境ビジネス",
+   "topic": "その他"
   },
   {
    "id": "c5aa7ed4e2a66b70",
