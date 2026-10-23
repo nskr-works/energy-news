@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T14:05+09:00",
+ "updated_at": "2026-10-23T16:22+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,40 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d7e20c89b2ae71ae",
+   "title": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000095.000092942.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社Sustech] 株式会社Sustech（東京都港区、代表取締役：丹野裕介・飯田祐一郎／以下、Sustech）は、綜電株式会社（大阪市北区、代表取締役：中澤博司／以下、綜電）が所有する「SD京都綾部蓄電所」（京都府綾部市上矢田、...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T15:45+09:00",
+   "company": "株式会社Sustech",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4ec27a09f6f7678f",
+   "title": "「TEPCOフィンテック太陽光・蓄電池リース債権証券化2026-01」のアレンジに関するお知らせ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000013.000166647.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[フィンテック グローバル株式会社] 当社は、東京電力ホールディングス株式会社の100％子会社であるTEPCOフィンテック株式会社（本社：東京都千代田区、以下、「TEPCOフィンテック」）との間で、同社が全国の戸建て住宅のオーナーに対して有する家...",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-23T15:45+09:00",
+   "company": "フィンテック　グローバル株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
+  },
   {
    "id": "d75808e10bd831fc",
    "title": "パナソニックHD、ガラス型ペロブスカイト太陽電池を販売開始 量産を1年前倒し",
