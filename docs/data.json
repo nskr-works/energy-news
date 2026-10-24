@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T07:06+09:00",
+ "updated_at": "2026-10-24T11:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "008cdc1777c9f10a",
+   "title": "国立公園拡張案を公表 釧路湿原、メガソーラー規制などで ATの利用推進初めて明記 北海道（釧路新聞電子版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaTFUS25feDRMRFdLTUNaQVlWYkI2c2JfczJVbjlJUHd4MFlTc3Zadm00b1VLdEltOFJnMW9UbEs4LVFNOGVKR0t6Vm85WkowMmE2a3JMek9uOC00YUdPc3lmZUNpbml1eWU3OHdGMGd2RDVqZDBTZUFrMmdJeGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "国立公園拡張案を公表 釧路湿原、メガソーラー規制などで ATの利用推進初めて明記 北海道（釧路新聞電子版） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T08:34+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "8cf38ff39e7c0abe",
+   "title": "「窓・屋根・効率」争い…パナソニック・積水化学・カネカ「ペロブスカイト」5社比較（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMVdpTjM5Z3JMcVlSaU9sOUgwWmJzUEJpbGtjNVotSnVqYUpoMlhMNXZBdmxQeWQxdXI0dUNfbWRMSnJGckpmemI3ZGt5ckVpZjdZNEFLTHkta0lrVGNDNERyMS15aUFSUVpGb3VUU2lUYjdrbkFhcXVzRmdMeWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「窓・屋根・効率」争い…パナソニック・積水化学・カネカ「ペロブスカイト」5社比較（ビジネス＋IT） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T07:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "40775e4076ea0665",
+   "title": "「窓・屋根・効率」争い…パナソニック・積水化学・カネカ「ペロブスカイト」5社比較 ｜Seizo Trend",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGRVlEMUo4MDUxemRYWkNzMGtURTRtRFRQOUxSakU3OW5FUF9QbGdxM1VZZmRNdXRkd3VaS0xmdWZGaWJId19Cd09XQ2pmZTA?oc=5",
+   "source": "ビジネス+IT",
+   "summary": "「窓・屋根・効率」争い…パナソニック・積水化学・カネカ「ペロブスカイト」5社比較 ｜Seizo Trend ビジネス+IT",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T06:50+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
   {
    "id": "22236d4075d1cbd8",
    "title": "省エネへの取り組み（太陽光発電システム）",
@@ -61,6 +103,20 @@
    "published": "2026-10-23T20:35+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "86a25fc80a6e95b1",
+   "title": "Green Batteryが関西のPV EXPOに出展へ 系統用蓄電池事業を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uSXFkQVo1eEJWRTB1bFRFejM5LWhXQS1heUMzcGl3eHQwSHNIN3lMTXlEZkdYYklucDZLVXRMX29sZml4eVE?oc=5",
+   "source": "Dellows News",
+   "summary": "Green Batteryが関西のPV EXPOに出展へ 系統用蓄電池事業を紹介 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T20:20+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "9217c22f3921a93b",
@@ -288,6 +344,20 @@
    "published": "2026-10-23T16:43+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "760f7138ab346c84",
+   "title": "TAOKE ENERGYが群馬と岡山で開発の系統用蓄電所2件が系統連系",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uOXQyTUxXX3NieEQwS3JvcHotVm5ObFFrd2pjSlRrTjQ5eTgzaUhqV3UwUkxLeVpjUS1lVmtnRTBpVjVLRlE?oc=5",
+   "source": "Dellows News",
+   "summary": "TAOKE ENERGYが群馬と岡山で開発の系統用蓄電所2件が系統連系 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:40+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "b87946e806d67c77",
@@ -657,6 +727,20 @@
    "storage_topic": "高圧（特高含む）"
   },
   {
+   "id": "ce47bab7d57ec007",
+   "title": "【2MW／8MWh級の系統用蓄電池で複数の設計依頼を受領】配置検討・設備設計に対応｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51b0ZPc2lfU0J2dnE1OUxwSXIxU3FzYk5kRnFRdW1IWVBVZFZ3ODJYQUFUTGJ5ZDNaVktUa0Zuanp6dXRHWl9Zem5DalJjdUZTcXpWRDE4YkxnaXB5S08yTEpJSktYYV9IMThpVTRYcDBodw?oc=5",
+   "source": "Infoseek",
+   "summary": "【2MW／8MWh級の系統用蓄電池で複数の設計依頼を受領】配置検討・設備設計に対応｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "44e52214193761af",
    "title": "住宅用太陽電池「スマソラ黒シリーズ」を本格展開",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tMXNPZU5DekR0YjA4SGl1YW5yWnpRQXE0SFZIOW5CcVV4Z0xCTy0tZWIxTXMtaXQySW5oZ3FUZVR6b2pwUTVNMzZsOXFfckg1aU9VWlZfSXlLOFJmMzNlX2w2QS1RNHJiSXc?oc=5",
@@ -728,6 +812,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社グローバルクラウドエステート"
+  },
+  {
+   "id": "4789a0a7a5dec95d",
+   "title": "CAMELが系統用蓄電池ファンド92号の再募集を開始 一次調整力市場を主軸に",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10WnBid3o5MWlJekU3ekpnUjU4bVdrUUR4QmNGbG9DYnNwUnpjMmlsdWc4eVdXbUYySkc5ZGhHdTJ5QVM5b0E?oc=5",
+   "source": "Dellows News",
+   "summary": "CAMELが系統用蓄電池ファンド92号の再募集を開始 一次調整力市場を主軸に Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T08:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "177104623c45a444",
@@ -1910,6 +2008,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "0590b86af8acc42e",
+   "title": "ユニーク・ファイア・ホールディングス：防火規制の強化と太陽光発電事業が次の成長段階を形作る",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVY4U2NrVVhKbm5SU3gwWTJZcWdkQnJHNDRWUEhqWWlrZ3h6bVhscUtqVWRSZU5fUUdoanBxRnZRdFpXS3Z0NXhlc285Y0pHN2FybWxwbVl4U3lXejdaQ1ZpUkJndlVZYjRBWEZxd0I1TWE4Zzdwb2xIWlR1WGtxc1AyMnF4SU90WlpWR3F6SGhEa0E5V29jQ3BlbEZxXy0yM2w3UEdoYmpHLVBxRk5fdVZBb282Zw?oc=5",
+   "source": "Moomoo",
+   "summary": "ユニーク・ファイア・ホールディングス：防火規制の強化と太陽光発電事業が次の成長段階を形作る Moomoo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T18:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "7cf1fa6c9b52ad28",
    "title": "KIBOR株式会社は、10月より低圧アルミケーブルの国内在庫・カット販売を強化し、材料費の削減と盗難リスクの抑制に貢献してまいります。",
    "link": "https://prtimes.jp/main/html/rd/p/000000008.000185116.html",
@@ -2383,6 +2495,20 @@
    "published": "2026-10-21T07:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "233313517db3621e",
+   "title": "日本気象協会とリチャージ 蓄電池運用の高度化で連携 電力価格予測を活用",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wTTBkQm4yLWFXOWZ4ZUlQcmRONUNKUTFsMTdEUjhiWm52dlF3TTF3Z3NLak5aUmNkbXJnXzlWc3RzdjNWYmtJVjZSUzB2VDVJVWtyX09QbmpMREpJVjJLRVVpYzdLcUJvRU5uOFhmWU5fVTZCcnpjbHpNYw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "日本気象協会とリチャージ 蓄電池運用の高度化で連携 電力価格予測を活用 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-21T07:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "64f048461f4c5f3e",
@@ -5166,6 +5292,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "e54fe74888cb1c7e",
+   "title": "次世代の太陽電池に光…軽い 薄い 曲げられる",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92NW5fQUlJdnNEVUV1dExNM29nT3Z2VFBhX0p1VUZTcTg0X0xfNDFzaTRxbG5Yck8tNkRWZ0dOaklhWHE3Y0hPQUdqcG82U0N1MDljUkRhbU01MU5uYXFVOUdvTHNCaE9pZ0RVQy1zZmJydw?oc=5",
+   "source": "読売新聞",
+   "summary": "次世代の太陽電池に光…軽い 薄い 曲げられる 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-19T05:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "f71221ed92e27d61",
    "title": "蓄電所の送電網接続、申請費用上げへ 空押さえ抑制で適正投資促す",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RFp6SG9aRVA1Y1ZEQ0NLcW1OcjU0NWFRdENmbmVFSHNZaHNUZmQ2WWhaTW1oSnRpdU1lS1JwUFc1a21TOG9ueTdCVnJ2VmF3TzdkSEVlOTYtdEluaTRnbmNla3JBLWFQcHVNTg?oc=5",
@@ -5726,6 +5866,20 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ib3RiRzdGbHZzRk5VWHhMMEZzcTFlUjlzdzg1bm5RSjZyZlAyLVBaUk15cThGT3ZJNFZ0bDlhSjZNZWZMdnRvN2pCZzlhMWdCZW5BTTFZOVExRnh0YmhQWGNLMTFCMzZBTTU3NTBOSXFTZw?oc=5",
    "source": "Infoseek",
    "summary": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 蓄電インフラ開発・販売ファンド』開示＆募集開始｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-17T12:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "25f3f5c3c168f047",
+   "title": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVlVTeWxUWERsRFNFd1pfcjY0dFZ0eU1tZHotN1hTTV9WaTMxcVRsaDZRVmpFblBoQkVSM3dxOTZPNGdlTl8tbGx3UWx0RjBOT3V3bw?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【想定年利25％・運用約11ヵ月】系統用蓄電所の開発から販売までを支える『熊本市東区小山町 ニコニコニュース",
    "categories": [
     "storage"
    ],
