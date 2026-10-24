@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T14:02+09:00",
+ "updated_at": "2026-10-24T17:02+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,62 @@
  ],
  "items": [
   {
+   "id": "57bad45cb395cead",
+   "title": "RE100電力、JC-STAR取得品採用の蓄電設備『J-BESS』拡販へ",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSU2NCbmtieHRmc1diSzFIWDlHdXhHbWJmRnQ0RUpRRXBybFZNMjhYMjQ4WElMR2FrOFRKbkdwOU1NT1JDRTJQZ0h3?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "RE100電力、JC-STAR取得品採用の蓄電設備『J-BESS』拡販へ www.pveye.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-24T14:24+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4a9d7a6cc6c21068",
+   "title": "「営農用太陽光の普及に壁 自治体支援の拡充が急務」",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIemxBQk82eVlEZ2VmQVBBRnJ6S05IdHhqbVVHbGc0ZFZnU3dEcGkyLWRrTnhPWk4taTlvTm83dGEySWVoVUQ0OUNZSGVOWnpxRFZn?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "「営農用太陽光の普及に壁 自治体支援の拡充が急務」 www.pveye.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T14:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "038176a77aaf34ec",
+   "title": "経産省、FIT・FIPの支援縮小へ 公共地への導入や太陽光カーポートなどに限定か",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCWmZOZDZGeGlTTV9vaUpNU2xnenFVSVAxYlVfbWM3VkZ6bnpFZkVvcUNuWUVvaWZZVDlLX0J2Q05aSlo0Nmgyd0NBN3pVMGkzUnJz?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "経産省、FIT・FIPの支援縮小へ 公共地への導入や太陽光カーポートなどに限定か www.pveye.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T14:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "efae0846a7380772",
+   "title": "地方見聞録 【九州・沖縄】再エネ先進地は革命前夜 新たな事業モデル続々 | 太陽光発電の専門メディア PVeyeWEB",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpQ1Z2dWlUMnAyVkN5QjBVQy1aOGJ4d3p4RnJfcEpFUkVwREpTcXhiY1ZMZTJGc3pRSnBKNkZjMm5BZzFYZWRlWm9WYWlPSnZRLUh2b0lMRUh6SmZJMUE?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "地方見聞録 【九州・沖縄】再エネ先進地は革命前夜 新たな事業モデル続々 | 太陽光発電の専門メディア PVeyeWEB www.pveye.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T12:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "7377ce26da47cc5a",
    "title": "国立公園拡張案を公表 釧路湿原、メガソーラー規制などで ＡＴの利用推進初めて明記【釧路市】",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rZDRvMU44SkhjQUtPNWJrS1RRVEF4SHh1RHhxM1Mzb1BRV2J3QUJ6R3E4Nzh1RUxLZnU4RE5PTzFoamZQczZPVFc1MzZIV1dHeVRn?oc=5",
@@ -32,6 +88,20 @@
    "published": "2026-10-24T12:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "5d6b468ce90fe688",
+   "title": "取引先屋根で太陽光発電、自営線通じNTNに電力/Daigasエナジー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aXlwWm82UlpaWDdxcXZCX1g2dDQ1TlZmZlJva2VuTVNZYWpCbGZIM2NHZW9VSG8tYnpZWU93TElMaGhySnBQSU5tZ2Z5SDhVWGJtUldVOGw?oc=5",
+   "source": "ガスエネルギー新聞",
+   "summary": "取引先屋根で太陽光発電、自営線通じNTNに電力/Daigasエナジー ガスエネルギー新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T11:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "008cdc1777c9f10a",
