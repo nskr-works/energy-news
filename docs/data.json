@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T17:02+09:00",
+ "updated_at": "2026-10-25T07:00+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,21 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "acbf01b079a88489",
+   "title": "世界の系統用蓄電池、なぜ中国が首位に立ったのか――8年で逆転した勢力図を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rbGw4S09ETUpnWjk5V0ZzLVN2b2cyRF9BdEdwTnFsRDRQYzktLVpORWF5UmpKcEtmSExpTl8zUmdDSW44V0h1eFZzeGZHZEQxZ2d4bEN6ZHFhWlFaeE9KMTQzcEVGMFhvOFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "世界の系統用蓄電池、なぜ中国が首位に立ったのか――8年で逆転した勢力図を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-24T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
   {
    "id": "57bad45cb395cead",
    "title": "RE100電力、JC-STAR取得品採用の蓄電設備『J-BESS』拡販へ",
@@ -458,6 +473,20 @@
    "company": "株式会社 東急パワーサプライ"
   },
   {
+   "id": "2e098d556c028e51",
+   "title": "TAOKE ENERGY、群馬と岡山で系統用蓄電所が系統連系を完了｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdGtlbWt1aDEwbGlMU3JVbnRTVG5IU0hIcUhvSFptUmxHU1NlNGhTLVBJeVRfUVZjM3dOcjdnV2NUM3hma0g1Tm9jbng0RUdtV3dCc3k5RnAwa2hBZnBKQVVhQjliSEZuX2laWGhhNEpaUQ?oc=5",
+   "source": "Infoseek",
+   "summary": "TAOKE ENERGY、群馬と岡山で系統用蓄電所が系統連系を完了｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:45+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "718ef7ec556e751e",
    "title": "【速報】メガソーラー規制で釧路国立公園拡張",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCNmN6ZGRvOEJTN1BER01STFU5ZFR5TDZTVFc1U2NHdHdTRndUbEJ0ZFk3VkR6d2RDbEV3ekc5dlgxY01QdFFTNFd2Yw?oc=5",
@@ -527,6 +556,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "company": "TAOKE ENERGY株式会社",
    "storage_topic": "その他"
+  },
+  {
+   "id": "1303177d40eff141",
+   "title": "中国株式市場、太陽光発電の急騰で反発",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WaV9Lb2dLd3R2alBHNFFSaDhYVmk1SThQM2YwU0lBM1FwRzBCVmo5cXdRNjFkVkYtRDJlNjVOTk5SaGVsQi0yRFFKYjJpaXh3dXpJOGFsN2V5Mmc?oc=5",
+   "source": "亜州日報",
+   "summary": "中国株式市場、太陽光発電の急騰で反発 亜州日報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T16:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "f613b4028b66efa4",
@@ -1110,6 +1153,20 @@
    "published": "2026-10-23T07:00+09:00",
    "via": "スマートジャパン",
    "storage_topic": "その他"
+  },
+  {
+   "id": "6abc41a948cb5822",
+   "title": "電力事業規模太陽光発電EPC市場、2035年へ：系統統合の高度化が成長を再定義 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXRNRWxKc09aVkdkdVpJeWRsQWUyS3pBUGlyRWlVWGVMZVNLdHpLQS1yU0NHVi15N25yeWlCTTBXZk9jUXktaXNqRS04cFVOdzIwV00wTFBTdFA3STc1YXp6bTQxSTJreXhiWlpnX3BERl9Jd1BHMWF3ZEVuWGhGNHBoUDVLa2MzcEZwRkFBWnJLVE9MVGpaZ2tYUVhzX3h5aVJ2ZHotdFY3dl96eFZIWUFUOWFtUnJId3VQMF9BdXphVXNuenowQQ?oc=5",
+   "source": "IndexBox",
+   "summary": "電力事業規模太陽光発電EPC市場、2035年へ：系統統合の高度化が成長を再定義 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T06:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "ca3f7882450ec544",
@@ -2407,6 +2464,20 @@
    "published": "2026-10-21T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "ec35e04a665e2ad2",
+   "title": "パナソニックHD、ガラス型ペロブスカイト太陽電池の量産1年前倒し 29年4月から",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80RHJfQ0d3SmNUcXdra3V2azI0dVBRRXhwRHJtbUpZT0pwOWZzOGxTNUJvUHJwTUFKWkV1Wmd1blYwT01aZ2lTVlNCX01ybFU0TlE?oc=5",
+   "source": "電波新聞デジタル",
+   "summary": "パナソニックHD、ガラス型ペロブスカイト太陽電池の量産1年前倒し 29年4月から 電波新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T17:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "27869b009adf9f73",
