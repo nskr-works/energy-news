@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T17:03+09:00",
+ "updated_at": "2026-10-26T07:00+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,65 @@
  ],
  "items": [
   {
+   "id": "b8adb89f10f9c308",
+   "title": "プラス・エネルギー／窓ガラスを太陽電池に、「近赤外光」が鍵を握る",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02anhJZmNrVFE5bU1MQjljS3I0VUxxT1VXTTBUNF9waGRzY2JKM3BXTmloQlM2SEFkWUw2eXhkZGZIWXoxTXFSRDRkeGtBMFlxSElxdWdJSQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "プラス・エネルギー／窓ガラスを太陽電池に、「近赤外光」が鍵を握る – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T06:00+09:00",
+   "via": "電気新聞",
+   "topic": "その他"
+  },
+  {
+   "id": "b4456ee71369cdae",
+   "title": "中国製蓄電池セルはなぜ世界を席巻したのか――シェア逆転の裏にある品質課題を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQk9BNDNqQ1pqQWJSS2llUnd4TUJRV0VSQU1FVlU4b2pUUTJWQUw3OENOTXp4TG4wRzFxYW5xTV9uZ3pMUkdvX2s5dmJTSWk3NDZ4aEV0eXh0bEtLaHZOVXdCdHVrdEhsTmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "中国製蓄電池セルはなぜ世界を席巻したのか――シェア逆転の裏にある品質課題を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-25T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "1a4f177e69b8e406",
+   "title": "東芝、モンゴル向け蓄電池システム受注―太陽光活用で電力安定供給へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeVRwdVRTZEhwQ1M5blhaOUc4TWFrWThqYVp6MVlsTWNNVHgzbjctQXlxVng3UUpfV2ZzbklMX1VmWFVVZF9DUFM2M09nUUtvLW5oYU95bnR5N3NWUUhZ0gFkQVVfeXFMTlV2bmJpYlhyeDAyYzY4MFNOdlE2dEx2dkd1ZnU3TVd6d1NnVnJZN2UyZzVBWlhIZEZEc2JtdlFjd3lQT0JaTl9ucS1IOVdjb3N2QzhQaUtRVmlqVmZDcV9RUEdoag?oc=5",
+   "source": "Infoseek",
+   "summary": "東芝、モンゴル向け蓄電池システム受注―太陽光活用で電力安定供給へ Infoseek",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-25T17:27+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f39d1157f54295ad",
+   "title": "ジャパンブランディング、系統用蓄電池の地域差を解説するウェビナーを26年11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wUXhneGNOSnF6TTFjS2pvaFRENFloRXJEenRRdE8tNVpzLXVkN0kwV19UbEh1cTItYVJ4WWNIVG5PcGN0RUE?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の地域差を解説するウェビナーを26年11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-25T16:52+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "6c5c24f34833f135",
    "title": "水中式ソーラー井戸ポンプの世界市場（2026年～2032年）、市場規模（スクリュー式、多段遠心式）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDZlg3WEFWdVJmU1dPaDZSUnlZQVh2YWhtU2xVaGFCNC0xbklxeGR1Qmw4eTVwME1pbGhJdWVydTRWNDB2R0FBMEd2b2FGVXc?oc=5",
@@ -30,6 +89,21 @@
    ],
    "type": "release",
    "published": "2026-10-25T16:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "cf0ebbf8e30ff191",
+   "title": "高感度光センサーの世界市場（2026年～2032年）、市場規模（フォトダイオード、フォトレジスタ、フォトトランジスタ、太陽光発電）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wWTU4ekR3THNGSC1wUTB5dVBRMHF0UHN1RjgtZmpOT3ROM1BGdUV5Y0JCY0ZhZ2wwb2c2WFVMMFJtOE5sZHhtWXJKcng3cVU?oc=5",
+   "source": "アットプレス",
+   "summary": "高感度光センサーの世界市場（2026年～2032年）、市場規模（フォトダイオード、フォトレジスタ、フォトトランジスタ、太陽光発電）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-25T16:00+09:00",
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
@@ -49,6 +123,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "e1521d52c59c8faa",
+   "title": "岡山県で8MWhの系統用蓄電池設備が連系開始",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQ3BVRXJMbUQzVkh0SmhNZ3EtY0JCTGZ6cnAxVGR4Q3VqRWdvVThQZXRiQTltcFRmeENySmVnWDZFVk5sQ2FuTHp3YjlNMl9DR1E?oc=5",
+   "source": "山陽新聞",
+   "summary": "岡山県で8MWhの系統用蓄電池設備が連系開始 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-25T12:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "bdb41c6152416ee8",
    "title": "PUソーラーフレームの世界市場（2026年～2032年）、市場規模（フラットフレーム、チルトフレーム、その他）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZVB5VFRBc05FMzMzSG56TE1WWmlqWjJNSUo0QUlOLTRscGE1Z2dyWHJ2LVBPU2haMDRNaUdtZ2VZV0RTbGRrX0hSYVI1QQ?oc=5",
@@ -64,6 +152,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "d7a71887983a3be4",
+   "title": "ＤＣＭとダイキアクシス、太陽光発電の取り組みをPPAモデルへ拡大、3店舗で年間CO2 592トンを削減",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15b09HbUt6S1dOcnpkbEozVExReDk4aUZ0NlZxU0FycjhUZU1QRzVEVUJiaTRBbG1CZUptRVJTcTlDVGdYOWNiOC1xTEc3R2hiemc?oc=5",
+   "source": "山陽新聞",
+   "summary": "ＤＣＭとダイキアクシス、太陽光発電の取り組みをPPAモデルへ拡大、3店舗で年間CO2 592トンを削減 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-25T07:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "1c2447436842db40",
    "title": "東急不動産・IBeeTが出資する蓄電所向け蓄電システムを伊藤忠商事と共同受注",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yanIyZmh1emVMclk5OTRrOC1CbXVIdjVrcmcydk1iamxWaFk0WGRRRmdSMnNQZ3FWS0lzaG5KYVJNZmswVVlnY2VtSW5JTlNUOEE?oc=5",
@@ -76,6 +178,20 @@
    "published": "2026-10-25T03:10+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "845a820d3958ca1f",
+   "title": "メガソーラー，メガ風車について北海道で行われたシンポジウムのアーカイブ動画。",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VFdxQnNicmFsZXdwLVVEWm9XMWJ6V0M1UUd5bUxiWHBSMW5tcUxEVEZ3Tk9BT1ItVGFVUmhuVk10YUxiVkk3ajVUM2p4YVdtX0JwcVhrMDNHNExnTWxV?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "メガソーラー，メガ風車について北海道で行われたシンポジウムのアーカイブ動画。 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T19:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "acbf01b079a88489",
@@ -365,6 +481,20 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXZIZDBPRTA5ZWlfNHN6akYzT3JXWHhDb2trRktLU21lTGRubFNQMjU2ZUcxNlVNWmktZVhFYlo3ZnhyQ2hYc3ZRVG11NHJ1S29WQ0dhVUJjd2VBNXBtX09XQXZreFBqbVVsLUVXSkFNcTZtZy1IbFdaeEZHVEI5OFZnc0xic28?oc=5",
    "source": "日テレNEWS NNN",
    "summary": "ソーラーパネルの下でブドウを栽培 農業と発電を両立する取り組み 福島（2026年10月23日掲載） 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "879eeaa5e7d44a0a",
+   "title": "ソーラーパネルの下でブドウを栽培 農業と発電を両立する取り組み 福島（2026年10月23日掲載）｜中テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXZIZDBPRTA5ZWlfNHN6akYzT3JXWHhDb2trRktLU21lTGRubFNQMjU2ZUcxNlVNWmktZVhFYlo3ZnhyQ2hYc3ZRVG11NHJ1S29WQ0dhVUJjd2VBNXBtX09XQXZreFBqbVVsLUVXSkFNcTZtZy1IbFdaeEZHVEI5OFZnc0xic28?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "ソーラーパネルの下でブドウを栽培 農業と発電を両立する取り組み 福島（2026年10月23日掲載）｜中テレNEWS NNN 日テレNEWS NNN",
    "categories": [
     "solar"
    ],
@@ -2666,6 +2796,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "caf6443a20971864",
+   "title": "令和8年度「太陽光発電設備等設置費補助金」について",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adS1Mc2ZJV19SYTVSSjlHR0wtdGEtQXNwNE5WOVJLcGYyQlRCMWxqWDQ5LUEzTU41anNLNDZjaWZqZjJabmNiTzVDd3dUUTZSdFVnU3R4ZVhCc0F1MUUwTVNIYw?oc=5",
+   "source": "川崎市",
+   "summary": "令和8年度「太陽光発電設備等設置費補助金」について 川崎市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "5db0aa1761706715",
    "title": "川崎市立の学校で太陽光PPA、余剰電力を市内企業へ供給する取り組みが開始",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XUUkxVkMtcGxQQ3AyRTVMQkd0dGRhaG5OLXpENTBOdEVNVzU5M2FLRFVsd1JhR2txMTRKemJseU15YWJjS0RYTHFkNkJ2MUlBM0ZiNTgxbm52M2trejhWOW9mdnlCdGxFNHlBMG5DRDNndTVZMDIzSTI5VHU?oc=5",
@@ -4123,6 +4267,20 @@
    "published": "2026-10-20T12:27+09:00",
    "via": "Googleニュース「営農型太陽光」",
    "topic": "営農型"
+  },
+  {
+   "id": "469c60ef7c9ee542",
+   "title": "Tensor Energy、低圧系統用蓄電池のアグリゲーション申込容量が1GWhを突破 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTlrU2RqOUg5Qk95QlFFU0Q1cjEzRHBxWlpCMWtVOHpYZzFIQW5hUTVqbGEtcXhGakp1b1l3cDJySWRrREpMamZxZ2I0SFUwcGNoZ3RzdGFvNkxzbnpKeXVuWExxazJEeUlTMzZDMEtxeXBBMnZwNDl1aGJ0c1Ftbg?oc=5",
+   "source": "南日本新聞",
+   "summary": "Tensor Energy、低圧系統用蓄電池のアグリゲーション申込容量が1GWhを突破 | 鹿児島・九州プレスリリース | 生活情報 | くらし 南日本新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T12:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "c5e605e46a15f3f2",
@@ -5757,6 +5915,20 @@
    ],
    "type": "news",
    "published": "2026-10-19T09:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "0d447f75fdf2ff05",
+   "title": "系統用蓄電池はどこまで法規制の対象になるのか――技術基準とJIS・JET認証を読み解くウェビナーを開催｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0bm0zZ1QxTENySnBVVGdIZ1lneGFldkxKTGxuZ1dhLUdpWmlaU0ZRQTlLR0I3MHJpVWRTWFRZZm5UcEJDYy1SOTBLSVdKVjRHckhlWGNtcUdQVmNsZDYxdW5KT3VIWWUzYTFvUnJtUlRMQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "系統用蓄電池はどこまで法規制の対象になるのか――技術基準とJIS・JET認証を読み解くウェビナーを開催｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-19T09:15+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
