@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T07:00+09:00",
+ "updated_at": "2026-10-25T11:06+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,21 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "bdb41c6152416ee8",
+   "title": "PUソーラーフレームの世界市場（2026年～2032年）、市場規模（フラットフレーム、チルトフレーム、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZVB5VFRBc05FMzMzSG56TE1WWmlqWjJNSUo0QUlOLTRscGE1Z2dyWHJ2LVBPU2haMDRNaUdtZ2VZV0RTbGRrX0hSYVI1QQ?oc=5",
+   "source": "アットプレス",
+   "summary": "PUソーラーフレームの世界市場（2026年～2032年）、市場規模（フラットフレーム、チルトフレーム、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-25T10:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "acbf01b079a88489",
    "title": "世界の系統用蓄電池、なぜ中国が首位に立ったのか――8年で逆転した勢力図を読み解くウェビナーを開催",
@@ -173,6 +188,20 @@
    "published": "2026-10-24T05:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "dc73c162362f93ec",
+   "title": "グラフェン修飾グラファイトアノード市場の2035年予測：系統用蓄電池需要が年率18〜24%成長を牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09iRlNuTDZBZTBVaUM1OU95NUQxVGNNLThEN2poSUk1OURveTAzRVNXRlpQMXdTb2lSRVFNSTNFWmZnNHFadnI3Y0c2Wm13ZGV2bGtDQWR3ajhZQlFYd0VrMUFZYTNYX0s5SlR0RGxOUXVDbW5CeG5ab2lBRnZ1VnF3X0RUbjJ5aE9iQVlQREdYVXYzdHdLTWt1SUUxN0N4aHgtLXlnQ1VHVmFvazNGLUp1OTNWUjUwMTFUV0JRYXFlS1ZFRmJnSQ?oc=5",
+   "source": "IndexBox",
+   "summary": "グラフェン修飾グラファイトアノード市場の2035年予測：系統用蓄電池需要が年率18〜24%成長を牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-24T04:41+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "22236d4075d1cbd8",
