@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T14:05+09:00",
+ "updated_at": "2026-10-25T17:03+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,21 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6c5c24f34833f135",
+   "title": "水中式ソーラー井戸ポンプの世界市場（2026年～2032年）、市場規模（スクリュー式、多段遠心式）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDZlg3WEFWdVJmU1dPaDZSUnlZQVh2YWhtU2xVaGFCNC0xbklxeGR1Qmw4eTVwME1pbGhJdWVydTRWNDB2R0FBMEd2b2FGVXc?oc=5",
+   "source": "アットプレス",
+   "summary": "水中式ソーラー井戸ポンプの世界市場（2026年～2032年）、市場規模（スクリュー式、多段遠心式）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-25T16:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "9362fc54bb219c7e",
    "title": "ペロブスカイト太陽電池､積水化学の開発者が語る商用化の道筋",
@@ -2391,6 +2406,20 @@
    "published": "2026-10-22T04:55+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "0ef40aa079ad0b31",
+   "title": "Belmont SolarのBen Zook氏、太陽光発電の次章を形作るのは技術ではなく行動だと語る - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHVSekljb0s2SDNBcFpxdmdpUmFJNWFNY0VZRTB1UXgwbVJzRF9LWWx0dkpBaWt2TVdPakZjdU83cks2UERqUUktc2hlYnJNd1NjMGk2Q2xjRG16UU1TeXFzbS1Ea2Q4MldlM01mZkNLLXlQUHRsTERDSVUtSmdFN2dFMDlTazY4VTUxd19LTl9BeklZUGNXaUttRXRNMWFoc0tV?oc=5",
+   "source": "IndexBox",
+   "summary": "Belmont SolarのBen Zook氏、太陽光発電の次章を形作るのは技術ではなく行動だと語る - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T23:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "cccd3d8eaf953cbe",
