@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T11:15+09:00",
+ "updated_at": "2026-10-26T14:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,106 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "517cc4d3f80c2625",
+   "title": "系統用蓄電池を取り巻く電力市場制度の改変と市場戦略",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96bDkwdDdDazMtOUwyWjk2TTZLcFVGRV9PLVpCODctcDVOR196c1c5eUxjalZXOEZjcFNRcnU3Sl9PNll6cFg1WVVpWWIzYVNKY0w1bEZKdzlCMDBHZzQ1OWlnM291TXBCU1o1bElEa1hDenJxZW42R3FUZFhBX3c?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電池を取り巻く電力市場制度の改変と市場戦略 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:01+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "51e8938722c787ce",
+   "title": "工場を太陽光と蓄電池だけで稼働 年間3百万円の電気代削減、エジソンパワー",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hemtlWkt5X1FhdkNYUGZjOXp0TGJ5NTF6dDhUeVdZSVBkbERKNHVmWnhZcU4zSzN6Z2luZUpwMm9WamdCaVBVM0N0RWZXVlQycFg0aFh3WDI1TDMxUmVGR2tpVHd1bHlDQTl1a21fTDlJYnVodENEX0QwYzQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "工場を太陽光と蓄電池だけで稼働 年間3百万円の電気代削減、エジソンパワー 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:01+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "631895c365fb9cbd",
+   "title": "定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpbGRZZTZvVVF5MFZ0eUtldnc2Zk10R0dJWEJHME5vcXl3eHE0MHVKWXk0QXdpX1BweWN1RXRVa0NTdWIwNW43MGhWZDJxbWVEVlMxWkZRNVdQc3dOZEpRNHd5REFsZk56MnAwcTdYakpwUjYyWmFKNzRFVVY?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:01+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "09c97d5703c5f1d4",
+   "title": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KV0dxOW84bWJOYloySlhEazFISGlhRElwUzVMWVY4NklwdWpncHBxdHlVLU9YZTZ6TW5CUFYza2xnRUtON3FhcUxxYTJpajlGNy1UMTZKUQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:33+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "fef8525fecac54f1",
+   "title": "大鵬薬品、つくば研究所に350kW太陽光パネル設置 年500MWh発電",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LZVQyVlFVRF9TMS1HLVdVZkV0Q3dNQUNfa0dCYTM5Q0lEZ1dsaXVONmRHcnBNbGVOMUlROEVzNHhVd2NOWmRiMlNLUUk1N0J0SDBOQ1poTGpuWW9naFdWdUo4LWtkaW9RekpwMHpNN21BbDAwUkV4d3ppWEg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "大鵬薬品、つくば研究所に350kW太陽光パネル設置 年500MWh発電 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3ce549ea50b6e8f5",
+   "title": "新潟日報社、本社・印刷工場にオフサイトPPA CO2排出年450t削減へ",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZThMT2N0bW5IQVF6TDM4TDh0QzlCNHM3ZG1JTW1DMThDWDVUVUttSjlxWTBkdWtiNXQ3enlLVWpZS3YtN0ZCSy1ZNmVaRXZ6Q2FwYWlKbmE3NjFGbUxQYTVjcktyaEFxNjNBdmE3OG5WQ3lVU2pFcUdCd3g?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "新潟日報社、本社・印刷工場にオフサイトPPA CO2排出年450t削減へ 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:19+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "b4f4c0816b5a7c44",
+   "title": "太陽光発電の普及で電気代が高くなる？ 再エネ普及が生む新たな格差（AMP［アンプ］）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81LVpaOXRxZU9VRHBsdzVfX0p0bDRiS3FBbEcwcnI4ZGJQNWdZaUxiZ1J4el82djExNnlTdmlQSE1rVzJSTDRtaTAwZU9UOVduRlNjX2RRakR5VFFpTmg0T01EVHUteWtwNnFmVXFtV0lnZmYwTVNkMk9kcDlfLXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電の普及で電気代が高くなる？ 再エネ普及が生む新たな格差（AMP［アンプ］） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "47420c4df46475c9",
    "title": "【ニュース】 宮城県、県内事業者を対象に「再生可能エネルギー見学バスツアー」を11月18日に開催、最新の営農型太陽光発電施設を視察 宮城県美里町",
@@ -65,6 +165,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "d53009ba07bd8d8b",
+   "title": "レポートオーシャン株式会社プレスリリース : アグリボルタイクス市場、2035年に1,084億4,000万米ドルへ拡大｜CAGR 26.5％、営農型太陽光発電と農地活用の高度化が市場成長を加速 (2026年10月26日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13M1gtT2Nsb0FFaXRBcEFpQ21wbU9ramwzTENHSG1tVjJVODVjUkV1Y1NZeXhickxocFZFaXVFTzlQSU9ILXV2US1ZbnNfSXp5NUVfZ3dLaC16RWp3SEdnWEVn?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "レポートオーシャン株式会社プレスリリース : アグリボルタイクス市場、2035年に1,084億4,000万米ドルへ拡大｜CAGR 26.5％、営農型太陽光発電と農地活用の高度化が市場成長を加速 (2026年10月26日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T10:30+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
    "id": "1aea58ed3b466d7f",
    "title": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTkVhV2JkZ2V5TkpsbkNOOWJTOVpjLVJrNEkzWnBhN3JiV0RiUGNHcVZ0WDZlbmw1eVhua3h3S2NhUXdqV1pSZmJyczlFb2RuVDFpSFZYeWc2cEpHN29VdnVzTGVKZ3B6Mmc?oc=5",
@@ -85,6 +199,21 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWTFQeU5HRVloejByUllwemZ5VHFmQVpsWWFfdHFwUVZ6eXZGTHBzUmEtMkpEaG1aWUpCMzNXSmJwZFJ2TXZTOFZ3Z1VEOVA3cWlwbXNOOGZDNjdNdm9BWTUwdFJmbi1icXc?oc=5",
    "source": "PR TIMES",
    "summary": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-26T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "市場・企業",
+   "company": "Daigasグループ"
+  },
+  {
+   "id": "b5c69e596d9b178b",
+   "title": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結 | Daigasグループのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWTFQeU5HRVloejByUllwemZ5VHFmQVpsWWFfdHFwUVZ6eXZGTHBzUmEtMkpEaG1aWUpCMzNXSmJwZFJ2TXZTOFZ3Z1VEOVA3cWlwbXNOOGZDNjdNdm9BWTUwdFJmbi1icXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結 | Daigasグループのプレスリリース PR TIMES",
    "categories": [
     "solar"
    ],
@@ -3601,6 +3730,20 @@
    "published": "2026-10-20T22:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "2f38f68ec59738fa",
+   "title": "ウルグアイのUTE、20年PPA付き99MW太陽光入札を開始へ - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVNWMzVuWmtEN213UnJ2dV9VeGpST1UySjBqMVpVb093MzZPcmxfMzFXZUx3Zk90RThqQV9VMTUxc0xQSDZXeXg3bGVTMkI1M0JwUmlpZWJ0aUhMOWtVblBqeHM3RnEyM3FYQmk5MEJqVTZ2Z3hGNG1oSm1uc3EwR2xZZUdZX3EtVVBXQ1ZJYw?oc=5",
+   "source": "IndexBox",
+   "summary": "ウルグアイのUTE、20年PPA付き99MW太陽光入札を開始へ - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T21:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "cb189ac2055a2f5e",
