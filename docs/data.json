@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T16:30+09:00",
+ "updated_at": "2026-10-26T17:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,119 @@
  ],
  "items": [
   {
+   "id": "600a989ced6a6c06",
+   "title": "中部電力、日本マイクロソフトの支援でAI・DX加速 電気工事ロボットや営農型太陽光も（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tS2ZjTFNKbEpmV2N4ZUdORGRDLVJ1M3pnZE04a1ptOURUQ0dPSTlwZl9NWUJLY0RXWllzM3pPVk5ldDQxTEdRUmhQaUMtWnU5aG9iRTA0ODVCU056UE5qbFRWRWpGZ2ZScF9rMHVDdnYtRUttNW1Na2NPT3VsZGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "中部電力、日本マイクロソフトの支援でAI・DX加速 電気工事ロボットや営農型太陽光も（ビジネス＋IT） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T17:10+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
+   "id": "58316a872e4124fb",
+   "title": "SANKYO、遊技機製造工場に太陽光発電システム導入 消費電力の約30％を再エネで賄う",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4X2JUTmh0MWUwOGI1UTdDbWlHbUd1TkZMa2lHRS1hWkwxS051dTBGZzlQamxSdlpPOFBxcU9YWFBXcU9GcG1FNUx4N08zUQ?oc=5",
+   "source": "グリーンべると",
+   "summary": "SANKYO、遊技機製造工場に太陽光発電システム導入 消費電力の約30％を再エネで賄う グリーンべると",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "0c31397cbae6de66",
+   "title": "パナソニックHD、ガラス型ペロブスカイト太陽電池の量産を1年前倒し：2029年4月に滋賀・長浜で開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QcVNodlR2UGdWa3JHejhzaDhCR3YtaGlCUWlSYWMtWlpqVElRcVpQYWI0M0dYeV9xYjR3R0JZZ3JvVkp1Nm04M1pCQWFHbW9pS0JkYQ?oc=5",
+   "source": "スマートグリッドフォーラム",
+   "summary": "パナソニックHD、ガラス型ペロブスカイト太陽電池の量産を1年前倒し：2029年4月に滋賀・長浜で開始へ スマートグリッドフォーラム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:57+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b43c2fa89f9e5dad",
+   "title": "長野 伊那市が不許可としたメガソーラー設置を一転許可",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TMGd6VzhtSXRmbEFCOW9sbHpxMnpacWQyMkhlY0I4Yk5ja0gtcVk3NWsxUXRIcklYMXJMdlljS3dtc1NubWpsNm4xOXhhS19Xa0FyTVVMdzQ1ckJfRkhR?oc=5",
+   "source": "NHKニュース",
+   "summary": "長野 伊那市が不許可としたメガソーラー設置を一転許可 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:46+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "ab8e09cff7f5c636",
+   "title": "「日本電力市場インサイト 2026」開催:Second Foundation、日本のエネルギー業界の皆様に市場見通しとBESSの知見を共有",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5VnFiQTNPTGVqQ1VPbFJvWFpkX09NRXk4Ui1BQlhoV3RUdEpFTFRJSkJxTVhvQXpkb1ZsQTFmcnZpdG1kaUtMSzduTmJEbi1XeFpMWDRSTUlVQUlzbEZEQ0NNYWlrUkhIekE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「日本電力市場インサイト 2026」開催:Second Foundation、日本のエネルギー業界の皆様に市場見通しとBESSの知見を共有 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T16:39+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "Second Foundation Japan合同会社",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "fb64a2f78eadabba",
+   "title": "【クマ出没】体長１ｍのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5QXRaUEVBRWdPTmNwaFdhM1BPZVdaUHRhUWhLMlZmY1V6ckZjS2F2cUtCMXdBenc3dVE4RFFrV3AxQ1QxdGZSamtRS1haVG5KYnZTTzlkZGMxLXhfeTk3YkJEWnFlNlU?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "【クマ出没】体長１ｍのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "64a86c9372df8732",
+   "title": "大河原克行のNewsInsight(480) ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nRk93SzhwODdyNVZWYXBaR3dwT0h6SzYxTzlCaC1XUG5nckt2dU1ydW1pY2xxSksyZFJsLVRsSjJ6T2k0YS05X3p0MHpVakdhX3IxWVpYODdocWs?oc=5",
+   "source": "マイナビニュース",
+   "summary": "大河原克行のNewsInsight(480) ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ マイナビニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:16+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a365d3e3194ef631",
+   "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html",
+   "source": "スマートジャパン",
+   "summary": "富士経済は2026年10月22日、定置用蓄電システム向け蓄電池の世界市場に関する調査結果を発表した。",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:15+09:00",
+   "via": "スマートジャパン",
+   "storage_topic": "その他"
+  },
+  {
    "id": "deb389e895eaf116",
    "title": "蓄電システム「Mega Power 2500」を出荷開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000280.000109041.html",
@@ -32,7 +145,64 @@
    "published": "2026-10-26T15:45+09:00",
    "company": "パワーエックス",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "eb6fd1377c95e50d",
+   "title": "パワーエックス、10フィートで2507kWhの新型蓄電システムを出荷",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eHRzTHItUUJIOHYyRmN0NjZmVlByMU4teEgwUlNzcGhXcmMwOFZoNHFfeDd6cko1ZHc0aVpvVHhfT3VhOHJpejR5NFBZYnBBU3lV?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "パワーエックス、10フィートで2507kWhの新型蓄電システムを出荷 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T15:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f1e6da1bdaf58219",
+   "title": "蓄電システム「Mega Power 2500」を出荷開始 | 株式会社パワーエックスのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSU84djZIbWRySXJIa2JFWnJrWEppcW1rLVRxQ1N1NEZzdGt4NGpFZUJhREYyaDNrV1E4LU1HSDRDQmZvcUtuUVJGU0c0Z2F4WV92MXcxSWZUdWJkWEhkMnJJUWx4eTIyY1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電システム「Mega Power 2500」を出荷開始 | 株式会社パワーエックスのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T15:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "e451db24a3b53692",
+   "title": "株式会社 ＧＳユアサとタイにおける蓄電池システムに関する協業の合意書を締結【TGES】",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6eUoxOE4xamdXb0tVcmRIdWl6Y1lhWTBCb3pPNUhTZy0zaWlmT1ZEZmJVeldKRXJZM05MOE9sNThpVVFGMmRLMUFMNkFRQmlKa3JNa1RiNHVSaWNvMEp6Z3JKQnJUUFVFMUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社 ＧＳユアサとタイにおける蓄電池システムに関する協業の合意書を締結【TGES】 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T15:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "東京ガス株式会社"
+  },
+  {
+   "id": "fef1de6f48bc388a",
+   "title": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmR2swYUlsWnFoeG1pV0Q2VUhObW9jTmI5QXJ3cWlDN1dMbzIwN3FLamI4Z0ZqY0JBQzhxSDE4ZUZ5WEs1NVJkTkZXcEpjdUk1UkxJQkJydE9sRnl4T2JKUHk3Ym1FWkFr?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:03+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -64,6 +234,78 @@
    "via": "環境ビジネス",
    "topic": "住宅・自家消費",
    "storage_topic": "その他"
+  },
+  {
+   "id": "a40742a84922488b",
+   "title": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が年平均16.5％の成長を牽引 (2026年10月26日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzSm1ReHM5OEUweDVDdFNHRlAzMXlQM2s5amV3QlpoWTBkZ2lDZDR5b1hDMlhvUl9NQzhJem9XQXNNZDFMc01SZWJ6azF0a2FJV0F0cklGQkpHeUpMQ2tSSzFn?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が年平均16.5％の成長を牽引 (2026年10月26日掲載) ライブドアニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "0f1eb191ebe8c5e2",
+   "title": "ペロブスカイトで「光るミャクミャク」、大阪府が啓発",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZDlydXkzZ1BuSVJUZ3RtMkQ3cU9kSmdrNndJS2tUUjFvM2gzT2VSc3NGWG9EVjFqV1VqVWVWOEphYXJwWGpHaV9tXzMyaXBOYWNkNUVNVXNLOVgzbDFjUG95dGVfWmkyQlJZWDBhRW1DQmxU?oc=5",
+   "source": "日経BP",
+   "summary": "ペロブスカイトで「光るミャクミャク」、大阪府が啓発 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:14+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "6b312d9984fb724b",
+   "title": "定置型蓄電池の世界市場、ナトリウムイオン電池が増加へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEQ2xOUjRsRElZdHVxbGZzRUxRNVJSMUpNbTBRU2JoMFBmLTVvVV9DMml4NGliZ29IM19BejlBRmRxdlAzOW1fal9GRkVGNXlRTTJfd3BQa2d5bFI1SGZNRk5IMFZERmZRbzIycVBxZngyT3lV?oc=5",
+   "source": "日経BP",
+   "summary": "定置型蓄電池の世界市場、ナトリウムイオン電池が増加へ - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1876ff4c23539ab4",
+   "title": "NTNが「自営線PPA」、近接屋根を賃借し太陽光設置",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LekxiSjlCWVpCQU5HY1RlSk1Hbmphcmxuc3R4MjB1LXJnSXZCZVFoblpxQjdfU3c0OG1nSW4zeFRUYUdNTlp5MFNKM2w2OWlwVlpqWFJxZUNwRkJiYzJpOEZFT3BxWDVoV05LZFg4d0s0X3VU?oc=5",
+   "source": "日経BP",
+   "summary": "NTNが「自営線PPA」、近接屋根を賃借し太陽光設置 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "c53d9ef190fb64a9",
+   "title": "JPEAソーラーウィーク大賞、13件中7件が営農型関連に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oSFlLamVsNGRhbXdTRkx2RDZ1RnNkaHlSUWQ4TzRfN0VKRzFIZTM1MHlZdlQtX3dfZEJvY0tzdVlzZ0RRaXhiOHhCREl2aEluckdscGF4bU9EZnAtck1rZy0xVmR4azZkcGtWU1hVOGdYTEND?oc=5",
+   "source": "日経BP",
+   "summary": "JPEAソーラーウィーク大賞、13件中7件が営農型関連に - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "631895c365fb9cbd",
@@ -255,6 +497,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "12443d5395e2f2f3",
+   "title": "「あいちペロブスカイト太陽電池推進協議会」に新たに加入｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RS3lDczhyOWlNQU9qZ3RRWUMyMEZIZ0JLZzBmbVVHaUlkWlNjaWtMYV9sRDBTUHlNMlpkeGlHc0puUlA0MHVScU10ZWdjZmtxRDdiTEVBS0VkcU9DRktMQWFucFlvRHJlQkZaYjdxZ2tfZw?oc=5",
+   "source": "Infoseek",
+   "summary": "「あいちペロブスカイト太陽電池推進協議会」に新たに加入｜Infoseekニュース Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T09:11+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "e756072a576ae7d1",
    "title": "タンソーマンGX、低圧・高圧の蓄電所を事業者や地主が自分で確かめられる無料ツール23種を公開 空き容量マップ・用地判定・売上試算など",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qdEpNUkRHNzlMVDhlRUFFdGZNai0yOTRnT1R0Z2JYUUNMdUtpMnBFVG9fWmJwNnpXU2gzaWk4MHpEeU5GWHFGZnczNEI4UnZQZGp3YUJXSVpXTTA?oc=5",
@@ -297,6 +553,20 @@
    "published": "2026-10-26T06:00+09:00",
    "via": "電気新聞",
    "topic": "その他"
+  },
+  {
+   "id": "6526ff30dfeb5293",
+   "title": "パナHD、次世代太陽電池を量産へ 滋賀で、ペロブスカイト",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZmxKM3VvTDBjb20wZ3R1clg1aFVRSHdXcDk0dUZYZFUzMmxFNFgyLTVqaEoyRHpuLTExZUYwelUxdjNfby1GZWl1S2NoY3NfSmozeDVPaFBOOTMzVlF5TzJURVJySXhZTm9ScFBIMGY1OHJvakFDdg?oc=5",
+   "source": "聖教新聞",
+   "summary": "パナHD、次世代太陽電池を量産へ 滋賀で、ペロブスカイト 聖教新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T05:37+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "b4456ee71369cdae",
