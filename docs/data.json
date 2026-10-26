@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T10:24+09:00",
+ "updated_at": "2026-10-26T11:15+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,81 @@
  ],
  "items": [
   {
+   "id": "47420c4df46475c9",
+   "title": "【ニュース】 宮城県、県内事業者を対象に「再生可能エネルギー見学バスツアー」を11月18日に開催、最新の営農型太陽光発電施設を視察 宮城県美里町",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdDg5emJqWnlGTmE4SUN4YmFFakR2NnJTTVJVLVdJSjNzaEdmdDQ5NG9rVFJXckFPVE5DeDRxMTJZUmdobWlKVXdybmlIY1p3bS0wZWdhYi1UX2dP?oc=5",
+   "source": "遊都総研",
+   "summary": "【ニュース】 宮城県、県内事業者を対象に「再生可能エネルギー見学バスツアー」を11月18日に開催、最新の営農型太陽光発電施設を視察 宮城県美里町 遊都総研",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T11:01+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
+   "id": "7c22c84a228fdd62",
+   "title": "家族ごとの暮らしに適した太陽光発電・蓄電システムを備えるGX ZEH対応(※1)住宅 『スマートパワーステーション-GX』を発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1UEZlTmQ4WFNzRFpjTHNLNW1HTTNMdERxVjQ5Zm53R2VBSW1aWnlYdEF1dlJfbDZnWFIxcHJzaTJLYVVVeFJwZWxBWXV4YnhoNEllaHloYWktWlZsSjg4akkwYjRoMksyaGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "家族ごとの暮らしに適した太陽光発電・蓄電システムを備えるGX ZEH対応(※1)住宅 『スマートパワーステーション-GX』を発売 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用",
+   "company": "積水化学工業株式会社"
+  },
+  {
+   "id": "afda4fe0a21c0c60",
+   "title": "横浜ゆかりの技術がタイへ。ペロブスカイト太陽電池の実証で見た可能性",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBU0J6cG14cExQWndmdlR0dFkwY1JCV3FKSkYxdlFXTk9VQzNxSER0Z3VVcnVIRkRGZ0E3Q1B2Tjl3bGpfYjhlZHJyNE9yVWUzLU9FMTBPVnpnY1lXOEVJ?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "横浜ゆかりの技術がタイへ。ペロブスカイト太陽電池の実証で見た可能性 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T10:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "1aea58ed3b466d7f",
+   "title": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTkVhV2JkZ2V5TkpsbkNOOWJTOVpjLVJrNEkzWnBhN3JiV0RiUGNHcVZ0WDZlbmw1eVhua3h3S2NhUXdqV1pSZmJyczlFb2RuVDFpSFZYeWc2cEpHN29VdnVzTGVKZ3B6Mmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-26T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "Tensor Energy株式会社",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "6aef4931daa5b4c2",
+   "title": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWTFQeU5HRVloejByUllwemZ5VHFmQVpsWWFfdHFwUVZ6eXZGTHBzUmEtMkpEaG1aWUpCMzNXSmJwZFJ2TXZTOFZ3Z1VEOVA3cWlwbXNOOGZDNjdNdm9BWTUwdFJmbi1icXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-26T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "市場・企業",
+   "company": "Daigasグループ"
+  },
+  {
    "id": "360c68163165859a",
    "title": "「あいちペロブスカイト太陽電池推進協議会」に新たに加入",
    "link": "https://prtimes.jp/main/html/rd/p/000000033.000150642.html",
@@ -32,8 +107,37 @@
    "published": "2026-10-26T09:11+09:00",
    "company": "株式会社アイネック",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "次世代技術"
+  },
+  {
+   "id": "e756072a576ae7d1",
+   "title": "タンソーマンGX、低圧・高圧の蓄電所を事業者や地主が自分で確かめられる無料ツール23種を公開 空き容量マップ・用地判定・売上試算など",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qdEpNUkRHNzlMVDhlRUFFdGZNai0yOTRnT1R0Z2JYUUNMdUtpMnBFVG9fWmJwNnpXU2gzaWk4MHpEeU5GWHFGZnczNEI4UnZQZGp3YUJXSVpXTTA?oc=5",
+   "source": "valuepress",
+   "summary": "タンソーマンGX、低圧・高圧の蓄電所を事業者や地主が自分で確かめられる無料ツール23種を公開 空き容量マップ・用地判定・売上試算など valuepress",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T07:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "7e246b8356365649",
+   "title": "関電など、太陽光の収益拡大を支援／併設蓄電池、複数市場で活用",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCbXJVUnVWNlIwTy1fQ0U2UGtHeFlEWXBIYi1jWW5hdHB2S2JjMTljU1UxUWtDM29rb3hiaFJsVUQwNm1SRkNYX0d2QXpZSy0tcXd1TjBxOA?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "関電など、太陽光の収益拡大を支援／併設蓄電池、複数市場で活用 – 電気新聞ウェブサイト",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T06:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
   },
   {
    "id": "b8adb89f10f9c308",
@@ -1800,6 +1904,20 @@
    "published": "2026-10-22T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "19b6ecd95e517b58",
+   "title": "中部電力 津市内の農業用ため池２カ所で太陽光発電所開発へ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSG9IQTlUeTJaTlVRVndWVVpwT2JHZnFhM2FPVHBodWtpeXctUU1aZ3hnSGI0akdPTW5qVlBjNXpnZ0FISk9IS0VfcDFEN3g4ZC1VaTUwOGVTVVl3MlF2cGdTZEFVaW1nOElqaUdUMzl3YlRBcUVib3pRQXM2WUJGOA?oc=5",
+   "source": "建通新聞",
+   "summary": "中部電力 津市内の農業用ため池２カ所で太陽光発電所開発へ 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "6eb6027401f91b22",
@@ -12143,10 +12261,11 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-10-09T15:30+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "次世代技術"
+   "topic": "次世代技術",
+   "company": "Astute Analytica Pvt Ltd"
   },
   {
    "id": "d6682d2f6ab6d8e5",
