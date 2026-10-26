@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T00:50+09:00",
+ "updated_at": "2026-10-27T07:09+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,76 @@
  ],
  "items": [
   {
+   "id": "974b2d4cb6b5fa06",
+   "title": "営農型太陽光発電を目的とした農地の一時転用許可件数 - 九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も - 写真・画像(2/2)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaDRld2VnMGltV0UtUFg4WC1uSUdma1BHVEZFZTZnRE1ZRXRVT1FubjVualpLMk9pWmVERTh5dGpJZkE0U0RkTUUxQ2NsSmZxa0pqcHF1WQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "営農型太陽光発電を目的とした農地の一時転用許可件数 - 九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も - 写真・画像(2/2) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T06:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "76449fab0344fce0",
+   "title": "ＴＧＥＳ、タイでＰＰＡ展開／大規模蓄電池でＧＳユアサと協業",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5md21TTk1RQmNGQXEwMGxWWlRteXZoNm5mM0Rockl0R2FyWTJjcHhtYnNMUjc5NTBYOThvb1QyblJNN09MbEFybldQTEtObTFXeHNLaUJ5dw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "ＴＧＥＳ、タイでＰＰＡ展開／大規模蓄電池でＧＳユアサと協業 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T06:01+09:00",
+   "via": "電気新聞",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "6e271f0e15fafb7b",
+   "title": "九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mTHNINDRZNU90LTZaUlhwQ2VabDVMMnNrbkM3S2hBRE5YcEhrdE45SmdRYXpwdDZXSjhHbEI0RGlrd09UVzNLN1h2MWhfdU50c3dUNld3?oc=5",
+   "source": "西日本新聞me",
+   "summary": "九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "ac11a631d8363b29",
+   "title": "AESCジャパン鶴山社長「日本で蓄電所向け電池販売に参入」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qTXVJWDBlZzM0YjhMY1VZb3B2WEFpY29DU2hOT0NEQnk0LUpoMThhYkpvZ2RhNXpsTXFRUmxXRFNFQXBvUFdEaDlGSUFFN2VQQjEteHJvQ1Z4VnRwbERXMkoyN2ZQRFNxNFc3Vw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "AESCジャパン鶴山社長「日本で蓄電所向け電池販売に参入」 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "c697767589a919b7",
+   "title": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWpoTkx5SU5kVjhlUllGcndZdDRfVnA1RzFNQmVCaUc2ZG1POTBNVWg3bmhCLXRTM0ZfX2F6WUJ0ejNLOVA1bg?oc=5",
+   "source": "ツーリズムメディアサービス",
+   "summary": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る ツーリズムメディアサービス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T02:03+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
+  },
+  {
    "id": "82716b0408b71ff8",
    "title": "資源総合システム、「ビジネスガイド2026」発行のお知らせ",
    "link": "https://prtimes.jp/main/html/rd/p/000000024.000117654.html",
@@ -32,8 +102,21 @@
    "published": "2026-10-27T00:10+09:00",
    "company": "株式会社資源総合システム",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "d3e26c63a1944e85",
+   "title": "北陸電力子会社とUACJが太陽光PPA 専用送電線使用し電力供給",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54aWdDZU9mY1lIWWdTaXRBOGZtd09lYnhybGVyMjhVUjZhSGxkUkFzNWlaeVNsRHl3SzdzY2dfR3BHNnBYYVVpckpnWDZYMm16di04VnYxWkFBWUNuQnpMeGpGTVIxeHpEcE5kVg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "北陸電力子会社とUACJが太陽光PPA 専用送電線使用し電力供給 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T19:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "2f4ebb46ec4209d2",
@@ -48,8 +131,35 @@
    "published": "2026-10-26T18:00+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "f82fab2d28d6b42d",
+   "title": "系統用蓄電池とM&A・資本提携の拡大を読み解くウェビナーが開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5STURqWHlTSHFmenZ3LS1hNUhoNnFyaGFQTGpqeWV0OWJrUFRGT0RrNkdnTXdQWTQ2XzFJcVRDX2lYSUo2clU0TDdVV3ZkRzY1ODY1ZTMtUnVIUlg1WFVHSm1fdFE?oc=5",
+   "source": "Dellows News",
+   "summary": "系統用蓄電池とM&A・資本提携の拡大を読み解くウェビナーが開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2c37f734f8ad486c",
+   "title": "ペロブスカイト官民で量産へ 国がリコー・長州産業に補助金1000億円",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4a1Q0ek1UVE5PQ081TG1TUW5qZGNOMHZwNURVbFF5eTU0Q3M5Z1BMTUd4WkJtNkphSWlEVkozb0l0aDl1YnhVZ3pEUkNSWTNMUWJlTzJQQ0JPVXJNNHZKcFpqeThIYTk5WGpYdw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペロブスカイト官民で量産へ 国がリコー・長州産業に補助金1000億円 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "5d270c83d1cd344d",
@@ -64,7 +174,6 @@
    "published": "2026-10-26T17:42+09:00",
    "company": "HAPPYJOINT",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "その他"
   },
   {
@@ -284,6 +393,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "1f4064befce3b74a",
+   "title": "東京センチュリーが小売電気事業者に登録、蓄電池の自社運用を開始",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTHVSLUloMkRYMWhJa0w5T3N6dXZ0bTRhM2RfU2J2TjJTM0xEVWh4blRvSHd5WVBldVE3NUFQMWFaVm9UWHpWSWxNTTEwQks3d2FN?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "東京センチュリーが小売電気事業者に登録、蓄電池の自社運用を開始 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "a40742a84922488b",
    "title": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が年平均16.5％の成長を牽引 (2026年10月26日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzSm1ReHM5OEUweDVDdFNHRlAzMXlQM2s5amV3QlpoWTBkZ2lDZDR5b1hDMlhvUl9NQzhJem9XQXNNZDFMc01SZWJ6azF0a2FJV0F0cklGQkpHeUpMQ2tSSzFn?oc=5",
@@ -296,6 +419,20 @@
    "published": "2026-10-26T13:30+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "ab99dadfa38647f4",
+   "title": "中国、田湾200万kWの干潟太陽光発電実証プロジェクトが加速",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11T01JREZHQ2FwcFlxZDdHSWFkNEFpYm9sbGRGNXE4eE9VSFNvU1F2Sk1IV3NZY2VKeWlWcVRkQ2Z6bktaX2pOQ3ZGOA?oc=5",
+   "source": "中国経済新聞",
+   "summary": "中国、田湾200万kWの干潟太陽光発電実証プロジェクトが加速 中国経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T13:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "0f1eb191ebe8c5e2",
@@ -403,6 +540,34 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZThMT2N0bW5IQVF6TDM4TDh0QzlCNHM3ZG1JTW1DMThDWDVUVUttSjlxWTBkdWtiNXQ3enlLVWpZS3YtN0ZCSy1ZNmVaRXZ6Q2FwYWlKbmE3NjFGbUxQYTVjcktyaEFxNjNBdmE3OG5WQ3lVU2pFcUdCd3g?oc=5",
    "source": "環境ビジネスオンライン",
    "summary": "新潟日報社、本社・印刷工場にオフサイトPPA CO2排出年450t削減へ 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:19+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "9085f8b531d6d1f5",
+   "title": "大鵬薬品、研究所に太陽光パネル 年500MWh・CO2排出年185t削減",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LZVQyVlFVRF9TMS1HLVdVZkV0Q3dNQUNfa0dCYTM5Q0lEZ1dsaXVONmRHcnBNbGVOMUlROEVzNHhVd2NOWmRiMlNLUUk1N0J0SDBOQ1poTGpuWW9naFdWdUo4LWtkaW9RekpwMHpNN21BbDAwUkV4d3ppWEg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "大鵬薬品、研究所に太陽光パネル 年500MWh・CO2排出年185t削減 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T12:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3cf4934bf91e9b83",
+   "title": "新潟の地方紙、本社・印刷工場にオフサイトPPA CO2排出年450t削減",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZThMT2N0bW5IQVF6TDM4TDh0QzlCNHM3ZG1JTW1DMThDWDVUVUttSjlxWTBkdWtiNXQ3enlLVWpZS3YtN0ZCSy1ZNmVaRXZ6Q2FwYWlKbmE3NjFGbUxQYTVjcktyaEFxNjNBdmE3OG5WQ3lVU2pFcUdCd3g?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "新潟の地方紙、本社・印刷工場にオフサイトPPA CO2排出年450t削減 環境ビジネスオンライン",
    "categories": [
     "solar"
    ],
@@ -617,6 +782,52 @@
    "topic": "次世代技術"
   },
   {
+   "id": "9e4eca5fdc1e556d",
+   "title": "三栄産業から蓄電システムを追加受注",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56VV9VVUp2ajBUUjhPNzl1a3BOd2pTYVZ1bjcxTjZGcWJLSkdiQUhwc2xFYk5iYzNxb3lhV0k2OUpyYXRQbVMtUE5nc1F0WE9OT0hKVUxfVnBqR0ZlNWpDZzdjX1lHTS1xTmYwOVBJOGI?oc=5",
+   "source": "山陽新聞",
+   "summary": "三栄産業から蓄電システムを追加受注 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T05:03+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ebfbb8936da5af00",
+   "title": "GBP、関西の太陽光発電展に出展へ 太陽光・蓄電の総合ソリューションを展示",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rLXZXVlZjdnl3bUFNSFEwNFNHc2tYQkY3eUVQZTdJa3JsWTdBU1JYdjNqUEkxc3VvSld1RWZOQktGaUxoVkRPdHBzUmtUbE13MUtOdG1GTU9rVzZab3c?oc=5",
+   "source": "Dellows News",
+   "summary": "GBP、関西の太陽光発電展に出展へ 太陽光・蓄電の総合ソリューションを展示 Dellows News",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T03:36+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7e21a8113502c347",
+   "title": "関西電力とＥ－Ｆｌｏｗ、太陽光併設蓄電池のマルチユース運用を２０２７年以降実施へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSVVRLWpMN1ZnZzh0UEpWQVh1Sy1ranNkMU5Md0hTdHRha0F3ODVqd0hHT0p6NDZ0OVQ2SHFPdEtDVzFVclFRVEg3M213cG5QT1oxRTh1ejhCTVROa0ZabzdJZHp1bEho?oc=5",
+   "source": "Dellows News",
+   "summary": "関西電力とＥ－Ｆｌｏｗ、太陽光併設蓄電池のマルチユース運用を２０２７年以降実施へ Dellows News",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-25T22:18+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
    "id": "b4456ee71369cdae",
    "title": "中国製蓄電池セルはなぜ世界を席巻したのか――シェア逆転の裏にある品質課題を読み解くウェビナーを開催",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQk9BNDNqQ1pqQWJSS2llUnd4TUJRV0VSQU1FVlU4b2pUUTJWQUw3OENOTXp4TG4wRzFxYW5xTV9uZ3pMUkdvX2s5dmJTSWk3NDZ4aEV0eXh0bEtLaHZOVXdCdHVrdEhsTmc?oc=5",
@@ -774,6 +985,20 @@
    "type": "news",
    "published": "2026-10-24T19:31+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a8e67b65e7bf6e39",
+   "title": "Gritt Robotics、太陽光発電所にAI施工ロボットを導入 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaC0yeGc4ZGNZNXJaYUVOTU5idndFLWFhU1FlMDZmaWM4cFhpdTBJazdwQi0zUlBEXzc2YWpZRXhYSlN5Q29LTTVIVFFvYWJud0lGUFZWSW90Ry1STEVPcUM0azZwMmdENjcza3dKUE03NU1CaHc1TU4yYUdZaFBEa1QxRWs2cWNnQk9ZaXlVZXE1LVJzQVdRd05TNA?oc=5",
+   "source": "IndexBox",
+   "summary": "Gritt Robotics、太陽光発電所にAI施工ロボットを導入 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-24T19:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
   },
   {
@@ -3949,6 +4174,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "f17b63310938f02b",
+   "title": "Hyulim Robotの子会社E-QCELL、700万ドル（約11億円）のペロブスカイト量産装置を受注…世界最大基板に対応",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5YjdsSmxfZm9wY3p1VXZiOGY5V1Zpam9XNmZiYjhFcEozSURvVEg0Um5naE5ObXVmZHpXa184YlV5dTducTBLai1feDZZWGpQVDk3Q0EzTHduR1V3U2I4anMwRXpvUUVvVXJyOEdoZElkVHl0?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "Hyulim Robotの子会社E-QCELL、700万ドル（約11億円）のペロブスカイト量産装置を受注…世界最大基板に対応 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T03:17+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "a47b11da94fa310b",
    "title": "NEXTES、水冷式蓄電池を「NXシリーズ」として展開",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NQnRGOUVfRl93SFRrVWtZQzIzZ3dianBONWVfck9BazN4VlMzLXdGakNmSHZlcFhTRTZGbDEzQ3d1MTk3TG94TGcxNFczVmtEdmNMV2l0VGt6SXM?oc=5",
@@ -4579,6 +4818,20 @@
    "published": "2026-10-20T16:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "6a18c32e89cb26f2",
+   "title": "R8-6007 太陽光発電施設設置(東神吉町升田1101番1、1102番1、株式会社ES-MIRAI）",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUzEySTdOUkkwZlVQTXpWdnY1ZHVqOEtJZV8zX0wySUtGRzNRazhQdng2ckZSbjlmWm8yRDdzakM3YWRQb2o1X05iYUtkbjFwWDZDRk9LWE9id3JCMmt0eWNMSWNaeUFkd1E5aUp4TnU3Q0Fodml5eVRRSjdLQlZ4Y3VCbDk3V2xCc19rbFpJaGVVNjE1WWhaMEZuYTdqa2lsbm5zZy1HM180Um13aG53RnhlM2JDNTNQTUxFUFVsaGtrS3c2NVpmMktLRE95MnNBRnR0Z2pwZ3RFLXBQUThMcmVzMXZhQ2MxY0pOOWtuaVQ3R1ZxZEhVeHB0RlA?oc=5",
+   "source": "加古川市",
+   "summary": "R8-6007 太陽光発電施設設置(東神吉町升田1101番1、1102番1、株式会社ES-MIRAI） 加古川市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-20T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "564dcafccbbe33f8",
@@ -21226,6 +21479,20 @@
    "type": "news",
    "published": "2026-09-15T14:46+09:00",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "5ae8d8cb4c954d04",
+   "title": "オルテナジー、ＰＣＳ交換に買取保証追加／きょう１５日から、太陽光向け",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGNERhU2pGckJYMUxOTzJSZzlLRER4RXlWRDBMZGJZakR1TnVYRTUwYkNkUHJoVXR1Ny1SSE5CODJ4LXIwY0pFYTJFdHVvcUVYQzNIUUpqdw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "オルテナジー、ＰＣＳ交換に買取保証追加／きょう１５日から、太陽光向け – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-09-15T06:02+09:00",
+   "via": "電気新聞",
+   "topic": "その他"
   },
   {
    "id": "777ce57cb1713cd7",
