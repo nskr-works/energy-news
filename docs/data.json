@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T17:20+09:00",
+ "updated_at": "2026-10-26T18:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,38 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "2f4ebb46ec4209d2",
+   "title": "系統用蓄電池はなぜ単独で作れないのか――M&A・資本提携が広がる理由を読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000078.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T18:00+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5d270c83d1cd344d",
+   "title": "【新発売】1本でライト2灯！角度調節も自由自在の人感ソーラーライト『ツイン』24時間限定で25％OFF！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000080.000019274.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[HAPPYJOINT] [画像1: https://prcdn.freetls.fastly.net/release_image/19274/80/19274-80-af8be52f6c8a7b31015583dd55ae7f09-700x700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-26T17:42+09:00",
+   "company": "HAPPYJOINT",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "その他"
+  },
   {
    "id": "600a989ced6a6c06",
    "title": "中部電力、日本マイクロソフトの支援でAI・DX加速 電気工事ロボットや営農型太陽光も（ビジネス＋IT）",
