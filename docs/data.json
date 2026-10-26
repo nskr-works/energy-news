@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T14:11+09:00",
+ "updated_at": "2026-10-26T16:30+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "deb389e895eaf116",
+   "title": "蓄電システム「Mega Power 2500」を出荷開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000280.000109041.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[パワーエックス] 株式会社パワーエックス（本社：岡山県玉野市、取締役 代表執行役社長CEO：伊藤 正裕、証券コード：485A）は、本日、10フィートコンテナ型蓄電システム「Mega Power 2500」の出荷を開始しました。今後、系統蓄電...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-26T15:45+09:00",
+   "company": "パワーエックス",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "517cc4d3f80c2625",
    "title": "系統用蓄電池を取り巻く電力市場制度の改変と市場戦略",
