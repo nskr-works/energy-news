@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T14:08+09:00",
+ "updated_at": "2026-10-27T16:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "5275d743b718d3cc",
+   "title": "【参加無料】系統用蓄電池「Raptor」単体販売セミナー、11月10日・18日・19日に開催！参加申込受付中",
+   "link": "https://prtimes.jp/main/html/rd/p/000000285.000096742.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[サステナブルホールディングス株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/96742/285/96742-285-990bc5916f5996436cd97c9a51c3d099-1369x771.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-27T14:05+09:00",
+   "company": "サステナブルホールディングス株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "bd74683e7c67abab",
    "title": "中部電力ミライズ株式会社とコーポレートPPAを締結",
