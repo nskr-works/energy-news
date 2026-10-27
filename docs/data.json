@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:09+09:00",
+ "updated_at": "2026-10-27T11:13+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,178 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "33dd221fe2263e8f",
+   "title": "Q.ENEST（キューエネス）、長期契約のハードルを解消する「短期オフサイトPPA」の入札受付開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nNVVhZDNFcmEzbkN4dzUzVlgwdTlMQ1R3dTRZekp4T3NBOXZJTW1COVUyc1BUekdsSUJHbFR6QlRZYmExaW53MTdzNFRVal9FdlJKaDBDSWt2X3I5M1hjZ3RydDQzVE9CWVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Q.ENEST（キューエネス）、長期契約のハードルを解消する「短期オフサイトPPA」の入札受付開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "政策・制度",
+   "company": "Q.ENESTホールディングス株式会社"
+  },
+  {
+   "id": "2e09ee09344bb412",
+   "title": "豊通物流の物流センター向けに蓄電システムを納入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQTJCT0pFc2FSbGhTYUpCVHBub2RTa3NRb1pGZndRUUJTUkFnOFRRRU9lLVJWYjM3WjdWWkxGbGNwUGZmS0k1OXFkRThINy1sXzhjMHdyeTg5SWJPVEJtdVVGN0lDSUhNTVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "豊通物流の物流センター向けに蓄電システムを納入 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-27T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "5bb114541a1294d7",
+   "title": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JMURxUFBoS3U2SEx0Mi1KbzIzMjFFVXRCdW43LTN3Mm8ycDBXbFpfdDJJVnJ2Tm1xSldoaUJIc0VCV28wYVpMOUFmQ1BiX1RmSUcyREZvTUVWNExqLTdfRC1tLVlqVTl2MUpvbWphX2lzdw?oc=5",
+   "source": "読売新聞",
+   "summary": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す 読売新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T10:13+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "4bee877685c9bcf7",
+   "title": "パワーエックスが続伸､蓄電システム出荷開始を材料視",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ba2Y2cGU0N3lxQ1JVMlk4Z1ZkUXJid0tSRGVsblp2VTVOME1QMzdfeG4yM3dBQ2ZhZkZ2cE9pRWNucGNXTW9FYkpmNVg5RThnbVZwcHBiQQ?oc=5",
+   "source": "四季報オンライン",
+   "summary": "パワーエックスが続伸､蓄電システム出荷開始を材料視 四季報オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T10:01+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7e79dd8395cf7106",
+   "title": "リコー、インクジェット技術を活用したペロブスカイト太陽電池の量産に向け生産体制構築を開始",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYcVJqRm1IOEMzRTNBNnNYa3pRR3doZFRTRnFBRnN5VUJEdjBKRkRSOXplbU5VTnZQa1Nac29xcHFBX3RGWXpEMVFDWmNUNnBRMlE?oc=5",
+   "source": "Ricoh",
+   "summary": "リコー、インクジェット技術を活用したペロブスカイト太陽電池の量産に向け生産体制構築を開始 Ricoh",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:37+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4448d55c4f7ad8a7",
+   "title": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引◇ (2026年10月27日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OWS1mRm9nTl9xZWJUSG02NWc0UE9EeHhxUk5QdHhkenRhMmlqajZtSXNGVkwxczJ5bHFBWTZKUGVwQWFfb3c1S1VZTFNPWC0zci1tTDk1QkQ2VG1na2c?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引◇ (2026年10月27日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:33+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2302000932d942ee",
+   "title": "伊勢化が急騰、ペロブスカイト量産に政府が１０００億円支援と、リコーは年初来高値(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZjhIVjZoQVpuQS1ac2llc2VKb0FVZnJsMmZBajlsYmN0dU1iTlYyWDZHYl96MWdFVzdiTFRRb3Y5bWQyRnBBb25HOE4wQ3FfQmN5TlFZZ0tSbXFLNFhGWTFUQ3hkQnRaZUxsSDZGRmlCdEJfeGVnNjY3NDlvcjdiVFdXVGRNaHc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "伊勢化が急騰、ペロブスカイト量産に政府が１０００億円支援と、リコーは年初来高値(ウエルスアドバイザー) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:26+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4b2b93c1e46b70ac",
+   "title": "日差しを受けると、馬の脚が動き出す。BLDB、165ピースの「太陽光で動くメカニカルホース」を発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6a3c5WWEzX05yb2VOYzdad3c2eVBTenpFVTVTNzNmVG9oSzZDS2hadnF2ckZnblN3UWdLTnd0RkN4VUI5c3o2Ri1nUS1aSzJISXlTOHFaZlZhSkhHTjN0eEI1ZUpIaVJFVUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "日差しを受けると、馬の脚が動き出す。BLDB、165ピースの「太陽光で動くメカニカルホース」を発売 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T09:10+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "碩輝網絡貿易有限公司"
+  },
+  {
+   "id": "18bc5730558f6894",
+   "title": "リコー－続伸 ペロブスカイト官民で量産へ 国が同社と長州産業に補助金1000億円＝日経(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1ZzclpRRHR6YndhaHBPMkpPQ0lEMHl0X1lTRU9WRUtGcl9uU0VKNTdKdC1zX3RCb3hVaXVDLVRDa2pEQjVvVXhwR0dqVXdCSndHNkJxYnMwY1EwWXZuM2hWQm9rOEpUWk1DeVBIRXJhSGM2N192SktyakI5bnZBbW8yNVdHa00?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "リコー－続伸 ペロブスカイト官民で量産へ 国が同社と長州産業に補助金1000億円＝日経(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:03+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ecaeb3e00ed14610",
+   "title": "エネグローバルグループ、JPEA主催「ソーラーウィーク大賞2026」にて優秀賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMDU3N1d5dzFrVDJBV1czY2FteFlmazh6NlRTTEMydk53QWZ5R3lhclU1T3RDei1BaTNyU1ZndkpIZzFFSTRIc1JZWHlnS2JuRTZ6dHdWbXZtTC1WUHlNWldQRGcxUUJfa2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "エネグローバルグループ、JPEA主催「ソーラーウィーク大賞2026」にて優秀賞を受賞 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T09:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "エネグローバル株式会社",
+   "topic": "その他"
+  },
+  {
+   "id": "e99b53e41bd4bd22",
+   "title": "【中国】風力・太陽光、設備容量が2010GW突破。メーカーは海外輸出強化に照準 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwbm95VDU3Y1E5eHBUNHJ4SlhsVFVGeml0T2NheVZhVzZiTjloandJNERBMTQtZXJkMHlYR1VpVnJHVGdLeXVBZGo3NWM2cWVvXzZyaEFLZGdyZUs0SmFZUUN4Zk5naTY4dVJkR0ozME5nNjVvdlB4aEdkUTBPMkHSAX9BVV95cUxQcG5veVQ1N2NROXhwVDRyeEpYbFRVRnppdE9jYXlWYVc2Yk45aGp3STREQTE0LWVyZDB5WEdVaVZyR1RnS3l1QWRqNzVjNnFlb182cmhBS2RncmVLNEphWVFDeGZOZ2k2OHVSZEdKMzBOZzY1b3ZQeGhHZFEwTzJB?oc=5",
+   "source": "Sustainable Japan",
+   "summary": "【中国】風力・太陽光、設備容量が2010GW突破。メーカーは海外輸出強化に照準 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs Sustainable Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T07:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "889c509e04f46053",
+   "title": "日本蓄電池 系統用蓄電池ファンド",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GbC1TcGMzLWljWlBMN0hZWWJrVUxwZjRpS2xOZFFueDZkanJyelFiczJvdUFGNTBsQVczZlB5bERyX2pzVFJUcnVhS3AxSnF0UVE?oc=5",
+   "source": "住宅新報",
+   "summary": "日本蓄電池 系統用蓄電池ファンド 住宅新報",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T06:34+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "974b2d4cb6b5fa06",
    "title": "営農型太陽光発電を目的とした農地の一時転用許可件数 - 九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も - 写真・画像(2/2)",
@@ -177,6 +349,20 @@
    "topic": "その他"
   },
   {
+   "id": "72f44fb14031ac7a",
+   "title": "中国の研究者、曲がる太陽電池を大面積化 効率20％超",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82YXhzQjZDSVJmODlsM3lJT04xSFNmQUVNRkx2X01mRTRyVS14SlBuX0pjb1NYcDJYNHYtemp6WkRtemxNZE52UXV6MVkzbWFOX0Fyc0plTWRwSS0yQ3FZ?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "中国の研究者、曲がる太陽電池を大面積化 効率20％超 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T17:29+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "600a989ced6a6c06",
    "title": "中部電力、日本マイクロソフトの支援でAI・DX加速 電気工事ロボットや営農型太陽光も（ビジネス＋IT）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tS2ZjTFNKbEpmV2N4ZUdORGRDLVJ1M3pnZE04a1ptOURUQ0dPSTlwZl9NWUJLY0RXWllzM3pPVk5ldDQxTEdRUmhQaUMtWnU5aG9iRTA0ODVCU056UE5qbFRWRWpGZ2ZScF9rMHVDdnYtRUttNW1Na2NPT3VsZGM?oc=5",
@@ -267,6 +453,20 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nRk93SzhwODdyNVZWYXBaR3dwT0h6SzYxTzlCaC1XUG5nckt2dU1ydW1pY2xxSksyZFJsLVRsSjJ6T2k0YS05X3p0MHpVakdhX3IxWVpYODdocWs?oc=5",
    "source": "マイナビニュース",
    "summary": "大河原克行のNewsInsight(480) ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ マイナビニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:16+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4b8e45fc2f08dc6e",
+   "title": "大河原克行のNewsInsight 第480回 ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWWlJUkFlYTFuYkZFby1ZaVozQU5fMmNNbnVqdkpqYTRBRTdBd0RlZHJieTFnZG00d1E4MTVQQ3ZqUU9POTFwT2djTW9QeGxrQU5VbXlPR1RETENfS0E?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "大河原克行のNewsInsight 第480回 ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ ライブドアニュース",
    "categories": [
     "solar"
    ],
