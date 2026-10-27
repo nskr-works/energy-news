@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T16:26+09:00",
+ "updated_at": "2026-10-27T17:16+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,183 @@
  ],
  "items": [
   {
+   "id": "140276687e4e43e3",
+   "title": "Bluefield Energy、系統用蓄電所の契約手続きを一元化し事業化を加速する体制整備",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42VkxYQzlKYzBpSk5iQVF5Ti1sYkFuSWgtQ1NiLWYwRUo5dUdXNnVVemtSby1iLTRIcDY1TVQwTTNmTzRQTUpv?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "Bluefield Energy、系統用蓄電所の契約手続きを一元化し事業化を加速する体制整備 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:49+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ed339a0c5c0dcbc7",
+   "title": "ペロブスカイト太陽電池、生産工程を簡素化…岐阜大が電子輸送層開発",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51YjRHa2thdl8yTDFyUmtobV9FcXlvUjRPZGlycW9qR3JJcU9jY1Fsbmczc3BQMGlRVUZHUmZ0X0lPUQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "ペロブスカイト太陽電池、生産工程を簡素化…岐阜大が電子輸送層開発 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "5c0bf4484e72cca8",
+   "title": "Bluefield Energy、系統用蓄電所の運転開始に必要な電力手続きの支援を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PNVlZV0NjN1d4N0xyQ0dEQ3FOUlJsbG0tcXg4RjdQM0xMa3gzMThFaHkzcEctWDM5OVpXX0pZeEEwUUNGNzNZMGpreFdmZ0tteTVhS1lFQzJHWnJZUXRZdnhwT1E4ZGdWTUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Bluefield Energy、系統用蓄電所の運転開始に必要な電力手続きの支援を開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-27T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "Bluefield Energy株式会社"
+  },
+  {
+   "id": "2b2e000d19830517",
+   "title": "FIP転換済み太陽光発電所のリパワリングおよび蓄電池併設を推進",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BUTV2aTl0N2tpNmUzck9ucWZlWUVZZDMydDBhamJaNzcxai13cENTVU5MVnlqeFNSZ3BUN1ZVekNoYVJoRXJ2Zy02OE96a0tCd3Fna0ZWVUVjVmpUNEZqR0liWWVIUTA1Y2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "FIP転換済み太陽光発電所のリパワリングおよび蓄電池併設を推進 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-27T16:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "政策・制度",
+   "storage_topic": "その他",
+   "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "d9c7cbbf86355b08",
+   "title": "【1 Unit対応】一石二鳥！太陽光発電もできるキャンプ用モジュール天板「MIRENEX EMRS18-IGT」がMakuakeに登場",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KWWhKaTFPX3EydXpMVmhsVmo1WEMyOHBRUm5ySmc4eHllbktLcUgyMExMdVJQeHlaR2liYVpvdW12UjNMLW1FcTlrdEZsTWlfY3QxRVJ0NG9uLTZoOV9oQXNNek40UzZKZFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【1 Unit対応】一石二鳥！太陽光発電もできるキャンプ用モジュール天板「MIRENEX EMRS18-IGT」がMakuakeに登場 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T15:12+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "ミレネクス株式会社"
+  },
+  {
+   "id": "6e6574916f6e715d",
+   "title": "屋上太陽光発電市場：パネルタイプ、システム規模、コンポーネント、系統連系、建築物への統合、屋根構造、設置方式、最終用途、販売チャネル別―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rODVUVk1sRTJzVGd0VXVGNzJTMWlOYk8xTkk3R0N5VE9tbnZiOGZjQUlhN0U5Q2M1ZDlVSlUycE1ub2FmcUtHcmp1WGQ0WU0?oc=5",
+   "source": "アットプレス",
+   "summary": "屋上太陽光発電市場：パネルタイプ、システム規模、コンポーネント、系統連系、建築物への統合、屋根構造、設置方式、最終用途、販売チャネル別―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T15:04+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "住宅・自家消費",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "f95da05530ac71ac",
+   "title": "豊通物流、太陽光余剰を蓄電し97％自家消費",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYdXBEd1pxRFhiWEx2SklvNzZjWW5iZVBKNkJ4WW5PNkFlaktXcHNEdnQtRUxMci1Ja3FhYXVhZmNBbmIyVUpLMjB3?oc=5",
+   "source": "LOGISTICS TODAY",
+   "summary": "豊通物流、太陽光余剰を蓄電し97％自家消費 LOGISTICS TODAY",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "de94df1c7c3aa2a1",
+   "title": "美野原カントリークラブ特別高圧太陽光発電所計画に係る計画段階環境配慮書に対する環境大臣意見の提出について",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ISjFpUmVQczN1M21lenJiME44RVZvRDZXY3VvY2JQTjlVdVBpWl9pazd3ZlNQVnVCbDByNHN2MzkyWllWX3M0MGMtdXFEYTNLLTdiVEV2aw?oc=5",
+   "source": "環境省",
+   "summary": "美野原カントリークラブ特別高圧太陽光発電所計画に係る計画段階環境配慮書に対する環境大臣意見の提出について 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T14:34+09:00",
+   "via": "環境省",
+   "topic": "政策・制度",
+   "company": ""
+  },
+  {
+   "id": "2b8e27bdb8d64486",
+   "title": "中国の研究者、フレキシブル太陽光発電の「大型化困難」という課題を克服",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydXM3SktOOFgyZF9USUdhUkZNcktiN1RadWY4dmVadzU2SEpXNllpY1VxYkkydzB4SWpzNEp0cjVnaVpZZThTaDVJUUIzXzlrcEhDSHUyUElnR2RLQVB6TEZINEJ4aTQ?oc=5",
+   "source": "人民網日本語版",
+   "summary": "中国の研究者、フレキシブル太陽光発電の「大型化困難」という課題を克服 人民網日本語版",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e60912cfbc9ad550",
+   "title": "日本政府と民間企業が次世代太陽電池に挙げられる「ペロブスカイト」量産のために大規模投資を断行する。 過去、中国産の低価格攻勢に苦しめられ、太陽光市場の主導権を奪われた日本が、独自の技術力と原材料の強み..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDQ1FoSTh3ajV4eDRrYmExZVRBQzJ1U1JGTDJGaDhSdXRrM0tRN0l1SmxRS0Nhc3JDWGZqTFFmYW8tSnAyN0YtNnptb2VYaVk?oc=5",
+   "source": "매일경제",
+   "summary": "日本政府と民間企業が次世代太陽電池に挙げられる「ペロブスカイト」量産のために大規模投資を断行する。 過去、中国産の低価格攻勢に苦しめられ、太陽光市場の主導権を奪われた日本が、独自の技術力と原材料の強み.. 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:28+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0374f1fb73ba358b",
+   "title": "リコーがペロブスカイト太陽電池を量産へ 2030年までに数百MW級の生産体制：太陽光 - スマートジャパン",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2M0RlcFpSMS1NRDN6TjFNWnB0dGJ3LTE4eTQwSnYxUmx6Yndia0UzQlUwbFhVWlBpU0QtZEstSGVqQWVnT2dGRjJ0SkJVdmY3NVUwa2IxSXN4bG1kdkcyZE92MEoxZnpMVjh0Qlc4ekE2VEx2?oc=5",
+   "source": "ITmedia",
+   "summary": "リコーがペロブスカイト太陽電池を量産へ 2030年までに数百MW級の生産体制：太陽光 - スマートジャパン ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:15+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "777fb767c48a4755",
+   "title": "リコーがペロブスカイト太陽電池を量産へ 2030年までに数百MW級の生産体制",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/27/news071.html",
+   "source": "スマートジャパン",
+   "summary": "リコーはペロブスカイト太陽電池の量産化に向けて、2030年までに年間数百MW規模の生産体制を構築すると発表した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:15+09:00",
+   "via": "スマートジャパン",
+   "topic": "次世代技術"
+  },
+  {
    "id": "5275d743b718d3cc",
    "title": "【参加無料】系統用蓄電池「Raptor」単体販売セミナー、11月10日・18日・19日に開催！参加申込受付中",
    "link": "https://prtimes.jp/main/html/rd/p/000000285.000096742.html",
@@ -32,8 +209,21 @@
    "published": "2026-10-27T14:05+09:00",
    "company": "サステナブルホールディングス株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "0074d40158a61a98",
+   "title": "伊東市のメガソーラー建設の工事許可取り消しを命じた判決が確定へ 県知事が控訴しない考え明らかに 静岡 （静岡朝日テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VbWZVOVV0M2N1RnozTGNzclFkY2drdEVIOHplWXIzSktIOHJfY1dudVhiYV9yU05VV0lKYk1fWWdhS05YWDhGSThVQ2lVWGhSYmZsVnZ0dmlHTVBQVEVPTjJ5dnRoZTZCTGlHNTZjN2NuOVN1ak1GX1JneU96OU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "伊東市のメガソーラー建設の工事許可取り消しを命じた判決が確定へ 県知事が控訴しない考え明らかに 静岡 （静岡朝日テレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T14:03+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "bd74683e7c67abab",
@@ -462,6 +652,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "952ac52db483d2bc",
+   "title": "知っておきたい「電気事業法・改正」のポイント",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iZF9yTnVlb1FwQjB5TEI2azZObjB0cS1haDVOZnZUYWUwN08tU3IxYXFvQnFBMzMwdTJaMjIxVW5SWndpd0VWMjZrTGRMVXhRSWdLUlRPM0Y1QmRjUEk2Mi1VT2NPMHhhMDB2aTNYQ1VNRFBhMUtId1lNTzBUQQ?oc=5",
+   "source": "日経BP",
+   "summary": "知っておきたい「電気事業法・改正」のポイント - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "c697767589a919b7",
    "title": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWpoTkx5SU5kVjhlUllGcndZdDRfVnA1RzFNQmVCaUc2ZG1POTBNVWg3bmhCLXRTM0ZfX2F6WUJ0ejNLOVA1bg?oc=5",
@@ -847,6 +1051,20 @@
    "published": "2026-10-26T14:28+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外"
+  },
+  {
+   "id": "b87c5a2629a0db8b",
+   "title": "住宅太陽光パネル：お金持ちは補助金200万円でお得、国民へ400万円のツケ回し",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13N0lOT3diRmlBOEo5QnlnRDZhenc2M2NaZUhhSWRvdkEyZ280SzJJbjNQNU9mTUVjUmY5cUlTWE9xS2dPMU8xV2ZoVkJLNm1kMXlDMnROMTA?oc=5",
+   "source": "キヤノングローバル戦略研究所",
+   "summary": "住宅太陽光パネル：お金持ちは補助金200万円でお得、国民へ400万円のツケ回し キヤノングローバル戦略研究所",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T14:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "fef1de6f48bc388a",
@@ -5183,6 +5401,20 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NY29nX2wtMUxyN05rdXc0eXNUdWc1YUhMMWRhMTZsTnNLUGNxMDJBa3phbjVEQW5MNWpYcmszVWNWaUxD?oc=5",
    "source": "環境金融研究機構",
    "summary": "経産省。昨年、FIT/FIPや長期脱炭素電源オークション等から除外した大規模バイオマス発電を１年も経たずに、再び制度の対象に。「場当たり」かつ「方向違い」のエネルギー政策（RIEF） | 一般社団法人環境金融研究機構 環境金融研究機構",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-20T17:53+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "923321792be9d806",
+   "title": "経産省。昨年、FIT/FIPや長期脱炭素電源オークション等から除外した大規模バイオマス発電を１年も経たずに、再び制度の対象に。「場当たり」かつ「方向違い」のエネルギー政策（RIEF）",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NY29nX2wtMUxyN05rdXc0eXNUdWc1YUhMMWRhMTZsTnNLUGNxMDJBa3phbjVEQW5MNWpYcmszVWNWaUxD?oc=5",
+   "source": "環境金融研究機構",
+   "summary": "経産省。昨年、FIT/FIPや長期脱炭素電源オークション等から除外した大規模バイオマス発電を１年も経たずに、再び制度の対象に。「場当たり」かつ「方向違い」のエネルギー政策（RIEF） 環境金融研究機構",
    "categories": [
     "storage"
    ],
