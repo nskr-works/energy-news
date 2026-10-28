@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T16:36+09:00",
+ "updated_at": "2026-10-28T17:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,120 @@
  ],
  "items": [
   {
+   "id": "47342728ca84197e",
+   "title": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HODFpcWhEV1M2aUctR2ZxU0VDNDZ1N284bFQ4SENHblVIYWRmaXBkZUF4T3l6NUdtdUF0UFZKOWdZTFBMWXlqZ0FfcUtoUmxHYmM5N285U2dpVHlyZmZjcUtqbFRwXzhXTTFDSg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T17:13+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "7165a3c5c766713f",
+   "title": "スターシーズ[3083]：販売用不動産（系統用蓄電所の土地及び設備）並びに電力接続権の取得に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNnV2SjVhYVJMVXBJVlotZUVIMDhlZUx2UVRkVnJNbkpSdkxIQVlWeW1zRVdMa1k0Z1I5RmRsUDR6bGZwQThzdWp0bHVPTnNiTUs5VFEyUTFzRnFXR042Y19xeXFGYzB3dV9nQlF6X3JqMk9sNlBVWGF5TVh1a0d6bHUyaUNmSENlLXFIczFiWkVlN25pNW9JTzdicmx6c0lxUFM5R3RuaFJJSzFUUWttRDdmZHdEMVRZMEhvQUVkeklGVHlXU1FNNk1mT0U?oc=5",
+   "source": "日本経済新聞",
+   "summary": "スターシーズ[3083]：販売用不動産（系統用蓄電所の土地及び設備）並びに電力接続権の取得に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3e3e2a1e793acd24",
+   "title": "太陽光発電用シリコンウェハー製造装置の世界市場（2026年～2032年）、市場規模（単結晶シリコン成長炉、結晶シリコンインゴット炉、切断機およびスライサー、その他）・分析...",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVXlHRFRiU2ZmUHhuUXdZSFB0U2p3TnRxYmo5R002S09jN0JRLUtZX0xJRk11NHhGUW1OX0EzQjNCckxQM2prU1ZjV2dBZVk?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光発電用シリコンウェハー製造装置の世界市場（2026年～2032年）、市場規模（単結晶シリコン成長炉、結晶シリコンインゴット炉、切断機およびスライサー、その他）・分析... アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-28T16:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "999099b89a28ac89",
+   "title": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1～9月として過去最多に 「個人保有×低圧×連系5～8年",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVajhPLW50VUdrTmZwLUx4UHJ3bjVSbENwUHlSd18tTXJaaWF6RkROcndOSFlaNFpZQUJLdXlaZGFwVFhUaEpTVmhCUkRLN01nUXVoU0pLTWM5aXdQT2RKTlB5R2RUeFNNYnkzWDY2Qk1mYjQtNjBKMDZTOA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1～9月として過去最多に 「個人保有×低圧×連系5～8年 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "b307d7a8bdc02834",
+   "title": "【JPIセミナー】「系統用蓄電池の設置・運用における契約実務とリスク対応 ～プロジェクトファイナンス・匿名組合出資による資金調達まで～」11月26日(木)開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01dThEeG9BTS02ZHllOVpwOFlFaEtHSDVMRnJ0M3N2cGt6U0dOVUd6YXpfSm5qQU9ZYVgtNUd1Y3pjRkw1M3ptZnZUeF94WU9veUI2VGt0RWFMc1UtT3JldUdJVzFrTklGd3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【JPIセミナー】「系統用蓄電池の設置・運用における契約実務とリスク対応 ～プロジェクトファイナンス・匿名組合出資による資金調達まで～」11月26日(木)開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-28T16:10+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "株式会社日本計画研究所",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "266e7bf9812dfa04",
+   "title": "リコー、インクジェット技術を活用したペロブスカイト太陽電池を量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVS0tczVHTGFGbml4cHotR043MjRFQ250bTY2bGNWaF9SbnFUSWhFR3pZSV9uZWRxbWxrbHJuelJkSW9TbkliaUxDYUw4Yll1RU1hU3N3NFJNRl9nWkE?oc=5",
+   "source": "OPTRONICS ONLINE",
+   "summary": "リコー、インクジェット技術を活用したペロブスカイト太陽電池を量産へ OPTRONICS ONLINE",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ed8b800860e4bba4",
+   "title": "想定利回り14.5%・FIT単価24円の太陽光発電所（残存11.8年）",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14WFZuRHVVeTVkUEM1TEFwRTV1LU96ODdpYUdCbHg3c3hqVHdqZlI5QTN0aXJnb1FoV2dpSE0ya0pKaWYzTVJNcHExRQ?oc=5",
+   "source": "BATONZ",
+   "summary": "想定利回り14.5%・FIT単価24円の太陽光発電所（残存11.8年） BATONZ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T15:03+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "d760680a0cf5467d",
+   "title": "【セキュリティー対策】経産省、分散型電源のサイバーセキュリティ対策 JC-STAR★２以上の策定に向け検討準備を進める",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FR3ZFTXVrQlRJbXBiNGM5N1g2c3kyZ25ZdzhUN0FvbW5ySFpvN3dFS0tUb2RUWXk5X05NdnNsU2FNMGYyOXBOa2llVlFSdw?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "【セキュリティー対策】経産省、分散型電源のサイバーセキュリティ対策 JC-STAR★２以上の策定に向け検討準備を進める ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T14:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "2934deca44dc0ab8",
    "title": "次世代太陽電池を搭載した自動販売機の実証実験を完了 約４５％の省エネルギー・ＧＨＧ排出量削減効果を確認",
    "link": "https://prtimes.jp/main/html/rd/p/000001644.000042435.html",
@@ -32,7 +146,6 @@
    "published": "2026-10-28T14:53+09:00",
    "company": "サントリーホールディングス株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "次世代技術"
   },
   {
@@ -51,6 +164,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "8899e244c1167337",
+   "title": "リミックスポイント、鳥取の蓄電所が需給調整市場参入、5か所目 | マーケット速報 | 企業情報FISCO",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40Mmh4LWV3TTdoMjBLczlNNlZzX3ZONy0xamlBRUZyVFd4US1xcG1UaVdTcGNqZkZudzhvOWo1dm4xc2ZpckRUeWdqV05HUUVaZUhsb0F4cUxseXpZX2FMd2h6bXRqTkVHczBTVTV3WUN1NkdsVElBeWFTbw?oc=5",
+   "source": "投資情報のフィスコ",
+   "summary": "リミックスポイント、鳥取の蓄電所が需給調整市場参入、5か所目 | マーケット速報 | 企業情報FISCO 投資情報のフィスコ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T13:40+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "cca2efccd2e9161e",
    "title": "福岡・朝倉市のLPガス販売・太陽光発電会社が破産開始決定 負債約5600万円",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjc0tuTVpTUVdaSkdVLUNRV3VyZ2k1MEppcXllUHRWMWlmUnVVQ195RTZrVG1VNzJ5ejBka3dTVEs1QkRNTFlaZTBfZFB0MVVkRUpLUUx3?oc=5",
@@ -63,6 +190,20 @@
    "published": "2026-10-28T13:36+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "a62e169b0a960252",
+   "title": "世界の大規模太陽光発電リパワリング市場、2035年に140億米ドルへ急拡大――年平均21.6％成長、既存発電所の高効率化が新たな投資機会に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UalpvbWhPOVl1WU94dlZsQlpmWkg2NlRUYVdVbGFBbXVZWVZNWlBQQUxaQ0xCYTVGTXhoZVdUYm90a3YtTzcyeTdoOVYxTHFLTXRNNmx0bUcycHlIY1pGbUJTa25BeHB4bVE?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "世界の大規模太陽光発電リパワリング市場、2035年に140億米ドルへ急拡大――年平均21.6％成長、既存発電所の高効率化が新たな投資機会に Excite エキサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T13:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "308884fdaadb4c8b",
@@ -79,6 +220,20 @@
    "topic": "政策・制度"
   },
   {
+   "id": "96847ee632a7f1f6",
+   "title": "【深掘り】日本発の次世代太陽電池 脱炭素の切り札に【神戸市北区】兵庫県議会議員 大塚公彦",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tMzFjcTJyV0x4LWN1ZEFNUEFLX01RZVpYeTc1dVFpdHJtNWRxNE1FUS01RlJsX3BIdGdMMUpDYUREdjVPWmZJN3dkNEFsSFBWQWRGWTZyLTFlZHNMODRv?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "【深掘り】日本発の次世代太陽電池 脱炭素の切り札に【神戸市北区】兵庫県議会議員 大塚公彦 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "8c4c62d21a233307",
    "title": "屋上太陽光発電：電気代の節約と持続可能なエネルギーへの移行を実現するソリューション。",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0FpR3VtM0U3RFE4dFZhajE4MmNubHpfMXR3RllfZWczeE5Wb3VwWm9PSFVxNzN3LTF6bmoxdk55MHVyQXhTdk5EcTZ0ajFNdjBHa0F2R28tc2U1YWEyTzAwdVdYSlFRNjFXTzVUS2oyTjZtX1NqWWwzRnBlOElwWm53a1A5Q3JtMTVvSXkweXJ0RkJmUVdfMzVPTGdRaHR6Wll4cA?oc=5",
@@ -91,6 +246,34 @@
    "published": "2026-10-28T12:32+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "26b69d1d01d63e95",
+   "title": "国交省が「モビリティ・エネリンク構想」、骨子を公表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zZlNNbXJXTlo5NlQtbnFteVpxaENIOG5BUlQxV091WTljTGpoczJZTm9UOHpVenR3VEN4dFFRZTZIenJIVFF4dDYtdHlyX3RsY1FIdEVPSXFUOC1GeXhQbGdYZ2NVLWlSWTZ4Wk9oWjY0OFNJ?oc=5",
+   "source": "日経BP",
+   "summary": "国交省が「モビリティ・エネリンク構想」、骨子を公表 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:25+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "22de79bcab98a3af",
+   "title": "アルミ大手が7MWの太陽光で「自営線PPA」、4kmを結ぶ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMQktRU1FTN1NzSExfWDVKOWZTR21nbmN3YWVUS1JOUTlpUWJxNXcwemxUeFlURHJZR3gycHRvWW5QVzEycFB6cHh0SDhOUVV1VGlrWENkSTY4WXNKOHB6dGpvTGktdWkySmxyZ2FodnJJOHJE?oc=5",
+   "source": "日経BP",
+   "summary": "アルミ大手が7MWの太陽光で「自営線PPA」、4kmを結ぶ - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:22+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "aa9408380579ca69",
@@ -121,6 +304,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "2e98318cf95f4a3b",
+   "title": "ブラザーと東京都中央区、燃料電池を災害時に活用",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmZDR1bGFyWDl1eENzSzhtUGlNNE9kRHJUQXZtSDZLZlpSU29MR3ptYXc1QS1pYWdIWGV0dllydWRQVDFWMUU5ZUZNRHRXVWxEM0ZZWTNwSWxldXlvbzZrTDhKZ0F0b3hMQ3JtSDhIaGtwbFUx?oc=5",
+   "source": "日経BP",
+   "summary": "ブラザーと東京都中央区、燃料電池を災害時に活用 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T12:19+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "f3963266a893351a",
    "title": "太陽光発電用単結晶シリコン成長炉の世界市場（2026年～2032年）、市場規模（チョクラルスキー法用炉、ゾーンメルト法用炉）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNXpuUUdWS2phUVdEQVR2dUxLaDhTMUlHcTdYQ05NaHVsckE0cnVDOUtCMEpDNi00Nmt2dFdIN19KcFhIaHdadEFJcHRGS1k?oc=5",
@@ -148,6 +345,20 @@
    "published": "2026-10-28T11:53+09:00",
    "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "54afbf31468b0664",
+   "title": "データセンター、太陽光、そして送電網：キー・ミンはマレーシアの次の投資サイクルに接続されている",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckZWck9zaEpaMXNqT2c1YjluQ3lVSTVYU2FORmxsamdTWW91SE1ZSkVRQmg1ZHNtSmxmZnMwUU1QVWdfWmM2bDc1b0E2U3V6TmNKTkNtbjhzX1RIWFBmNUtMY1Fuc05fOXZWelNTV3ZUUWRBYkc1NjVJWnQ1UnFNX1RBZFRPNE16M1lEdk1jdHlweHJtZnFuaXBRWkpLVW9xVnVOVHNkQ1drQQ?oc=5",
+   "source": "Moomoo",
+   "summary": "データセンター、太陽光、そして送電網：キー・ミンはマレーシアの次の投資サイクルに接続されている Moomoo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T11:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "dbc0d7284a9ee3d8",
@@ -415,6 +626,20 @@
    "published": "2026-10-28T07:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "bce4280310eaa100",
+   "title": "住宅の太陽光発電、補助金の受け付け開始",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQm1BOW02bkR4WmtZcHpXZ3hramFjNmhpV1RiVS0xZ1ZxNjZReEtDc2tVTlRCcENLNTdFak1nT3JFQl8yc3hhdGN1NA?oc=5",
+   "source": "日刊タイビジネス",
+   "summary": "住宅の太陽光発電、補助金の受け付け開始 日刊タイビジネス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T06:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "49677e9171c5a316",
@@ -768,6 +993,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "bc26d8b8dc4ef696",
+   "title": "アイネック、あいちペロブスカイト太陽電池推進協議会に参画 第1回会議に出席",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MR3J6eFZNNUhJdjZhNVFSQm9sNWctdHFnZFNHeExIWGQ1aUh3X25LaTRnenhHRThWQU9xeS1aVzZ5TEVYWWc?oc=5",
+   "source": "Dellows News",
+   "summary": "アイネック、あいちペロブスカイト太陽電池推進協議会に参画 第1回会議に出席 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T17:38+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "140276687e4e43e3",
    "title": "Bluefield Energy、系統用蓄電所の契約手続きを一元化し事業化を加速する体制整備",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42VkxYQzlKYzBpSk5iQVF5Ti1sYkFuSWgtQ1NiLWYwRUo5dUdXNnVVemtSby1iLTRIcDY1TVQwTTNmTzRQTUpv?oc=5",
@@ -854,6 +1093,20 @@
    "topic": "政策・制度",
    "storage_topic": "その他",
    "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "4a869ac336fb0470",
+   "title": "中国の風力・太陽光発電の累計設備容量が20億kWを突破",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uV3lVdVRuXzFqdXU2VkwwUDlieFJHWmhtRnRXbjExbng3Z1BGUnl0QXV0TjJ6d3U1d0tHdjFQT3V3SFZHZXA4QVV3My1iN0N6WjVaS19zY3ZNV1AzLUdfZldHaW1vNy1N?oc=5",
+   "source": "人民網日本語版",
+   "summary": "中国の風力・太陽光発電の累計設備容量が20億kWを突破 人民網日本語版",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T15:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "d9c7cbbf86355b08",
@@ -3085,6 +3338,20 @@
    "link": "https://solarjournal.jp/policy/68166/",
    "source": "SOLAR JOURNAL",
    "summary": "農林水産省は、2027年4月に施行される営農型太陽光発電の新制度に向けて、市町村担当者向けの説明会を全国5つのブロックで開催する。今回の制度見直しでは市町村の役割が大幅に強化され、農業の担い手による持続的な営農の視点も重要になる。 The post 【10/26 〆説明会開催】農林水産省が営農型太陽光の市町村向け制度説明会を全国5ブロックで開催 first appeared on SOLAR JO",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T18:22+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "営農型"
+  },
+  {
+   "id": "c544ad21a0c3e9a5",
+   "title": "【締切済み】農林水産省が営農型太陽光の市町村向け制度説明会を全国5ブロックで開催",
+   "link": "https://solarjournal.jp/policy/68166/",
+   "source": "SOLAR JOURNAL",
+   "summary": "農林水産省は、2027年4月に施行される営農型太陽光発電の新制度に向けて、市町村担当者向けの説明会を全国5つのブロックで開催する。今回の制度見直しでは市町村の役割が大幅に強化され、農業の担い手による持続的な営農の視点も重要になる。 The post 【締切済み】農林水産省が営農型太陽光の市町村向け制度説明会を全国5ブロックで開催 first appeared on SOLAR JOURNAL .",
    "categories": [
     "solar"
    ],
