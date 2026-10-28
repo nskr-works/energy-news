@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T07:12+09:00",
+ "updated_at": "2026-10-28T11:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,200 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "ace01fdffb44b763",
+   "title": "系統用蓄電池の事業性評価を支援する「BALEEN」、AIアナリスト「MELON」と許容投資額の逆算機能を無料公開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sLS13UDdMaUY2dm9fRThENU03cGwzVm9VUDZURmV5elBNenlNeHFxel9scDFYMHBScTVndXJBS3pBX0NCNUhPYWNucjNIdnRCblNUd2RKQXJ3RGVCcnZOV0dBMGpKLWFzYlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池の事業性評価を支援する「BALEEN」、AIアナリスト「MELON」と許容投資額の逆算機能を無料公開 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "RIA PARTNERS株式会社"
+  },
+  {
+   "id": "d0366ec21cdea915",
+   "title": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1〜9月として過去最多に 「個人保有×低圧×連系5〜8年」が中心、2022年以降連系の比較的新しい発電所も増加",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WRVpFUVNEU1p2MTZONFFXbFpVSUlHekZtTGl4Nkx4ZV9FdXBaRHRnQ1lPMTMtS1BtV1NWZ3UxQTJ1al90VmNrSVFkSmpIQkdYVi1La0VRMGliSEFodUZHWUJVNkI5V2tDc3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1〜9月として過去最多に 「個人保有×低圧×連系5〜8年」が中心、2022年以降連系の比較的新しい発電所も増加 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "発電所・開発",
+   "company": "株式会社エナジーリンクス"
+  },
+  {
+   "id": "85b97be23f388a31",
+   "title": "エヌピーシーがマドを開け一時６％高、ペロブスカイト太陽電池分野への展開力に再注目",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pSFFyMl9ITzF3ZXZzbDNmQm1SamVsaVJWLTUwZXpfUlhXbTFFOElqTTU1M3lmMy1FRVhEMUUxOTd0NUg1NUpGUEVBTGtqckRmV0VzZGd6Z2FOcVlFNTVtdg?oc=5",
+   "source": "株探",
+   "summary": "エヌピーシーがマドを開け一時６％高、ペロブスカイト太陽電池分野への展開力に再注目 株探",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T10:24+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4a435350264cfbc4",
+   "title": "東京センチュリー、オムロンと低圧太陽光の売電保証で協業",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42Qm1FX0dtanRSV1BQamo1WlpRZ1F3T1ViNUw3Y3FGbzNOQWQ4U25PMWRsODNDVDlUOEV0UGlyM2lKeGszRTNFOVlSNHlwS3FEY05N?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "東京センチュリー、オムロンと低圧太陽光の売電保証で協業 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T10:12+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "314952b3edee8800",
+   "title": "グッド・エナジー、中古低圧太陽光発電所の買取契約が前年同期比21.6％増の90件に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Z2Y3cjN3VjlvUWlwRzAzOEVkRURDdUdpVnk4V01iRmtVN01OYVhkcnBJUjFBLVhHUnVNbE9uaXpMbVI5ck9kNWZ0U0Fjb2tHM2xKU3NiX1pVVHJWeUVJSEpmM1Z3bEg2R0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "グッド・エナジー、中古低圧太陽光発電所の買取契約が前年同期比21.6％増の90件に PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:10+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "発電所・開発",
+   "company": "株式会社グッド・エナジー"
+  },
+  {
+   "id": "ac2f2ebbfd62fd20",
+   "title": "CAGR 26.5％で成長する次世代農業と太陽光発電の融合戦略 | ワクワクニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PRUxrbmt3WmFvV3RrUTFPLU9MZWVhdnJKQm4xRHlCc0NLdG9GZnZOeVBLcUJOalctZ2hmWXZlYjdLSHduUkhRY1NBTmNRbk9rNkE?oc=5",
+   "source": "ワクワクニュース",
+   "summary": "CAGR 26.5％で成長する次世代農業と太陽光発電の融合戦略 | ワクワクニュース ワクワクニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T10:10+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "595859a342009aa4",
+   "title": "アグリボルタイクス市場は2035年に1,084億4,000万米ドルへ拡大、CAGR 26.5％で成長する次世代農業と太陽光発電の融合戦略",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zd0ZOV1ltaUxTUU9xT2tPNHlNYVh4QjBIN2xCZENsMjZJQVBaUUsySUxqN2ZtXzJod3lVMFI1VnpYUUpoU1JNcm1lRVM2WFk?oc=5",
+   "source": "アットプレス",
+   "summary": "アグリボルタイクス市場は2035年に1,084億4,000万米ドルへ拡大、CAGR 26.5％で成長する次世代農業と太陽光発電の融合戦略 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:10+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "次世代技術",
+   "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "2ea4c86b81ff9af0",
+   "title": "蓄電池併設低圧スーパー過積載太陽光発電所が系統連系",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92Y196RG15UXBVYmVNZGpMajMxUkpVR29Calh2aE5LLTBEZ3J3RXRhbzZuVW5KQXB4ZFFTeWc4aHJoOHpOSjJsa3dwVUxKZXNBT3prRDdEa1F1bjN1VWVpZUlLXzl3Nml3ekE?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電池併設低圧スーパー過積載太陽光発電所が系統連系 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "低圧",
+   "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "ca26d74e80cccc6a",
+   "title": "エナジーサプライ、アイチューザー株式会社の太陽光発電・蓄電池の共同購入事業で「2025年度 優秀施工事業者」に選出",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwNy16VUQ4S2J5UzJ2cXp6QVVqRkppYjkyS0tfVXpOdk1LUHlTV0NxTG5SZUlLMWlmWEdsVDc1SlQteTN4MkhkNnZiZmd3cS03d2hRMkIydHk2Z005VHhDcGZNN0tkWWxHZmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エナジーサプライ、アイチューザー株式会社の太陽光発電・蓄電池の共同購入事業で「2025年度 優秀施工事業者」に選出 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-28T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "エナジーサプライ株式会社",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5c14b1b48f1dc952",
+   "title": "宮城県が「再生可能エネルギー見学バスツアー」を開催 最新の営農型太陽光発電施設の見学と実践的ディスカッション",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91M3dQUU9CajJPMEppZHNkOEFfQ1dWRGtHQ2VScDBrdGxHZEFTYjZTcDVNM3dUemxscVpBZ0l6VnZmXzFUNG1NZTdxMGlKV2wwMXRVNGNhdmlhRGFE?oc=5",
+   "source": "株式会社共同通信社",
+   "summary": "宮城県が「再生可能エネルギー見学バスツアー」を開催 最新の営農型太陽光発電施設の見学と実践的ディスカッション 株式会社共同通信社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T09:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "d433bd1e564f3209",
+   "title": "【ライブ配信/ZOOM】「リチウムイオン蓄電池最適管理のための残量・劣化推定技術解説」セミナー開催！12月15日（火）主催：(株)シーエムシー・リサーチ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01RVZkMUhIUnY3d3hDenpDRVFhQ0xsSlpYbHlCUExYY3RSRnlkY2Z5NlVRM0dBMklDaDlxMXhmb2hGR0J1d2E4S0tZMkNGb2ZtRm0wTENHTmJqeTA4OHkxWThFRV9KY2RuS1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "【ライブ配信/ZOOM】「リチウムイオン蓄電池最適管理のための残量・劣化推定技術解説」セミナー開催！12月15日（火）主催：(株)シーエムシー・リサーチ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-28T09:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社シーエムシー・リサーチ"
+  },
+  {
+   "id": "f1e0126b93b3fcc7",
+   "title": "滋賀・大津発JIOSの日本製ソーラークロノグラフ「HIEI」、CAMPFIREで目標達成 | 株式会社VALOREのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjazhMaDUyUTBQZFpFRzltOE9XOGs3Ul9Hc2V4ajA5b0tITHJOVXd0WVI3cGQtT3ZYc1hWOVBGMjVJZVUyQUhTajF2WjloZTdkdUN5dzV5a1JqbWRzR2hxMHJQRnk5NjlNTkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "滋賀・大津発JIOSの日本製ソーラークロノグラフ「HIEI」、CAMPFIREで目標達成 | 株式会社VALOREのプレスリリース PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-28T08:40+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "市場・企業",
+   "company": "株式会社VALORE"
+  },
+  {
+   "id": "90fb148f81d85253",
+   "title": "住宅用蓄電池市場、先進国中心に拡大――富士経済調べ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94RzVVOVpyWXU2ODU1UnlQUTFoVjNxZ28zYmhteldMUktJdVpfcHZ5bmNpYk8wSFBSNEN2Qkh3Nk8zNjVjU3prT2kycm5oZDh2TFE?oc=5",
+   "source": "新建ハウジング",
+   "summary": "住宅用蓄電池市場、先進国中心に拡大――富士経済調べ 新建ハウジング",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T08:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "家庭用"
+  },
   {
    "id": "29d9d87f3d737493",
    "title": "太陽光パネルの下でブドウの房が2.5倍に！ なぜ日差しを遮ると生育が良かった？ 伊バーリ大学研究チームが論文",
@@ -174,6 +368,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "22973b70b3674a9a",
+   "title": "リコー、インクジェット式ペロブスカイト太陽電池量産へ (EE Times Japan)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWnFWakR6S1ozRW9mTGFGeUVGUkZSbGJMTXZxcGVPSUhhMDlPSmNVR2ZpTUZ5bk8xMDZxTFc3QnhWdlRLWDdjVFNTSVdYQUdURWZ4QXByOEtkcExwM0hTc2U1SEU1VlFJTHRjVGI1X3pqa2d3S2t3bEFjVkJsQnZXdW1xSXNFZ3kwVFAxX1Vn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "リコー、インクジェット式ペロブスカイト太陽電池量産へ (EE Times Japan) Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T19:32+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "66c849ee2df076a3",
    "title": "ベトナム・ソーラー社がタイニン省の科学祭に参加します。",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVndkZkFONGd2RlNuZ3lOWDVfWkcweklVeHlmSzRMcl9lbmF6RXM0UncyUlBjSDBnQk45MmZkdV9TVVhEdFhVSXY3WmE5MV9teWpWSC1ZTVZpeXUzYmUtZHBvUEpCSnZRQldLY1N2S2xmUThCcDc5a19pNHl0M0Q3d2lkQkgtZ1E?oc=5",
@@ -313,6 +521,34 @@
    "published": "2026-10-27T18:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "bb22927983b3b3f4",
+   "title": "ジャパンブランディング、系統用蓄電池の人材育成をテーマにしたウェビナー開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YbG0tOGluX09GcWFrWDNBZy1meWItQlpsQmJPcTJpWlhBTkZ4Y3dRSEtrcW5uSFk5R3ZnOGczUjk4Y2hzOFE?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の人材育成をテーマにしたウェビナー開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f7bc02734e3ccd53",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YaWJZeUI1M25zYVVGbFRsTUlERmNfMmVUOTJBbU5JeFZwYnliRm5pVU5obzg4d2RmQ1pKay1pZUhEUmpCS2c?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T17:48+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "140276687e4e43e3",
@@ -884,6 +1120,20 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OWS1mRm9nTl9xZWJUSG02NWc0UE9EeHhxUk5QdHhkenRhMmlqajZtSXNGVkwxczJ5bHFBWTZKUGVwQWFfb3c1S1VZTFNPWC0zci1tTDk1QkQ2VG1na2c?oc=5",
    "source": "ライブドアニュース",
    "summary": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引◇ (2026年10月27日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:33+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "fe1e3e48a5bb9d0a",
+   "title": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRmJNXzlaQm1VX1dpZF8zWHBYM2RLZjQxWjRMLVp4UC1MVGJoZXJtNXE3bEJON3d4WG1keWFmdGJZZlhRNkVCYjRlejNmLWxXSlE?oc=5",
+   "source": "株探",
+   "summary": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引 株探",
    "categories": [
     "solar"
    ],
@@ -1969,6 +2219,20 @@
    "storage_topic": "低圧"
   },
   {
+   "id": "5b694682ea9a131f",
+   "title": "電力＝10月19～23日:電力スポットは続伸、太陽光減など需給引き締まり",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jelZ1MW93MmdYN3cwazRvdXYySnJkV1RZQW9TeEhvTnJzbmFjUXJKREdoR1pKejd2YkZVd0VtNTVNVzJzaExtYjlOaHRWekRtT3QwS0tUbFFrV19VbGNiakktN0lxcUt6cGF5aA?oc=5",
+   "source": "リム情報開発株式会社",
+   "summary": "電力＝10月19～23日:電力スポットは続伸、太陽光減など需給引き締まり リム情報開発株式会社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "7e246b8356365649",
    "title": "関電など、太陽光の収益拡大を支援／併設蓄電池、複数市場で活用",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCbXJVUnVWNlIwTy1fQ0U2UGtHeFlEWXBIYi1jWW5hdHB2S2JjMTljU1UxUWtDM29rb3hiaFJsVUQwNm1SRkNYX0d2QXpZSy0tcXd1TjBxOA?oc=5",
@@ -2057,6 +2321,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "7fae32d1dc9e22d6",
+   "title": "屋上太陽光発電：電力供給を自分でコントロールし、コストを削減し、クリーンエネルギーへの移行を実現します。",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1lISTdQNFpzRDMwRTdyMFg5VTRoNWp2ZU5fLXc5OFEtTVZmUXBQdi13Z25Ob1JkRjdiLWxjTlA5SUFCUzgxa2RPRW5DelBVbjMybVBpbmRoQ3FvNnR1NFJLbDhDek5NZWdzRzlxMUR5eGFnSVJkb0FBaGszanczSGd3QWdETXdsS3FTd29XcEFIU1dvSHpoMmxKa3Q4c2JaajNYakpqMzBDVHdhZTZFTQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電：電力供給を自分でコントロールし、コストを削減し、クリーンエネルギーへの移行を実現します。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T00:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "7e21a8113502c347",
    "title": "関西電力とＥ－Ｆｌｏｗ、太陽光併設蓄電池のマルチユース運用を２０２７年以降実施へ",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSVVRLWpMN1ZnZzh0UEpWQVh1Sy1ranNkMU5Md0hTdHRha0F3ODVqd0hHT0p6NDZ0OVQ2SHFPdEtDVzFVclFRVEg3M213cG5QT1oxRTh1ejhCTVROa0ZabzdJZHp1bEho?oc=5",
@@ -2102,6 +2380,20 @@
    "via": "Googleニュース「FIT・FIP 太陽光」",
    "topic": "市場・企業",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d76154041b0a27c9",
+   "title": "品川インターシティにグリーン水素設備 太陽光で製造、共用部の照明に活用",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb3YzeklvY3JuUl8tcmtYa0dlUlZNTmNzSU5SRnRRczZ0SEZEb2VUdVFhcTEwZGoycnN3bFJGZ2twLU04ZmhlNjRsTWFOR2VCanF4OVlrUlNFQ0kxY2RYRHFLS0J6MGxm0gFoQVVfeXFMTVJvdjN6SW9jcm5SXy1ya1hrR2VSVk1OY3NJTlJGdFFzNnRIRkRvZVR1UWFxMTBkajJyc3dsUkZna3AtTThmaGU2NGxNYU5HZUJqcXg5WWtSU0VDSTFjZFhEcUtLQnowbGY?oc=5",
+   "source": "財経新聞",
+   "summary": "品川インターシティにグリーン水素設備 太陽光で製造、共用部の照明に活用 財経新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-25T16:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "f39d1157f54295ad",
@@ -3650,6 +3942,22 @@
    "topic": "その他"
   },
   {
+   "id": "5db280b58a5d6cca",
+   "title": "ルワンダ、サケ湖で200MW浮体式太陽光＋800MWh蓄電池を入札 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0pNSTQtX1dNeU1iVURuQWVJS0hiTDFUaGZ1Rm9mT3RDMFJ1dmtDd1U1TEo1UkpNZ2VzUVZMOFZZVkNvaEYtMTN2OWIyQ0lnWTZtVF9jZXhmTzc4N2RmOTBZbVVkS1N5Y2t6SGZkd21HLVpkczROMWIwYU5ORUR3V2k5T1l0RmhCUmhpa2xLc212TW9XZkpZaE55ejJpZ3V5QWdDamRJOVpYTFhmblZBVUxYQ0o?oc=5",
+   "source": "IndexBox",
+   "summary": "ルワンダ、サケ湖で200MW浮体式太陽光＋800MWh蓄電池を入札 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-22T21:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "6a9f606e11f379cc",
    "title": "太陽光パネルの自動洗浄市場2035年予測：汚れ損失と水不足が需要を押し上げ - ニュースと統計",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVB1RDM4VHRmS3pKZjJGVHU4cF9GblFKVkszWkxLRy1QbFRkNjBqTVFjeXNTTXg5MldqRkZEeEI2ZzFPYlhEODVCTkcwYkJpcVg5SWNoNTVQWkFsajFxb3VaY0JFa3g4d1V3WEZydU94dzN0ZXVaOTJUanVuYmVITGY0ZWpySnhsYXR3bFBTYm5UOFVUSlVSRTllMHNTQUlPdXB2V0FxQU53dDhZUGtKM0ZrMGs3amhmQ2Q0T2NVVFhZUDhPb2F5Q0RtLVc1UjFuQUQtUEt6RlVsaEM5V1RhWUhhOHpVbEM2WklfZ3lTbHNudGxQcnpRV2JpaDZ4RlVw?oc=5",
@@ -3851,6 +4159,20 @@
    "published": "2026-10-22T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "0b43f674351ae63e",
+   "title": "屋上太陽光発電の販売における「ボトルネック」が解消されるのを待っている。",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SFJvSTZjbUhkdVE4Q1oyRElVb3A3MFpBbGZydmJ3TFgzVTF1ZU95eDIzQV9RWlNUZ2F0bUlRWng4S3NobmljS05iczRzRzhySHMzTTdlMGZiWEZoVlo2Z2NLLUxJQUZRN0RDUzNXc2FGUlRCZlE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電の販売における「ボトルネック」が解消されるのを待っている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "6eb6027401f91b22",
@@ -4875,6 +5197,20 @@
    "published": "2026-10-21T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "8ef57e6a2fadb1bc",
+   "title": "ペロブスカイト太陽電池関連株 本命株・出遅れ株 一覧",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PZnY5czJ0RXkyOEMteWc4WDJub1QzT1dodThrTU43ZDIxbTZlNC1yVndPSEoyMkR6R2JUelpwY2d3UGZFdWVtaFUxUjhjbURTd1VKRlBRVQ?oc=5",
+   "source": "かりんの株レポ",
+   "summary": "ペロブスカイト太陽電池関連株 本命株・出遅れ株 一覧 かりんの株レポ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-21T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "5db0aa1761706715",
