@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T19:23+09:00",
+ "updated_at": "2026-10-30T07:16+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,118 @@
  ],
  "items": [
   {
+   "id": "e56a4bcc1c258770",
+   "title": "東ガス、高圧太陽光開発に着手／東京・東北に２．５万キロワット",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15Z1gzTTN3bEE5ejZIWjFIekNWbnBlWWpNSEQtekloemwtZ3NBWndqcl9qdGFNR3FSTHAxM2tRYjFKYkd6V0dRMGFZVkxaQjRGbGZ4V245VQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "東ガス、高圧太陽光開発に着手／東京・東北に２．５万キロワット – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T06:00+09:00",
+   "via": "電気新聞",
+   "topic": "その他"
+  },
+  {
+   "id": "0dff11329598d020",
+   "title": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5oQnJvMmF0VDUxMnJXUER3dUcxcEI1N2dId0E5TnRoRk1qa1JOTTZ0TXRBTzNsSXItSzRaa0tjYXFiY3pYNEZjOWo3RFptSGRERlhudTRDLWZWNGw5dXJ1VHN2eVpDZThMQnY4dGVTTUdjc3RSR3NIQVN0WjlEVTQ5dmtjNkFUT2NkN3RnRzRHczlidG9VanFucVY?oc=5",
+   "source": "日本経済新聞",
+   "summary": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5c0ff701270b1bcc",
+   "title": "グリッドウォッチ、蓄電所保全管理プラットフォームBESSwatchを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZG5jT3ZxWTNMSW1ia0VQRzFady1xcHhvRVE2VjNScjlhVFVleG4wTElTb0Z6WEhSWmtqc0Q5YnZ2d29kUFlkM1I4SWhMMmpvNXg4NXNPTVpNZDF0M0lqb09QLXg?oc=5",
+   "source": "Dellows News",
+   "summary": "グリッドウォッチ、蓄電所保全管理プラットフォームBESSwatchを提供開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T01:10+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4d92609485f0b22e",
+   "title": "【ニュース】 JR九州など、第3号案件となる系統用蓄電所「でんきの駅諫早」を着工",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11YjZIRGdqcHltTjlraHBnS1ZLSC1kTGZRV25pc245U3lGTnN2NVRsNnhrVlFMOVlUeE0xcEl0UGk0alNMUGdxQy04d0xpS1RHZlJwTmNaVHRxZGd0cGc?oc=5",
+   "source": "遊都総研",
+   "summary": "【ニュース】 JR九州など、第3号案件となる系統用蓄電所「でんきの駅諫早」を着工 遊都総研",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T01:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3b2a4ec1c2ae0634",
+   "title": "分散型電源の太陽光発電所が完成、ルソン最大",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GY3BkYkRLVXNwWFA4OFNvdFJuM2pHMTUteW94WlhJTFplalE5alZxeDZvRUFvOS12QndCTG1VZVZLQ1NiUEE?oc=5",
+   "source": "NNAアジア",
+   "summary": "分散型電源の太陽光発電所が完成、ルソン最大 NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "fa6acbf7426f690c",
+   "title": "サントリーが次世代太陽電池搭載の自販機で実証完了 年間消費電力の約45%をカバー",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xSzZ1N2FBd0xYa3Y5WDRXeDZZalMzOVBIaTAydFpOSVR2ZHlmOXpIUHZMbzN5SXc0THIxLU1tU2t6dlNiTkNHMmJn?oc=5",
+   "source": "ELEMINIST",
+   "summary": "サントリーが次世代太陽電池搭載の自販機で実証完了 年間消費電力の約45%をカバー ELEMINIST",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T21:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "484c0d8a40656922",
+   "title": "屋上太陽光発電：電気とエネルギーを節約するための持続可能なソリューション。",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT19ZZzUySnQycUlQZzZqXzdOZ0wxWi1oWm0tWWE3ZktpRTdnVUZ4UHZpT0Z6TDZOeVNjcXNwVXNSYWJWUGFybEZNRHJyYlpSVGZ0LU1hZVhNYkxNSEdkVk1NQjhfV1ktUE0zYXl3ZUxOeDdMTWtBR1o5cW8xRlg5X0E3Yl8xcjNONVB0d1c3elAxZDhpdFZza2lwdw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電：電気とエネルギーを節約するための持続可能なソリューション。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "cb9538e46d6bb1b5",
+   "title": "ペロブスカイト主導の東大名誉教授「新潟大に研究拠点の創設めざす」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTlVmM19qcFhUZXRrQ290ekVJSktmOW0tdjFGSnpNaTV4TjE5OWNaVUdUVHc0eGJXVUNqSERQaWJ2OFg1dHJ0OUVLWWxMSl81RzJGdUItOEd6LWZxRmNRRlhfaXdnY1Q1WkdycA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペロブスカイト主導の東大名誉教授「新潟大に研究拠点の創設めざす」 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "8560af7a06680e13",
    "title": "系統用蓄電池はなぜLFP（リン酸鉄リチウム）が主流なのか――NMCとの違いを読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000081.000181124.html",
@@ -32,8 +144,36 @@
    "published": "2026-10-29T18:00+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "5cdeeebd249a220e",
+   "title": "系統用蓄電池事業推進へ共同検討 ＪＲ西と中国電力 基本合意書に調印",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tZS11dGhzYjhsdGthcWZyLWFSOGN2TzBveDI3ZTJQakRmbEJKWTM4R2MycjBOOVZ2ejVfUi1zbUhWUTRrMWNVQ0F2bzFSVDdqRDFKUl8xbzNDZkxrVy14SUxJSQ?oc=5",
+   "source": "山陽新聞",
+   "summary": "系統用蓄電池事業推進へ共同検討 ＪＲ西と中国電力 基本合意書に調印 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e057870efe920607",
+   "title": "ベトナム工場での二国間クレジット制度を活用した オンサイト型太陽光レンタルサービス導入",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXZBSElmMHFxcTBRR1gwODQxQnNzNGlHS0xyeTFUSjdYNEdqVnZJN0k1ZF8tTzlxZVo3S0hjb1o5Slk1NDNzZlBDanFFdXVSMDBxTVRENUI4aUFPU05wX1lEX05NeHFIaTVjd3FWaENZQmJ3OWs3eWl3eUYwb1FleE5YTEdkTXJtbmRvM1B3?oc=5",
+   "source": "PR TIMES",
+   "summary": "ベトナム工場での二国間クレジット制度を活用した オンサイト型太陽光レンタルサービス導入 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T18:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "政策・制度",
+   "company": ""
   },
   {
    "id": "b314f4d023261bf6",
@@ -48,8 +188,35 @@
    "published": "2026-10-29T17:50+09:00",
    "company": "日本トムソン株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "政策・制度"
+  },
+  {
+   "id": "f4675f10f5cc55af",
+   "title": "鈴与商事、太陽光由来の電気を鈴与に供給 CO2年6400トン削減",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMkZ6NDVMb1VNTUVHNW01bEQ3WUc5cUtVWVZHbW9uMGh5SEEzRUdRUHAyaGwweWtKS1JqOVhsc3RFQ2xEdlpxNlI1UGYxcmF3bmxuNU4tRUwzQnVjQmpobHBBV1RLS19YVUkybA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "鈴与商事、太陽光由来の電気を鈴与に供給 CO2年6400トン削減 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:43+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "e5d8c05373cfe4f3",
+   "title": "兵庫県がメガソーラーを売却へ 三田と淡路に設置 購入事業者を公募|経済ニュース",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UdDZYUks1bm1rc1FMOUlIV3FISlQyNnp2SU1ZRjdhRzJJaVY2dWdmdm1pQkxwYktFNkVMeUtTZkNBUDdvWkU2ZDk2M00wckZGQTVicUFZLXFPTmZsd2thTFZaNFRvd1N1YUZyMDdB?oc=5",
+   "source": "神戸新聞",
+   "summary": "兵庫県がメガソーラーを売却へ 三田と淡路に設置 購入事業者を公募|経済ニュース 神戸新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:36+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "326915bbbaa3e766",
@@ -78,6 +245,36 @@
    "published": "2026-10-29T16:01+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "904dbe93bba50098",
+   "title": "FIPの認定量が7GW・3000件超に、 経産省が公表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82UnhqdE4tYnhpVzJ2QWllbUV1MVlEVFFMWnBoeG8wRUk4TGhUWEtZcEpFZVpTWWttYzFKRWl6enJEZTJKQmZvcU9PRHF3RHF5bWlLRnN1Tlg2M2FPZDA1dC1hZFJVZ1B2ZVBCSEhqa1ZfM1k1?oc=5",
+   "source": "日経BP",
+   "summary": "FIPの認定量が7GW・3000件超に、 経産省が公表 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "71dd45f96c297040",
+   "title": "既設太陽光発電所の収益改善や蓄電池事業を展開する株式会社グリーングロースがシードラウンドで約5億円の資金調達を実施",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94ci1jeWx2Y0RhaXlXUzgwdkVFR3hsTG51djJfb2FHQjV3ZVJHUWdLTzlVc2g5eXRyOUZNZGd1bUd1YjVJTER6YmY4TE1oOVU?oc=5",
+   "source": "STARTUP LOG",
+   "summary": "既設太陽光発電所の収益改善や蓄電池事業を展開する株式会社グリーングロースがシードラウンドで約5億円の資金調達を実施 STARTUP LOG",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
   },
   {
    "id": "a4f923f6e36cfb13",
@@ -167,6 +364,21 @@
    "company": "株式会社PXP"
   },
   {
+   "id": "ab310e3fa50a475f",
+   "title": "神奈川県の企業立地支援事業にPXPの次世代型太陽電池工場が認定",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6VlBDODlfZHBpTDhSRVZoSTN3WHI2Q2gxc3lHS04tZy1vNmNuT3FaMUJldmpxUHFqT29rZDBsSHFVbzdwQUpoY3RNbWFENTNXUTdQMGgwNmV1XzR0a1VscTk0dlU1by1kRkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "神奈川県の企業立地支援事業にPXPの次世代型太陽電池工場が認定 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T14:35+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": "株式会社PXP"
+  },
+  {
    "id": "67fc7b6106d5b4c9",
    "title": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！行動変容と機器制御を組み合わせ、期間中合計７３万ｋＷｈ相当の下げＤＲ効果",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55c3ZMYmVxbnFZamFzejV2ZnZVSkdZTmpfMHpxaWZVcjZKUnpXN213MEtjZVlyQ3licW5EUXV4bDE3eG5DUFYyUXZTMkxYQzZiQ0JQOXZ4TWZtS0d1UDJUTmJEN3gzUDlCQWc?oc=5",
@@ -180,6 +392,34 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "家庭用",
    "company": "東急株式会社"
+  },
+  {
+   "id": "9b880a32b7466d3f",
+   "title": "ペロブスカイト太陽電池、リコーや長州産業も量産へ 政府支援受け供給加速",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iTTdxNGQxcXVZQVpub0pfV2U5ZUhJNDRZZDRKOFZ0d2VzSTZ0Z3BqRmp1MkFNUmVodU50eTdvN1BYZkdhTUV1V1l2WFhUU2dsT2RGM0xKSkhmWGR4RlcyM2VjdkpBNTEyNHlLMUF6MG8xTlRxRFR5MmNaQUY?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ペロブスカイト太陽電池、リコーや長州産業も量産へ 政府支援受け供給加速 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:42+09:00",
+   "via": "環境ビジネス",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e467557c3f83f8fc",
+   "title": "送電用ケーブル1.84トン窃盗未遂の疑いでベトナム国籍の男4人逮捕 太陽光発電所を狙う外国人トクリュウか 運搬役の男含め逮捕者計5人に 富山・小矢部市",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PT3ViT09LbTJ1NjVaNFlvOElRbEgtQ3RFdnRUdTQ5RXJpTGQ4MjFMckRKU0txNndVTFVlTkxmT2VXVzB6WFNlQTVJQ1FCbG9xVkVlNG5vSnEyOWE4NXNqQWNZMFBFcnc?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "送電用ケーブル1.84トン窃盗未遂の疑いでベトナム国籍の男4人逮捕 太陽光発電所を狙う外国人トクリュウか 運搬役の男含め逮捕者計5人に 富山・小矢部市 TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "3a068a40cccd2ede",
@@ -226,6 +466,20 @@
    "published": "2026-10-29T13:18+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "ff7ea8770e16b3ec",
+   "title": "小水力の電気で水を電気分解、グリーン水素を供給",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DMC02MWt4X0xYRHpxWjZpVVN1OWVLMEF0ODQtanprUUg4WjJ3UWs3TzhRTWQ5akhCS2V2d1paQWpkMk4xRGNjeEY2aF95elNwbnptaTRwMjhhaHFHcUZ1c0xPeXh5YzdLVmRyWU1ieVdDT2Nw?oc=5",
+   "source": "日経BP",
+   "summary": "小水力の電気で水を電気分解、グリーン水素を供給 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:14+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "bdf12a969f9f0fa7",
@@ -2761,6 +3015,20 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRmJNXzlaQm1VX1dpZF8zWHBYM2RLZjQxWjRMLVp4UC1MVGJoZXJtNXE3bEJON3d4WG1keWFmdGJZZlhRNkVCYjRlejNmLWxXSlE?oc=5",
    "source": "株探",
    "summary": "伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引 株探",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T09:33+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "79bf8b68f7c8db3c",
+   "title": "【画像】伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引◇",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQWlNQMjJQemwxbnBVc1hfMkNJRlNrNnJXTzZHYjNQdmt2T0ZiLVd6ZEppMkhDSnFXWm1yTGhYT0pSbkdheXg2OTZpeE9lZjdET1RQaGxaNm5qazlLM0tOUVZvXy1NTUN0NlJsVkgyZHZaUnduSUxkdTFWLWo?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】伊勢化は大幅続伸、政府量産支援のペロブスカイト関連が投資マネー誘引◇ ライブドアニュース",
    "categories": [
     "solar"
    ],
