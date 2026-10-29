@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T11:24+09:00",
+ "updated_at": "2026-10-29T14:17+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,111 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "67fc7b6106d5b4c9",
+   "title": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！行動変容と機器制御を組み合わせ、期間中合計７３万ｋＷｈ相当の下げＤＲ効果",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55c3ZMYmVxbnFZamFzejV2ZnZVSkdZTmpfMHpxaWZVcjZKUnpXN213MEtjZVlyQ3licW5EUXV4bDE3eG5DUFYyUXZTMkxYQzZiQ0JQOXZ4TWZtS0d1UDJUTmJEN3gzUDlCQWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！行動変容と機器制御を組み合わせ、期間中合計７３万ｋＷｈ相当の下げＤＲ効果 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-29T14:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "東急株式会社"
+  },
+  {
+   "id": "3a068a40cccd2ede",
+   "title": "太陽光＋蓄電池で自家消費率97％実現へ、自営線で拠点間融通も 豊通物流",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VSUN3U3p2eFMwdWNUUFV5eTRLbmptbERhZ0tFcHo2T0R1Q3h5c2hic0V5M3dmMjBrUTljdmpvWXl1c2RxQ0FqOFAyU1NpTU5iazJ6MDM2cnRQdC1pMVU1MVg4N29CQWZaeEU0ZlVRUHZPZ3liR2hvY2VPbkg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光＋蓄電池で自家消費率97％実現へ、自営線で拠点間融通も 豊通物流 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d8b428a1c313c2d4",
+   "title": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQTA3QnBlWTBiYmxJNzV1WS1ZSEx1R190Q1NTNS1sTUU1cDViVlFDUlA2R0RiN1ZGZENqSFV3X2ZsZ0Z6QWpCaG5xUUs5MTA0MnZTdXdkdEdzNDMzeExDenFRcGZRZGg5SzZuZnpKbW1DTmN3TV9fTUJrd3Y3cGM?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:32+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "176e698bd55be175",
+   "title": "蓄電所の点検とトラブル対応を一元管理する「BESSwatch」を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV0ZQVG11VHRhSFVxTmlZRHNUZWc1aUtSeTV4RXpZX1RDWW11eE5WbjN2U0hxRHE2LWR0T1BsSGZCLTFjcWFvN2dRMTd6ZFRCMkphbWRyTFdJbC1SOS16c0N2QlBqSGlXN1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電所の点検とトラブル対応を一元管理する「BESSwatch」を提供開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-29T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "グリッドウォッチ株式会社"
+  },
+  {
+   "id": "640e5be08be552bb",
+   "title": "不動産会社が「電気を使う側」から「つくる側」へ。UPDATER、三葉興業の営農型太陽光発電所を千葉・市原で着工",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85T1U5Ml9FdG0xN09tZkpHcGJ5cHg2OEx6dUcyYThnQzJSdEVKSzRaQklWaDNiS1JmSzllMzF3WDFZS0d4RVdnNm93OEUyQmdOLThhWW4xanY5UFpUbkdmSThWbEdxZDNHcWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "不動産会社が「電気を使う側」から「つくる側」へ。UPDATER、三葉興業の営農型太陽光発電所を千葉・市原で着工 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "営農型",
+   "company": "株式会社UPDATER"
+  },
+  {
+   "id": "5a7d2008f657b3d0",
+   "title": "ネクステージ、太陽光発電を全国18店舗に拡大…年間453トンのCO2削減へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ2x3Rnd5SERfU3VRY1FOTV9SUWxHSkJ5TWZ6aEJNTXJxQTVfc1U2NGNEczlDck9kdG9SeDAzdmNZVFExR19vR2R4MGozTU9XZEluM0ZXbEhyRGJlV1pz?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "ネクステージ、太陽光発電を全国18店舗に拡大…年間453トンのCO2削減へ レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "e3e4346b3cbb9619",
+   "title": "富士経済、ペロブスカイト太陽電池の国内市場調査結果を発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNlJjaktGbnJHN0ZfTGY2LVluVzdLUTM5RS0tSUYydm5wczlxMmQ1TmF0T19DVTNvUzlicUZIcE9wS1JvTmZ1MGpwbElPaUp3bnRKWWR3TTU5a0hWQ0VoU3U2SWtyN014UmpwbQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "富士経済、ペロブスカイト太陽電池の国内市場調査結果を発表 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:09+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
   {
    "id": "dda6cfa8a88b1537",
    "title": "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始",
@@ -379,6 +484,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "8be2c11bbe4b18ca",
+   "title": "Tensor Energy、日本ベネックスの低圧太陽光8区画でFIP運用を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12LXNoYUE1REtLUWdjSlRfV21MQXlLU3FoY3ZKai1mZ2xOSGpIZlQtZGU5TEExcTBabDltWlNXRXRiSnU3bC02ZTBuVFNRMmNzZjZMWm1OY19EQVZQdmFzbUFiNnphaGsy?oc=5",
+   "source": "Dellows News",
+   "summary": "Tensor Energy、日本ベネックスの低圧太陽光8区画でFIP運用を開始 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T20:43+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "8578878428069ac0",
    "title": "【飲食エリアのゴミ溢れをゼロへ】太陽光発電と自動圧縮で回収の手間を減らすスマートゴミ箱",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83eEtjTmlNd1RGYVNsN0Fnems1LTNBdDdlVlNKMTY3ZVBfMjVvR3BMTTVwa1BkVkxIYUNWVjA5Vk5UNXoxTWo5N01sbUNhQQ?oc=5",
@@ -405,6 +524,20 @@
    "published": "2026-10-28T20:42+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "32377fb558bbdddd",
+   "title": "Tensor Energy、福知山市土師蓄電所へシステム提供",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFMEpiOEo4elMtVU4tNndxQjhlVHZOWkFQckRSSEl5RUFPLWJIcnVtb1B1UkMxUF92SThXSHlZZWFVRkhCaHNCdjM4YkhvLUN0N2hyRS1LczJvR29mUkFCSnNmdVJreHJM?oc=5",
+   "source": "Dellows News",
+   "summary": "Tensor Energy、福知山市土師蓄電所へシステム提供 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T20:38+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "0a09e3bb1ec36759",
@@ -1714,6 +1847,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "65b81bc8eb10538b",
+   "title": "【画像】【知事政治判断】伊東市に計画のメガソーラー工事の許可取り消し認める地裁判決について控訴期限目前に県は“控訴しない”方針明らかに(静岡) - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iWi0ySUp3N1AxemFDUzd2R2RrUF9DWVdFaVJVV2I2OWJjSGRIRUxGQ1BHSDNzOHNfcTNQY2lDRW9CSXZkdU42cm0zdkVSZjNUYjl1dUQ2WmtxdzdqbTBMNi1fZlFnQjJQUVRsbXV0Zlk0b3lZbENMRnl0Y3Q?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】【知事政治判断】伊東市に計画のメガソーラー工事の許可取り消し認める地裁判決について控訴期限目前に県は“控訴しない”方針明らかに(静岡) - ライブドアニュース ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T18:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "f7bc02734e3ccd53",
    "title": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月開催へ",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YaWJZeUI1M25zYVVGbFRsTUlERmNfMmVUOTJBbU5JeFZwYnliRm5pVU5obzg4d2RmQ1pKay1pZUhEUmpCS2c?oc=5",
@@ -2348,6 +2495,22 @@
    "storage_topic": "その他"
   },
   {
+   "id": "634fac35b59021aa",
+   "title": "大栄産業と台湾TPSCが基本合意、防災向け蓄電池とペロブスカイト電池を統合",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84RXVZa3JKMzhreGFkaG4zUzlfcEp2V3h2ZldoS0ZPLWNWV3laekdJUW9xRjEtMV9NRnB0MklQczVGUmZqRHc?oc=5",
+   "source": "Dellows News",
+   "summary": "大栄産業と台湾TPSCが基本合意、防災向け蓄電池とペロブスカイト電池を統合 Dellows News",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T10:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
    "id": "7e79dd8395cf7106",
    "title": "リコー、インクジェット技術を活用したペロブスカイト太陽電池の量産に向け生産体制構築を開始",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYcVJqRm1IOEMzRTNBNnNYa3pRR3doZFRTRnFBRnN5VUJEdjBKRkRSOXplbU5VTnZQa1Nac29xcHFBX3RGWXpEMVFDWmNUNnBRMlE?oc=5",
@@ -2865,6 +3028,20 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWWlJUkFlYTFuYkZFby1ZaVozQU5fMmNNbnVqdkpqYTRBRTdBd0RlZHJieTFnZG00d1E4MTVQQ3ZqUU9POTFwT2djTW9QeGxrQU5VbXlPR1RETENfS0E?oc=5",
    "source": "ライブドアニュース",
    "summary": "大河原克行のNewsInsight 第480回 ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:16+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0e89d9486556d1e6",
+   "title": "【画像】大河原克行のNewsInsight 第480回 ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ 1/17 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSEtvbG1oSmw0MlZtVU05Q1JlRXpCSzFyXzM4QXM2WFlwTDFwLVJwdnpLNlZjYlEtS200M0FtQmg1ZlFJalpfZ01kcDlZNzZFTmthQzlOSzluejJTWmhkcHdsUHQ5MVpLQ2NldEU1NnN2eUFycG9lU2ZaME8?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "【画像】大河原克行のNewsInsight 第480回 ガラス型ペロブスカイト太陽電池の勝算は？ パナソニックが前倒しで本格量産へ 1/17 - ライブドアニュース ライブドアニュース",
    "categories": [
     "solar"
    ],
@@ -4757,6 +4934,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "e70884d0d2863f22",
+   "title": "首相は、自給自足型の屋上太陽光発電の開発に重点を置くよう指示した。",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejVnbzA0OF9zT2dMamRIT0pLVlIwbE1yS1J4UTl1X1h4ZElDbkNDME1YTzBwU0p1NmxJQUZVNlZ4MXdyQmlMT3lOLXZGZUxuVThKZnBnek9vNERVdnNqVkExdVpBR1EzRG9OOUxSdUFITVhTX1o5TEVMekozbllHVFhfdXpXQ1lHOEZ4eG1Mb3Nob3dYUWp1YlV5YUZPLUpQN3RVZkh0bXFpUXVzV0lDNg?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "首相は、自給自足型の屋上太陽光発電の開発に重点を置くよう指示した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-23T12:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "f710cd41600fbf3f",
    "title": "「国の導入目標設定が必要」日本における蓄電池事業拡大に向けた5つのポイント｜自然エネルギー財団",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9abV90eUdNWk1aSDlXbG9DWFBheUt1MTdjeVBuUUw5aGZ4NzB1RWJWbzFPeTVleGZCNUlfSnFQbl9wdTNIWExlWEtMTQ?oc=5",
@@ -5483,6 +5674,20 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SFJvSTZjbUhkdVE4Q1oyRElVb3A3MFpBbGZydmJ3TFgzVTF1ZU95eDIzQV9RWlNUZ2F0bUlRWng4S3NobmljS05iczRzRzhySHMzTTdlMGZiWEZoVlo2Z2NLLUxJQUZRN0RDUzNXc2FGUlRCZlE?oc=5",
    "source": "Vietnam.vn",
    "summary": "屋上太陽光発電の販売における「ボトルネック」が解消されるのを待っている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-22T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "31ee7121e8a8d4ae",
+   "title": "決議70-NQ/TW：屋上太陽光発電は、環境に配慮した製造業を支援する。",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2lSLUVTazByMDVwTE4yXzU0M0NOd0ZvZGtlY2U0WENEYWVVSFU5MXF6R0JkanJidnJpbzU0d0xUbG1fLS1KNk9JVmItcTNZaFozQ2ZfRGY5QTRhZDFCWjdpTXNWTFZzQzFmN250SlBUV3NmNmt6R0s4S0JTVWVSOC1RRk16cFI2VnltZ0l6UlpXTVlydGxfM3hFU01YcWdnSzFFQXZR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "決議70-NQ/TW：屋上太陽光発電は、環境に配慮した製造業を支援する。 Vietnam.vn",
    "categories": [
     "solar"
    ],
