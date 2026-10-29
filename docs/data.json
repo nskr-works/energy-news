@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T14:17+09:00",
+ "updated_at": "2026-10-29T17:23+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,121 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "326915bbbaa3e766",
+   "title": "「営農型太陽光発電」実証、野村不動産が生かす物流施設開発のノウハウ",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tbjk2eXp4V0VrOW9tblhSajkwcWpjQzJibDE4SFU4Wm9PMGplYm1SWVhoSUd2c3pfNFRkN3JQUk54QQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "「営農型太陽光発電」実証、野村不動産が生かす物流施設開発のノウハウ ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "9e9f236bad873acf",
+   "title": "隣接事業所の太陽光から受電 ＮＴＮ岡山が脱炭素で来春開始へ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5td25GMk5vSE5JZTY4Yl9tcWltTHJVQkxTZGViSFZ1YTFjUjZoSUpGaDVOZk5HZi1xQ1ZvdVQzVGo4NElBekZpYTlzTDhhMV9MSlE?oc=5",
+   "source": "山陽新聞",
+   "summary": "隣接事業所の太陽光から受電 ＮＴＮ岡山が脱炭素で来春開始へ 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "a4f923f6e36cfb13",
+   "title": "【受賞者決定！】ソーラーウィーク2026 30件を超える応募から13件が受賞！",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yZWlmcnc0WEI3anFLcWUwczh2ZFl1SDB3X05PWFo3UDJ2VUF5c3RQRXFQVVg2OERhV3Fwb1ZrMEoxaXNWMFBqZFR0SQ?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "【受賞者決定！】ソーラーウィーク2026 30件を超える応募から13件が受賞！ ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d891157dc9871c17",
+   "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認：太陽光 - スマートジャパン",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93YU5pS0M0Z0RHS01oX05YZkRhVGxRbVNCMlh3THZMZm9nOUFnckxGSlFPUEdMb1U5LU1NcWZRaHZpR1A5RlFsOVJMTWNBZ3p5QTJsd3E4YllZcmpSWmZaZ0hTM0FlOVZjdU5obW5PdEhSLVNN?oc=5",
+   "source": "ITmedia",
+   "summary": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認：太陽光 - スマートジャパン ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "22af10683ebaeebe",
+   "title": "NextDrive、東京都アグリゲーションビジネス実装事業のDRプログラム対応機器にテスラ Powerwall 3を追加",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jQ0RqVWtDWFVPcktFY2RwQ3A2OTV4RUd3WE16MzBUdkJyN1VxM0h5Z05DLXdoWEE0V0lUQm5hVU14NEhlVDR6TEFMMWIxNm9VU0hTbE5ESmhkZzJXT2dIZVM5Tl9OZTE4Smc?oc=5",
+   "source": "PR TIMES",
+   "summary": "NextDrive、東京都アグリゲーションビジネス実装事業のDRプログラム対応機器にテスラ Powerwall 3を追加 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-29T15:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "NextDrive株式会社"
+  },
+  {
+   "id": "4e916027dedf0cae",
+   "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
+   "source": "スマートジャパン",
+   "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T15:00+09:00",
+   "via": "スマートジャパン",
+   "topic": "その他"
+  },
+  {
+   "id": "dc405f58f6530c67",
+   "title": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！ 行動変容と機器制御を組み合わせ",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEczTGRQV1dPVlNGMjBKU2ZIZnA2SW1PWWVCakw0dkNDci1JajBqTktFNDJUaDMwM3ZaZzA1V0FyQk1CV3pLUWpDc01ibDU1WEJaTXhWbFJzLUZvREJXMk1WVThqeHBfSU9nb0Y4WDhoLU9rakFmMWQxRV9OVG9Yd2Fsb0k0NmZxWjNleFZBT24?oc=5",
+   "source": "PR TIMES",
+   "summary": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！ 行動変容と機器制御を組み合わせ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-29T14:40+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": ""
+  },
+  {
+   "id": "acf2688d6e1e70c5",
+   "title": "神奈川県の企業立地支援事業にPXPの次世代型太陽電池工場が認定 | 株式会社PXPのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6VlBDODlfZHBpTDhSRVZoSTN3WHI2Q2gxc3lHS04tZy1vNmNuT3FaMUJldmpxUHFqT29rZDBsSHFVbzdwQUpoY3RNbWFENTNXUTdQMGgwNmV1XzR0a1VscTk0dlU1by1kRkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "神奈川県の企業立地支援事業にPXPの次世代型太陽電池工場が認定 | 株式会社PXPのプレスリリース PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T14:35+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": "株式会社PXP"
+  },
   {
    "id": "67fc7b6106d5b4c9",
    "title": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！行動変容と機器制御を組み合わせ、期間中合計７３万ｋＷｈ相当の下げＤＲ効果",
@@ -67,6 +182,34 @@
    "storage_topic": "その他"
   },
   {
+   "id": "363493d816bd9168",
+   "title": "経産省、リコーと長州産業のペロブスカイト量産を支援",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53Z1h0c05xSHRGUnpHbl8xQzE3eXlxMElEcFJDNEJQQ1ZGYnhSaDdHX3BYNGJ5emlCOFZpWE1KT3djSmNkZTkzMVZSLWxXVW5RZlBRUXZpRGRPaEhyN1VrVXRPanN1Si1tUnQ0OWxUY2o3YV9C?oc=5",
+   "source": "日経BP",
+   "summary": "経産省、リコーと長州産業のペロブスカイト量産を支援 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:18+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "bdf12a969f9f0fa7",
+   "title": "ヘキサと中電ミライズ、オフサイトPPAで20MW開発",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UQ0FUYzVFSUZUZWxTV2FQcWlnOFNISE5IN1VqLXlxVFpyTzhuQ2gwQmEzNVJJTTQ2ZHRjYzg4cXpiMHB2ZUNEVFBXT0VwY1NWYlcweTgwRzF2UHZkTGx1b2V6VktYOTJuX19Db2FfVGdlRjFS?oc=5",
+   "source": "日経BP",
+   "summary": "ヘキサと中電ミライズ、オフサイトPPAで20MW開発 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T13:11+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "176e698bd55be175",
    "title": "蓄電所の点検とトラブル対応を一元管理する「BESSwatch」を提供開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV0ZQVG11VHRhSFVxTmlZRHNUZWc1aUtSeTV4RXpZX1RDWW11eE5WbjN2U0hxRHE2LWR0T1BsSGZCLTFjcWFvN2dRMTd6ZFRCMkphbWRyTFdJbC1SOS16c0N2QlBqSGlXN1E?oc=5",
@@ -102,6 +245,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ2x3Rnd5SERfU3VRY1FOTV9SUWxHSkJ5TWZ6aEJNTXJxQTVfc1U2NGNEczlDck9kdG9SeDAzdmNZVFExR19vR2R4MGozTU9XZEluM0ZXbEhyRGJlV1pz?oc=5",
    "source": "レスポンス（Response.jp）",
    "summary": "ネクステージ、太陽光発電を全国18店舗に拡大…年間453トンのCO2削減へ レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T12:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "07e1aea35fcd7da9",
+   "title": "ネクステージ、太陽光発電を全国18店舗に拡大…年間453トンのCO2削減へ 1枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVNsbGk3MVhpTFBMTVpnVEVBMEFRWGRISEltcnhxd2V2NklzcFg0RmEzckJFWVJQNFc2b1NfTzNzMkRTaFhKckRnbHNpcDVPZnVUakpoZ2lQQWZ0X1FpOHRzbUJNaGRLNzAyMjV6NG43cTNlbUdXb1BaMW5XY0VSWFBZek9KNllNdDE4aHhUNEY?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "ネクステージ、太陽光発電を全国18店舗に拡大…年間453トンのCO2削減へ 1枚目の写真・画像 レスポンス（Response.jp）",
    "categories": [
     "solar"
    ],
@@ -153,6 +310,20 @@
    "via": "PR TIMES（蓄電池）",
    "topic": "その他",
    "company": "東京ガス株式会社"
+  },
+  {
+   "id": "11e1aceb96ba499b",
+   "title": "米国の屋上太陽光発電の買い控えが急凍、Enphaseは業績見通しを2.4億ドルに下方修正、株価16%急落",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZk9DM0NjOGpCSUFiQS1Ia1cxQXAxWl9oTE1EN21iRjd2bHUydHExTElwSXZwX1o0eS1RbFdfSnN3TmR3SXpaaHVrRkxDV2RtRWdFamNqVDRkcjEyWklYczlnMjNvYTBmcjdxTnlqVEdzRng1?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "米国の屋上太陽光発電の買い控えが急凍、Enphaseは業績見通しを2.4億ドルに下方修正、株価16%急落 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
   },
   {
    "id": "ab3fba6cd9c562d0",
@@ -412,6 +583,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他",
    "storage_topic": "その他"
+  },
+  {
+   "id": "ae0a113242905058",
+   "title": "CPP Wind Engineering、ユーティリティ規模太陽光発電向け風認証プログラムを開始",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbk55OEFNNTB0V1piQTVEdnJPR3lJMFAyMG12cmZEYlFnZzgxTDFBa2doazVubkJ0Y1A5S3RianhwNjk3UUU5UWczNFF4azhnM3RMcUVHVFIzdWctSkJlNGNLNTd4aWJFQVNHdWU3LWFxNkZQYTlYS05tczdZdXk0MHc0eEUwWlVaWDBuZloySHZ5ZFBueVBVb2h3TjZvOUY0VS1GcTNTS3hCVFRLV1QxNm9HYw?oc=5",
+   "source": "IndexBox",
+   "summary": "CPP Wind Engineering、ユーティリティ規模太陽光発電向け風認証プログラムを開始 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T02:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "1edcced998f67fb5",
