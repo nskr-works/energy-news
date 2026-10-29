@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:16+09:00",
+ "updated_at": "2026-10-29T11:24+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,207 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "dda6cfa8a88b1537",
+   "title": "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZSHpLSVRmRkpLY3J3aTFnaE1hbFo2OG9FRUJYY3NkUmVMdHVYQ2g4dE16LXYxNWdmTXM2b1lNT2ZMdWMtYUJnQzNady1HQQ?oc=5",
+   "source": "アットプレス",
+   "summary": "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:15+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "発電所・開発",
+   "company": "安藤ハザマ"
+  },
+  {
+   "id": "1ed9e72cdb56a5a4",
+   "title": "エネグローバルとの共同出資SPCを設立し、高圧太陽光発電事業を本格始動",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTEVNSWttWGJGOFo1YV92NGZ5aDBTTjRHWC1NWjVKcV9IdTRtS003VUM4bWwyM3p1QWZEX3VnekVMUmdBYmFuX01oY2lHQkFKNmRCRkcwMUVTYjVKcU9QYWtoSmNoLWtiTWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エネグローバルとの共同出資SPCを設立し、高圧太陽光発電事業を本格始動 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "その他",
+   "company": "東京ガス株式会社"
+  },
+  {
+   "id": "ab3fba6cd9c562d0",
+   "title": "グリーンエナ---反発、系統用蓄電所システムの工事受注を発表 執筆",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xQU16MEREdnlFTldmTDZOeUVFaV9ZVXB4LVhsLWZPcGhwWE5DcjVDcHFlajRrSGJxcDJZdXFyckFTRFAxY0dlM3lrM09CeWxDVVlRV2c5aDBwcjRWbWp5c01XUV9pdlJWaXhaaVBBdUg?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "グリーンエナ---反発、系統用蓄電所システムの工事受注を発表 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:22+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1dc3119ecf18ab25",
+   "title": "グリーンエナ---反発、系統用蓄電所システムの工事受注を発表(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2M1a3l3eERhbnVBZDVwU3J2cmZxc3ZjaS13UU1DRU5TbElUT01UWW54bmVxcEs3RUxib0FFaXNJaTFZa2dHTldpSS1OU1ExWlNMSncydkk3ZEdkMXdrNGZOX09FNzBEb1F5cTV4V2RRMmtlMWVfaTMwVkJWanQtZFc5Y0gtaVE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "グリーンエナ---反発、系統用蓄電所システムの工事受注を発表(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:22+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9456d6cf4c6cb853",
+   "title": "【新興市場スナップショット】グリーンエナ—反発、系統用蓄電所システムの工事受注を発表",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BdWRWcFltbjFYYnpnbEtEWmtMLWNlOHc4SGdUckh2OHNUbEpYZXZ4YWdCcWE3WFlCbENPUjV6WjA1S0p0eFVJ?oc=5",
+   "source": "マネーポストWEB",
+   "summary": "【新興市場スナップショット】グリーンエナ—反発、系統用蓄電所システムの工事受注を発表 マネーポストWEB",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:22+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "716e02281624b1ff",
+   "title": "スマートエナジー、太陽光O&Mの技術者育成を強化",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZzJ1MUg2aG1idl8tQV9PWWN3Mnh0bDYzdW8yaGtoVy1kOGNrd2p4SVhnVnc4QXQydVc5Rkl3QnBZeDN5VWtzaFBJRmNpNjF4NHZrelBrbWdhNkpIMkxIbFlYZUlhV2Fwc1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "スマートエナジー、太陽光O&Mの技術者育成を強化 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社スマートエナジー",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "d6e0718ecf330add",
+   "title": "コルコート、CO2排出量削減に向けた取組みを加速 埼玉第一工場への太陽光発電設備導入と 本社使用電力の再生可能エネルギー化を実施",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3LUlmbXRLcEJUZ1NwSjNvTHphZGtBck5sT09lbEhJb1g5MVo3T2NWcnNxSEZqdllFbGhDejJMekd5bnlCdFBkOWNScXhDQQ?oc=5",
+   "source": "アットプレス",
+   "summary": "コルコート、CO2排出量削減に向けた取組みを加速 埼玉第一工場への太陽光発電設備導入と 本社使用電力の再生可能エネルギー化を実施 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T10:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "住宅・自家消費",
+   "company": "コルコート株式会社"
+  },
+  {
+   "id": "d0a135fee155af39",
+   "title": "パナソニックHD、ペロブスカイト太陽電池を29年量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VcThQRms3dnVEV1hpZUx4Q0NRNlVOSHNJT1JPWlJCMXJ1NzFCMExCOFFaaUkyTEJ0RVozOXJqUzg1RDk0MjZQX0NhbVNyZXZTMUE?oc=5",
+   "source": "新建ハウジング",
+   "summary": "パナソニックHD、ペロブスカイト太陽電池を29年量産へ 新建ハウジング",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T09:48+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a958a2b90cf17314",
+   "title": "英国の太陽光・陸上風力発電事業への共同投資について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSTZqYndoampfS3FEbDR5clBrb0dod1dmTEFtRzZGb1E3MkFxSnMzTnpwdFcwc0dEdExpbEFuT0VjYVFEMVNJV3J0VXl4b3RodkVrbUs4eW5FbWdiaEpMaUdMMFJaSmk2M0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "英国の太陽光・陸上風力発電事業への共同投資について PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T09:35+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "市場・企業",
+   "company": "東京センチュリー株式会社"
+  },
+  {
+   "id": "df73f03878c90d44",
+   "title": "【日本】サントリーHDとPXP、次世代太陽電池搭載自販機で年間電力45%自給可能と実証 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzItMjNzZ2NYR1QzYzNfTE1INHAzTzJ6Q2U0YzBuTGxpQ1huWGZ6NjU1Y25lNlNYWkpFWlppRDdtNHFodVVSZXA1NHliQi14MHVmanIzUE1QaE5rU01lU0d5aHlUQTNkNzNRTVBzTklMV2x6RzA1UnJCeWd3NTdEUXlB0gGCAUFVX3lxTE1vMi0yM3NnY1hHVDNjM19MTUg0cDNPMnpDZTRjMG5MbGlDWG5YZno2NTVjbmU2U1haSkVaWmlEN200cWh1VVJlcDU0eWJCLXgwdWZqcjNQTVBoTmtTTWVTR3loeVRBM2Q3M1FNUHNOSUxXbHpHMDVSckJ5Z3c1N0RReUE?oc=5",
+   "source": "Sustainable Japan",
+   "summary": "【日本】サントリーHDとPXP、次世代太陽電池搭載自販機で年間電力45%自給可能と実証 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs Sustainable Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2e96955e42196278",
+   "title": "Daigasエナジー、SANKYOと「D-Solar」契約を締結 群馬県の工場に太陽光パネルを設置しCO2削減へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42VU5kdTlZeWVoTjhERThpSzhoMXk1ZFVGX2RMYjRONGZzNVdQd3VfT0FjdVdBdElEMndnaGV0OC1BVVZyVWdDR29Nc0tvQ1QyVEUxYw?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "summary": "Daigasエナジー、SANKYOと「D-Solar」契約を締結 群馬県の工場に太陽光パネルを設置しCO2削減へ LIGARE（リガーレ）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "28d17e8665addf55",
+   "title": "県控訴せず、判決確定 伊東市メガソーラー許可取り消し",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tZmk0ZjhXODJDTDFfRU1LODRxaGdrd2xZRWYtS0QwV1NreWx6ZF9ROVZsb2dGY25JUVQzQXhQYjVMdHc2bkt3NGFneTJtT2tjdHpn?oc=5",
+   "source": "東京新聞",
+   "summary": "県控訴せず、判決確定 伊東市メガソーラー許可取り消し 東京新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T08:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "28876fa40ea34b52",
+   "title": "リコー、インクジェット技術活用のペロブスカイト太陽電池量産へ：工場ニュース",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ScFRYZ1Buei1RLW1PQnBLTVV6a1pRTjhWeUw4TTFrdHVxNE1HRUc5NWxlUnp4VGVCNnZjc3NDR3NWMzgxWGtQRzVwVkIweUxDdGpWMkZPd1lYa2VncjVzNFN6a0trY28zV2ZiNDZIRQ?oc=5",
+   "source": "MONOist",
+   "summary": "リコー、インクジェット技術活用のペロブスカイト太陽電池量産へ：工場ニュース MONOist",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T07:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "82f4c3ec768e286b",
+   "title": "日本のペロブスカイト市場の成長要因",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNdElITTlnMUJKczN0WGlEVHBPV1JEckwzZHluVWw0ZWczcFBkMWEyQUdOb2twdVQ1QlYyVnZaX2hNeWt2amhRNVlB?oc=5",
+   "source": "pando.life",
+   "summary": "日本のペロブスカイト市場の成長要因 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T06:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
   {
    "id": "fe1918f7bf09131f",
    "title": "リコー、厚木に新棟 生産能力拡大でペロブスカイト部品も、２８年度完成へ",
@@ -62,6 +263,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "storage_topic": "その他"
+  },
+  {
+   "id": "7610003d90dee64d",
+   "title": "物流施設が地域のGX拠点に、プロロジスの新エネ戦略",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DZE9MQ3NNXzFJRk9qZDU1ZVdUY2ZxOVFmc2h0MFJXQm80SGx0TEpzb183TTRlc3hVNTVnMFlITDJ5V05CT3k3MllyX0ZyYVdBWkRrazFvd3JSSVM3Y3E5dEMxeWg5Sy1OSjlCbTYtTmlKeUU0OUtPNA?oc=5",
+   "source": "日経BP",
+   "summary": "物流施設が地域のGX拠点に、プロロジスの新エネ戦略 - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "323cded4227156ec",
@@ -192,6 +407,20 @@
    "topic": "その他"
   },
   {
+   "id": "0a09e3bb1ec36759",
+   "title": "太陽光発電ドローン市場、2035年に1億6,000万米ドル規模へ - MarketsandMarketsによる独占レポート",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY19yYk5sM2M5ZjNzeVNBdklwbGtsY044WnRhNnBGZjVtbXVab1FOUmd3X3dwc2d3ZG9nMnJPczhLTXV1UUpZWUtFRVpNVFFaMHlfN3JCQkQxbVZYMGNQNDcxdG5JQlh6TlI0MUFMaTlDRkJPYk02c0VxS3I4Mk10Z3E3MW9xSjVJZUd2QzFtWlRwOENFUmRrNmtURl90NEpub1E?oc=5",
+   "source": "Moomoo",
+   "summary": "太陽光発電ドローン市場、2035年に1億6,000万米ドル規模へ - MarketsandMarketsによる独占レポート Moomoo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T19:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "39d90cdf8f14f197",
    "title": "VinEnergo社は、屋上太陽光発電システムと蓄電池を組み合わせたシステムを運用している。",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzNtaVhNM18ydmU4eWtRdDZzV0hRZm5BanA2QXBsMDh4NGhVdkVXVmxReEo4Rm9LQWZKejNLVFk1Z2VQZ2VCck1hVU5kemd1ZkNfZWVRdzZJOU8yby1RN0VIZkM1YS1GTnkzODNOQ1hQU0tvTTA2aW5vZGNVV1FmY21kSmkybGtmcnFQd1ZDYjQ4ODZGa19BUVJzZw?oc=5",
@@ -239,6 +468,20 @@
    "company": "DJI JAPAN 株式会社"
   },
   {
+   "id": "377f4e6e6ba33f07",
+   "title": "太陽光発電など活用 ドローンでインフラ点検目指す 福井",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YQ2E4NF95QVNMbWZOeWJLcmZ2ejNvVnJhcDRFR1V1TjkyUlVCQno2RS02RWV3ZDF6UzdGbzhHd1Bla2RiZk9UU0pJMGR5bGNCMEFZS3FNTDhKclA3bnM4?oc=5",
+   "source": "NHKニュース",
+   "summary": "太陽光発電など活用 ドローンでインフラ点検目指す 福井 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T18:12+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
    "id": "1a1a2272bd5cfc99",
    "title": "系統用蓄電池、1件あたりの規模は拡大か縮小か――「二極化」する市場の実態を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000080.000181124.html",
@@ -265,6 +508,22 @@
    "type": "news",
    "published": "2026-10-28T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "19f0a9c46ecba86c",
+   "title": "セキスイハイム、太陽光・蓄電池を最適化するGX住宅を発売",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jaThQZFZPTDg1TE9kb0d2UTIxUTJFQk0xWjNjU28ybVBUSWpETTJFbXRIWDBYeXJ0aXdadk5nTmh1cUo0V01IYTVKSzVSci1NQkE?oc=5",
+   "source": "新建ハウジング",
+   "summary": "セキスイハイム、太陽光・蓄電池を最適化するGX住宅を発売 新建ハウジング",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T17:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
    "storage_topic": "その他"
   },
   {
@@ -680,6 +939,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "fef7d1a9204d9466",
+   "title": "GCL製ペロブスカイト太陽電池モジュールの量産出荷を開始 企業リリース",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HdjBUcVk0bXpCNENSbFNoc2VWQmdWeDZEeHdlMkxENTlGYVNabzY1djdxaC01QTVqYUkxYmFEMXBqcHZDY0ZxTm9ROXRMRndPVWg0V3hDbXk?oc=5",
+   "source": "日刊工業新聞",
+   "summary": "GCL製ペロブスカイト太陽電池モジュールの量産出荷を開始 企業リリース 日刊工業新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T11:53+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "54afbf31468b0664",
    "title": "データセンター、太陽光、そして送電網：キー・ミンはマレーシアの次の投資サイクルに接続されている",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckZWck9zaEpaMXNqT2c1YjluQ3lVSTVYU2FORmxsamdTWW91SE1ZSkVRQmg1ZHNtSmxmZnMwUU1QVWdfWmM2bDc1b0E2U3V6TmNKTkNtbjhzX1RIWFBmNUtMY1Fuc05fOXZWelNTV3ZUUWRBYkc1NjVJWnQ1UnFNX1RBZFRPNE16M1lEdk1jdHlweHJtZnFuaXBRWkpLVW9xVnVOVHNkQ1drQQ?oc=5",
@@ -1006,6 +1279,20 @@
    "storage_topic": "家庭用"
   },
   {
+   "id": "0617a39a6c6293f3",
+   "title": "【太陽光発電】サンクゼール：長野工場に73.8kWのオンサイトPPA導入、年間8.8万kWhの再エネを地産地消―使用電力の13％を自家消費",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTRHlEb2pkcWFYQmlTeHBVY25tczR3RTR0ZTRrWHZPRUpMUXh1R0wtUUpJVVAtNkJUM0J2VFdXMU9NcFB3aHVHeS1jdE9jdGwyRTdyaTVIMmRpV3BLTGcxWU4tUlhpX0M0UEdZalNkNThndw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】サンクゼール：長野工場に73.8kWのオンサイトPPA導入、年間8.8万kWhの再エネを地産地消―使用電力の13％を自家消費 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T07:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "eecd8faec209c1ed",
    "title": "【蓄電関連】日本気象協会・Recharge Power：電力取引価格予測で蓄電池運用を高度化、スポット・需給調整市場の予測データを活用し収益性向上へ",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdzAtaW1wNTlvRUh1bGlKelRYYUlhWE50d1pxZjJ3U3RERHFwTENVSVd6VC1ZbDNxYVZfdWZydU5jeW5qdWlMbUt3OFMtaF90QU5ZLXhWd05hVkhnODUyaW5BMjNMdjZWWkEyX1ViSkkxZw?oc=5",
@@ -1104,6 +1391,20 @@
    "topic": "その他"
   },
   {
+   "id": "e0bc742ca1eb2885",
+   "title": "アルジェリア最大の太陽光発電所：300MWエル・ウェド・フッリアが稼働開始 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3BKS2RwYWdXNS1Hc1U2UnFHWmxNV1hxQkJ4cWNMRVRzanZXZktBNnRPZkdEZzFzanFzSjFCb3FNMUZLbi1RM1hZTmU4Z2xySUt4ZmZUM0hzcWZDbVRXOEVtNEwzVDNVQy16N0ZwRTNBYlczSjhBRVhjZnl5eXVpa2FLY3A4Zlh3cGdINDByRHM?oc=5",
+   "source": "IndexBox",
+   "summary": "アルジェリア最大の太陽光発電所：300MWエル・ウェド・フッリアが稼働開始 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T01:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "9810c88ef61edfc7",
    "title": "産業高度化に太陽光発電の拡大を、ＡＭＲＯ",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wdWpnVjU0U0tyMDUyQnZfRm1jVDNURF9OVFZNallwMTZQSkR3UXFGek04WlExaGhRbEowSDg5dUt5d1JDZEE?oc=5",
@@ -1200,6 +1501,20 @@
    "published": "2026-10-27T20:30+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "cf2c0a4ba548933d",
+   "title": "KIERの触媒プロセス、ペロブスカイト太陽電池の安定性と寿命を向上 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVNReEd4ZlViLXBjQlQzblRXWWpna0locGpYZ2VHYzVwWnI1cDViU2tTZ0E4Y0s3bUJmY3l2TzFHNG9LNEpFVTBhR1lXTnNUbnpJeGhWM1hvdG50cnNXRUI1bW1iWE55d2NTeTVnZ1h6b1FJenVpbGhKUTYybXpoU05YRE1LWFhaTmhJdWNFX3lPQmU4ZlJNbVBhN0xzYXBaQmg1dk9FOGpGQjBPUllGWUZ1VkNqUkt2aG9LY1JmWFprSUk3eUVOamdKYw?oc=5",
+   "source": "IndexBox",
+   "summary": "KIERの触媒プロセス、ペロブスカイト太陽電池の安定性と寿命を向上 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T20:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "1c4d20e80ff90927",
@@ -1513,6 +1828,20 @@
    "topic": "政策・制度",
    "storage_topic": "その他",
    "company": "株式会社サンヴィレッジ"
+  },
+  {
+   "id": "eba7bc7c99122157",
+   "title": "改正電気事業法が成立｜メガソーラー規制・原発建て替え・電気代への影響をわかりやすく解説",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16V2VYNlF5WkF5XzNLZkJVajktWjMydVBLclozaW5hZUNibDBRcXdqbGl0YzhIdlkxUnlRd3FZaE1lTW1ha2RiWG1OZjU0TlVJUEVfS2hTMkNVS1hiRmprVDdtNmtNWVdUUDVzMFVzNEltcjk2bHdGRg?oc=5",
+   "source": "セレクトラ",
+   "summary": "改正電気事業法が成立｜メガソーラー規制・原発建て替え・電気代への影響をわかりやすく解説 セレクトラ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
   },
   {
    "id": "4a869ac336fb0470",
@@ -3005,6 +3334,20 @@
    "company": "積水化学工業株式会社"
   },
   {
+   "id": "7a38dcc17061507c",
+   "title": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Nnl4RWdxcldhT3dVTkNzM1VsdG5fSk9jMW9wSzhWWmx6UVV6V0lpdjhSZlpwTUhEdEU1Q1A0X1dPLXFJbUFxR21LTHJRSEpPSkMzVUpWcHBsRzBOTVdJUmRXM2tHZy05YkY1MFRPOFMtUQ?oc=5",
+   "source": "Infoseek",
+   "summary": "株式会社SANKYOと太陽光発電サービス「D-Solar」契約を締結｜Infoseekニュース Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T10:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "e65d35bb3d8d1f92",
    "title": "米倉山太陽光発電所でクマの目撃情報",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtRzZEZk5la0NVTTFmcllxWmtGTmcwcGJ1bjhyal9xcGhCYWdGSHRTRDN3SGJGSGlIR0hYZmJaUlZYRGI0NE5JdS1Rc1FNdkZ4Z0ZXTTVXNUlkT1AxNWFUM1VXblZDYzU4UG1HZzVBcWR2aDE0?oc=5",
@@ -3281,6 +3624,20 @@
    "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
    "topic": "その他",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c565aa8f15f02b2e",
+   "title": "太陽光発電の電動冷蔵ユニット、初の顧客に納入",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeldjR052MkFndFlseXBDcmtvN3dCR2E4R0laSnpXc0ZZSVJjSFFfRXpjeThfMXZVRU1mTXlWdVYyNDBrZ3BVTFIxVTh0VVNFMmhVZ1VkZWx4OTVEdFhsMnVjWG9JY1pqZkFra2ZRSVJQNHlDUWhjR2JSZmdzVDFnMm5LWVhSSVZaQnFscFZFcVdpUzV4R2h2Sm01NFR1UmVm?oc=5",
+   "source": "Mezha.net",
+   "summary": "太陽光発電の電動冷蔵ユニット、初の顧客に納入 Mezha.net",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-25T19:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "b4456ee71369cdae",
@@ -3568,6 +3925,20 @@
    "published": "2026-10-24T11:50+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "ec2a73b1f8c0c390",
+   "title": "千葉で系統蓄電池/イーレックス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iSUd3T1lQTmgydktfalNXR0UwdkpOR01tcEJtMGxfNEtJNE1LcmY2Nm5iMkE2YVpaVDB5cnlGQzdFRTI0alFPMllpNzVSQkc1RXp4X2F1Nl8?oc=5",
+   "source": "ガスエネルギー新聞",
+   "summary": "千葉で系統蓄電池/イーレックス ガスエネルギー新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-24T11:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "008cdc1777c9f10a",
