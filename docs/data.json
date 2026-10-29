@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T17:23+09:00",
+ "updated_at": "2026-10-29T18:25+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "b314f4d023261bf6",
+   "title": "日本トムソン株式会社 ベトナム工場での二国間クレジット制度を活用したオンサイト型太陽光レンタルサービスを導入！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000018.000130525.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[日本トムソン株式会社] 日本トムソン株式会社（代表取締役社長ＣＥＯ：細野 幹人）は、海外生産拠点であるベトナムのIKO THOMPSON VIETNAM CO.,LTD.（以下、ＩＴＶ）において、関西電力株式会社のベトナム現地法人であるKansai Energy ...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T17:50+09:00",
+   "company": "日本トムソン株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "政策・制度"
+  },
   {
    "id": "326915bbbaa3e766",
    "title": "「営農型太陽光発電」実証、野村不動産が生かす物流施設開発のノウハウ",
