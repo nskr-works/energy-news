@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:16+09:00",
+ "updated_at": "2026-10-30T11:22+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,50 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "10901e27f5a92638",
+   "title": "Sustechがアグリゲーターを担う、安藤ハザマ保有最大規模の太陽光発電所が北海道美唄市で運転開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xQ3FwdldHaVFSUHhWbHVIeE5vUmlsMWlqSDAwOG04elBkdVBVWnJWbzE4UDY0MkdHMHliTzh5T1lRZ2FMNFZmSVNGRjZsc2ViOWNTSEJudVJHM1RXV3FJeUtueldBdWxSLUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Sustechがアグリゲーターを担う、安藤ハザマ保有最大規模の太陽光発電所が北海道美唄市で運転開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "発電所・開発",
+   "company": "株式会社Sustech"
+  },
+  {
+   "id": "69fa2f19119bdf62",
+   "title": "電気も作物も、子どもの学びも時間をかけて育てる。尾道の太陽光の会社が運営する英語教室「はら英語教室」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seVQtOVkzZ0tlOHNmRjBEUTBOM2RuUWhpOHkyRXdDOFdXdmRHZG55cUY5WFIwR010dFdua1hTT0gwYnpYR2RrSGFlcTlfOWsxSXlyVEdCaWhfOG5fMk1jME00RGJ3WDUwVUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "電気も作物も、子どもの学びも時間をかけて育てる。尾道の太陽光の会社が運営する英語教室「はら英語教室」 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "株式会社splight",
+   "topic": "その他"
+  },
+  {
+   "id": "f3c8a4503de724f6",
+   "title": "住宅への太陽光発電導入をサポートする『SOLAR JOURNAL 住宅号 2026』 発行のお知らせ",
+   "link": "https://solarjournal.jp/news/68021/",
+   "source": "SOLAR JOURNAL",
+   "summary": "高騰する電気代や災害対策、売電収益など様々な分野で注目されている家庭用太陽光発電。この度SOLAR JOURNALでは、導入を支援する政策から、注目企業の最新ソリューションをまとめた住宅号を発行する。（本誌は11/5発行のSOLAR JOURNAL 59と同梱しお送りいたします） The post 住宅への太陽光発電導入をサポートする『SOLAR JOURNAL 住宅号 2026』 発行のお知らせ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T10:00+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "e56a4bcc1c258770",
    "title": "東ガス、高圧太陽光開発に着手／東京・東北に２．５万キロワット",
@@ -46,6 +90,20 @@
    "published": "2026-10-30T05:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "b8c71c40ddd646a4",
+   "title": "北海道保有で初/太陽光発電運転/安藤ハザマ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xajhCb0hubm85aGktMXZhbjRQR0ZTYmxkMVJIcnd3ajFyVW1LUUZiS0dTUzhmX3F3RDdod1lPZHVjNXNSU1djdE5tMzZaMmNHQWRZcDRuUks?oc=5",
+   "source": "建設通信新聞Digital",
+   "summary": "北海道保有で初/太陽光発電運転/安藤ハザマ 建設通信新聞Digital",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T04:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "5c0ff701270b1bcc",
@@ -102,6 +160,20 @@
    "published": "2026-10-29T21:39+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "2bd8df4f3005b897",
+   "title": "ボツワナ水道公社、ダムでの浮体式太陽光発電プロジェクトを入札 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNi1wM01OdFpnWFc4Sy1JdWc5T1ZrM1psYWM1QlF1N2FTeTlLdGRVZFpqTW1jYzRzZGl2VE5UeEtRZjZZejdfN2hCSFZ6Slk4OGJDMWlZRkw2dE9FZzdiVHdiODNYS2ZUZ1gwa2N2UjVUQjJuM3RfNVlQWExURktnNVpDYk8xbl83REJWcmhfRkRReUpBay1mUldMSmNyN1hEWjNNNEtJa3lXRzc1R2JQbGgzQXVBT0U?oc=5",
+   "source": "IndexBox",
+   "summary": "ボツワナ水道公社、ダムでの浮体式太陽光発電プロジェクトを入札 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T21:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "484c0d8a40656922",
@@ -2135,6 +2207,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "5252f4bf806d0876",
+   "title": "リコー、インクジェット活用のペロブスカイト太陽電池 経産省「GXサプライチェーン構築支援事業」に採択 宮城・東北事業所に生産拠点",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcGVGN3NnZ2l3Nzh3NEFuVnJES0Z0dDZfRU5BWnhqMkkwZURPZVJzLWQ0WmNIRm8zdkJlRGMzdXItWUI4RldPLXdJalZJeTZzWEE?oc=5",
+   "source": "電波新聞デジタル",
+   "summary": "リコー、インクジェット活用のペロブスカイト太陽電池 経産省「GXサプライチェーン構築支援事業」に採択 宮城・東北事業所に生産拠点 電波新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T19:55+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "238775afae70b5a3",
    "title": "次世代太陽電池：都市部におけるエネルギー利用の可能性の拡大 - ベトナム国家大学ホーチミン校理学部",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV2hjVkRQei1jWmFIbFVta0xENXVtMDZyVnd0S1hXRkk2QXJ3cHRmS0tnanRHMUYxRU5iM0hPWnJtaVFxUGdrQXRLMW1ILTRCcnp1ZjF3WDN0eE9mWlNfejgxQ0ZxVjBoX2FiNTRuOVZNSkY2d2kxODBxVERQNUNxYUZaWHBaY3hEdk92TURLbmpOSks1ODNIRnZubTc2dENfdjNYQk1yNXhPOXVEdmdIQjg3cVJOTWRUMXlic2k5dDZ0ajBvTXZoaUpQeWFxUWlMYnRIM2xrM05vakt2?oc=5",
@@ -2332,6 +2418,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "a1e97284f68abe87",
+   "title": "【知事政治判断】伊東市に計画のメガソーラー工事の許可取り消し認める地裁判決について控訴期限目前に県は“控訴しない”方針明らかに(静岡)（2026年10月27日掲載）｜Daiichi-TV NEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjhLSng4a2hxY1N3bHQ0RlhVREZPU1BBRXpFTGFqUUl0bnZGX21JYnRNazdlRTRxazZUc1ZqUnVubUFqY1NEQUh2N1NfY0g5ZS1QbFc0RWN6VmNMaW83OXA1VHdTTjFMT3g2THdUVzF1TkstNk9iSEdUOU41bGlaYVpnZDVYcVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "【知事政治判断】伊東市に計画のメガソーラー工事の許可取り消し認める地裁判決について控訴期限目前に県は“控訴しない”方針明らかに(静岡)（2026年10月27日掲載）｜Daiichi-TV NEWS NNN 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T18:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "f7bc02734e3ccd53",
    "title": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月開催へ",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YaWJZeUI1M25zYVVGbFRsTUlERmNfMmVUOTJBbU5JeFZwYnliRm5pVU5obzg4d2RmQ1pKay1pZUhEUmpCS2c?oc=5",
@@ -2460,6 +2560,20 @@
    "published": "2026-10-27T16:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "bb85acde6b5c9205",
+   "title": "Bluefield Energy、系統用蓄電所の電力契約手続き支援を開始 グループ連携で運転開始までの手続きを一元化",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzZHNXWTltY1FVaHM0UnVXMTUtSl9ldWg5SlI1bk5ZTXJRZG5zNFlzVW9XMDluTzB6a3hnNFpoSDNQQmFvOEhF?oc=5",
+   "source": "新電力ネット",
+   "summary": "Bluefield Energy、系統用蓄電所の電力契約手続き支援を開始 グループ連携で運転開始までの手続きを一元化 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "4a869ac336fb0470",
