@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T15:16+09:00",
+ "updated_at": "2026-10-30T16:38+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "abcf0b741dcb9595",
+   "title": "TAOKE ENERGY、愛知県南知多町の2MW系統用蓄電所が系統連系を完了",
+   "link": "https://prtimes.jp/main/html/rd/p/000000047.000103834.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[TAOKE ENERGY株式会社] TAOKE ENERGY株式会社（本社：東京都港区、以下「TAOKE ENERGY」）は、愛知県南知多町において開発を手掛けた出力2MWの系統用蓄電所が、2026年10月30日に系統連系を完了したことをお知らせいたします。 今回...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T16:06+09:00",
+   "company": "TAOKE ENERGY株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "高圧（特高含む）"
+  },
   {
    "id": "42bce682e3c1561f",
    "title": "蓄電池を活用した新たな系統接続・設備形成手法の実現に向けた基本合意書の締結について",
@@ -139,6 +155,22 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "334893ec0a031158",
+   "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000343.000098598.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[COSMO] コスモエネルギーホールディングス株式会社（代表取締役社長：山田 茂）のグループ会社であるコスモエコパワー株式会社（代表取締役社長：野倉 史章、以下「コスモエコパワー」）と、株式会社アスソラ（代表取締...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:00+09:00",
+   "company": "COSMO",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "住宅・自家消費"
   },
   {
    "id": "1bf2f37ca0014f3c",
