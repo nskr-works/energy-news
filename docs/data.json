@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T14:18+09:00",
+ "updated_at": "2026-10-30T15:16+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -47,6 +47,22 @@
    "published": "2026-10-30T13:46+09:00",
    "via": "環境ビジネス",
    "storage_topic": "その他"
+  },
+  {
+   "id": "6628a922ef670261",
+   "title": "GoodWe Japan、デジタルグリッドのEMSとの遠隔出力制御試験で全項目の基準を満たすことを確認",
+   "link": "https://prtimes.jp/main/html/rd/p/000000026.000167163.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GoodWe Japan株式会社] GoodWe Japan株式会社（本社：東京都中央区、以下「GoodWe」）は、デジタルグリッド株式会社（以下「デジタルグリッド」）が提供する低圧蓄電所向けEMSと、GoodWeの低圧系統用蓄電池システム「ESAシリーズ」との...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:41+09:00",
+   "company": "GoodWe Japan株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "低圧"
   },
   {
    "id": "f5c4dc2eb9512eb4",
