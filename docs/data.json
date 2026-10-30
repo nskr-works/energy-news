@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T11:22+09:00",
+ "updated_at": "2026-10-30T14:18+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,295 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "42bce682e3c1561f",
+   "title": "蓄電池を活用した新たな系統接続・設備形成手法の実現に向けた基本合意書の締結について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14eFVjdWxvb2lIM1ZSbmlyeDBiWWE5S0NISHd0NzJSU3hMWjk4WDFfT3ltOFVBZWdod2ExY1BScGxEX1AzdEZNbm9ybnp2UDRla2dPUjJGS0JNSnAwajZXaVRxd3V5eGFFNXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電池を活用した新たな系統接続・設備形成手法の実現に向けた基本合意書の締結について PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T14:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "b219cbdd183ae6e0",
+   "title": "AIサーバー向け蓄電電源、2031年に市場3.4倍に 富士経済が予測",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Bci1VLWdPYjJqaUZVRHJFS1EtbzJINnF3bVlpcm5QOFloYzRrVDI4RnhsOFYtc3FUTEg4ckhIcUlTb2ppcmpJWWJqbFgyLTRZRzBWOUxtbHdjV2ZYRFdvUzVZWXZBLXBfLW5TaHI4dU14aU95SUJCZnRNbUk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "AIサーバー向け蓄電電源、2031年に市場3.4倍に 富士経済が予測 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T13:46+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f5c4dc2eb9512eb4",
+   "title": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUZQLTZlUzJVV2szM0lPaERDQTZBTnlWYTlDNGpzTmpTMmJSOVpMVzdRbnRhSy1iNnpndFdXMTRMWWo2bUs0NmtKa0gyVkJxUGZRXzFmQlloLVE3ZlZwcUM0bGFnT2RJWEh3R1JWejZmbG5RZE0yOFpONTQydTJpRg?oc=5",
+   "source": "BRIDGE（ブリッジ）",
+   "summary": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達 BRIDGE（ブリッジ）",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T13:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4d3243717b195c9d",
+   "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレート PPA を締結 ～青森県八戸市で開",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekZQWDZVbS0wZGR1dmRvZlpDNDZhcE9GMnBMZGRfSjlZMEM1MEVsS050THkwb1VZQVFrWG1qTk04WWJXM2VsV1NDM19xeU1GdzRReXh0UXpheldVb1ZzazhQMDYtb09GVkNWMi1JRHV1YmMxck1HYWpPT3JyZ3lMSGdlRE94dU4xZlVtNEtR?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社アスソラとコスモエコパワー株式会社がコーポレート PPA を締結 ～青森県八戸市で開 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:19+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "住宅・自家消費",
+   "company": ""
+  },
+  {
+   "id": "b584c31fafd558b3",
+   "title": "【技術動向レポート】蓄電池AI開発の壁は「データ不足」 国内特許動向からみる日本企業の開発機会―MyTokkyo.Ai",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YcXBOek5Ca0lEb25XNkNucGdjNlpHVnpxTjFXYng1NUY5NWFkUlpxdGRfN0xKNE5BcVVvQ2htb3Z0OTZCUm9qdGhFcVpIMDZTZWlKRVRBNUZMLVdiMERKUlBFTExxc1NJaVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【技術動向レポート】蓄電池AI開発の壁は「データ不足」 国内特許動向からみる日本企業の開発機会―MyTokkyo.Ai PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "リーガルテック株式会社",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "09bfb6e9c1c156af",
+   "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結～青森県八戸市で開発する太陽光発電所の再エネ電源を調達し発電所の運用を支援～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRkk5VDYxU2J3MWtaWUFFMW9FVXNpLXRxc0praTBqUF9VM1ozR1oxRUxpSTl2ejQ0U0FWeFNQVDNRT2F5NzJxVHY1NHYxQUVSWjJDZk1XWjVNM2ZBUzZkVjVhNFpyTkkwalE?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結～青森県八戸市で開発する太陽光発電所の再エネ電源を調達し発電所の運用を支援～ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "住宅・自家消費",
+   "company": "株式会社アスソラ"
+  },
+  {
+   "id": "68606ad4e9d9c74f",
+   "title": "太陽光反射用着色剤の世界市場（2026年～2032年）、市場規模（有機着色剤、無機着色剤）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wY2lOQ2NITmZ5YXRuM2xlZnhHNWRUT1FTXzB2YXBlZHFGbkV4dE50dFd6bE1wdmdoZVRDcTRSckhidWNPQzVOXzRad2UxSGc?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽光反射用着色剤の世界市場（2026年～2032年）、市場規模（有機着色剤、無機着色剤）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T13:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "1bf2f37ca0014f3c",
+   "title": "マツダ、自社施設の太陽光発電拡大 オリックスと再エネ活用",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNDJ6V3kxZzFLd2pPUHdCb1daTFJpSTRSWHRRRkVJakdubWpjNXVycWJ5bFpua3owQWtlWDhCRnZKZUNZbVQzejZGV0gyYldYcUdLTExYSGF5Z2ZBYXpyVlRWZ3d3d2tvM3FCeQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "マツダ、自社施設の太陽光発電拡大 オリックスと再エネ活用 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "f86336f495f48307",
+   "title": "グリッド Research Memo（8）：AI事業の領域拡大と特別高圧蓄電所への展開で成長加速（2）",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KbWFfbmc0UlY0QjhPdVJIUjJDeTVQTjVSdkQ1NnhfbmpBNWZtc1k2bWZNRHY0NWZvWXRNWjFiNmQwT1dwN2dVTA?oc=5",
+   "source": "みんかぶ",
+   "summary": "グリッド Research Memo（8）：AI事業の領域拡大と特別高圧蓄電所への展開で成長加速（2） みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:48+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "7017af2cc36028cf",
+   "title": "グリッド Research Memo（7）：AI事業の領域拡大と特別高圧蓄電所への展開で成長加速（1）",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxX3dYMGxaUGtKTk5mSnNRNWFDU2pEVDJuakFTMWdzUmRrQ3ZSU1lQa25Vb2wxQkZfNUlnVjJxWlU3N296OVRISQ?oc=5",
+   "source": "みんかぶ",
+   "summary": "グリッド Research Memo（7）：AI事業の領域拡大と特別高圧蓄電所への展開で成長加速（1） みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:47+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "3dc78e3ce9d02f71",
+   "title": "グリッド Research Memo（5）：2026年6月期は蓄電所開発の本格化により大幅増収を達成",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUtzVU9ZQ3pCTFVsQ09veVg1aC1KaUtFTkd2aVA3dFcxd1p3eFJIbU9JMDA3SDVVVEY2b3lGNTg0SlF3REV6ZU9JWVd0X0N5cG92SjEydUJqU1p2V3pUbkdBWU9aQTlzZnFXVmYxOHlrX0h6eXRNcG01c1UzNk9VYUFHQUxHeXFsQlZjX1MxRUVnUnJfU1ZQbElZN21kNEV4R0E4cjBtWnZOeE8tdnV1cHE3QWUxVmZfdktkUkZpQjNaMVJGX0RUTjk3eFhibTBPb0QxMGNpbkE2VzB10gGMAUFVX3lxTFBHT3BqTFZHSVgyT1M2N1JOS1UyeE9YQThiYmROSFFobENvREIxclJ3S2ltQXd5UmlUWlFCbHBmWDQ5VXFaRjh4cVZLWl9jM1BhWExZbzg1X05IOElpVFhtNzY0Z3E5alpudWpKamVGZmlaTS02Zm9zaEhzSWE5UjBrQnNTMENfSnVOOGh4?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "グリッド Research Memo（5）：2026年6月期は蓄電所開発の本格化により大幅増収を達成 ｄメニューニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:45+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e3983399a19c12c1",
+   "title": "グリッド Research Memo（3）：計画最適化AIと蓄電所開発の2事業を展開",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMEZzc3NlbDRCRGR6UVJtdjNZM0hTeXAwb1VKNjNjODlOT0xXWDhaUE5sbEFjTk1CNldNU0hLcTFXTTEyVDBGM3A4WXpuSXN6RTFnVUs4M2hyU3ljb3lOZlh2UHZoZUhXVnNRWm8yekp3R3M0WGpQWXZJQW9IUzF4TWp0RFFJR0JpOFhBNkdNVXJCRXlSTDJXZVVJblpsOWVrWS10U05nd0VscWFNMS1UOW5rNHZQdzE2OUlJdXlIbkh2RXFfRHFWMmZxSXBaTkZVOG1rdDZHeTJkUXBnOVHSAYwBQVVfeXFMUHlMMmJBUlVMT1gzbDRnSERRSFpyNWVmdlNnNHhxYURNeklkc01GY2d5cXdEcTlvald5SHlRMy1EWmhQNWZNXzVrdWtrNGhkbEJwSU1IbnhrZjFYT2Q3YXNnSGhRQ0FrbmlSQmVUbWN3STR5TjZlNUlLRzNJRzlSekNwU1o5SFlYdDNLVko?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "グリッド Research Memo（3）：計画最適化AIと蓄電所開発の2事業を展開 ｄメニューニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:43+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3c1d9cefd812edd3",
+   "title": "太陽光発電所 三重県津庁舎で運用 11月2日から 県有施設3カ所目、最大規模：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVUdRVXhNbVllSkJsUmdveVVFMmdhMV9xN2hxREFLbDVNLUVhOHpYeWVmcGdHeW5pY2RqWGEtaGNfRUkzWTFrUmFZV2wxWDE3SWtuQm9OSjFvLUMzU3ZN?oc=5",
+   "source": "中日BIZナビ",
+   "summary": "太陽光発電所 三重県津庁舎で運用 11月2日から 県有施設3カ所目、最大規模：ニュース 中日BIZナビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "961bf20ccb21718c",
+   "title": "栃木県栃木市における系統用蓄電所 完工・引渡のお知らせ 投稿日時： 2026/10/30 12:31[適時開示]",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZakxzNmZ5TThCWnV5MzhsaXBQckhaNXhCOVViLS1OYTNUOExzV3h6WTFzVzFBRlAyVXA2M1FRN18wR1RMX2c?oc=5",
+   "source": "みんかぶ",
+   "summary": "栃木県栃木市における系統用蓄電所 完工・引渡のお知らせ 投稿日時： 2026/10/30 12:31[適時開示] みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "fce98bf4ace8f00e",
+   "title": "知っておきたい台湾の太陽光発電の”今”｜Energy Taiwan & Net-Zero Taiwan2026 要注目企業レポート",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WTjFPZTJuUTJqM3BzT3VXRzJlR3RUMHFSVDUyRGR6c29hT0dpMmZhZDFqYi1GYm13TDhvRy1aN1RGM2FoRUpBR3VDZw?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "知っておきたい台湾の太陽光発電の”今”｜Energy Taiwan & Net-Zero Taiwan2026 要注目企業レポート ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "579d19a79710588d",
+   "title": "地球上の発電所が不要になるかも？平均年齢18歳のスタートアップZero Industriesが太陽光発電×レーザー送電サービスの開発を進める（スマートモビリティJP）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZXI3OGkwT1NEdDFxY0YzMTBkeElEVDVEMUJkYlBGRDdDMjdiOHJPNjRkMmdxYUdLSzY3RG9jNUhRV0R4eEsyemlESkFoZE1WQkpORFVydXR3S3pHcHhfbTd5clBxMUtRMUVFaTd3UkVuS3RMLUk3VXBkdm5oRWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "地球上の発電所が不要になるかも？平均年齢18歳のスタートアップZero Industriesが太陽光発電×レーザー送電サービスの開発を進める（スマートモビリティJP） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "65f0f3aed1af6eea",
+   "title": "リコー・長州産業…ペロブスカイト太陽電池量産へ、経産省が補助金で後押し",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UMldldDEwOGNORXoxakJ2anFqNjI2T2JydEMxbEh4VnhGaE9tRDJ3dnhvQmJxUkxoN0JYNEt4RGlLZw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "リコー・長州産業…ペロブスカイト太陽電池量産へ、経産省が補助金で後押し ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0ca8b0850909988b",
+   "title": "宇久メガソーラーの運転開始目標は２０２９年度…クラフティア、総事業費も増える見込み 長崎",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeDJXMkJYbHFLVnhLRmZfdUY2MGNDanRqQkhEbTVsV0o5UG1aMUM2aUJtMXdiNjVseGJmMktYNTBzdXNpWlVfUzlNMA?oc=5",
+   "source": "47NEWS",
+   "summary": "宇久メガソーラーの運転開始目標は２０２９年度…クラフティア、総事業費も増える見込み 長崎 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "1cdf6f6b0e4c6eb6",
+   "title": "福知山市とエクソルの共同事業が 2026年度「ソーラーウィーク」特別賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YVHlGczk0YnlYSmZLVkdiR2lqWWViWk5DWHNSMm5jR3hySUtDRTlONkVhdGptc1BSRFJhWmZoZHY5NEVRdUpaZFZ3SEtoUQ?oc=5",
+   "source": "アットプレス",
+   "summary": "福知山市とエクソルの共同事業が 2026年度「ソーラーウィーク」特別賞を受賞 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T12:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "その他",
+   "company": "株式会社エクソル"
+  },
+  {
+   "id": "5942f621ac817d06",
+   "title": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44OEo5OXk3V1BUYXQ3ZXJ6SzhZSHhZTkg3NXhwWElNXzNqODJpSWF5bG5oVS12eVRvNjZ4NlZPZGh1UHc?oc=5",
+   "source": "Digital PR Platform",
+   "summary": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入 Digital PR Platform",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "東洋鋼鈑"
+  },
   {
    "id": "10901e27f5a92638",
    "title": "Sustechがアグリゲーターを担う、安藤ハザマ保有最大規模の太陽光発電所が北海道美唄市で運転開始",
@@ -1967,6 +2256,20 @@
    "published": "2026-10-28T07:45+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "54a0696dee915545",
+   "title": "系統用蓄電池Raptorの単体販売セミナーが11月10日・18日・19日に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nRllnTDYwOXdIWGVUVHpobEM2R2Vmb1FiOUZBekFxNWsxbWZGTGNhVXZUeFNZUGZ6X2pTWjRqdE1uUGIxdUE?oc=5",
+   "source": "Dellows News",
+   "summary": "系統用蓄電池Raptorの単体販売セミナーが11月10日・18日・19日に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-28T07:37+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "eecd8faec209c1ed",
