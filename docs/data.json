@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T16:38+09:00",
+ "updated_at": "2026-10-30T17:24+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,50 @@
  ],
  "items": [
   {
+   "id": "b7f69fe2d7bfc52f",
+   "title": "【参加無料】「捨てるエネルギー」から「未来へつなぐエネルギー」へ。系統用蓄電池が拓く新たな可能性を紹介するセミナーを11月開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rT09mcEF1eHI2RndkbHZlR2J6NE5MNkRvdV9rNUdLNU1WbnFQU0NKaFVfMDJsUkhBS2FHM2dMR1k5eFVfY25wdUxNQVhhdzdUUjZmbVYxX3hWeGhzVXIzTjktN1RuMGtBZEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【参加無料】「捨てるエネルギー」から「未来へつなぐエネルギー」へ。系統用蓄電池が拓く新たな可能性を紹介するセミナーを11月開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T17:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "533833db6e4465d5",
+   "title": "太陽光発電遠隔監視サービス『エコめがね』サービスのシステム停止および個人情報漏洩の可能性に関するお詫びとお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbF80a2xrN1RNNXZpX0hLallBTXF5T3pmR0RoM1ZMRzVyU09FeDRYMEViNTBsOExjZW5Udl9adTBuaTJoMTNUR3gySjBSQWNBYVhDWVoxeVFEaTdkNi1lcUUwdzBzdEs0LVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "太陽光発電遠隔監視サービス『エコめがね』サービスのシステム停止および個人情報漏洩の可能性に関するお詫びとお知らせ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-30T17:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "O&M・保守",
+   "company": "株式会社ＮＴＴスマイルエナジー"
+  },
+  {
+   "id": "6f8f08652cdfe929",
+   "title": "中国の再生可能エネルギー、1～9月の新規導入1.8億キロワット 全体の7割超、太陽光が最大電源に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZVHowcVdZazNReUNlZEdKcGoxeDhPMlJKbk1zVG1LRzZhYXFsTTVWR05vaXZEMkUtTll2UE0xUUZSRzJfN1U1RFpsTGRRTExTdm8tNFZPb3FjYnZaanhQdEd5b0pRQ25RcFlDWHlGamZEeTVU?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国の再生可能エネルギー、1～9月の新規導入1.8億キロワット 全体の7割超、太陽光が最大電源に BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "abcf0b741dcb9595",
    "title": "TAOKE ENERGY、愛知県南知多町の2MW系統用蓄電所が系統連系を完了",
    "link": "https://prtimes.jp/main/html/rd/p/000000047.000103834.html",
@@ -32,8 +76,92 @@
    "published": "2026-10-30T16:06+09:00",
    "company": "TAOKE ENERGY株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "99161070622b3747",
+   "title": "芙蓉総合リース[8424]：系統用蓄電池プロジェクト「非常時地域開放型蓄電所」 商業運転開始のお知らせ（茨城県 笠間市） 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczA3UlgxZ0gzdzB0VFFzd2hiY3BmY3JzcUQ0WDdMbXV0RDNxTkJTTVVWaVhOTENTa2NkaV9QRm45VUMwOHcxZVhGYlZTdlRsa29zMXNscm5uRWEyNG80NDRFUHRxZmF4OEszRGZHQVM5RGVZekE0eDA1eFZweXZfdnN2S08xZjVLaWg0SUhMR05OSlZZSi1yMEp5M0tKSHZaQ2h5OVphTG1VR0I1MlFsaUs1T3VfQ3pWSXVxNEs0UjliZC1EMGV6NWJoQmc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "芙蓉総合リース[8424]：系統用蓄電池プロジェクト「非常時地域開放型蓄電所」 商業運転開始のお知らせ（茨城県 笠間市） 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7497550c57b176e9",
+   "title": "JR西、鉄道の遊休地で蓄電池事業へ 中国電力とタッグ組み参入",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RU0xwNnRLY2JFcXFEVHg0SU50cm9aNUlNTU9zeVNOMk1hNFpaZGRoM0JJTmZBNnZIQW1UbjllOGQxdmxDcTQwTzNlRk1rUlp2bzJZTlNXcnJSSk9yZ0IxbHVzS0VsN1U?oc=5",
+   "source": "朝日新聞",
+   "summary": "JR西、鉄道の遊休地で蓄電池事業へ 中国電力とタッグ組み参入 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "fb9b1895e9b48db2",
+   "title": "使用済み太陽光パネル、50トン以上廃棄で計画提出義務 メガソーラー事業者の大半が対象",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDMHh3YmZwZUV6S3pNOG5yMG80Ynhzb092NHRYeEF2a1I2bU13VGFLV09zS0gxblgtYjd0Y1FxSkhIajBRNmhsRlJCQWdqRTE0LThSdS13Qlh3Z2dWTmNrU1dOZ2pXTmlBZG5JZ2Z2RnZxc21sTEE?oc=5",
+   "source": "産経ニュース",
+   "summary": "使用済み太陽光パネル、50トン以上廃棄で計画提出義務 メガソーラー事業者の大半が対象 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T15:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "154c4636897b404d",
+   "title": "エリーパワーのV2H対応家庭用蓄電システム「POWER iE Connect」 2027年1月発売予定の10.7kWhのリチウムイオン蓄電池ユニットで 「JC-STAR★1」の適合ラベルを取得",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Ym9LZ1NtNERhVDlDNnNpUmM4NWxTajdPNDBZcGlMODdfbmVvMGxfS3JwRUtwQkpTa2ZrWThHU0xXRzFZT0tSRmw3Tmx4RjNIUHFnSUllamFwOTB6WTVYYnJQeHNacGNUbGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エリーパワーのV2H対応家庭用蓄電システム「POWER iE Connect」 2027年1月発売予定の10.7kWhのリチウムイオン蓄電池ユニットで 「JC-STAR★1」の適合ラベルを取得 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-30T15:10+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "エリーパワー株式会社"
+  },
+  {
+   "id": "f36b15137142c0c2",
+   "title": "50トン以上廃棄で計画義務付け 太陽光パネルのリサイクル（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTmNWMlJacElFNldxR0ZvVHJWR1JxVXFseExzNzM0ZzBncGM2ekFiV18wc1Y3ejhkOUVKdHl0TnFKQUZPM25EM2xITXVHVFNCOHg2TVRwaTRRMHBCSmhHME5XQ05ZX0hNWVdDNDhDSHNpQ1M2VUlKc2VaT0RmWm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "50トン以上廃棄で計画義務付け 太陽光パネルのリサイクル（共同通信） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T14:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "241ad32f45654043",
+   "title": "出力制御によるFIT売電ロスを低減へ オムロンら、低圧太陽光でも協業",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lNy1xaEVxNi1pc0lwTlEyZllFS3JUMjdOVkpud3hRdGs3WTFfeVU1bkhhU2RDR1RHR0ZkZjA4LUwxeXhLZ3c1Nkl1a3FPZE9lUlZNWjM4N3RKaVpBeE1uc3pFWTdWYnU2MnNoR001dmIxUHdhVC1TeDBvYkQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "出力制御によるFIT売電ロスを低減へ オムロンら、低圧太陽光でも協業 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T14:41+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度"
   },
   {
    "id": "42bce682e3c1561f",
@@ -77,7 +205,6 @@
    "published": "2026-10-30T13:41+09:00",
    "company": "GoodWe Japan株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "低圧"
   },
   {
@@ -95,6 +222,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
    "storage_topic": "その他"
+  },
+  {
+   "id": "660523b990acb885",
+   "title": "タイの太陽光ドローン点検・続報：「パネルのクラスタ故障に日タイで顕著な差」 - トラブル - メガソーラービジネス plus",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EQU9aRmRNNk4tQ2ZIbzRMTVlzTU01SWMwTDRVVTIyRGxncUxhaFVDQ0pjcWdOQWo5T25CZWpoSklaSDhwOFV0cHFpc0czYkt2VUpzdTdsMDNOVGZqbUhudWJYWG9fV0k5N3g5V3ZacU56UEtJc1lrcQ?oc=5",
+   "source": "日経BP",
+   "summary": "タイの太陽光ドローン点検・続報：「パネルのクラスタ故障に日タイで顕著な差」 - トラブル - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T13:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "4d3243717b195c9d",
@@ -169,7 +310,6 @@
    "published": "2026-10-30T13:00+09:00",
    "company": "COSMO",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "住宅・自家消費"
   },
   {
@@ -267,6 +407,20 @@
    ],
    "type": "news",
    "published": "2026-10-30T12:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "37211d02faf01eac",
+   "title": "グリーンエナジー＆カンパニー[1436]：系統用蓄電所システムの工事受注に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNbVBwOXpuYkF0MVdxeTBzMzRvV3lpbFNoZy1yS2lPVTNyM1VOMHpaZm5jbmI5UXUzMTZfRWRVWVdDVmNmYnQtVDZFQTVZMDZ4dTRIRElEM0lXeko3RW5PNVYxQmJwV1VZY3c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "グリーンエナジー＆カンパニー[1436]：系統用蓄電所システムの工事受注に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:30+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
@@ -372,6 +526,20 @@
    "company": "株式会社Sustech"
   },
   {
+   "id": "cb937ada95d4c157",
+   "title": "EV鈍化の反面、蓄電所事業が急加速",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsM2ViT3JmbWF5TmRqRXZPQ3JpY2NtZE02cmFfNDlxLXhGaFpYMjlKYnZ5alVfQkRuZDZWVElDX0pFbjV4VFlvWTFRTDlTaHdERkEtclVQYmxKc05leGc?oc=5",
+   "source": "産業タイムズ社",
+   "summary": "EV鈍化の反面、蓄電所事業が急加速 産業タイムズ社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T10:16+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "69fa2f19119bdf62",
    "title": "電気も作物も、子どもの学びも時間をかけて育てる。尾道の太陽光の会社が運営する英語教室「はら英語教室」",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seVQtOVkzZ0tlOHNmRjBEUTBOM2RuUWhpOHkyRXdDOFdXdmRHZG55cUY5WFIwR010dFdua1hTT0gwYnpYR2RrSGFlcTlfOWsxSXlyVEdCaWhfOG5fMk1jME00RGJ3WDUwVUE?oc=5",
@@ -401,6 +569,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "d71fd51a09ddacaa",
+   "title": "系統蓄電池向け事業連携 運用・価格予測を支援 富士電機と日本気象協会",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kSEViM0k3V2tVUEZLTU0zV1kta0U3NDFOQllRNWtETmZPTV9LVlpyNWlxSS1rTmVaV2Q0UzFPUWhkUUZNc2tfRzc2QThBZXB1N195ZWRvN1FCalk1SExodlgxdkNaYzdJT3Fiekd2dHJNN041N2R5TVV3dw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "系統蓄電池向け事業連携 運用・価格予測を支援 富士電機と日本気象協会 環境新聞オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T07:04+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "e56a4bcc1c258770",
    "title": "東ガス、高圧太陽光開発に着手／東京・東北に２．５万キロワット",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15Z1gzTTN3bEE5ejZIWjFIekNWbnBlWWpNSEQtekloemwtZ3NBWndqcl9qdGFNR3FSTHAxM2tRYjFKYkd6V0dRMGFZVkxaQjRGbGZ4V245VQ?oc=5",
@@ -413,6 +595,34 @@
    "published": "2026-10-30T06:00+09:00",
    "via": "電気新聞",
    "topic": "その他"
+  },
+  {
+   "id": "0fdcbbe67c861b21",
+   "title": "ジャパンブランディング、系統用蓄電池の補助金と採算を解説するウェビナー開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82aHZad3VoeEpPQjZONzRTU0d0d3drV3JuWVlVRzgycjNhUkhZNEw2S0hRLVQtcnZyM2hTMS04TDNJZW81d2hsRVZzNi1CckxsazRzOFVmeGVwNGI3X1Vkeg?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の補助金と採算を解説するウェビナー開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T05:54+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6bc948932cc2d920",
+   "title": "太陽光発電所、11月2日から県津庁舎で運用 三重県有施設3カ所目、最大規模の施設に",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FczdyZzBJc0FPMVlOeG5PbXhDQ1pyRzNCdHc4TFV0dWlVX0tVdkg0eDRkR0h4dnA3WXo5cjhNWGhkOWozTG9JdmlJQlJxNmFia1VDcWNmZWxDdlVQQ0k4?oc=5",
+   "source": "中日新聞Web",
+   "summary": "太陽光発電所、11月2日から県津庁舎で運用 三重県有施設3カ所目、最大規模の施設に 中日新聞Web",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T05:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "0dff11329598d020",
@@ -483,6 +693,20 @@
    "published": "2026-10-30T00:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "327f054072134f58",
+   "title": "上海艾録の太陽光発電参入が挫折 南通子会社が債務超過で破産清算を申請",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YUFFaTWhCTWZ5UHBfS2dYQUd6X1NFakJ1RzF4cDQ3U0Y5S3NEanZOa2pPUk5mRk9paWJDNmlkUzA3aGV1VUZTXzVJOHlOWnVJVnI4OUE0ZTlIQnA0ZGk5QlA3ZFp5VlBnSzdLS3VZSWFqajMy?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "上海艾録の太陽光発電参入が挫折 南通子会社が債務超過で破産清算を申請 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T22:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "fa6acbf7426f690c",
@@ -1667,6 +1891,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "company": "株式会社日本計画研究所",
    "storage_topic": "その他"
+  },
+  {
+   "id": "503798c441a41212",
+   "title": "怪しいメガソーラーに19億円の税金を棒に振る自治体――交付税カットで一度破綻させ危機感を持たせるべきではないか？",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPLXdCX3Y1a2xvbkt5Qm9CRmh1UlFSZVV3SW5aVWRUSWI1Z0FTcTJZYXlMdVREeE5yZ0wzdE9DQXM4UU9UTzF4SmkyNU9ySmo4YkxOTlpTOW9NbDhobzZSRkJRR3EtVkdRc3M3N0xaeVNuYk1mX3NjcDZ6WkthUnB0R3VEN1lILWhJTHVtVUwzT0ZMdnY4UGc2d2E1enRzeE5LZm5keW9qVzBUQjZhZ05INm5TT0Q4SUQxTnN1ZXlyajk0c2Q5UGhrRjNmdGY2T1VoanpLVEs3Vk5NcmRrdW5PdHVVaGNKS1poWUVuYUZsZC10ajNPSG16SFRWWXJfQzdBbzVYelFkdW5obnlWUGlMUXg2Q3luYzAwQVNtX20yWGZaRGtVLTF2M3BIWjlTazM1ZHRrOXd6WkRDRWVTSDZWMzZkLV9VdnRUa0pjUHhDRGtsaEVZYUhOdWpZaHdTMUHSAeQCQVVfeXFMTzRtU2FQQmZXdjlIRnJTVjFjYU9oTWJocjBQcDZZdkY0ajJTWFFCRXgtYmpFbUVFT05uZjVsWWFSZFRpSTdZM1d0T2o4SDBEal9uNnNtVmFzdm5PRy1VU3o2ZWotc09VRWduNmJBMUF4T3ZTd2FHMHUyRWg1NXB6V2JueS10bTFkRHZ2R2MxZjF0c2tHdVdJMkNzVDdyTnNkLWdtbXVLSmM2VTdHUlRUYmgzcGNBODRCa1dXbGd1ckxrSkhfRndsZ1g2UG5MZ01BMjBVekpKRXNad0R5UU9BclFINU9YVnJKa0xhZThsMFJNSTVRYVBvQTB4MW84SncwbGpGcUNsbEc3Nm9seGFUVms0dC1wcDAtUnFVbkhmRTlLbU1WLXQ0NXlCQWJXV2pPQlZXQjRZazVfQlEtZUxLVWc5cURJdEowTnJRT1BtakRFamlVSVozOHZTLTNBclJxMXU3QlY?oc=5",
+   "source": "浜田聡",
+   "summary": "怪しいメガソーラーに19億円の税金を棒に振る自治体――交付税カットで一度破綻させ危機感を持たせるべきではないか？ 浜田聡",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "266e7bf9812dfa04",
@@ -13409,6 +13647,21 @@
    "published": "2026-10-15T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "113bc6782e3ea82a",
+   "title": "令和８年度「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（設備等導入事業）」の公募について（二次公募）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VekkwNHhPSi1FQ0VhejVoSXpHaDNuY2lFaWJCY1Q4VFZHN0pia3pqQkh0WEVUVTFEczFxMERmZ3VhczJlUHJ2djhhaWppUXpCUzVFTnZiOA?oc=5",
+   "source": "環境省",
+   "summary": "令和８年度「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（設備等導入事業）」の公募について（二次公募） 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "環境省",
+   "topic": "次世代技術",
+   "company": ""
   },
   {
    "id": "de8bc83c05690637",
