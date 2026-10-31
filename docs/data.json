@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T07:13+09:00",
+ "updated_at": "2026-10-31T11:25+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,64 @@
  ],
  "items": [
   {
+   "id": "2bdcd943ccc61b43",
+   "title": "スマート太陽光エネルギー貯蔵システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発...",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Rek90SkcyUnN0UUlTalZyREttLU1fU09KUlRBOWs5cUFMTlRvREJ3XzNiN3ZyR3E0eTBGUmtKaUQ0WGdQYW9nZXpnZ0t4MU0?oc=5",
+   "source": "アットプレス",
+   "summary": "スマート太陽光エネルギー貯蔵システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発... アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-31T10:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "cba3271a11ab5874",
+   "title": "NTTスマイルエナジー「エコめがね」にサイバー攻撃、ログインID・パスワードなど顧客情報漏えいの可能性 太陽光発電の異常通知も停止|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZm9MNDQ1LXgtbDhMaVJhZmJNU0xoZl9pbnFLT09hYTFHY2x6Nm9kTVpjMmRIMHJPTUx1UnBNU2hleGh4OUswTHEyYUUwMjVFMXpmNjJPSlJpRVNCNndfX2NHaGpIMnJyTHdqWVFEajBlWnNjZFA1cEhqd2Q1cXh6U3RKeGlkX3pKbDU5Q3hwSjY3UWZwSFZJUjBsQ3g?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "summary": "NTTスマイルエナジー「エコめがね」にサイバー攻撃、ログインID・パスワードなど顧客情報漏えいの可能性 太陽光発電の異常通知も停止|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T09:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "4138f60f3ed9d0df",
+   "title": "まち未来製作所、蓄電池の運用代行手数料0円の新サービス「e.ZERO」を発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcXFWdFo4UnBBc2N2blVZUGxKUUxFY1lOajhNWXFncnpSeFV2RE82cW1rS3hnMW4xamVzcnUzXzZlT0VZT09hV3dKVm40UUE4UFZCbHhtWWp6aG0zTWRidW94bTdqbmo3YVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "まち未来製作所、蓄電池の運用代行手数料0円の新サービス「e.ZERO」を発表 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-31T09:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社 まち未来製作所",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ffca590351033a37",
+   "title": "系統用蓄電池セミナー、サステナブルHDが11月に全3回無料開催",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TUmJtTDZkc3FzaTZqUFFpZ2RuNF8xNDh6OUdWanphSDF6RURCQnZ6VmM5YTctOUJwMkFTWV81c2FWbWV0b1NveVMtcXkwNktRUWkxNWd3akdxTW1NbHA0Y1U0cDliZ1AwbWRPR1ZZUEV2QVN0d3l3?oc=5",
+   "source": "SDGs NAVI",
+   "summary": "系統用蓄電池セミナー、サステナブルHDが11月に全3回無料開催 SDGs NAVI",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-31T07:03+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "11011bed11a41569",
    "title": "市川大悟さん - 【私の視点】営農型太陽光発電 可能性生かす政策が必要 - 写真・画像(2/2)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PR1RGeXdkV2ZMR1hNN2xDNmxoakFYeGhuM1IwcnZJOTZsQkw4TnpFbUFpcnFpbmdFMGRXTGZGLVR1bEkxYmNDM1BwWGtOSzhxOWtRT1lqaw?oc=5",
@@ -32,6 +90,20 @@
    "published": "2026-10-31T06:04+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "99da520931833bdc",
+   "title": "ペロブスカイト太陽電池市場の収益と成長予測：2026年から2033年にかけて年平均成長率",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkdnB4WUQwTzNuUU5qQWd2REtUMGxWcG5xaE1ua0JhV1JXNTVOQXh2TXRudkJJcllreWFBUUJCMXZvM0pxazVEMXF3?oc=5",
+   "source": "pando.life",
+   "summary": "ペロブスカイト太陽電池市場の収益と成長予測：2026年から2033年にかけて年平均成長率 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T06:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "4257ee47a585d83a",
@@ -48,6 +120,34 @@
    "topic": "営農型"
   },
   {
+   "id": "3b41faf4e25fdade",
+   "title": "上海港湾（605598.SH）：宇宙用電源事業およびペロブスカイト太陽光発電事業の規模は小さく、まだ黒字化していない。",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LOUZ5TXhLX3ZreVNhSlREaGdXMGFBS3h1V0RoSll0TTgzamktNTB6aXd1OERZTkZvTndGa3dINnIwdFhJaWxDMFc5TDFFQVlBajhDcVZtMlB5Zw?oc=5",
+   "source": "Moomoo",
+   "summary": "上海港湾（605598.SH）：宇宙用電源事業およびペロブスカイト太陽光発電事業の規模は小さく、まだ黒字化していない。 Moomoo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T05:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a66f1d7a3723ed56",
+   "title": "共生区域「該当しない」 おいらせ・太陽光発電、知事が見解",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GTDg1S3JZQXk0Q3dtUllOYjJ5ME1kN1VxaERlb2tLeEdsZXhTSFBOempQRDZZZm0xQ1RHSVNldmxPZGlELS1wMlZGRjBXWTB3RzhjYTRScFhyYlRjdlRkYlBYZ1FPbDQ?oc=5",
+   "source": "デーリー東北",
+   "summary": "共生区域「該当しない」 おいらせ・太陽光発電、知事が見解 デーリー東北",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T05:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "690845e6cfeacf4a",
    "title": "系統用蓄電池事業に参入 京葉ガス、再エネ促進",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNZGw5dUlSb3kyTkotQUtEVDRORmhuUEtTU29QUURlUk5HX3p1NW1rZy1wX3pyRzJHMWlTd2QycXpVQzdYYnZ4OXdWLXpZVkdCN0FFTEwtdUk?oc=5",
@@ -60,6 +160,20 @@
    "published": "2026-10-31T05:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "b8cc3df5a1069266",
+   "title": "福島照らす太陽光、電力も榊も芽吹く エネルギー探訪9000キロ④",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41QnY3TW9HNmlta181cmpqNUctejNlV0pRQWctV3Y3SE43T0dnbmpRXzJTTm9SMGx4cExKMFdzMHZGcm1hWkgwUG9iODc2Y2xBQUlzaHF6X2tCVjZ3cS1DNXJWOURIejMxUGp2NXBPMXRTNnZYbmVJVGUwOWxEZw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "福島照らす太陽光、電力も榊も芽吹く エネルギー探訪9000キロ④ 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "4ad227eee1457879",
@@ -970,6 +1084,20 @@
    "published": "2026-10-30T10:00+09:00",
    "via": "SOLAR JOURNAL",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "3089d51984b443a5",
+   "title": "グッド・エナジーの2026年4〜9月低圧中古太陽光買取、21.6％増の90件",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sRWV4T0tSVFVEWWx1eUVBY2QwR3pVODVyV1pYeHBIaFJiQl9XZEpMbV9fSTNReWxwbmVZUFVXWGRfZmFKeHYyUnZqZlNFaDlMUlZSVVlxclhDbGUwVzVxTUhxaXRNT00z?oc=5",
+   "source": "Dellows News",
+   "summary": "グッド・エナジーの2026年4〜9月低圧中古太陽光買取、21.6％増の90件 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T09:42+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "その他"
   },
   {
    "id": "b307ade0e1880f23",
@@ -4810,6 +4938,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "ff5aee6cb3849c8c",
+   "title": "古河市内において太陽光発電設備設置を予定されている事業者の方へ／古河市公式ホームページ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzhkVmVBdGctb1ZnRjl0N1BhNWpOTmpRXzVtZ1hkdzg3SElKQ1ozeUFET0VuZmEwSXpPSi0xUjRnSEVnNnlWX1Jva28wS1FIU0hsdHh2NURJMmwzZG00MWdRZlFiNlFsV2VxSHlBeF9ORTlLNmZwa3cySzBZT0t1Y0xR?oc=5",
+   "source": "古河市",
+   "summary": "古河市内において太陽光発電設備設置を予定されている事業者の方へ／古河市公式ホームページ 古河市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-26T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "deb389e895eaf116",
    "title": "蓄電システム「Mega Power 2500」を出荷開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000280.000109041.html",
@@ -4852,6 +4994,20 @@
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他",
    "company": "株式会社パワーエックス"
+  },
+  {
+   "id": "765afefabce0b198",
+   "title": "パワーエックス、蓄電システムMega Power 2500を出荷開始",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yM204Mk9INVlyb3drNm1sQkRyYWoyM2w2enR5aDZidEluRDQ2eWNyUEc0U2xudS1tZm9MRldybUd2T2dMTFhWQy04dVdTQktqVlY1Z1JrY2k5WDQ0VkQ1Qg?oc=5",
+   "source": "Dellows News",
+   "summary": "パワーエックス、蓄電システムMega Power 2500を出荷開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-26T15:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "e451db24a3b53692",
