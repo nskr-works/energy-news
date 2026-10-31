@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T14:15+09:00",
+ "updated_at": "2026-10-31T17:18+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,11 +20,54 @@
  ],
  "items": [
   {
+   "id": "b49c0554e979ddc7",
+   "title": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000190797.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[AOSU LIFE株式会社] AOSU LIFE株式会社は、屋外用AI防犯カメラの新製品として、固定式広角カメラと追尾式PTZカメラを1台に搭載した2in1デュアルレンズ・ソーラー防犯カメラ「AOSU C9P21」を発売いたします。 AOSU C9P21は、広い範囲...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-31T16:34+09:00",
+   "company": "AOSU LIFE株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "db93f1ba36c37df2",
+   "title": "県の借金返済に充てる メガソーラー売却のねらい【神戸市北区】兵庫県議会議員 大塚公彦",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcXFQYjNiRmxHbUZqNlllWW1rWGVYNmdjYm5JcldhQUxaeVFnODBxOS1Vc19UTzhHSGNWUzBOOGRxQmh6YVc5SkktX05OYTNaZU4zSUhLck5aWjgyU09N?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "県の借金返済に充てる メガソーラー売却のねらい【神戸市北区】兵庫県議会議員 大塚公彦 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T16:29+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "3b516c199c167477",
    "title": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画｜行政・政治｜青森ニュース｜Web東奥",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5md0VQN0xMYXJoc1FIMmxqSHNQTGk0RnkxV3RHLTktaTMwaklvR3JKT1lqbXpOTHdzS3JOdjNnVndLUkpabUpMdkRiWUJyX3A4Q1R5RGxrSG4?oc=5",
    "source": "東奥日報社",
    "summary": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画｜行政・政治｜青森ニュース｜Web東奥 東奥日報社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T12:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "e7faee883a33c9c1",
+   "title": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxYlkyOGdzb2o5YUk3TGtpc0lQT2M5NkJRSjRaRDhIOGVSMmxHQUJOendWTk9VaWxJMXZCeVhOenp6SFZzUW12Yzdnbw?oc=5",
+   "source": "47NEWS",
+   "summary": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画 47NEWS",
    "categories": [
     "solar"
    ],
@@ -47,6 +90,20 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "ea575dde4d7e3794",
+   "title": "スマート太陽光エネルギー貯蔵システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Db1FKVS1uMHlJLUZHTkR2ZVExM2VQSU5SNG1xbVQ1VFVGekFZQ0RVakRHb0YzNjJsbjlfZ1lySVNTS0JhTTlvX1Q0U0ZWSEk?oc=5",
+   "source": "Newscast.jp",
+   "summary": "スマート太陽光エネルギー貯蔵システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "cba3271a11ab5874",
@@ -118,6 +175,20 @@
    "published": "2026-10-31T06:04+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "7a7c0cfff5cf8d34",
+   "title": "千葉県柏市の千葉大キャンパスでは、従来の太陽光パネルより薄くて軽い「ペロブスカイト太陽電池」を水田に設置し発電する国内初の実証実験が進められている。ソーラーシェアリングの先進事例で、水稲栽培への影響も合わせ、3年間検証する＝5月、千葉県柏市 - 【私の視点】",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EcnEzc1RHYmNSR19ZLXcwYXFrRTZ5R3V5cGNlVS0xT1ktNjRNNFlyZk10MnJOb2VrTWNaUHdPdVQ3UTVFWl9VTHZmaUN5MGZFTXVnc0JIZw?oc=5",
+   "source": "西日本新聞me",
+   "summary": "千葉県柏市の千葉大キャンパスでは、従来の太陽光パネルより薄くて軽い「ペロブスカイト太陽電池」を水田に設置し発電する国内初の実証実験が進められている。ソーラーシェアリングの先進事例で、水稲栽培への影響も合わせ、3年間検証する＝5月、千葉県柏市 - 【私の視点】 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T06:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "4257ee47a585d83a",
@@ -2186,6 +2257,20 @@
    "published": "2026-10-29T05:10+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "a21d617fb4a9b6bb",
+   "title": "県が控訴を見送り メガソーラー訴訟 住民側勝訴 ／静岡",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lWGhmdkwwOUl1Q2N0REpFTFNQczRTTWJVZ3RTQW5QbVRzaTFLdjN5bnktRmNTQXRESUhMd09VdEczTTF4dUJENmNVcVlPd3hnZnBiZV9OOWpoN3JQQ1g3WW1xaTNZT0tR?oc=5",
+   "source": "毎日新聞",
+   "summary": "県が控訴を見送り メガソーラー訴訟 住民側勝訴 ／静岡 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T05:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "9867e0d8dc09fb4c",
