@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:26+09:00",
+ "updated_at": "2026-11-02T13:34+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "268e9b932fbf4b01",
+   "title": "「Jackery ポータブル電源 3600 Plus」に新カラーが登場！明るいインテリアにもなじみやすい「パールホワイト」を11月1日（日）より公式オンラインストアで限定発売",
+   "link": "https://prtimes.jp/main/html/rd/p/000000372.000039188.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[Jackery Japan] ポータブル電源およびソーラーパネルの世界的リーディングカンパニー、Jackery（ジャクリ）の日本法人、株式会社Jackery Japan（所在地：東京都中央区）は、超大容量モデル「Jackery ポータブル電源 3600 Plus」...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-02T11:00+09:00",
+   "company": "Jackery Japan",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "2cee6e5a45410152",
    "title": "需給調整市場の一次調整力（オフライン枠）、10月の単価は2.69円上限価格引下げ前の8月から約7割低下（速報）",
