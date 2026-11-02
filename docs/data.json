@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T14:30+09:00",
+ "updated_at": "2026-11-02T17:41+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,121 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "3dc30f4f5e808006",
+   "title": "東北電力、ツルハ店舗や東邦銀行に太陽光発電の電力供給",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRG9kTEVSRTMxMDR5Z2hwT2xiUVZWZ3FEdjRPeUVuNkRWVFM5UTc5Vmt4Ri1pb0d6c3FnYWFDeTdvR29BaHhYcWlwOGRmSmVSdVRkaHA5SThIMWlldTRCOTYtcDFEYk1NUlFfSA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東北電力、ツルハ店舗や東邦銀行に太陽光発電の電力供給 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T17:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "41b9e77ceab34cc5",
+   "title": "砂漠に5つの巨大な円形設備 砂丘の起伏を生かした蓄電所",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzei1zVVRoZ2YzQTZIeXlHR2ZPeGdzNDFVQVlhTHVFN0EzSDFuaXg5VHlfOVlZakpNS2oxdm9ZVkVlNnRlZ0xjTXliN2U1TGNRTjlhU1B3YzR4d3FqbHdCVHJNbDYtaTg?oc=5",
+   "source": "Science Portal Asia Pacific",
+   "summary": "砂漠に5つの巨大な円形設備 砂丘の起伏を生かした蓄電所 Science Portal Asia Pacific",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-02T15:36+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "011f5c954db87416",
+   "title": "『ちびまる子ちゃん』とのコラボ啓発 - リチウム蓄電池関係 | 環境再生・資源循環",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sb1V6SWl6N2dtU0Z5WThBZnc1RGlHZ21NQ3o3OWFwZnkyZ3dPZGhuTU5LY0xHS0t2Qjl4amxuMDcwWTBYckZpbnYwRGpOZ3dFZWxrcmtZZUVvWk1CZlhtcDd0Tm9DU3dqNHl1Z1IteDZ3R2ZK?oc=5",
+   "source": "環境省",
+   "summary": "『ちびまる子ちゃん』とのコラボ啓発 - リチウム蓄電池関係 | 環境再生・資源循環 環境省",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T15:24+09:00",
+   "via": "環境省",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
+   "id": "69f513ac254725e3",
+   "title": "みずほリース／「LOGIFRONT名古屋みなとMalien」屋根で太陽光発電",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RMWFWQzRSQ3k5RktLcGN6MHZXejZfcjlPdDFZVW9rV2hnNnNlNzNfaE82VmY4Qk9SRkI2aVc5WTBjTUZvQjRvbVVrc19vVVFRNDBhQQ?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "みずほリース／「LOGIFRONT名古屋みなとMalien」屋根で太陽光発電 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T15:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "73706cd8afa77081",
+   "title": "支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL vol.59』 11/5発行！",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BYjN4Y2pXa05ZMDNEbjBuSDNkcWlsNkdwUDdpc05acGFpbWM4VVRnMFJzRjFnRS1fZ2dYVTNKYUFLQzREZUdnb2NzYw?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL vol.59』 11/5発行！ ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "d21610bcb6fe89e5",
+   "title": "屋根の売電はそのまま、駐車場で自家消費。トモシエ ソーラーカーポートシリーズに、蓄電池標準搭載の新モデル「TYPE",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTkEtUVJoRnNoOXZDdEc1dWJ4MW10R2RMTFQtcUJidUp5YU5EellJLTJSUXE2N0hHLUtYUTlTbFJSZlhFYzFQODZ3YWhpZkdUUHdHQ0JJZnBpOEdXcnBaVEd3UFpiTmwyUWx2V2t0aXNiak9UUGNzN1RvWQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "屋根の売電はそのまま、駐車場で自家消費。トモシエ ソーラーカーポートシリーズに、蓄電池標準搭載の新モデル「TYPE ニコニコニュース",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:51+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8377f200880abbb8",
+   "title": "【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL vol.59』",
+   "link": "https://solarjournal.jp/news/68291/",
+   "source": "SOLAR JOURNAL",
+   "summary": "来年度から地上設置型の事業用太陽光が、原則として、FIT/FIP制度の対象外となる。一方で、特定の分野に限っては、重点的に支援する方針が示されている。具体的に何が支援対象となるのか──。 The post 【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL vol.59』 first appeared on SOLAR JOURNAL .",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:49+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "33b95567d1c20823",
+   "title": "東洋鋼鈑が環境価値購入 マツダの太陽光余剰電力（日刊産業新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INHltbjM1VzFrc0NZUHh5TTBfZU9CUVpEbXdfZkxHSEZ0UUl0dFdCMXBwa0JIbDZFR2MyckR3VGNRcVp6ZkVlLURCeXBoMUdVX0ZmTDV2ZkVVaXhZenU4NzVlcGV1QzlnRm4zRGFTMVlNekRLdHo5UEVvcEtJZW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "東洋鋼鈑が環境価値購入 マツダの太陽光余剰電力（日刊産業新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "361d35e52474ba53",
    "title": "八戸市公共施設への太陽光発電設備導入に係るサウンディング型市場調査を実施します",
@@ -844,6 +959,21 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "590796e110ddc977",
+   "title": "プレスリリース｜需給調整市場 2026年10月の取引実績まとめ（速報）",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnBUZ1lPT3ZkeDlXa1A1X3RLZk5TUkFXUFp4dUI4SjN4SWxKamQteDY5U0NySG82OV9fVVgyZllEb3Q2S05xNWF1SHJ1d1FHd2ZSZnVRd29WblVFdktFaGdJTnBlUHl4eUZjODNzZ25xb01QVWxOQmFCaUY0cmdvRlVta2NBYmw4aDEw?oc=5",
+   "source": "PR TIMES",
+   "summary": "プレスリリース｜需給調整市場 2026年10月の取引実績まとめ（速報） PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-31T16:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
    "id": "dbe5f6f6e6124467",
    "title": "テクノロジーズ、太陽光発電設備の施工・販売を手がけるエコ革を自己株式取得に応じて譲渡",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1icEZIZ0tVYlpfS0NLVGx4bzRwbTNIckQxSWVCNHlIMDJ4Y044RjRrMFNSczVzTXg4YUhQSzF2WEFGQU96SlVYZ3ZwUVlMQ1NtS1ZFWENEQjR4X1VpNjF3?oc=5",
@@ -1163,6 +1293,20 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41QnY3TW9HNmlta181cmpqNUctejNlV0pRQWctV3Y3SE43T0dnbmpRXzJTTm9SMGx4cExKMFdzMHZGcm1hWkgwUG9iODc2Y2xBQUlzaHF6X2tCVjZ3cS1DNXJWOURIejMxUGp2NXBPMXRTNnZYbmVJVGUwOWxEZw?oc=5",
    "source": "日本経済新聞",
    "summary": "福島照らす太陽光、電力も榊も芽吹く エネルギー探訪9000キロ④ 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "0b77ca7febecfd6d",
+   "title": "福島照らす太陽光、電力も榊も芽吹く エネルギー探訪9000キロ④ - 日経ヴェリタス",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41QnY3TW9HNmlta181cmpqNUctejNlV0pRQWctV3Y3SE43T0dnbmpRXzJTTm9SMGx4cExKMFdzMHZGcm1hWkgwUG9iODc2Y2xBQUlzaHF6X2tCVjZ3cS1DNXJWOURIejMxUGp2NXBPMXRTNnZYbmVJVGUwOWxEZw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "福島照らす太陽光、電力も榊も芽吹く エネルギー探訪9000キロ④ - 日経ヴェリタス 日本経済新聞",
    "categories": [
     "solar"
    ],
