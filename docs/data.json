@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T18:37+09:00",
+ "updated_at": "2026-11-03T07:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,77 @@
  ],
  "items": [
   {
+   "id": "0c03919d4e97eac9",
+   "title": "ナトリウムイオン電池は次世代の本命になるのか――資源制約と性能のトレードオフを読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000089.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-03T06:40+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ee75ebde133bb9d6",
+   "title": "茅野市で年間67万キロワット時を発電 野村ユニソン、太陽光発電の稼働開始",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fLXhvdTM2aFFPQUxsWnJ0NnM3Yy16UVpPQ0NaWWVpS0JnSlpIMlNaa1dWMTNROHZaQldtOWNLdmZIQUJubzlka24zU1hBblZvb1k2UUI1S3k1UHVjX2dwU2R5NE9LSkJNYnV5UTJCVlA?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "summary": "茅野市で年間67万キロワット時を発電 野村ユニソン、太陽光発電の稼働開始 信濃毎日新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T20:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "22ca4a5d51e06435",
+   "title": "太陽光発電施設の銅線ケーブル窃盗容疑で４人を最終送検 松山西署など",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IWlZIcXFCSnNvM1RFSkttSjR6b3VaY3NSQmxyc0FSajJfMmVhNHBpemY4ZHFCRHM3WXFmTDVsdHJXZWp6NkhWTU54MURkbkVZMF95N1BWbl9NeTRMeXNaWQ?oc=5",
+   "source": "愛媛新聞",
+   "summary": "太陽光発電施設の銅線ケーブル窃盗容疑で４人を最終送検 松山西署など 愛媛新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T20:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "0896aff7be25fdea",
+   "title": "太陽光発電施設 銅線窃盗の被疑者4人 最終送致",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZ1YyazU4dDFxbTNhMm9zanJUWVpaU3JlbkJvWnpaa1ZJZzE4OEI4R0RZSkE2UkR2U3lseFpXYWVPbS0wVEZ2TUh3Skt5VXVNY0tYdnBQa2o4akg5UlFn?oc=5",
+   "source": "NHKニュース",
+   "summary": "太陽光発電施設 銅線窃盗の被疑者4人 最終送致 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T19:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "bf309ea50b9c1e0f",
+   "title": "スコープ3削減ニーズ対応、工場オンサイトPPA＆本社再エネ化 コルコート",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBldGZid2JpRUtDa1VIaDZjYndGZURoZXlfSE03QlE1S24yVk9KVGloZUJqZ3dHMXRLWmFTV1VTUnMwcmxxWjJNRUFhVFMxVlBnNzdvQzVUM1dpZzhXUEVJZGNUUDREMjJJd3JGQWxzanZaZE9RMFF6YTExNC0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "スコープ3削減ニーズ対応、工場オンサイトPPA＆本社再エネ化 コルコート 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:09+09:00",
+   "via": "環境ビジネス",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "2211d42de3d752ce",
    "title": "全固体電池は系統用蓄電池を変えるのか――電解液を「なくす」技術の実用化時期を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000088.000181124.html",
@@ -32,7 +103,20 @@
    "published": "2026-11-02T18:00+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6c81a39065bfbf3d",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月下旬に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NX3dpeGhvYkd0Z19nN044ejdpdTNXSGI0d3ZkRUM1cDcyUVZKbzlQcVVBeFJKYmZHWjFFNUdmQWI0U2NicUZvZzFmMDlCcFlqOF8yQmtqeXZFTXNQYzJBeTRYTFNXQQ?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年11月下旬に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
   {
@@ -50,6 +134,20 @@
    "topic": "住宅・自家消費"
   },
   {
+   "id": "f678af9793b0537f",
+   "title": "主犯は松山の男２人 ９県の太陽光発電施設で“銅線”窃盗６６件 被害約２０００万円で最終送検【愛媛】",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVER0eXhwS0tmbExGaEJ0M3VXUy1LOXJ5d2dJZVJ1cHVvT3ZoakdsLWNUclRwWEFUWHZiZ2dLZ1J1YzF0RC01N1JQMC04UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "主犯は松山の男２人 ９県の太陽光発電施設で“銅線”窃盗６６件 被害約２０００万円で最終送検【愛媛】 FNNプライムオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T16:43+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
    "id": "41b9e77ceab34cc5",
    "title": "砂漠に5つの巨大な円形設備 砂丘の起伏を生かした蓄電所",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzei1zVVRoZ2YzQTZIeXlHR2ZPeGdzNDFVQVlhTHVFN0EzSDFuaXg5VHlfOVlZakpNS2oxdm9ZVkVlNnRlZ0xjTXliN2U1TGNRTjlhU1B3YzR4d3FqbHdCVHJNbDYtaTg?oc=5",
@@ -62,6 +160,20 @@
    "published": "2026-11-02T15:36+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "f40f85de5438b155",
+   "title": "リコー、インクジェット印刷でペロブスカイト太陽電池を量産へ：2030年に数百MW規模の体制構築",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1dtQlhDQ1pyekVFemxGcDhTeW5jMk4yZXg5bjhoM19uS1Y3SFNLZFVsSmpKcWIyeHlVcjhWQ3FPVURGVGZBLTltNjJhaG0ySUlWVA?oc=5",
+   "source": "スマートグリッドフォーラム",
+   "summary": "リコー、インクジェット印刷でペロブスカイト太陽電池を量産へ：2030年に数百MW規模の体制構築 スマートグリッドフォーラム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T15:27+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "011f5c954db87416",
@@ -91,6 +203,20 @@
    "published": "2026-11-02T15:16+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "fc1c26495419dc35",
+   "title": "【2026年10月26日】株式会社IHI太陽光発電設備完成記念式典",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklqRDI0N0g5YUN0Wkx3TFQtM08yWWg0UC1wZFkxNEIyM1VzNGVvZGowMXF4NzIyc3BoWGR4X2JsbUViRVpvamFDSm0xd1FJQ3hVS0hYT0M5RFFzVFJXRWRJemk5cTdQcHlTMmxRT0tRbVBNeFlsYUNZYUVRa1dBUkVVYXlHTlhtekExUmc2UDN5YkpPOTdnY0NnYWI0SGlPbF84MQ?oc=5",
+   "source": "相馬市",
+   "summary": "【2026年10月26日】株式会社IHI太陽光発電設備完成記念式典 相馬市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T15:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "73706cd8afa77081",
@@ -234,6 +360,34 @@
    "published": "2026-11-02T14:06+09:00",
    "via": "環境ビジネス",
    "topic": "O&M・保守"
+  },
+  {
+   "id": "3992de087124c28c",
+   "title": "不正アクセスで異常通知停止、太陽光発電遠隔監視「エコめがね」 情報漏洩も",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TcTExX2xaY2ZjSzNYdXV2aU5YZ1RBdUxwUFVWNmZHakI1ajg0SDNBZGtNeXV1VG5VVnh3cHRDVURwNU1MRThfVm05UXg4ZVJmNmNmbmE0VGJiaEJCcGxoLUdkYTAtNGZCYzRZU0hWcmpuN0RkX3dpNjJMdmk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "不正アクセスで異常通知停止、太陽光発電遠隔監視「エコめがね」 情報漏洩も 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "0be208bbda12f5b1",
+   "title": "どんな業界でもソーラーシェアリングに参入可能 UPDATERが支援開始",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLZktmWDAtdU42TFlEcUZ5UjhiUnV2Ni1hOXlIY1FLd2hMN3RrdDFOSDRCRGJjWXhmeW4xcEpBbUNqT1ZJLUhsOXJGV2dsQk9WSTBpRWI1YlpnRjRjQmNhMWlwSWhCUElNYldpci1YalN0VHEtTDk0bm1Kb2Q?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "どんな業界でもソーラーシェアリングに参入可能 UPDATERが支援開始 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T14:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "564f4ce39e776c21",
@@ -397,6 +551,48 @@
    "company": "RIA PARTNERS株式会社"
   },
   {
+   "id": "aa77b79daa61b3f1",
+   "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVUThnZjZLSjVVNW8taGhTWUxkOEQwM1BlZGlzYXNoSU1vS2dwOWRHQXEwQVc5Z1lHc25DY21QYmJST2xHelk5ZTZjaEd6eWxPWk9PUmJZWkpGbFZsd1FjTkVjVGgyc0s4Q1hyUW1xazBZMkpk?oc=5",
+   "source": "日経BP",
+   "summary": "ワイヤー設置による壁面太陽光、ニプロンが実証公開 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:08+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "c8f93645fdf50c7f",
+   "title": "ペロブスカイト太陽電池の国内市場、2040年度に982億円",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS3pwa1AxVHdZVG83X2dSMkdkZk9OdkFnTEsxc29QUjdXVzNfMzBJWGktRExFSGI4VW9mXzhLWExfaU1hME5sZUNrMExYMXVmb3JpMEVud2VYcXAxRkQ1eWNHRUQ0ejY1Ni1SM0FBX2trWGRs?oc=5",
+   "source": "日経BP",
+   "summary": "ペロブスカイト太陽電池の国内市場、2040年度に982億円 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:06+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "526a1774bf817fd4",
+   "title": "共英製鋼、14MWの非FIT低圧太陽光でバーチャルPPA",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fYlVxMW9rYnlEcFR2LW1aVlBJNElZMWd1SVlYSVZmTWlTS0EtUi1jNFl6VmltWTZDTUV5V3doc0dQV0c3NE5GbGtQSk40S2l3VkxvTHlwUXUtMXFicGpCYlhtRU9kQW05NHVmeElxenVJTzZ5?oc=5",
+   "source": "日経BP",
+   "summary": "共英製鋼、14MWの非FIT低圧太陽光でバーチャルPPA - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "7f455995e0f59d6e",
    "title": "【日本蓄電池株式会社】福島県南会津郡にて系統用蓄電施設「NC南会津町田島蓄電所」蓄電池設置開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xUDRaQlpuYTkwZEMwU2dFTnNnYzlJTHFURDYzMDA1UlJTV0FTQ1ZGeWdMeFpMUVNMSkptSVF2d2xNa0pRREw3dGRDb3UtejNxdHR5bjd0dXZPNl9Pb0RQaTg4bTNxbDJ2RXc?oc=5",
@@ -442,6 +638,20 @@
    "company": "日本蓄電池株式会社",
    "via": "PR TIMES 新着（直接）",
    "storage_topic": "その他"
+  },
+  {
+   "id": "cce7953270f9897d",
+   "title": "高崎市のバイオガス施設、地域の食品残さも受け入れ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSWm5pLUxIMGxBb2xkWFF5OXRIMXdMXzBmal9zaWVDZmNybldnWDAxRGZFbU82UkxFU1I3WHFDN1I2NC1rMkVyWXZiWkpjaUxjTTl4ak9tVzhDaTlzVm4xZEF3V29WSkhyU1hjVC10Wk54NzI3?oc=5",
+   "source": "日経BP",
+   "summary": "高崎市のバイオガス施設、地域の食品残さも受け入れ - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:59+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "c6dd6328277c5399",
@@ -786,6 +996,21 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "56dd1db1fe2ec4ee",
+   "title": "航空宇宙用ソーラーアレイの世界市場（2026年～2032年）、市場規模（リジッド型太陽電池アレイ、セミリジッド型太陽電池アレイ、フレキシブル型太陽電池アレイ）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHZVVvZ2dUVWd1OHh6SU5Jbk1HalhuSnZ3U0dDOEtVRzF6SDN3NDRMSHdvS19ERzQ3RUZLWlNvVDhnU2VJMFBYODJ4cHZtbDg?oc=5",
+   "source": "アットプレス",
+   "summary": "航空宇宙用ソーラーアレイの世界市場（2026年～2032年）、市場規模（リジッド型太陽電池アレイ、セミリジッド型太陽電池アレイ、フレキシブル型太陽電池アレイ）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-01T14:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "次世代技術",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
    "id": "3bdeaf840401e556",
    "title": "強化ソーラーガラスの世界市場（2026年～2032年）、市場規模（3.2mm、2.5mm、2.0mm、その他）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVVnhwZzdWT0d5ZE5XUktfaVh2cjJFTmFYZWZORTBJcFRVMFViNXdlRTRCeXR4NXRkTGs1SjVTRFBDT3VZWko4S29DQUttSEE?oc=5",
@@ -813,6 +1038,20 @@
    "published": "2026-11-01T11:18+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "4b48fcc4b1cb9d75",
+   "title": "ジャパンブランディング、系統用蓄電池の構造を解説するウェビナーを11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nM29CRGVhTXpfU0gwNGJ4YlpmM0dJeDhVcHh1SU80YXVpYjZ1aVRwbW1yQmxHcThDRkNHQldBeUx5LW5wSGc3eVRpVnZ5M2l3SWxaRDBZRjUwTXFPV3pKckxQSnE?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の構造を解説するウェビナーを11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-01T10:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "814e82e8fd292442",
@@ -28121,20 +28360,6 @@
    "published": "2026-08-25T06:05+09:00",
    "via": "電気新聞",
    "topic": "次世代技術"
-  },
-  {
-   "id": "a5aa03d16c6f4a5f",
-   "title": "小売各社、蓄電池でＤＲ／東電ＥＰが対応機器１万台へ、新電力は無償配布",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CeE9GQUFiSkJ1eWNHT2M3dkQ4VXdxbkhoNEhtbHJCdDRXU2tpU0g3dFdFaGtGdU91d1RIZHprQm9MdlJJcl9DMVY1Vmo0R1JLRm5HQUhzdw?oc=5",
-   "source": "電気新聞ウェブサイト",
-   "summary": "小売各社、蓄電池でＤＲ／東電ＥＰが対応機器１万台へ、新電力は無償配布 – 電気新聞ウェブサイト",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-08-05T06:02+09:00",
-   "via": "電気新聞",
-   "storage_topic": "その他"
   }
  ]
 }
