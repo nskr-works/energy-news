@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T17:31+09:00",
+ "updated_at": "2026-11-04T07:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,120 @@
  ],
  "items": [
   {
+   "id": "5ad14386024039a2",
+   "title": "太陽電池のリサイクル義務化、「50t以上」の事業用太陽電池廃棄者を対象に",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/04/news035.html",
+   "source": "スマートジャパン",
+   "summary": "環境省・経産省が新たに「「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会」を設置。いわゆる「太陽光パネルのリサイクル義務化法案」の施行に向けて、対象とする太陽電池の種類や重量、具体的な対象事業者の選定基準などについて検討を開始した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T07:00+09:00",
+   "via": "スマートジャパン",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "ebaa4af67d2f2113",
+   "title": "蓄電所整備 日本企業が注力 中東情勢受け 需要増期待",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MzB3SFM1YXcxZWFGeUg5NlF6UDhlb1BoVEpzMkQwbGtQSkd0UmFJei04SDZtajRWT0FNaGpaSkkxWGdiNEJCN0d0Nl9feFp1NlZZc0lpWnR3Zy1xV0dBdkdWRWE?oc=5",
+   "source": "読売新聞",
+   "summary": "蓄電所整備 日本企業が注力 中東情勢受け 需要増期待 読売新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-04T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "903ff39ba354ec96",
+   "title": "PowerBankのカミラス太陽光事業が運転許可を取得",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG11LWEwNkpObkYxTGVXSTVSUVh4LWwxRTV2MFJ4ZUhvbVJncGJyZTF5OWZzNWZHU29iSzhvSjdkWGlydlgxSVRESU9xbVRMYWVEVnJJTEZmUnJzMWVQY0JaU2lqaVhrQzd5QlVTd0RQT09teFlxcjI0Vko4LVNMakFPM1hEVWRZU0Fwc1hfOG5nR01OZUxmano2ZVI?oc=5",
+   "source": "IndexBox",
+   "summary": "PowerBankのカミラス太陽光事業が運転許可を取得 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T00:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "b5fab63073196e0c",
+   "title": "Lightstar Renewables、イリノイ州パクストンで4.95MWのアグリボルタイクス型コミュニティ太陽光発電プロジェクトを計画",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2s1bjFqbzFrUFR0cF9BSXJRa3o1elVmejBLc0NJd1VoU1hnWmZGX1RhRGlnVldoWFVycVVDajhHY3k5dVVfOFV2VzZ2TXJhYXlwcnI3RHc1WnVXQXFrX2t1bXlPME40RVlwdTlTN1JySjFqbGZWZDFtdVBFSFVLLWdfZlgyNGI4VHM1MFFJVldqMEpsckJBemQ2NFkwRnNYQksxWHdsOHI3UEdtU0hNRkVtemxWX1hsRm9PeXp3?oc=5",
+   "source": "IndexBox",
+   "summary": "Lightstar Renewables、イリノイ州パクストンで4.95MWのアグリボルタイクス型コミュニティ太陽光発電プロジェクトを計画 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T00:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "63f16a22224cc1c9",
+   "title": "ワーリー、テキサス州ブルックシャーで800MW太陽電池モジュール2ラインの生産開始 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX25Zcko5d294blJCNlM4NGduekd0eTJzRExCeFE5RXkzb3ZkV0VJN1Iwb3BHZFBKUXdmU0Z4dzFEWEp1WC1TbjVBVkpJbDNRcFVPcHEtLTY2Y291U3RuZ01tcFhFbmFlUlJELVZTU2wzTjNWb1hFeUtKVnNxdC1Wd0tzY1ZSb3dOXzVoZVBaUkNOaEZWSUN6TnYzeF9CZVF2c3djOExfa1FUWVQzX1pfNU5weE85TDQ?oc=5",
+   "source": "IndexBox",
+   "summary": "ワーリー、テキサス州ブルックシャーで800MW太陽電池モジュール2ラインの生産開始 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T22:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "cc9868f036e4ba1c",
+   "title": "住友電気工業、蓄電池2台連携可能に 容量は最大クラスの26キロワット",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ia0FzdHZVQ2o2RW0wdEFCQzllN0lGNlphdlhsRWJudFNIMVluckxUUnItS0JQMDk2TVdsZl9qQVpuTWp3eHg4UHcwenFSOE11QkVhSDZMVQ?oc=5",
+   "source": "online.bci.co.jp",
+   "summary": "住友電気工業、蓄電池2台連携可能に 容量は最大クラスの26キロワット online.bci.co.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T18:37+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "88fe3cf931ee6ada",
+   "title": "【公募】高知県：あき総合病院の太陽光発電設備整備事業者を公募、11月17日正午まで参加申込受付",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sc3VLSmJUVFJOY2tfUFJpbnBuN1FVSlpSQkVxYjZVLXZzOXFJdUVuX01kX3hlSmtLSEIyNXdlWTE0clE5blZPNWFFdjkyUVR0UGNubkVndUtXRld4WWl5TE1lT3RrSnl2Q25IZWpfdl9jdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【公募】高知県：あき総合病院の太陽光発電設備整備事業者を公募、11月17日正午まで参加申込受付 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T18:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "89442e5f740c0d0f",
+   "title": "【補助金】飯田市：川路地区の事業所向け太陽光・蓄電池導入補助を募集、対象経費の3分の2を支援",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45eFlkbmdIU3YyZTF5ODNMZE8weUl2dFJDSUU3UTUyNHJGOGpRQ0NBRjJicWlyRW1nakptUm5aa2NmZVFPUjVsaFVrVnZmZ2x3eFVra21Id3BmSks0OUxuMHJ5Yi1QV0xBTHFwLUVVRFRxdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【補助金】飯田市：川路地区の事業所向け太陽光・蓄電池導入補助を募集、対象経費の3分の2を支援 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T18:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
    "id": "feb582aa596e2423",
    "title": "「2026年から2030年の期間にニンビン省の戸建て住宅における自家発電・自家消費のための屋上太陽光発電設備および蓄電システムの設置を支援する政策を規定する決議案」に関する社会批評会議",
    "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOeGM0STFqV1R0RlRzTGlKV2JiOE9jbFI1LWRvczJUNEdreDlLRWVPNzhxelJ3WGlyV3pFeUNyMi1KV2YwbDY1dFYzQ19XT29xWU1DNFJ6V0JmS2tjWWxBaXFEWGZxM3lScHJCYWFxdFZUMFZBTGNGUnRZT1BiV2dfdEtuSlNBdkxUeEZwdWd3VVpSZ19JUkFJZ01TMEc0VnFZUFFoT3lvUnF6aG4xY2hCdzlGV0NvMXIwVUZsNDJXTmdxSU1sQ2NxRjRBdl9pNG11RVFQaVZlTTl6V1Frb0otOFVqTk93LS15dFJlNnltcmFZUWpVcE1QcHB5NG1DWTdSeFRjLW51V3VoTFdqbmxDYjB6NGZLdWtNQm5uVGdwb2J2MGl2TkV0ZmtIb01DWl9JWHZJZHZyaXNLTzA5bVQ2cUxpZWZBZnl3OWkzaklVSXVJaTJFNWVDaVdaRUlJb211b2dITVRNc3Z3S3o2Vk15ejF5V3R5bWU0WHgyeVVoWk8?oc=5",
@@ -34,6 +148,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用"
+  },
+  {
+   "id": "84c6928667cc96bb",
+   "title": "HelioXが下関市で太陽光発電モビリティの無料周遊体験を実施へ 27年3月末まで",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wdlBDQmQ1TEZrUWJqYnBrcVlsc0lGQldSZUphdkFEelNId3lWNEh0VVF3LXJ6eGZyQkdRc0VwR08wRVJvNTd1Y192amZkWGR2UmVZSFdwRHM2SU9IQjdZTFMtZVVZZw?oc=5",
+   "source": "Dellows News",
+   "summary": "HelioXが下関市で太陽光発電モビリティの無料周遊体験を実施へ 27年3月末まで Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T15:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "ca54b86925acfed2",
@@ -177,6 +305,20 @@
    ],
    "type": "news",
    "published": "2026-11-03T09:27+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f96371c048b91120",
+   "title": "グローアップ、系統用蓄電池の収益最大化を目指すAIアグリゲーションサービス「かせぐり」を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wV1plWEluTmpEUWpvMzRZbG80RnhJUW4ta0pMRlUtNEE5QUFBczNMNi1XN0hPMVQtR2hablN0Z2ZXc01oXy1mTW9ScmdqNTIxRzRsc1UyNFp3bjd3M3NMYXVGcFl3REhv?oc=5",
+   "source": "J-CAST ニュース",
+   "summary": "グローアップ、系統用蓄電池の収益最大化を目指すAIアグリゲーションサービス「かせぐり」を開始 J-CAST ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T09:15+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
   },
@@ -376,6 +518,22 @@
    "published": "2026-11-02T19:30+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "トラブル・地域"
+  },
+  {
+   "id": "fd034c41d77c268d",
+   "title": "【AI・IoT・DX】Gen R.：太陽光・蓄電池向け業務管理アプリ「タイナビワークス」提供開始、営業から施工・保守まで一元管理し電力申請の自動化にも対応",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13M2Mxb2pONU9lY0M3T2ltNHRmQVRiNE5pUGxBSU1CeWhRaEI3TU1FUFl4WjI5Y1Jnc1dWYjFfeWpvR21oaVlBQ2VPMTVJRDFMbnJMX2lJcnBIZlgwcXFXQUZ1LTlQZ3VzZHZ6aG1hZ28wdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【AI・IoT・DX】Gen R.：太陽光・蓄電池向け業務管理アプリ「タイナビワークス」提供開始、営業から施工・保守まで一元管理し電力申請の自動化にも対応 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-02T18:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守",
+   "storage_topic": "その他"
   },
   {
    "id": "bf309ea50b9c1e0f",
@@ -861,6 +1019,48 @@
    ],
    "type": "news",
    "published": "2026-11-02T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "23d55de3cfa07e48",
+   "title": "【表彰】太陽光発電協会：2026年度「ソーラーウィーク大賞」13事業を選出、営農型太陽光とAI活用の地域再エネ循環モデルが大賞受賞",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJNTlqUzVoR3ZncjhtbkV0Y2o4VmdyTWtmNDhlQ0RJUTBOQmhTVlNGT2E1cnd6QkNDOTlaUUFVM1JvQWtha0xSaGlNdGRBT2JaeU41NzFqY3RHYVlmcUZpbHdmUW1teXFIWnFkOGdzYWNEQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【表彰】太陽光発電協会：2026年度「ソーラーウィーク大賞」13事業を選出、営農型太陽光とAI活用の地域再エネ循環モデルが大賞受賞 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "3cbf32674ccc6889",
+   "title": "【ゼミ】Jinko Solar × XSOL：太陽光の競争軸は「発電量・安全性・施工性」へ、合同セミナーに100人超―新型モジュールからJC-STAR対応、陸屋根施工まで徹底解説",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ga0pDVUl2YUVYUUlIYzhHWU43R2VweTZvVmgwMFVGaW5GTTN3YjlSUGtNVzZpQ1ljQ2NHbVZjZ3VqQnlYS0xnV3hFOUt6MGxid1pZZXhhNkh6Z2NFMkRqVnhDWlA3ZlZPZEkxd0ZSZ2Q5bFk?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【ゼミ】Jinko Solar × XSOL：太陽光の競争軸は「発電量・安全性・施工性」へ、合同セミナーに100人超―新型モジュールからJC-STAR対応、陸屋根施工まで徹底解説 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "d14e03f211d4ef18",
+   "title": "【海外】TOYO：米テキサス州の太陽電池モジュール工場を年産2GW体制に増強、2028年第1四半期にHJTセル製造ライン完成へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFVVJOY3JpMFJKM2pJRmtHRklOeDVzWXd4VHV0RllyRFNZZFVMVHA1SVBNVlZkX1ZxNEp0dzBocUhIaW8ydHFTQS0zOTRCam9wb25uanBmVkRHUUJvZTE5akZULUhwV25lT0JVMlBGa1pYQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【海外】TOYO：米テキサス州の太陽電池モジュール工場を年産2GW体制に増強、2028年第1四半期にHJTセル製造ライン完成へ みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:36+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
   },
@@ -1597,6 +1797,21 @@
    "company": "AOSU LIFE株式会社",
    "via": "PR TIMES 新着（直接）",
    "topic": "O&M・保守"
+  },
+  {
+   "id": "ecadc37bd44fd406",
+   "title": "〖AOSU〗AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMC1PZlA2cm4tTGhmTTIzODVzV3o4TWp5OTlzOXlRXy1yaVAtMDA4bDdZb3ZFRDdfXzlfNUtFSW1tYW1CWXZtWml3SElYanctOG1zdU9zUXFPaXFHWnQ3WUVrOG1Qd3NDbGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "〖AOSU〗AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-31T16:34+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "O&M・保守",
+   "company": "AOSU LIFE株式会社"
   },
   {
    "id": "db93f1ba36c37df2",
@@ -3558,6 +3773,21 @@
    "via": "Googleニュース「系統用蓄電池」",
    "topic": "その他",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "275d03f6034ae4fb",
+   "title": "下関市ソーラーモビリティ無料体験｜PR TIMES原稿（関係者確認用）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWElWQVJNcUVabkFYdnFXNTZEMThhSWgyNGRScDdaZ0s2Q0F4NDZvWlJBbVRJOGYtVXc3ZWhFbURsNjFTcUhYMkIwUHJZZzF6OUxuclpmV2ZzLXBpdHlPSmhQVVcyc2pMLTRVSHRCS0QyY082YkdhZlhsbG1FSDlPZ0Z2ZWtDOU1pOGdYd0JB?oc=5",
+   "source": "PR TIMES",
+   "summary": "下関市ソーラーモビリティ無料体験｜PR TIMES原稿（関係者確認用） PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-29T16:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": ""
   },
   {
    "id": "904dbe93bba50098",
@@ -16547,6 +16777,21 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95MksyYm15Z2VzUElQclNXWG9jSDlhSHd2TTdZRjVHZlZzbVdPcDVlakc0bm5obGt1azNZd0d5dmxoaG5GT2JuUk1IelI5cDBoZjMxWEVUaw?oc=5",
    "source": "環境省",
    "summary": "【公募期間延長】令和８年度「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」の公募について（一次公募） | 報道発表資料 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-15T16:00+09:00",
+   "via": "環境省",
+   "topic": "次世代技術",
+   "company": ""
+  },
+  {
+   "id": "9d31940efa248a04",
+   "title": "【公募期間延長】令和８年度「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」の公募について（一次公募）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95MksyYm15Z2VzUElQclNXWG9jSDlhSHd2TTdZRjVHZlZzbVdPcDVlakc0bm5obGt1azNZd0d5dmxoaG5GT2JuUk1IelI5cDBoZjMxWEVUaw?oc=5",
+   "source": "環境省",
+   "summary": "【公募期間延長】令和８年度「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」の公募について（一次公募） 環境省",
    "categories": [
     "solar"
    ],
