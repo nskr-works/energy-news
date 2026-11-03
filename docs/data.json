@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T07:20+09:00",
+ "updated_at": "2026-11-03T11:25+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,62 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "4a8b68e73ddfc8d2",
+   "title": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PYVliZTZvYXd0OGdtNFJYazhoOWNUdVlwSTN3TGpmNmQ5Z1FHTXhmU0Itd2lvLUpvc3BGNFpCOVpkbWpwX1h1X3EwWDdBZw?oc=5",
+   "source": "NEWSjp",
+   "summary": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定 NEWSjp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T10:20+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "83faa99eca7c4ce2",
+   "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "summary": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ 千葉テレビ放送株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T09:27+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2ab2d0e0f9025687",
+   "title": "福島市、メガソーラー規制「妥当」 27年4月施行目指す:福島ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91WmxpNWFITU9IeWgwMHIxWW1ZU3FTVmJDbTBxd3NPRE1DSzNLRHo4TmplSXNIRXF6cjlBYlpER2dFbnE4dUhod0RteC1DbzRVR0FWbVplTHVIal9zVWNsZHVMMlptdTNN?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "福島市、メガソーラー規制「妥当」 27年4月施行目指す:福島ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T07:38+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "c0ba90d5a8603b52",
+   "title": "福島市、メガソーラー規制「妥当」 27年4月施行目指す",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TLTl5SUdUaVRMQThMYlYzSnJPN2lTOGtnRUhodEdNb2dZTHFDWTA3ekJFOWt1ZjZ4Qnlnd1hsbG52NDdWSUVTWTY2NA?oc=5",
+   "source": "47NEWS",
+   "summary": "福島市、メガソーラー規制「妥当」 27年4月施行目指す 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T07:35+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
   {
    "id": "0c03919d4e97eac9",
    "title": "ナトリウムイオン電池は次世代の本命になるのか――資源制約と性能のトレードオフを読み解くウェビナーを開催",
@@ -950,6 +1006,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "236500edbb11b1ed",
+   "title": "ジャパンブランディング、系統用蓄電池の遠隔監視・制御を学ぶウェビナー開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84VFI0cmZWQlpDWndWYzlGQjB3QmpHT0Z5X2Q5bE9jd1IzNkFYZ2hNaWpPNWo0MXhkbXRHLVk3VXZsc2dPQ0p4UU9NTkdlNlByejlWUGZ0VGY2UU1TeWd4MkxQWmQ?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の遠隔監視・制御を学ぶウェビナー開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-01T18:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "747c7ef2febf9b8a",
@@ -1970,6 +2040,20 @@
    "published": "2026-10-30T16:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "2023ba23b850d899",
+   "title": "リミックスポイントの蓄電所、投資回収3～5年 中国地方は売上月1500万",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mbk9nekxIRDRyalZxYndJVFZhZzBGaW9wT1dvaEctamlySHd0MEdNYzg0U21tSTJQbktwa2NrdHRhTXhocGgxdnJ5eXEyeG1sTXlod0FkLWJ2WU56cUV1TmdLSG9HbVd2N3lJcDhGMFhKTWVmZnMwTmVod1E?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "リミックスポイントの蓄電所、投資回収3～5年 中国地方は売上月1500万 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "8d028fbfc6db2403",
