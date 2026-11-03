@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T13:28+09:00",
+ "updated_at": "2026-11-03T14:27+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,65 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "138aea4797260148",
+   "title": "積水化学、通期上方修正…「ペロブスカイト太陽電池」生産技術革新投資95億円",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15WmVlc1p3NG52dkxQc1F5UUlORkFzbG1kZVpueU5JOVZCUXdZQWpGYkNJcEhJeFlxUmxhZWR1RlpEZw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "積水化学、通期上方修正…「ペロブスカイト太陽電池」生産技術革新投資95億円 ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T14:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "cc242ccbe1185b16",
+   "title": "「Gateway Gulf 2026」開催中：Beyon、太陽光発電への投資を加速させ、グリーンデータセンターのポートフォリオを3カ所に拡大すると発表",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tZ19fbDVCM3VOUlZ0dHF3Yk9OOVdTcFlrcnFBM0h2cHR5ak1paVd6aDU2MnpBa1oxdWpja3YzeW1VdS1UOXhVY3N5RGdvd1JSMzVHV2pxejB4M3M?oc=5",
+   "source": "ACROFAN Japan",
+   "summary": "「Gateway Gulf 2026」開催中：Beyon、太陽光発電への投資を加速させ、グリーンデータセンターのポートフォリオを3カ所に拡大すると発表 ACROFAN Japan",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T13:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "bd8fe12a23058768",
+   "title": "関門海峡を、太陽の力で巡る。下関市でソーラーモビリティの無料体験を実施中",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OLWVkUDRjaEJVR2FJclUyV3pNcnNzODkyNHYweEdyMWJrS19rQjI4d3NKYTNGQTUydXdJU1ZEcG1GdDh1WFczcHlpS1lQUHJoT1MzTEVMamo3Yk9ObnRTVG4yWnFGTGJuTEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "関門海峡を、太陽の力で巡る。下関市でソーラーモビリティの無料体験を実施中 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-03T13:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社HelioX"
+  },
+  {
+   "id": "6dc473ee34492e74",
+   "title": "どう守る日本のエネルギー安定供給 岡山市でフォーラム 太陽光発電エネルギーを蓄電する技術の重要性などを考える",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tczQySDRjTG9JeXk3ZXIxUk1zNWtHa1RUWlRBZVphYjVzdXJ0bE5XZ3RVZzFEUG8wZ2pUZG9UQlJmdzdpTklvTE02V3dMa0JGeTZxQW1sSncxQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "どう守る日本のエネルギー安定供給 岡山市でフォーラム 太陽光発電エネルギーを蓄電する技術の重要性などを考える TBS NEWS DIG",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T11:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
   {
    "id": "4a8b68e73ddfc8d2",
    "title": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定",
@@ -46,7 +105,6 @@
    "published": "2026-11-03T10:00+09:00",
    "company": "株式会社サンヴィレッジ",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "政策・制度"
   },
   {
@@ -62,6 +120,20 @@
    "published": "2026-11-03T09:27+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "40cefa2602b0bf33",
+   "title": "東北電、太陽光の再エネ購入し東邦銀の拠点に供給:地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hNS0zNzJMZC1uQjdVd1k4ejI0d1pPQzRjVndSWGNHdTBCbFp6S3djM0JPei0wYVB0TzhzZ3E3ajh3NkU0dHFNa1Foak8yeDFPQTJEYzNjbEx1QnVVRlN3RDBUczliVUtv?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "東北電、太陽光の再エネ購入し東邦銀の拠点に供給:地域ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "2ab2d0e0f9025687",
@@ -90,6 +162,20 @@
    "published": "2026-11-03T07:35+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "50804d4f7290c13d",
+   "title": "中国太陽光発電3Q決算分析：大手8社が合計277億元の赤字、愛旭股フェンが単独で先行黒字化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RbW5zYmRwV3JSV0kwa1NWdl9HNlJsUWk4SDhmTXk2S2o3aDVLMnRNeFNBS0pYanJmVjNyLTVsZDBtbWdCMGhuN25ILVBmYmpOdEcxek1HdmluWnQ0S0tIb0JjVUF4Rm4tb0ltMXJjaGVzS0df?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国太陽光発電3Q決算分析：大手8社が合計277億元の赤字、愛旭股フェンが単独で先行黒字化 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T07:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "0c03919d4e97eac9",
