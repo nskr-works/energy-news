@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T14:27+09:00",
+ "updated_at": "2026-11-03T17:31+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,51 @@
  ],
  "items": [
   {
+   "id": "feb582aa596e2423",
+   "title": "「2026年から2030年の期間にニンビン省の戸建て住宅における自家発電・自家消費のための屋上太陽光発電設備および蓄電システムの設置を支援する政策を規定する決議案」に関する社会批評会議",
+   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOeGM0STFqV1R0RlRzTGlKV2JiOE9jbFI1LWRvczJUNEdreDlLRWVPNzhxelJ3WGlyV3pFeUNyMi1KV2YwbDY1dFYzQ19XT29xWU1DNFJ6V0JmS2tjWWxBaXFEWGZxM3lScHJCYWFxdFZUMFZBTGNGUnRZT1BiV2dfdEtuSlNBdkxUeEZwdWd3VVpSZ19JUkFJZ01TMEc0VnFZUFFoT3lvUnF6aG4xY2hCdzlGV0NvMXIwVUZsNDJXTmdxSU1sQ2NxRjRBdl9pNG11RVFQaVZlTTl6V1Frb0otOFVqTk93LS15dFJlNnltcmFZUWpVcE1QcHB5NG1DWTdSeFRjLW51V3VoTFdqbmxDYjB6NGZLdWtNQm5uVGdwb2J2MGl2TkV0ZmtIb01DWl9JWHZJZHZyaXNLTzA5bVQ2cUxpZWZBZnl3OWkzaklVSXVJaTJFNWVDaVdaRUlJb211b2dITVRNc3Z3S3o2Vk15ejF5V3R5bWU0WHgyeVVoWk8?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "「2026年から2030年の期間にニンビン省の戸建て住宅における自家発電・自家消費のための屋上太陽光発電設備および蓄電システムの設置を支援する政策を規定する決議案」に関する社会批評会議 Vietnam.vn",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-03T16:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "ca54b86925acfed2",
+   "title": "家庭用リチウムイオン蓄電システムの世界市場（2026年～2032年）、市場規模（LFPバッテリー、三元系リチウムバッテリー、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pY1pWQ3puLXc2MTFmaGg2OHltX0owYkpEY3RhMl9CS09pX0c4OFNIU1Q3V0dhYmFPZDR5M1hUTzRQSWYwVzhOUUFGYTUwbjQ?oc=5",
+   "source": "アットプレス",
+   "summary": "家庭用リチウムイオン蓄電システムの世界市場（2026年～2032年）、市場規模（LFPバッテリー、三元系リチウムバッテリー、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-03T15:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "bea6524bc603f62a",
+   "title": "大丈夫？！ 太陽光発電設備等の購入補助",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hM28tSDk3SEMxYk1TRWktblJFMFJPUFlTd1VQdWMwYU0xaHBudEcyQTk2bkxCZjh6ZjFSUFFSTUpjN09IUlRIUThvMmdMaUt6bzQ4TnNYU3plRFE4YldF?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "大丈夫？！ 太陽光発電設備等の購入補助 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T14:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "138aea4797260148",
    "title": "積水化学、通期上方修正…「ペロブスカイト太陽電池」生産技術革新投資95億円",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15WmVlc1p3NG52dkxQc1F5UUlORkFzbG1kZVpueU5JOVZCUXdZQWpGYkNJcEhJeFlxUmxhZWR1RlpEZw?oc=5",
@@ -32,6 +77,20 @@
    "published": "2026-11-03T14:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "e98990863a121b8b",
+   "title": "HelioXが提供する太陽光で巡る新たな旅、下関市での無料ソーラーモビリティ体験",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHd0JIUEhhcFpySGRpWlRycExhT25LUHRHamxieThkUm5UWk1qSm9lRDFNV2ZpakdPTGJoMlBDMGZNRS1hejA0?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "HelioXが提供する太陽光で巡る新たな旅、下関市での無料ソーラーモビリティ体験 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T13:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "cc242ccbe1185b16",
@@ -122,6 +181,34 @@
    "storage_topic": "その他"
   },
   {
+   "id": "564b4062e6f6e2b8",
+   "title": "東北電、太陽光の再エネ購入し東邦銀の拠点に供給",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMXF6U2pQclFWM3p4M1dWT2k0QTE2dkIzQTBNSzJXMzZhSzR0VFdvQkZzT2FOaWZ2WVBucTJRSFhaMDZGV1VycjczUQ?oc=5",
+   "source": "47NEWS",
+   "summary": "東北電、太陽光の再エネ購入し東邦銀の拠点に供給 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "61b3c04c714759ab",
+   "title": "屋上ソーラーパネルの設置準備を始めましょう！",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EVnp4UTFqNWRfeUlvcXVwaGlXZ3FFbG80ZWJBQzlFSVFpSFVNMU14V2dEZFBsaExKZlZJc2xlMEM4bm9BeFNJOTZhUTBYckdGMUtFNUdGYm1SRjFOcW5wZnJ5MFg1QTNhYjBN?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上ソーラーパネルの設置準備を始めましょう！ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T08:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "40cefa2602b0bf33",
    "title": "東北電、太陽光の再エネ購入し東邦銀の拠点に供給:地域ニュース",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hNS0zNzJMZC1uQjdVd1k4ejI0d1pPQzRjVndSWGNHdTBCbFp6S3djM0JPei0wYVB0TzhzZ3E3ajh3NkU0dHFNa1Foak8yeDFPQTJEYzNjbEx1QnVVRlN3RDBUczliVUtv?oc=5",
@@ -193,6 +280,48 @@
    "storage_topic": "その他"
   },
   {
+   "id": "232ad18f5033758a",
+   "title": "【独自】地方企業の電気料金支援へ太陽光単価下げ、業界反発",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlE0am03NkVVaTJGSGJZSzRvY2Y5U3FJOXdvNVFFaFNHUF9lOVNhUjctb05keGxnSEY4X1JaRGZsenZOcGhNaklMMGFqNWdCa0dneUtCb1hraVNvdEg3TzJVSExEbWZiVEItZ2VhNTB6ZVg5aThIVF9DWUptRkZoRw?oc=5",
+   "source": "조선일보",
+   "summary": "【独自】地方企業の電気料金支援へ太陽光単価下げ、業界反発 조선일보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "83328ea013a72ea8",
+   "title": "ゲアン省は、2030年までに公​​共施設の50％で屋上太陽光発電を利用することを目標としている。",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORUZiMl96V3JFTElLZGNQZ05NZ0JOUjRvd01oX3hKV2tTU240a1F4ZzdESkRPSS02eEpUal95RjN4YUdKQVp2eDZ5T3NnVllrYUpwYUh0TFlmUjFGUTdSMGFvYUZuRU9PMWxTX1ZEVGFlVlpRX3dYZDBON0lEUy1vN1FZZ1ctNmczMXM0d3pPTVpCcEMzbU5xNmFxREljY3hCaHc?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ゲアン省は、2030年までに公​​共施設の50％で屋上太陽光発電を利用することを目標としている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T01:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "295042e19ae85d67",
+   "title": "一般向け太陽光設置事業、大手優遇の批判",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lUEFSTExTMG5TaFJDTHBHTjJ1b1dFc0hoTGZobDdDRHE4YjBKcmZ4bDBybUhVV281MUFNbVY2NWQ3X3BHWWc?oc=5",
+   "source": "NNAアジア",
+   "summary": "一般向け太陽光設置事業、大手優遇の批判 NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "ee75ebde133bb9d6",
    "title": "茅野市で年間67万キロワット時を発電 野村ユニソン、太陽光発電の稼働開始",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fLXhvdTM2aFFPQUxsWnJ0NnM3Yy16UVpPQ0NaWWVpS0JnSlpIMlNaa1dWMTNROHZaQldtOWNLdmZIQUJubzlka24zU1hBblZvb1k2UUI1S3k1UHVjX2dwU2R5NE9LSkJNYnV5UTJCVlA?oc=5",
@@ -233,6 +362,20 @@
    "published": "2026-11-02T19:31+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "8caccab94d0a6855",
+   "title": "クアンガイ省は、住民が太陽光発電システムを設置することを支援する政策を策定している。",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXN1cDdLVl9Edk1iaVB4QTlKNnhRREZzZ1l5WVliRFp4bHo2dVFtYlJZVGp2YVRDWmx3OXg4X25fc00tYzVyVTRqaGpWWFRNQ3hLQUpHN21DTUpselE4WlowQmo5ZVRGQlMzb1lrOE9UdzhPWFViakstLVR1ZkRFcXhsWEdMRDhTODlfN3NDNjlyVWdTNzhXSHkzYw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "クアンガイ省は、住民が太陽光発電システムを設置することを支援する政策を策定している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T19:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
   },
   {
    "id": "bf309ea50b9c1e0f",
@@ -276,6 +419,34 @@
    "published": "2026-11-02T18:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "71d3d7917fac834c",
+   "title": "「生活費にあてるため」中四国・九州の太陽光施設66か所で銅線窃盗 被害2000万円超（あいテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14aE5nOFAzZ2V1cW1CeWdTZ0UwOEtnTWFyUHRmVUlYa1I0aDVvbWQ5NGwzVFBMalhzMWZmcDUtb2VBeVRPVkpqS3FwOFFLMFFpNHFrM29wQUtIZVptbzRDd0hlakJpNE5YLWtZVlFvOFV0NENzU2RMcE9xUEl6LWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「生活費にあてるため」中四国・九州の太陽光施設66か所で銅線窃盗 被害2000万円超（あいテレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T17:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "2b728be5cb565a6e",
+   "title": "エア・スップ・トゥオン湖における452MWの太陽光発電プロジェクトが承認された。",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3BJWmlKOElKSmZKb3JOZnMwb2lkdnEybzJWQWRYTWdPdFJTZTNSaElPTVBSc1oyRmxnME5MUzJIVGNOWWlqRHNlV3REZ1VYREVzUnl6cmJLMUhyZlNCWlRxUFVuOVU1ZTFWZVJseUxTMWdfOWJzNV9OMXBld2FFSjV1ZEZiMTdQS2NlbWtxQXhlb0gxbkFzTGdzNA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "エア・スップ・トゥオン湖における452MWの太陽光発電プロジェクトが承認された。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T17:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "3dc30f4f5e808006",
@@ -709,6 +880,20 @@
    "company": "RIA PARTNERS株式会社"
   },
   {
+   "id": "b9eabc63951efa69",
+   "title": "プレスリリース：SEG Solar、テキサス州で計画中の4GW HJT太陽電池工場用地を確保（共同通信PRワイヤー）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVy1OSGJ1clpfM1p6UmRVX3ZCN1dzejBaTGg5dXc5S1pCdmw3VVlVSjRlNEtidXFYbkZUX0ZKZVhHOGdqMHBXUzdrV0VCY215WWtScW9uZW5OYmNqOUVRVC02T3EzeExs?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：SEG Solar、テキサス州で計画中の4GW HJT太陽電池工場用地を確保（共同通信PRワイヤー） 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T10:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "aa77b79daa61b3f1",
    "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVUThnZjZLSjVVNW8taGhTWUxkOEQwM1BlZGlzYXNoSU1vS2dwOWRHQXEwQVc5Z1lHc25DY21QYmJST2xHelk5ZTZjaEd6eWxPWk9PUmJZWkpGbFZsd1FjTkVjVGgyc0s4Q1hyUW1xazBZMkpk?oc=5",
@@ -838,6 +1023,20 @@
    "published": "2026-11-02T09:57+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "183d44b83ffae3f1",
+   "title": "大分県臼杵市：太陽光パネルの下でショウガ、順調に栽培できるか・夏場の農作業が快適になるか…実証研究",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44YVhoVEJRNDIyVDFVTXZ2Q1F6OUtoZWU0MzBnOFhUMHlER0haMXh3UXlaYTFqSzFMNWgwbURUOVdHMU9xNV83Q2hsZHVfUDJBcW5UNC1oNDJBZ0dVUTA4N1Z6NURhZGdoSHlDcWdkV2RpUQ?oc=5",
+   "source": "読売新聞",
+   "summary": "大分県臼杵市：太陽光パネルの下でショウガ、順調に栽培できるか・夏場の農作業が快適になるか…実証研究 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "7e829aa092985ce2",
@@ -1139,6 +1338,20 @@
    "company": "ジャパンブランディング株式会社"
   },
   {
+   "id": "f5adb1f7801849ea",
+   "title": "マツダが三次事業所で太陽光と車載電池を組み合わせ、脱炭素化を推進 (2026年11月1日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMjFTMFZ4N1YwbkdFMWhTQW0zM1lJbVVNWGlFLWxaN1RkNTVIM2g4Y2dOUWFIMXc3MVJZZlRDUEFSNE5Sdml4eE1pclNjdTlpei1SUjktUnh3MmVkTVE?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "マツダが三次事業所で太陽光と車載電池を組み合わせ、脱炭素化を推進 (2026年11月1日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-01T15:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "500eb85166f786c5",
    "title": "マツダ、太陽光と車載電池で工場を脱炭素化へ 地域企業とも連携し再エネ活用拡大",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53S1h2TGxteko3Wnkxcm5KZEpwd24yNjc0OFBZY2NTVG5ZMVJXdTBNMkl0cHNoS2JYWEhSaEdyRkJXSXBKS0FaVjV3RTFMVFhJdTFkUXNUSnNiVTVKaS1Ja3ZndUQ2S2tVTVFUMUoxVQ?oc=5",
@@ -1282,6 +1495,20 @@
    "published": "2026-11-01T08:57+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "80acdba263497fdb",
+   "title": "観客席の日除けになる太陽光発電屋根が受賞！エクソル×福知山市 2026年度「ソーラーウィーク大賞」特別賞",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YNjA0Szlsb0hjZ2dMQVZQdE5TYjBGaVhwZURwR2dUQmo1VVczcnlXbUFsWThOQ2pXOEIxN293eEFFZzF3WjNoSnkzYlZzY1VzWU5ZbmtxMGtGV29uOXc?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "観客席の日除けになる太陽光発電屋根が受賞！エクソル×福知山市 2026年度「ソーラーウィーク大賞」特別賞 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-01T04:24+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "08a4883a3128603d",
@@ -3315,6 +3542,22 @@
    "published": "2026-10-29T16:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "4245ca35d739581c",
+   "title": "【12/3大阪開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新トレンドと収益モデル",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ZHBtbjZCc3ZMOU9aQTZ4T0RJRThsS1RtMmZBN0RHT0E5amk3ZldhQ09qSFlvUXRyaUs2U0hCRTY3WlpfNnE5WlhPeks?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "【12/3大阪開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新トレンドと収益モデル ソーラージャーナル",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T16:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "その他",
+   "storage_topic": "低圧"
   },
   {
    "id": "904dbe93bba50098",
