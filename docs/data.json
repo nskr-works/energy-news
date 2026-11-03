@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T11:25+09:00",
+ "updated_at": "2026-11-03T13:28+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -32,6 +32,22 @@
    "published": "2026-11-03T10:20+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "47b0d77530becfc1",
+   "title": "フジ発電とFIP転換・アグリゲーション事業を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000082.000086244.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社サンヴィレッジ] 株式会社サンヴィレッジ（本部：東京都千代田区、代表取締役 三村 挑嗣、以下「当社」）は株式会社フジ発電（本社：宮城県仙台市、代表取締役 門脇 基、以下「フジ発電」）が宮城県大崎市に保有する太陽光発電所...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-03T10:00+09:00",
+   "company": "株式会社サンヴィレッジ",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "政策・制度"
   },
   {
    "id": "83faa99eca7c4ce2",
