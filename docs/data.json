@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:30+09:00",
+ "updated_at": "2026-11-04T21:27+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,77 @@
  ],
  "items": [
   {
+   "id": "875cc773779016a0",
+   "title": "RIA PARTNERSが提供する系統用蓄電池取引プラットフォーム「BLUEHOUR」の魅力と特徴",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPbVlSMEdJdDQ4Y080blg0QnJDSDhidjUyNjhxUTdqaGFrWEhsMVFZQ0NJdVFtZ0J2cTNORHZnX05ObDhURWh2R1hNd2NNMHpfU3BjOFV1dHFod1NhLVl6Vk55S1Nsdy1hcEJqX0tMSjcwZw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "RIA PARTNERSが提供する系統用蓄電池取引プラットフォーム「BLUEHOUR」の魅力と特徴 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-04T21:09+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d4c31bee2ecc3492",
+   "title": "マツダ、サプライヤーにも自社拠点太陽光発電の余剰価値提供 再エネ導入強化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05RFdlZmFoSGlJZjliZUEyWVZ3NHJPbDhEcVhVcXItSWpoY1ZzNDBCbDN0V0VZVVlrVnBhN2hraFpER0d6TWpBVks5X1ZCWVU3b3VJLXBCVThfMm04bTdmVy1SWXlhWXU3RlNFVThxU2hQcU5mampGLUo5SHU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "マツダ、サプライヤーにも自社拠点太陽光発電の余剰価値提供 再エネ導入強化 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T19:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "f24daaffdeebf069",
+   "title": "蓄電池のBMSは何をしているのか――数千のセルを個別に見張る仕組みを読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTXUxUFhQU2dsSExNS2ZSa1ZPREhGVGFPanN5aWhfR1B1N2FvczZaQ3hTalJWa2NhSV9qU1dOMUhvVnJaeFhFVnRMb0RIVVNsMi1fbGxFaHJCdnhSaTZIellWYWZSVmg4MFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電池のBMSは何をしているのか――数千のセルを個別に見張る仕組みを読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-04T19:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "d9f9e2c818e3207e",
+   "title": "丸木美術館 太陽光発電でクラウドファンディング／埼玉県（テレ玉）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWXM4bnBfTWtSMkMyTnNRUTdKSW8zSjFTM1V5emtNcE5qckZjM2x0ckZNSlB5VHpYbUxPN0pEMHByWVl2bVIyVEdyOWVTRkl1S0FLSWM0TzBLaXdVY1dxVVQ1RVV5ZHpoV3BNZjdPcFJrcThRQW11V3lDTVBFZ2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "丸木美術館 太陽光発電でクラウドファンディング／埼玉県（テレ玉） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T18:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "7c8b4061ce2a8e5d",
+   "title": "福島市 景観条例改正でメガソーラーの規制を強化へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15anVHdTBLS3pKc3lhTVhvdnJlVDBsbEkyTzJ6bUphQjJRVjFkazhDbmM2OGZULVhPdVRaczJHVFlSWlJjOGRRMmNja1JzbXBKYXRiRTV4bjlTUlZ5RFo0?oc=5",
+   "source": "NHKニュース",
+   "summary": "福島市 景観条例改正でメガソーラーの規制を強化へ NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T17:50+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "aea1ab3a81f6c248",
    "title": "ログハウスのBESS 新たな旗艦店「BESS Q TOKYO」を12/5（土）オープン",
    "link": "https://prtimes.jp/main/html/rd/p/000000103.000060911.html",
@@ -32,8 +103,21 @@
    "published": "2026-11-04T17:15+09:00",
    "company": "株式会社アールシーコア",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "2fd7aadc71c22f31",
+   "title": "商船三井／シャープなどとケニア支援、太陽光パネル420枚を輸送",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KNFp5WG1NTVNFZE1uLXB2Z0haT0VJVjBYZHNtb3RKRVEyNTVGZlAtSVh2SEpaU1NRNmdCTTJnMWxteFZPSEFmZTNJLVdyR2tHek5lVA?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "商船三井／シャープなどとケニア支援、太陽光パネル420枚を輸送 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T17:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "7c466beb985309b3",
@@ -107,6 +191,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "d928a5298fb3ee4f",
+   "title": "再エネ電源ニーズに対応 東京ガスが協業で太陽光発電約25MW確保",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XN0c4TS1iVGJEaV9XX29WQ3pwT0VRc0hqUEh1MjRYU1M4WUctUDlYSVJMQ0tNWFZYRXJZSTV3VHB1dUc1NUxNOHBDOVB2X0E1YWtPY0RNTXN1VmU4NG96QWIyMHFJZ2JOdWVWRUNxY0FNMEVudTJWUXpQUk8?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "再エネ電源ニーズに対応 東京ガスが協業で太陽光発電約25MW確保 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T14:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "58cdb34d2c698898",
    "title": "シャープ・国連IOMと太陽光パネル寄贈プロジェクトを実施",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RR0N0bzZZWWZSd1RCUUtaNGFQU2NoYTd0QVhfa2c4ZlBNRG9RNTF4ajljMlJ1N0FiNGxTM1dvUkpnMFhWZjNYblRXVG1qMVY0eDlUNFlRWVM0eUpiaGZHdm9Icmw4NHYwZ1E?oc=5",
@@ -135,6 +233,78 @@
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術",
    "company": "一般社団法人静岡県環境資源協会"
+  },
+  {
+   "id": "967df8cd2804c088",
+   "title": "太陽光パネルのリサイクル、50t以上の廃棄事業者に義務",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SQ3lXdE1uRV9sVzZzdlV2a3hMTkhQS1k1ZEJTbkZJWTN5dFpBcHQ1R285NlYtWnFtR1BydkRlN3BPT28zQjdmXzZNWUxzWWQtVGxXYTktMnlaQ01oVk4tWE5tbkg1Y3lONThZc0RXRVhYQU5T?oc=5",
+   "source": "日経BP",
+   "summary": "太陽光パネルのリサイクル、50t以上の廃棄事業者に義務 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "9d7047f3c4da48af",
+   "title": "千葉・幕張で新エネ展示会、「低圧系統用蓄電池」が活況",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR25pXzNMc1NqSmdWa3Q5dFRpOXBVaGVPbUZKWDd2d3JNeWtzSENraEcySlQwQVI2Zzd3cVh2TUxVYXYwYkRnS3RKdGZrTG1PVnRlQTM0cDlxV1FrMWdzWjBWR1c2WDRkZmlyaXp4ZWx1RkpBR2YzelplOXc1M2VUMVEySTg3azFKa2dnSHlXX1U5R1k?oc=5",
+   "source": "日経BP",
+   "summary": "千葉・幕張で新エネ展示会、「低圧系統用蓄電池」が活況 日経BP",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:42+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "024303a24b82e2dc",
+   "title": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5",
+   "source": "日経BP",
+   "summary": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2d1d04af2ed08250",
+   "title": "都内複合施設でグリーン水素活用、屋根上太陽光で製造",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzQ1NEbzVLTV9GcWkzU3RlYXZIcHh0YzIxeEJ3TmJET1pqVHZ3b2g0MTFmYU5sTVZ0SEVSak1fa29ra3FaU3VOb0RxY29kTnpHRk5uZDhSWTZ2QldzdTJfczY2RE1lVEM0QlNYSHpjdjlMa2Zi?oc=5",
+   "source": "日経BP",
+   "summary": "都内複合施設でグリーン水素活用、屋根上太陽光で製造 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "7867369f8e0bc07d",
+   "title": "マツダ、オリックスのPPA太陽光でCO2削減を加速",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrRC1LeHh5a3R6aEdiWjZVdkdpRlhDVXJONm9wZDN5dUxIcThSSGNiMGpyXzAxNnEyUTdkY3pQR0tTNFdUbkRmNklwWU9tZHlQWkwwVzdXRGU1Mm1WRXl4YXJwVHFoR0h0ZDd1aEtDVS1vRXZj?oc=5",
+   "source": "日経BP",
+   "summary": "マツダ、オリックスのPPA太陽光でCO2削減を加速 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "20bd0f1eb2bbd403",
@@ -502,6 +672,20 @@
    "topic": "政策・制度"
   },
   {
+   "id": "a444c976138f9102",
+   "title": "タンデム型ペロブスカイト電池量産化へ 長州産業",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82TGFWQXdLSVBHMFVsRFR3a3l1NlNDLVg5SEE5U20wN0ZRbDA3bGVRS0pOSnVPR192anVWVExlN1oyX0lLVmNhbE5DZTNVSkJHTnloZ2dyRVJ4Ym9BTzNfaUw3TzBPbVBzY0tndDBHNWdzNzE4Vm93Ty1YNA?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "タンデム型ペロブスカイト電池量産化へ 長州産業 環境新聞オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T07:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "ebaa4af67d2f2113",
    "title": "蓄電所整備 日本企業が注力 中東情勢受け 需要増期待",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MzB3SFM1YXcxZWFGeUg5NlF6UDhlb1BoVEpzMkQwbGtQSkd0UmFJei04SDZtajRWT0FNaGpaSkkxWGdiNEJCN0d0Nl9feFp1NlZZc0lpWnR3Zy1xV0dBdkdWRWE?oc=5",
@@ -528,6 +712,20 @@
    "published": "2026-11-04T05:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "6260ac4af82e1dcd",
+   "title": "プリモリス決算発表、太陽光発電問題の解決が近づく 執筆",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZkZ2ZUlTVllXSDI3YmRRWHRKTFVhaTlsaURKNzBBZ2tGLWp3R0VacnhaZ2o3SENfT1E4YnRqNnRRbFNsTVNWSXpjaDlqU3NvRWJwckI0OFQ3Q3ZRM0dSaUdYWDVnbnhUUXhr?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "プリモリス決算発表、太陽光発電問題の解決が近づく 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T03:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "aff23bb86973f8df",
@@ -584,6 +782,20 @@
    "published": "2026-11-03T22:21+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "cef9dfcf3f6e2dc1",
+   "title": "ドイツ最新の太陽光入札、143件のプロジェクトで288MWを落札 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEJwZTBGZGpNdDNvTEhJemxGN2x4NElhODUwM1ZObHE4eTNQejFtZGVYLVJDek52MGd1a3Q0cnNFWklvbEdHNWFVSzZVZ0UtcXJBMF9GS2l1TVktUTRWVVp3ZDBZVmdSaDIzNHZxcVVOWVgxUUtqX2pYNC00QkFvaERrYkFxZ2lSalN2dXN4S1NhbFFBYzFCUTJfVC1EUUliekZDS093VDI4NGxFRW5RVWZhVF9YSVFzd1Fv?oc=5",
+   "source": "IndexBox",
+   "summary": "ドイツ最新の太陽光入札、143件のプロジェクトで288MWを落札 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-03T21:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "cc9868f036e4ba1c",
@@ -1519,6 +1731,20 @@
    "published": "2026-11-02T11:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "960ac9f4c397c509",
+   "title": "高知県立あき総合病院 太陽光発電設備整備事業プロポを公告",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlJHcl9lRmpzMHpvSXZTNGU5Ynl2OW1CcTVGR0RuY2dCMERNd05RQnJhWTdGNE5kc29ON3UzRTBkWTMwN0QtT0dLdFAyMm9IVFdmang4MXczZm1ZODJxa2dwV2FhVndGZ0hreERtbWFsOHBhMlFlWUsyWEdaeGgzSA?oc=5",
+   "source": "建通新聞",
+   "summary": "高知県立あき総合病院 太陽光発電設備整備事業プロポを公告 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "23d55de3cfa07e48",
@@ -3629,6 +3855,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "e168ad65a55eb3bc",
+   "title": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入 -サプライチェーンおよび地域で創出した環境価値を有効活用-｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zeDBybjZoak1UUVZ1aUxfaHFBTW9EZGJtbGo3YjF3SkNON0hPREJCRkdtUW0yNVlIMHhJcE5qbHhoeWwxRk8tbWFfNk9QblVpUHVveTMzWFFYS2l4ckIyRzZ2bkluRTg0b1lCUnlR?oc=5",
+   "source": "東洋製罐グループホールディングス株式会社",
+   "summary": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入 -サプライチェーンおよび地域で創出した環境価値を有効活用-｜ニュース 東洋製罐グループホールディングス株式会社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T11:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "5942f621ac817d06",
    "title": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44OEo5OXk3V1BUYXQ3ZXJ6SzhZSHhZTkg3NXhwWElNXzNqODJpSWF5bG5oVS12eVRvNjZ4NlZPZGh1UHc?oc=5",
@@ -4042,6 +4282,20 @@
    "published": "2026-10-29T21:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "5be08e8e53692cbc",
+   "title": "JR西日本、中国電力と蓄電池事業に参入へ 遊休地を活用",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YnZFZEpXbVNNdGd2TExuNkdsUC1oTnBINURvQjRnMTBYTWJoV0k4SGxhdjFhRmxqdG45VnU1YUR0M09lRHliTnYxbmRxM3ptbXBhRUFOaDVUUTlJb3hyY1JacUU5a2xKRE1MXw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "JR西日本、中国電力と蓄電池事業に参入へ 遊休地を活用 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T19:45+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "4e37b80ce1661c4f",
