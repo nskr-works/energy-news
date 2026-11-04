@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:58+09:00",
+ "updated_at": "2026-11-04T20:30+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "aea1ab3a81f6c248",
+   "title": "ログハウスのBESS 新たな旗艦店「BESS Q TOKYO」を12/5（土）オープン",
+   "link": "https://prtimes.jp/main/html/rd/p/000000103.000060911.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社アールシーコア] ログハウスの「BESS」を展開する株式会社アールシーコア（東京都渋谷区猿楽町、代表取締役社長：壽松木康晴）は、BESS多摩展示場を移転リニューアルし、全国30か所のBESS展示場の旗艦店「BESS Q TOKYO（ベス キュ...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-04T17:15+09:00",
+   "company": "株式会社アールシーコア",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "7c466beb985309b3",
    "title": "アドソル日進、東京ガスのエネルギーエンゲージメントWEBアプリ開発を受注",
