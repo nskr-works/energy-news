@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T00:43+09:00",
+ "updated_at": "2026-11-05T10:45+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,381 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "f51747b71804af2f",
+   "title": "次世代太陽電池の社会実装に取り組む「株式会社PXP」との出資契約締結について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tOVVzdm5VcHZ2WDhMRnl6M1VFbGU0amZqajFMOUF4VUVQZkozTTNoY2xKZlloa3lkbTdmM21LdTkzNkE4TkdBSDlIZENpVEZPMHdmeGh4N2hpeDJiNXF2QTE2YXF1VE5wMUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "次世代太陽電池の社会実装に取り組む「株式会社PXP」との出資契約締結について PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "company": "東京ガス株式会社"
+  },
+  {
+   "id": "4abdc201b3b826ea",
+   "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsYlBadHpNTFVQVEMyT2o2QVlFV1dDeHNFQ25YTXBRTTR1ZXlJd21ja09uMjBkXzhJbE02QmZFalhUNWduU0lHa2lxX1FYVW05dEE4eDI3TnRLS1QycG9rZ2VxNGVHV2Z5QU1J?oc=5",
+   "source": "時事ドットコム",
+   "summary": "SUNPIN、45MWの滋賀大津蓄電所を系統接続：時事ドットコム 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:16+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "450c1c428aa2f21a",
+   "title": "ヤマダHD、初期・月額0円の太陽光発電サービスを開始",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wZmduLXZyazFEX1BWelIxY0xVZXFiT1haMjlod1VCQkhnc2YtZjBYdWFKNnRqM1hSdDQ5VS1nU09mRXJjTDRwOC00RHMzRkhRdzhJ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ヤマダHD、初期・月額0円の太陽光発電サービスを開始 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T10:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "bd7635fb33cca25c",
+   "title": "「ポスト系統用蓄電所ビジネス」と題して、株式会社H Energy/株式会社悠Green/環境エネルギージャーナリスト 本橋 恵一氏によるセミナーを2026年12月9日(水)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9taVN0cTV1Skd4OW5KUFhpbGktT3gzTTBEWUVMd1R6OXEtS2FJMnZXMDdmUEtXX2hXS3A2RUtEd0U1SUd0SHZYbko3VEFwM3pOWVJHd3dlNU81LUhNUUd4c1I3MVltT1JJbFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「ポスト系統用蓄電所ビジネス」と題して、株式会社H Energy/株式会社悠Green/環境エネルギージャーナリスト 本橋 恵一氏によるセミナーを2026年12月9日(水)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社 新社会システム総合研究所"
+  },
+  {
+   "id": "c31a2d66fdb2f841",
+   "title": "NEXTES の蓄電池が“地域の防災インフラ” に",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YbkxHaDlydXJybExNWE5zLVpKempUb1NxeXZVRXJoUWo5QUtibUpGN2plNjVSQ3VCYjhJTC14VTgza0VJMktwY1JYeF94MV93emtqdG05ZlhhN01wMVhaMEprTUtfZmtIbkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "NEXTES の蓄電池が“地域の防災インフラ” に PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社NEXTES"
+  },
+  {
+   "id": "9cc6a4b058632a37",
+   "title": "初期費用・月額利用料0円で太陽光発電を導入できる新サービス『太陽光00（ゼロゼロ）』",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OWmxLLWxacmE5THRMTkJIalZWZjF6akgxNThSbkcxVDJoYWpZbGhzdlQ5b1VqYVMzTlY2RnBVdDdHRGxkUlNXUVBiUUt1eEpXTGw3eWxrNmczamFuYXNwWGxVSklqblNjTXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "初期費用・月額利用料0円で太陽光発電を導入できる新サービス『太陽光00（ゼロゼロ）』 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "company": "株式会社 ヤマダホールディングス"
+  },
+  {
+   "id": "8d10e64158112bb6",
+   "title": "グリーンアライアンス、仙台市と「太陽光発電の普及拡大に関する連携協定」を締結",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PbHVPalg1NGhaeG5UYS1LeUZ3UlBhS09EVER4VlNLQzc4Qjc3THpSd3NqdGVhdU96RzAtdlZxa3AtX3VsanpKeExDTi1ySEM1eURmU0ZJMkEtYjRtMHZOSEZLWHE2bzBmZlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "グリーンアライアンス、仙台市と「太陽光発電の普及拡大に関する連携協定」を締結 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "company": "ハンファジャパン株式会社"
+  },
+  {
+   "id": "cb0b19fffd50a14f",
+   "title": "【11/18～11/20】Carbon EX、インテックス大阪で開催される「PV EXPO［関西］（太陽光発電展）」に出展",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55M3FVNm5MLU5OOHRaQzRLWDR6ODkxb1dOc3kwaFMwU0c5NlE4VVFKalpKMnJSSUxXYnA2X2VHUVBaWEY0aHRjZGxQajVNSGQ4cDA1RWR4WFBCdzVBSE14X0xhLWxmU3pLQkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【11/18～11/20】Carbon EX、インテックス大阪で開催される「PV EXPO［関西］（太陽光発電展）」に出展 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "company": "Carbon EX株式会社"
+  },
+  {
+   "id": "87efe0c9213daaae",
+   "title": "建材一体型太陽光パネルのモノクローム、電力サービス「モノクローム電力」を刷新",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiNm16ekJXYUtDQTRESTQ0OXhnbWgtMDMxeEVJcHVoRS1HUkFXRDJoV1hpVm1OQlRza0ZFUjYwQXVEWHZWcTdsVzBCVWtUUjFUYzNqLThTNDZUWWdWcTFYTUFSX2tMbjFndkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "建材一体型太陽光パネルのモノクローム、電力サービス「モノクローム電力」を刷新 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "その他",
+   "company": "株式会社モノクローム"
+  },
+  {
+   "id": "5d31a81fa87c2954",
+   "title": "パン・チルト操作不要、手のひらサイズで水平180°をカバー。EZVIZ、ソーラーパネル付き防犯カメラ「CB30 Dual Kit」「HB30 Dual Kit」を発売",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVExsRHRxSVAzYjdYTVVEZTRmV3c1aGctalJLZkRnRTRmVm5jNnZIdTI2NEdHVUc0VHlDYzNvc2RjMkIyMDlCZmJRaXRzNjRrNEF2cjBMVnc0LTRsSkNLeGdUQ2FLbU5yakE?oc=5",
+   "source": "PR TIMES",
+   "summary": "パン・チルト操作不要、手のひらサイズで水平180°をカバー。EZVIZ、ソーラーパネル付き防犯カメラ「CB30 Dual Kit」「HB30 Dual Kit」を発売 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T10:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "Hangzhou Ezviz Network Co.,Ltd"
+  },
+  {
+   "id": "78f2b6b1ec29f97f",
+   "title": "グリムス－急騰 上期営業益25％増 電力小売の収益拡大や法人向け太陽光発電が寄与〔DZH 個別株情報〕(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXlGdU1JdEdnZzFkdnNTY0o5NE5yelZWNHNjVUs1VzRhdDlGR3lfMmNkV3VQYS1BTVpUd2xsUS11NlNWWUo0VDktejBTbU9mMkFWRWdtS2R0dDJCLVZXMGdLYWRaQWpUNndMWTNFSVg1T3FKYWRKU3FxM3JfTm56bkVDVThlcVk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "グリムス－急騰 上期営業益25％増 電力小売の収益拡大や法人向け太陽光発電が寄与〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "36ff39ddae64c19f",
+   "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQ0gyVGp6YjhGd0x5elZKOF83N1o1QXNOb2VhSjNNekJDSGtyX0I0eXhTVFhGZnNEQ3dYWnF6M05WaUZrREkzVGRhUlhBcXNSUzNXOFlTZnZrbURlMVhpZ0hwX1h3TzBJbUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-05T09:50+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "038a1a95ee599901",
+   "title": "サンランの決算発表、借入コスト上昇が太陽光需要を試す 執筆",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zd0dFd2N6QktuT2ZLMUp0Z0JGRUhIX0Zhc3R3NHV0Q3pJcUFxQXQzQnNyUjlucjFLRXktbkFCVXZXSmRSVERpaHREQVNNMlZZUVAzRkQxbmlmc0xGSGIwT3llc2hVdVhjX1pv?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "サンランの決算発表、借入コスト上昇が太陽光需要を試す 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T09:32+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "0f453fbeb849f8cf",
+   "title": "「第9回［名古屋］カーエレクトロニクス技術展」に素材の評価から完成車試験まで幅広く支える、ウェザーメーターやLED疑似太陽光照射装置を実機展示",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EM2VTbFlBQ2VKdUxGdTZiUGRjSV85U1NRcTNLN1cxU3JvWDQ0UkMyb1pQRE04cmlWby11b3R3VnZVWlhQMHU3RmtaXzhoeWRFS2tXYm92VGtlLXJNRXV0bDZIMEE3bEptakE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「第9回［名古屋］カーエレクトロニクス技術展」に素材の評価から完成車試験まで幅広く支える、ウェザーメーターやLED疑似太陽光照射装置を実機展示 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-05T08:48+09:00",
+   "via": "PR TIMES（太陽光）",
+   "company": "岩崎電気株式会社",
+   "topic": "その他"
+  },
+  {
+   "id": "4162c6be2deaf901",
+   "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ（福島民友新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54allWNzZJTHQ2VkZ2cVI1czR4TTk5ZXR6S2dsTEkxWmVVYlJLb0xRYnJyaGN4YUdTT1cxUHBFVXlTeDU3OTlNcXZ2WjJQdDBWWHdkQ05nc3JTbVgxYnBTRkNOSzJKa1ItdEptRWk0Xy1GTGZsQi1IdU1CNFpIdGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ（福島民友新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T08:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "2ae1bc11ffea401c",
+   "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続 | 株式会社SUNPIN JAPANのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZ1NWS3g3bEJibUpZRWhpeG5PaU0ybGhERWttYVJOZmpTaDh0YmJqS3FFbS04TTBHV2F1Wjl1UW9hYk91cDRETHpFTWRRSm9KdDFFeW9NV2ZkRWlVQmZoYmZNZnM5OUt0Mmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "SUNPIN、45MWの滋賀大津蓄電所を系統接続 | 株式会社SUNPIN JAPANのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-05T08:03+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "高圧（特高含む）",
+   "company": "株式会社SUNPIN JAPAN"
+  },
+  {
+   "id": "a2af1043bfcbc95d",
+   "title": "世界の蓄電池導入が急拡大 政府目標は追い付かず、日本は未設定",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUEtzY3hiSlhLb3ZJYTQxU3U5S19GR1g0T3JkcG1xcGs0R0k3cHZTaEJBS3lkTk94bFRRWDJVSVRLdjRiLU9zZDEyVmIwYjRoMVFfM29uMFBuQQ?oc=5",
+   "source": "Sustainable Brands Japan",
+   "summary": "世界の蓄電池導入が急拡大 政府目標は追い付かず、日本は未設定 Sustainable Brands Japan",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T08:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9e9fce9c90c2812b",
+   "title": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhQmR1YnY3U1hsR0JsbG1DY1pERUtTWDdhWlk1d21RaUxEMEF1ZWRyRGhnR3JMVmV3NGc4dXU2ZHhlQlg2SS1NeHBia2JJMi05WlFPZWhrb20yT09Yd2VFZw?oc=5",
+   "source": "Infoseek",
+   "summary": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給 Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T07:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "8576bde493833975",
+   "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRWI1NmF4UnFwaWhtNURVd0E5cDNTZHNWNVF3eUJFN2ZiakE1T2lNdk9mSGZ0ZlVlaEdHZWhld3dqc0plRUR2NVI2T0lzTTlKSUJSY2dqSk83V2daU1cwZ1lJamVmQzZo?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T07:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "8f424f5f7bdf2942",
+   "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/05/news033.html",
+   "source": "スマートジャパン",
+   "summary": "東京ガスは2026年11月4日、家庭用蓄電池を活用した機器制御型デマンドレスポンスサービス「蓄電池ネットワークサービス」を拡充し、蓄電池から電力系統へ放電した電力を最大70円/kWhで買い取るサービスを開始すると発表した。",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T07:00+09:00",
+   "via": "スマートジャパン",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "0a6cb75ad8f99cee",
+   "title": "家庭用蓄電池から系統へ放電、最大７０円で買取／東ガス",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9za3oxZkxqaDZYU0VYZ2VpQy02WEtwWDl1MjFpVWVfSU12dkpxdHhLeUgtd25yOVR0NE5BbjYzSzJlTTVuQVFOQk8wU1NvSF9pQjJoOWFvZw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "家庭用蓄電池から系統へ放電、最大７０円で買取／東ガス – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T06:01+09:00",
+   "via": "電気新聞",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "afd1e735e8091109",
+   "title": "2030年代、太陽光パネルの“大量廃棄”が始まる。エヌ・ピー・シー（6255）、作る装置から「壊して再資源化する装置」へ。サニックスが積み上げた設置実績が、この小型株の将来の需要になる理由｜日本個別株デューデリジェンスセンター",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzZjVaaElLblhpaTluTURkRkRfdFdQX1lxN0RKS0xnMGJmTWJ2MHZJNzZMNUkxVm9sckxzTXhFY3ByYnZKZVN5d0NUNjNQY0NjRzl5VFVzWmZnRDQ?oc=5",
+   "source": "note",
+   "summary": "2030年代、太陽光パネルの“大量廃棄”が始まる。エヌ・ピー・シー（6255）、作る装置から「壊して再資源化する装置」へ。サニックスが積み上げた設置実績が、この小型株の将来の需要になる理由｜日本個別株デューデリジェンスセンター note",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T05:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "76fe4bae7958d435",
+   "title": "【クイズ】パナソニックHDのガラス型ペロブスカイト太陽電池、量産品の品種とは？：クイズで学ぶ！ モノづくりトレンド（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qN1loODhzVC1ocldEMTdMVWJIOU9GV3Z2NHVWUjJXZktTOV80aFNpUnQzOE95dFJNMGhPOW9aNDJJM1NVaTVTNDhxLUVEemF6ZTZMM0cySU9DNEYycE9tMllVRkIxeWY3SEhzajBhdw?oc=5",
+   "source": "MONOist",
+   "summary": "【クイズ】パナソニックHDのガラス型ペロブスカイト太陽電池、量産品の品種とは？：クイズで学ぶ！ モノづくりトレンド（1/2 ページ） MONOist",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T05:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a14a784da51dcc39",
+   "title": "除草は年5回に増加、金属管で盗難を抑制――茨城・石岡の通信系施工拠点のメガソーラー - 探訪 - メガソーラービジネス plus",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ESlB4Z3RKRnRMZGZQT21vUzFPS3M4eG1FdGNpWFBJeUF6WWNUaDMzTnBuaGlPLTFmSmNnczZrTDZLRTlJd0h0WUR3M21wTEVoMUpQMHFRaUdXbFVhREhfX3c0NEFuRHJvRmhTRG54eU5mN00welR4cQ?oc=5",
+   "source": "日経BP",
+   "summary": "除草は年5回に増加、金属管で盗難を抑制――茨城・石岡の通信系施工拠点のメガソーラー - 探訪 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "61bd7799cba2a2ff",
+   "title": "ヴィーナ・エナジー、2025年度長期脱炭素電源オークションにおいて NRE中川第二蓄電所が落札",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Wk1Id081aThKM3ljWmp4b0RYR2hmaW1keVF3S0M1bmZtMndQclZ0Y3BPWjZHeWFpbUFQdDZ0VlI1UHRnLW80dklrbGxicndIQTN1RGVLV2NPTTg?oc=5",
+   "source": "朝日新聞",
+   "summary": "ヴィーナ・エナジー、2025年度長期脱炭素電源オークションにおいて NRE中川第二蓄電所が落札 朝日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:31+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "90f4eccc673cc519",
+   "title": "ShoalsとArray Technologies、株式交換による太陽光合併を発表 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjFyQWNUbjFQdVc0LVBBTzhoQmhTRGo5cktpbC1mVDliVEtndG92NkVVSjJ2S3lhLVd3bFBFX25WVXdlUlJObTBfeFY1REttSkY2b042MXlwbXZmUE5lOTQ3NFBqZjBJMG5JdmRMUkdtQlR0TVlOOGk0Mk1DRGtDZ3lRZTNpaFd6Q09nSWw3RC14NkZiRzlkb011WTFiY1pNQm9HdVVWRVh4dw?oc=5",
+   "source": "IndexBox",
+   "summary": "ShoalsとArray Technologies、株式交換による太陽光合併を発表 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T00:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
   {
    "id": "29edc3d50de6f24d",
    "title": "中国の太陽光推進がチベット高原の伝統的生活様式を一変させる",
@@ -331,6 +706,20 @@
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術",
    "company": "一般社団法人静岡県環境資源協会"
+  },
+  {
+   "id": "1505f44cf7fb0dd0",
+   "title": "ペロブスカイト太陽電池・水素の最前線と、地元金融機関、メディアの視点から「GXを地域企業の成長戦略に」を考える。12月1日（火）まで参加者募集 ― (2026年11月4日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CY1ZRN0lHSmdhaWduSXFONVdhcHVKOG9YclBDb1hqTVFCb0g4NVZCQkRJV2lSNFBUWkZUV0drLUR2N0NmSHEyV1c4RTdfNnpsbUM5TEZwSlBOeFRaX2d0aU93?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "ペロブスカイト太陽電池・水素の最前線と、地元金融機関、メディアの視点から「GXを地域企業の成長戦略に」を考える。12月1日（火）まで参加者募集 ― (2026年11月4日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T13:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "967df8cd2804c088",
