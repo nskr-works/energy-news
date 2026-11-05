@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T21:41+09:00",
+ "updated_at": "2026-11-06T00:45+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d9ce74abc3aae7a9",
+   "title": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkpzQVV5SzdoUXdsM2hjeTQySmx5dGNzVTAwcGM4VjZaQVBXQTBQXzRCOFFHRWR3ZWField5SHZTaEwwVUhwOW83VmFVTjhES2JCV1pobXNGaXBtYlN5Y0o2eWxCR2xfYWtYUE9xLXE0Q3RUODJtMzloY01sQUMyOFhYLXg4OE5ZNEpxZ09RYV9aeDJnc2xnR3diVUJFUXc?oc=5",
+   "source": "IndexBox",
+   "summary": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T00:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "69befbbe100a8876",
+   "title": "オルタナバンクが新商品『滋賀系統用蓄電所担保ローンファンドID1199』を公開し投資機会を提供",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JY2VVQy1rVzQybmZwUlYxdDVPdDlZbTFSWDZRSmRTS0ZPVFgwVG1RYnJNUVlrR0E2eFJQLUZDNUVRaGtzNU1NclpjaGdzWWVSSHhJRg?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "オルタナバンクが新商品『滋賀系統用蓄電所担保ローンファンドID1199』を公開し投資機会を提供 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T21:04+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
   {
    "id": "239d87058f8b7407",
    "title": "オルタナバンク、新たに滋賀系統用蓄電所担保ローンファンドID1200を公開し投資機会を提供",
@@ -223,6 +251,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "8d1ccdd35e106f87",
+   "title": "東京ガス、太陽電池や人型ロボの実証モデル拠点を開設",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uZjBET1Bpb2VOaW1ydm5qMnBzRFJPZWVnSExiWHJfT0RZRC0xcVE4RG5hZ2tQeXpwX0xZUXhLeGx4c1owblRIdmo4VDl2RDhZTExVOHRsOTNKMUctUE9YbGZubk5RQXh5eDM5Vw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東京ガス、太陽電池や人型ロボの実証モデル拠点を開設 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "ef254108e6175af0",
    "title": "【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WUkpOWjY1d2xJQmR4QnU3eUZFTjliS0dsR25aX08yc0NuMDhwZldqMURqYXg4TnFCX0dZeWhxMGhuYjBlRy1BTndtUnd6U2lwbFdYY2lzT3ByOVVLQWFPUERYcU8waV9OamRr?oc=5",
@@ -262,6 +304,20 @@
    ],
    "type": "news",
    "published": "2026-11-05T16:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "3ce309c87472ce9f",
+   "title": "RadianX、充電不要の機器を実現する太陽光パネルを目指す",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdy1kQWMwVTlHY2ZDTG5kbFlxZUdGS2UyS0ppVFdTZ3hWRWZVdGpNUk41NGwwOU1lN0hCWGUwMXZXMDRGemd5QjNWakR5bFgweHNyT2JWZkEwSGx1cWNWdjkwMlZ3d09pU1N6V0VfQVlNWV9EMnRURkFIWlliWHhaRUwxUUdqV2xJcFpPVllNOEViMWhJMS1F?oc=5",
+   "source": "Mezha.net",
+   "summary": "RadianX、充電不要の機器を実現する太陽光パネルを目指す Mezha.net",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T16:17+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
