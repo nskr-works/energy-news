@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T17:29+09:00",
+ "updated_at": "2026-11-06T21:23+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,80 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "89f116f4456b50a5",
+   "title": "貝特利が1週間で8割超急騰、銅ペースト技術と米国の蓄電池・太陽光需要が共振",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NnpXQ2F1VmRxYWRXZmFYV3d4S3hSaC0xeWpEUVhRZFg0TGc3cE9XVmpHUEdILXp5c2kzNUlubkZBRktWT0txNGxxdzVGd2hDal9YZjZORGxobF9fMkpsRzR5N2ZQQnpZSnh0TmZ4d2pmYWJC?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "貝特利が1週間で8割超急騰、銅ペースト技術と米国の蓄電池・太陽光需要が共振 BigGo ファイナンス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T21:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d79204a0ff925f08",
+   "title": "ソーラーアレイウィングの世界市場（2026年～2032年）、市場規模（リジッド型太陽電池アレイ、セミリジッド型太陽電池アレイ、フレキシブル型太陽電池アレイ）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GT2VGam5RVzBZc3d1N282c2gwNHp0ekZYb2R4dkREUFJrc19EY2VicEd2ZkdEM05PYy12Y3V6c2daYmxCRTBIU2pZVTlFdEE?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラーアレイウィングの世界市場（2026年～2032年）、市場規模（リジッド型太陽電池アレイ、セミリジッド型太陽電池アレイ、フレキシブル型太陽電池アレイ）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-06T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "48030937203df998",
+   "title": "世界の再エネ新規発電容量20年超ぶり減少へ、中国の太陽光失速－IEA",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQklkUkZ2bjFnRXotYXUzMFdqTkxrVHVTcVRFR29RZFg0Y290bDhHM0RvZ3NtekJmckYwMTUycFBVZEdKLXc2NVlIUkItU2xMTmc1OVUzR0xDcXFvRDRQV2RLRm8yVEZaVWU5NW1peDVVbGk3VVBFdHRlRnExQzFneF9jMF9qNlg5cW1kZHFR?oc=5",
+   "source": "Bloomberg.com",
+   "summary": "世界の再エネ新規発電容量20年超ぶり減少へ、中国の太陽光失速－IEA Bloomberg.com",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T17:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "2e0becaafcd5ca6c",
+   "title": "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42d1FtdHFETC10THpQRkgtbnJucWFQMmVsS2RXbDV1bTJDZGhDbHJGX2pQbi1SdEppakJ5cEZIanJBcDdoTTdxZGNDX2pCc3pyVFNBNUk1LUNqeXNIWjkwbjJaSTBtaVlFVHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T17:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "856fef0115639f7f",
+   "title": "東京ガスが軽量パネルを壁面に「接着」、実例を公開",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzbGlTdlk0ZjFONmFXMVlXTVhsc0VGU2dZdjNmLU9kblJVUnVFVWRnZ1FUd0lCdzl0bkViYmdHbTM0cWJQRmIxRGhSeUM2NHpqRHI0N1ZlcWNtVHhqeXpYSHFtaXpOZG1jU0pxYmw2OWludFhv?oc=5",
+   "source": "日経BP",
+   "summary": "東京ガスが軽量パネルを壁面に「接着」、実例を公開 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:36+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
   {
    "id": "c9970c5c16b3f76f",
    "title": "ＡＤワークスグループ、3か所目の蓄電所を宮崎県日南市で稼働",
@@ -47,6 +121,34 @@
    "via": "Googleニュース「蓄電所」",
    "company": "ADワークスグループ",
    "storage_topic": "その他"
+  },
+  {
+   "id": "51d9f62d2967eb64",
+   "title": "「中古太陽光」の売買、査定依頼が前年比4割増に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12Z2xYYlRWTzZzZGJ4WmdZd3lPMHliSWJFMS1jU19OLXVoWUNCVHZDMC16RlJDLURMYmYyakE3cDIzZTZidlF5M2Jab1BxZWxjZnk5R3lGR0M3eE1yM1kxaTdYLUJrN3ZVQzB2aERnNmxTZ2FU?oc=5",
+   "source": "日経BP",
+   "summary": "「中古太陽光」の売買、査定依頼が前年比4割増に - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "48b9240c88ded20a",
+   "title": "バイオマス発電の「RE100」適合、レノバの4サイトで検証完了",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTzVPQ3FDTnUzRXo0UnNyMWJodFBNWXRGaVFhbnl4cmx0THJJdEdRa2dSOEtNV1VnTExzNHNQVGw0TXpOWGxORHMxd1A2d3RoVHM0Y1hHNi1MUEVyanBVTklUcUJhVkdrcmU5SzQ1Y05tOHBn?oc=5",
+   "source": "日経BP",
+   "summary": "バイオマス発電の「RE100」適合、レノバの4サイトで検証完了 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:24+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "ff4b04491bacf942",
@@ -208,6 +310,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "84f3c59a1078951e",
+   "title": "系統用蓄電所の売買、NDA締結で直接交渉できるサイト 登録・掲載は無料",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJRjVjQ1ZUak1mak5reEFndkVNS1JVdjlIdmMta1dxNEZLRVVvbC1KeWZPOVJNLWRJbGMyWmF1R1BxWVg2d3VDTkRDTUxuaDhFUkp4SkpCVlJUS25qLXF3V0VKNUI2TFgtSU9VSkdONkpmakRiNHVzcDYyek0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電所の売買、NDA締結で直接交渉できるサイト 登録・掲載は無料 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T13:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "5f5424f62e1605f6",
    "title": "Bluefield Energy、福岡地所の熊本県内の太陽光発電所におけるFIP転換・アグリゲーションを受託",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1MzhSNkFyTlQyRGtfb0lZSEVLdXZhNkw1X1dFVnZBN29JdXNKOFg5d1BHeXVadk1lLTJqbUNoUVZBMGcwX0g1UGNTeW1QYVFSLXJQTmhZZFF1Zlo5SkI3NGVQaG9PcWVTd2lFeHpPQlJuYThUNkNHcA?oc=5",
@@ -264,6 +380,34 @@
    "published": "2026-11-06T12:54+09:00",
    "via": "環境ビジネス",
    "storage_topic": "その他"
+  },
+  {
+   "id": "8d348441141f8f93",
+   "title": "工場GX調査、イラン情勢でエネルギー調達に危機感 7割超が蓄電池に関心 - 環境ビジネスオンライン",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RlMxSVFVZXY4aXN4U0d4eWd1OThwQURFRk9DMnVyVGpjYl9PODNyejB4XzdqTE0tSTBFYmQ5UUkwWlFaWWY5MDRmWmJ5WVJSS0pCRTNCVFNyOG4ya3dtbUp1dEtNamU2bXZoNll2TFlJUUpXUnQ3NFE2WWQzTFk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "工場GX調査、イラン情勢でエネルギー調達に危機感 7割超が蓄電池に関心 - 環境ビジネスオンライン 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:54+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "524dc45a9ae78f42",
+   "title": "ニュータウン内住宅の太陽光余剰電力で地域EVバス、集めた電力の5割で運行",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VaE5aSjJEbDRVWjBIWFhqQ2k1VExrR2pkSWo1TXRHdVVzOEdwZV91a0sxd09weDdrdF9FMUhDQmxYZmYtcGNWZWNMcmtVdlVJQWRSZmpvWTU4YTVfelMybWhmQUlLVzhlOU5FNXE0RkdIbkpDcWV2VEFPd3Q?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "ニュータウン内住宅の太陽光余剰電力で地域EVバス、集めた電力の5割で運行 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "5283f90e0b25889a",
@@ -397,6 +541,20 @@
    "company": "テスホールディングス株式会社"
   },
   {
+   "id": "315d2801bd9f5da3",
+   "title": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NSVo2X2RNZ1ZpcVZCSWJBSXlNU0djUHlMRTFMT3E0TlVmNDJxU0JUempZdkFzTzNmV3M1QWpZNWFTMlNadnc?oc=5",
+   "source": "みんかぶ",
+   "summary": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場） みんかぶ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T10:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
    "id": "cdddfb58fb08c9ab",
    "title": "SAMURAI証券がオルタナバンクで滋賀系統用蓄電所担保ローンファンドを公開",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hdVdVX3pjdzI3ZmRfWkcwY1VzUFB5TEhYSnlkSko4QnBncS1QY3lmc1F2SEhnMUptakJGYnRTQmpvM0N6ckZR?oc=5",
@@ -494,6 +652,20 @@
    "published": "2026-11-06T07:30+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d42faec9d5d4d75f",
+   "title": "太陽光パネルは中国だけじゃない！インドが猛追 製造大国を目指す理由、日本への影響と今後の課題",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjBFeS12Z0J3VzZTdnFEek5qazN1M1FCWE96STkyN2ZjWDllREU1X1Zwci1jX3o2TFJGUXZVNDljX1o0enZfdllucjlEVUFsVUZuOHhhVkd0X3dybG1GSzB1ODVzMWJ6aGZOZ3pVdW5fZC1fazNhajVBbEw0WlBWZF9n?oc=5",
+   "source": "セレクトラ",
+   "summary": "太陽光パネルは中国だけじゃない！インドが猛追 製造大国を目指す理由、日本への影響と今後の課題 セレクトラ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
   },
   {
    "id": "97e1e1e46f069276",
@@ -1391,6 +1563,20 @@
    "published": "2026-11-05T11:06+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "439a47e5594f1395",
+   "title": "屋上太陽光発電の仕組みを解明する。",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tZkdrQzR4NTl2cUpKUVN5Q3dHVWhlWGZtYW0zZndGMno3eEZmZThneTVWcVN5UXJTMGVZXzY2d3hVNXZBdC1EOE4xUWM1TFp3aTVBbWpuc29fRUFrZHpGdzBLRk0tREg4Q3hmSzA3TWFiX3ZMRW41dA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電の仕組みを解明する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "931d536e4b7fa115",
@@ -4967,6 +5153,20 @@
    "published": "2026-10-31T07:24+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "aeddd58aabd87d49",
+   "title": "【参加無料】「捨てるエネルギー」から「未来へつなぐエネルギー」へ。系統用蓄電池が拓く新たな可能性を紹介するセミナーを1",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41Ml9sZGRRa3h2cnd2ODF1MGtNWEh3Q1ZVSVk4MUVxMi1NVjZXaUpWVVktTEFGUDhYWUs0SHBxUGxsVFhkUlBXbDRXQy1oeFNfNm1wdA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "【参加無料】「捨てるエネルギー」から「未来へつなぐエネルギー」へ。系統用蓄電池が拓く新たな可能性を紹介するセミナーを1 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-31T07:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "ffca590351033a37",
