@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T21:23+09:00",
+ "updated_at": "2026-11-07T00:19+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,48 @@
  ],
  "items": [
   {
+   "id": "c49a35b3e60a3be0",
+   "title": "グリーン・レイン、カリフォルニア州の農場向け太陽光ソリューションを検討",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xYkJHeWVmc2JxOUVDSkY0NnVWYjdMOGhSQzloVmNlZjZzRG9hYy0yZGh4dzFKbVZDeDVMRTVmUXR5YmUyR1NJN2I0VGxLNEZhbGtiQzdxVjAwNmZ3YW4zWG9TcTROU2N0WHpTR1FrVGc?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "グリーン・レイン、カリフォルニア州の農場向け太陽光ソリューションを検討 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T22:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "799fd97f2e67417f",
+   "title": "千歳に系統用蓄電所、27年1月稼働へ 市内で開所式",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SVXV0c0NKN1drSzRyOG1Ud3dXOHU0YlBRcTNGZGNqODl3bDBmUVpXNVhwZnppUmF2Q3U2TmNUaVlmdnNhcm52WWtxaDhYYnl5eHpTdzZDWFV4QQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "千歳に系統用蓄電所、27年1月稼働へ 市内で開所式 北海道新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T22:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "53a3d15d7a8d25fb",
+   "title": "長州産業、次世代型の太陽光パネル量産へ、脱炭素を後押し",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMU1VHbWFVU2JKLW1LLVViVjFjRnRWdFBXdDVrbGoybzBNYWNzeWtUSWU2UTBCRnNudDNQeHpQelFrU2xjeGhBNlZTMlRBbUd4aDFpLVQ0eXBNUQ?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "長州産業、次世代型の太陽光パネル量産へ、脱炭素を後押し 中国新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T21:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "89f116f4456b50a5",
    "title": "貝特利が1週間で8割超急騰、銅ペースト技術と米国の蓄電池・太陽光需要が共振",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NnpXQ2F1VmRxYWRXZmFYV3d4S3hSaC0xeWpEUVhRZFg0TGc3cE9XVmpHUEdILXp5c2kzNUlubkZBRktWT0txNGxxdzVGd2hDal9YZjZORGxobF9fMkpsRzR5N2ZQQnpZSnh0TmZ4d2pmYWJC?oc=5",
@@ -34,6 +76,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外",
    "storage_topic": "その他"
+  },
+  {
+   "id": "74e8ac5a15c03334",
+   "title": "ペロブスカイトセルコーティング装置市場規模337百万米ドル予測：世界の産業現状、競合分析、成長動向2026｜QYResearch",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMSldwY0lvS2FTUnhKRnAwTDRZbmllbkZqZTNaZDVpYUVWTmpPRkY1Z3M3cFJlUFBFOG5mYUMxb3ZxWW5ZaWV4dmEtQjU3NUtzckNxU2VkSQ?oc=5",
+   "source": "note",
+   "summary": "ペロブスカイトセルコーティング装置市場規模337百万米ドル予測：世界の産業現状、競合分析、成長動向2026｜QYResearch note",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T20:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "d79204a0ff925f08",
