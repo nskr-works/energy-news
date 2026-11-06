@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T10:47+09:00",
+ "updated_at": "2026-11-06T17:29+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,339 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "c9970c5c16b3f76f",
+   "title": "ＡＤワークスグループ、3か所目の蓄電所を宮崎県日南市で稼働",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FSjdoOE1FczRYVzZYUVJDck9MeW5MY014Q3ZYU3BqTDNYekdnTWM4ZWthVEVHT0xkRTZNc0lXdi13aGM5MGt0d25ablZkSU01eXlZ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ＡＤワークスグループ、3か所目の蓄電所を宮崎県日南市で稼働 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:32+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "435fbdfd09b59131",
+   "title": "エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicmhXbTN3VDBhYzJyR2JGUU81bTZ3MEx3VHNSSFVIOVdkeDdzTVl3QnhZU3l5ODRWcmtQcUxxOV9QMk5YQTE5dGFscW12aFFXYzdscjQweXRfLUtCZklJbkhEbHA3SmlmYWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T16:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "company": "ADワークスグループ",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ff4b04491bacf942",
+   "title": "【プレス】系統用蓄電池事業の運用受託容量が1.5GWを突破",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jajZNZXNaU05GZjgyNVN5N3oyeEd6b2Q0T2pwZ0sxVHZfc3dFRFZjSHNtQ0xvdy1IRHg1ekhGck5fRDBDUHFCRnFvcTRQT0xDS1BoWHpKbllUWmNOWUJIVlVUbk00MFVIa2FB?oc=5",
+   "source": "時事ドットコム",
+   "summary": "【プレス】系統用蓄電池事業の運用受託容量が1.5GWを突破 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T16:16+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "ae201e2246b45eea",
+   "title": "グリーングロース、太陽光発電協会主催の2026年度「ソーラーウィーク大賞」で優秀賞を共同受賞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbGh3a0ZxeFlpT002N0tXandIcmpSazlRRWxWS2lHUzNnYnlMUnBncUMxV0ZLM2l3WHZFckkxLXFfVndzbjZkU1F3alU1MzJGOHgwTDM1WEJERllUYVN0eDFlbmhJRDZKemc?oc=5",
+   "source": "PR TIMES",
+   "summary": "グリーングロース、太陽光発電協会主催の2026年度「ソーラーウィーク大賞」で優秀賞を共同受賞 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-06T16:06+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社グリーングロース",
+   "topic": "その他"
+  },
+  {
+   "id": "fcc7fd86a1e215f2",
+   "title": "ＡＤワークスグループ[2982]：エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWGhxX2UtRzVyTWZiNzFwdXF4UWtvQWJnOWlWV2hUc3VNM2hxZEdQQXUtb2Q0cDhGLUFCcmw2X2kwMEZzNHctOVQ3ME5tZUVxMTRjYjJRVEJ6eEVIVzdRZmxGVEFoXy1fZGc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ＡＤワークスグループ[2982]：エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始 2026年11月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3ccd081219a4eb4d",
+   "title": "日本蓄電開発機構、低圧蓄電所向けVPPサービス「JESDI VPP」を発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSU1rM2ViY1Utb2JONHBGMUJObDhVdTFTNVJDdzd0LU1kb3JrS0o0cndBTFdueEhqZ19laE5GVVFwclo4SXlXWGROZ21hQWx3VXdJek5KSkl2ZnJzX1M0b3VYRlM3QkpLYnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "日本蓄電開発機構、低圧蓄電所向けVPPサービス「JESDI VPP」を発表 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T16:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "日本蓄電開発機構株式会社",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "14abf4afb95f76ce",
+   "title": "オフィスの事業継続（BCP）対策を強化 No.1グループ、BCP対応型蓄電池「EnerCraft EC-700」を「オフィス防災EXPO」に出展",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUFpGaEU5UGRnX1BlN1Y0dXpBUEdWd1NjTzZQMHlpMzRrYnUwM3lKMS1sVlFfVFM1eUVZZ1BCdlZGbzljQkRZdjBheEVkNXk3REw5bWZ2T1Yxcy1FWUFzYmJLU0JGRHhtOUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "オフィスの事業継続（BCP）対策を強化 No.1グループ、BCP対応型蓄電池「EnerCraft EC-700」を「オフィス防災EXPO」に出展 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T15:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社No.1"
+  },
+  {
+   "id": "a376e42d060bb6c4",
+   "title": "空港施設[8864]：羽田空港国内貨物地区における太陽光発電増設・蓄電池導入を決定 ～CO2排出量削減・空港 BCP 向上に向けた更なる取り組みを推進～ 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNaXJRSUJCZndTeElacHlORnlZU0hGX2ZDcl9jUTJnakhsOGNOODJldERiVDQ1cDNDTlRuUTNnemJTVFAxQUlEQTB3ek9NV1I2VkprY3dSc2twOVhXbDl1NThwZTdiZnBYWGc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "空港施設[8864]：羽田空港国内貨物地区における太陽光発電増設・蓄電池導入を決定 ～CO2排出量削減・空港 BCP 向上に向けた更なる取り組みを推進～ 2026年11月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "442f9ba656c6d934",
+   "title": "太陽光パネルの下で野菜を栽培。光利用効率が最大4.5倍になる新技術",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNTQ2MGMtbjJtZ056WHRVM1pXZncxVm5uZVZiX0ZTQ3pjYktlTzZNZzhNWEpQaWFJVG9sRW11UFhfVkFraWJkX3U0SW5GRWhfOTBPaVExNGtOR0JodVdKQjVRbFE?oc=5",
+   "source": "TABI LABO",
+   "summary": "太陽光パネルの下で野菜を栽培。光利用効率が最大4.5倍になる新技術 TABI LABO",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "4fb0e2d8971fe722",
+   "title": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9idEcwQnd6UVpwS0o0TFV0VjVsVEJMZW5sX1MwWTB1NTdKSld3Qlh0aElnb1BDU01hRXBRQTBtUy1UT2QwRm1Rc1NtZkpna2RPT0RYcm5JXzYtZS1WbHYzSmxBUU8xeThG?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "f1164044aca73932",
+   "title": "太陽光発電容量が3倍の3TWに、シリコン・ガラス・銅・銀の材料需要が拡大 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVm55V3JPM2FpUlRKQVVTM3BHSEhPeDVCRGZSdy1mUlBVMjhIRjFHbkstVXpqdVh4VmR5MFlzNUtlN1NUSExBbmplOUlYcGF5MERlV0EzaGROXzFMSC1wVE1adG16QjV6bVU1RFZmTnR1NGVNQTd2RGpVSlkyajlLMk9XYTdoSzJmc19LclU0N0JoUjJ2NE9JR2xmc1dKZmFSczdKR1VKNi1ycUNyWDN6NC1BT21zMFBuNUxUZjFUMV9penIxdVJvaWkxTUs?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光発電容量が3倍の3TWに、シリコン・ガラス・銅・銀の材料需要が拡大 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T14:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "e21ee589a5eec2dc",
+   "title": "新興国の再エネ導入、先進国に匹敵へ 太陽光が4分の3とIEA予測",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcTI2RXUxd1NVTE1oZm9udU9zWlVXWUUtLUt5djBKZGFFWG5SVmplb2dVam9vZ3dneUk3cm4wTkQwaHZxV0dMdGgybUd4NDJoQXJRZjczU3JNd1JYMGt2U0VDX1pxTEx5TmxMaA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "新興国の再エネ導入、先進国に匹敵へ 太陽光が4分の3とIEA予測 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "29dfdb76b91d754d",
+   "title": "系統用蓄電池の売買、オンラインで交渉可能 開発中の権利譲渡や稼働設備など",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJRjVjQ1ZUak1mak5reEFndkVNS1JVdjlIdmMta1dxNEZLRVVvbC1KeWZPOVJNLWRJbGMyWmF1R1BxWVg2d3VDTkRDTUxuaDhFUkp4SkpCVlJUS25qLXF3V0VKNUI2TFgtSU9VSkdONkpmakRiNHVzcDYyek0?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電池の売買、オンラインで交渉可能 開発中の権利譲渡や稼働設備など 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T13:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5f5424f62e1605f6",
+   "title": "Bluefield Energy、福岡地所の熊本県内の太陽光発電所におけるFIP転換・アグリゲーションを受託",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1MzhSNkFyTlQyRGtfb0lZSEVLdXZhNkw1X1dFVnZBN29JdXNKOFg5d1BHeXVadk1lLTJqbUNoUVZBMGcwX0g1UGNTeW1QYVFSLXJQTmhZZFF1Zlo5SkI3NGVQaG9PcWVTd2lFeHpPQlJuYThUNkNHcA?oc=5",
+   "source": "RBB TODAY",
+   "summary": "Bluefield Energy、福岡地所の熊本県内の太陽光発電所におけるFIP転換・アグリゲーションを受託 RBB TODAY",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-06T13:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "company": "Bluefield Energy株式会社"
+  },
+  {
+   "id": "7be05f015459b86b",
+   "title": "国内の戸建住宅の約3割は太陽光パネルの設置が困難？ アイチューザー、設置できる屋根・できない屋根の違いを解説",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GcDRqSTRhNEZMNl9EX19qSGQ3ZTI0V1RnQTNTaUxvTU95a3BhTmp6SDZPRGlYbmtOYXdFWHFWOWNpa0xEY2pSNm5lNGMwN3M?oc=5",
+   "source": "アットプレス",
+   "summary": "国内の戸建住宅の約3割は太陽光パネルの設置が困難？ アイチューザー、設置できる屋根・できない屋根の違いを解説 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-06T13:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "みんなのおうちに太陽光 事務局"
+  },
+  {
+   "id": "f9f967f37131b3c3",
+   "title": "屋内外の光から発電するペロブスカイト太陽電池モジュールを開発するRadianXがシードラウンドで500万ドルの資金調達を実施",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81Y0dCU2ZobXVvM3BpNXJrckZXUGFSbGliUWRfeUV5ZGxDdndmWjNPSTV4SlpZeUdOWHFYVUItTmZLdm1fYlNDUDFfckkydFk?oc=5",
+   "source": "STARTUP LOG",
+   "summary": "屋内外の光から発電するペロブスカイト太陽電池モジュールを開発するRadianXがシードラウンドで500万ドルの資金調達を実施 STARTUP LOG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:57+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a0dc610892fed97d",
+   "title": "工場GX調査、イラン情勢でエネルギー調達に危機感 7割超が蓄電池に関心",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RlMxSVFVZXY4aXN4U0d4eWd1OThwQURFRk9DMnVyVGpjYl9PODNyejB4XzdqTE0tSTBFYmQ5UUkwWlFaWWY5MDRmWmJ5WVJSS0pCRTNCVFNyOG4ya3dtbUp1dEtNamU2bXZoNll2TFlJUUpXUnQ3NFE2WWQzTFk?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "工場GX調査、イラン情勢でエネルギー調達に危機感 7割超が蓄電池に関心 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:54+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5283f90e0b25889a",
+   "title": "HOBE ENERGY、低圧系統用蓄電所向け蓄電システム「HOBE HP2-208」を発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CR3VYcTNsZ3pmSUMwVkhuYUxuV0lLSVFTUGtiaEpQSS1hVUwxT204dXg4MzB4VFlfUm02eEJIUU96ZFJ1N2dTcV83ZUdDSXZjX0lZV0R6N2UyclFqZThaWlgwNVRhVlQ2X1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "HOBE ENERGY、低圧系統用蓄電所向け蓄電システム「HOBE HP2-208」を発表 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-06T12:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧",
+   "company": "HOBE ENERGY株式会社"
+  },
+  {
+   "id": "cc58fe3808a304da",
+   "title": "ISS、最後のiROSA設置を完了―2021年からの太陽電池アレイ増設に区切り",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMFBnRlFacjdvQmV1S01SRTVHQ3FKd01sd1AwWHFxM1ZCZDczQ0VkZVhKcHJXZGNoUnlCZy1JQ25USnFrZXRXemhKUml2V0N1V2JBemM3Xy1qblNpMXNpMEp30gFoQVVfeXFMT0V6MkpnRGxuWF95YUdud3FrakxQWmk1cEw4ZDd6RVBqUUZWUEtMWE5fRWhkNEtQLWlmeDBlLXpsWURWQ3F1ek1QdGxzNm84c2U3S1I4UGZkWnRlWk5tX0VlZVFVdVYzMW8?oc=5",
+   "source": "財経新聞",
+   "summary": "ISS、最後のiROSA設置を完了―2021年からの太陽電池アレイ増設に区切り 財経新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "6a55ae0217b5d340",
+   "title": "住宅用太陽光と蓄電池をどう提案するのか 「停電の夏」から「GX ZEH元年」の今、求められる住宅像とは",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxTENrSnlGNmxKNGg2YVNHYzFBaUNnMkU2cktYRk53aGVmWlhETEtFQW8xM2hsdFUtREFpX0VRSnBPTmUyQkdGYUNja2F2QQ?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "住宅用太陽光と蓄電池をどう提案するのか 「停電の夏」から「GX ZEH元年」の今、求められる住宅像とは ソーラージャーナル",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T12:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "82a2e4bc93f36016",
+   "title": "AI関連株急落で中国A株の地合い圧迫、低バリュエーションの太陽光が資金の逃避先に、算力ハードが回復の鍵",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nbjcyRi0wa3AzS012VUlwQUh6dVY1M1pXVEdoT3hZTmU1V2VYYUJZUlVLMjR6cUxPcnRHeXBDVW1OMVlWTjNjS0djVkZvOF9tYjdNaVZ2TUZwdjFvNmxObS02Z2h4c0ZxVl83Vmp2dmxLY0dO?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "AI関連株急落で中国A株の地合い圧迫、低バリュエーションの太陽光が資金の逃避先に、算力ハードが回復の鍵 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T11:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "de2c0fba902c1d62",
+   "title": "タンホア1太陽光発電所プロジェクト用地の引き渡しに向けた取り組みが進められている。",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbk82ZDA2YXFtakJPTzFnTk01RVRKaTZvdFVFUEtET2d0RUs1TDdJb3hXX1Y5Qmltc0tNZWFWeS1LTG03Q1hNRUFmWEUzd3RSb2J3RmNhZHNuclFGc29CaHVXdVRlQ0VZY3ZWOTZaREtsNkJaMUNxMm5hQS1FTmFXcDFmY2syeW4yN3NuX2JZM281VXlTbWZHdGxR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "タンホア1太陽光発電所プロジェクト用地の引き渡しに向けた取り組みが進められている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T11:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "afb4875ab66f2b70",
+   "title": "関西電力、蓄電所容量を30年に3倍 国内首位狙い原発1.5基分に",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMWZicXhwSVpXeXhqLTFGOVZ0NWpRdFdhakxtcDhrdGwyc2l1NVZWeUwwQ25NMm5VNmN5T3hjYU1hQk95SXN2VnhIZ1BJOG0tMF96cFlXTWhyangxWWlPeV9NVl9fdnlLNmtlZQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "関西電力、蓄電所容量を30年に3倍 国内首位狙い原発1.5基分に 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T11:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
   {
    "id": "3fc4fff16f03a5fa",
    "title": "ジンコソーラー、日本の住宅屋根に最適化した太陽光発電ソリューションを強化",
@@ -288,6 +621,20 @@
    "published": "2026-11-06T00:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "baf42e3514dd25d1",
+   "title": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1id3pfUlAzSDJYUzdaV3ByUHVOVGNrMV9fNlhwb1NSME9MSlN4cGFMVkN3eXZ2dnFVSWZFV1gtbFZESEJjaEJHMlBLbVZ3VGs4dU9DeTRMUFFqSGVxMkxGbDFVYzJ6ZEttNTNRUGtn?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力 ニュースメディアVOIX",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T23:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "69befbbe100a8876",
@@ -961,6 +1308,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "7f45a9dca208091c",
+   "title": "NEXTES の蓄電池が“地域の防災インフラ” に：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wckJMb0xUQjhmYXZWV2FDSEZyX3p4ZmFRS3phZmtqTlo1UmxRRjBQWGkwMUhGWDk5ZDI1Wkc4bmxHQnpKVkZuSlV2NS13bU9LVjVvSTZhQko4c211eG9wS0pkVUp5OUtPY0RB?oc=5",
+   "source": "時事ドットコム",
+   "summary": "NEXTES の蓄電池が“地域の防災インフラ” に：時事ドットコム 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T11:46+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "baf9c1112e2c437b",
    "title": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQTNUZGVJVXJiOXYzeGxtTWxXc3FVTjlnSlpoeHg2eWt1VGNYc2x4ZUtpblRaMzBYT1dURGtzc1hlTUlNcVFEYlVnWW82cXZWaHNQVmRVWmFIWkFhWWhRNWpMVE8zbXZqMmdqMjIzbV9ZMlhvV0x2alUxWE5mWTQ?oc=5",
@@ -1477,6 +1838,20 @@
    "published": "2026-11-05T04:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "f14d541a86257eb4",
+   "title": "寧夏国運新能源、寧夏の蓄電所が稼働",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bb3pfQ1ZfY3FUOWdqeFlSQkxNdmxJc1ZWQktGVlF2YTRvWS0tRS1QM3hBaDl0ZXZxNWxxNGdKY0dwMUZKZFNwQmRXRFFtVE9nTXhNTzVYWXFwY3BpeHhqUTNpU2Rydk1PbUFDZ0J1TWg?oc=5",
+   "source": "TradingView",
+   "summary": "寧夏国運新能源、寧夏の蓄電所が稼働 TradingView",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T01:17+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "61bd7799cba2a2ff",
