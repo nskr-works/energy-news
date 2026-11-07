@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T00:19+09:00",
+ "updated_at": "2026-11-07T10:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,62 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "f6e9ade66dcc8da8",
+   "title": "パナソニックHD、GSユアサ…蓄電池セクター注目の7銘柄：AI普及が招く電力不足を支える（茂木春輝）",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EVmNjbG5UZDhTbXhUemd5Z3d3UlJsYnd2cHNoOUV4djFwa1lBNExHSmU0aXdhMVJBWnlGay15RU43N2xSbUZ6Njl3WmVpMHB4MnByZHB0dzBtWV9QS1R5dw?oc=5",
+   "source": "Infoseek",
+   "summary": "パナソニックHD、GSユアサ…蓄電池セクター注目の7銘柄：AI普及が招く電力不足を支える（茂木春輝） Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-07T08:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3d7ed9bfa2c25e67",
+   "title": "16歳CEOが掲げる「2035年に地上の発電所を不要に」、壮大な宇宙太陽光発電の実現を阻む壁とは？",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00end0Z1ZadXpIR2U3NWhCUHZzZ0t1S1A4Z1lNZi1sVW81OTJmQ2x5WExUZ3lJRkhMVFlsY2hoX0JvRDBQOWVOa2JFMTd4bnFVeEctTmJB?oc=5",
+   "source": "JBpress",
+   "summary": "16歳CEOが掲げる「2035年に地上の発電所を不要に」、壮大な宇宙太陽光発電の実現を阻む壁とは？ JBpress",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "849b690f1bb67296",
+   "title": "日本の太陽光パネルリサイクル市場の包括的評価：市場規模、シェア、および2026年から20",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGMkxhc0g5b29kQ25sLTNIVldRSTZlOVVXQ1hRc245b0hldl9XOWQ0TzlaRTVGY2NJYUtVV20wajRFYW9mVnZYc2t3?oc=5",
+   "source": "pando.life",
+   "summary": "日本の太陽光パネルリサイクル市場の包括的評価：市場規模、シェア、および2026年から20 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T05:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "e2060df12199abe6",
+   "title": "酪農学園大 垂直式太陽光パネル実証 寒冷地でも導入へ 発電と農作業の両立に期待",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRjI4NjZ4R1d1UHFlQV9EUW9ZNmlNZXlVal9IT2RST3pCR0ItSU4wVGlIeG45T1lzQXFybEV0RVdTQ0RHQ2tvMzF3cUI3Ukc1dm9jYTdiWmRGNjg?oc=5",
+   "source": "日本農業新聞",
+   "summary": "酪農学園大 垂直式太陽光パネル実証 寒冷地でも導入へ 発電と農作業の両立に期待 日本農業新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "c49a35b3e60a3be0",
    "title": "グリーン・レイン、カリフォルニア州の農場向け太陽光ソリューションを検討",
@@ -218,7 +274,8 @@
    "type": "release",
    "published": "2026-11-06T16:16+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "高圧（特高含む）"
+   "storage_topic": "高圧（特高含む）",
+   "company": "E-Flow合同会社"
   },
   {
    "id": "ae201e2246b45eea",
@@ -640,6 +697,20 @@
    "company": "サステナブルホールディングス株式会社"
   },
   {
+   "id": "7d12c06e6460b790",
+   "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】滋賀系統用蓄電所担保ローンファンドID1199』を公開",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSUlZKbFhWMVV4Q0NUb0tkZlM4NVVfNWU2U3NiUFgwTTc1YXFlUXRkc0JxaS1IRUtOVEQ1MkRMMWVFSHZUYXpfdS1zbnpXWElsU0dvRVdCaDktUTRlSVVqUWx4NVZkOUNENVExb1E5SzNDZw?oc=5",
+   "source": "Infoseek",
+   "summary": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】滋賀系統用蓄電所担保ローンファンドID1199』を公開 Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T09:45+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "1762cb37a8b3ca70",
    "title": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84V0NhaVZJVllPOURpTC0xM0RwLTFQTDVTN19YN2JadkY4OUxwOGdxZjBFVWtORC1yeHF2LS1iX3ZaT3FNUWc?oc=5",
@@ -849,6 +920,20 @@
    "published": "2026-11-06T00:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "328ea4c6cc707fef",
+   "title": "サステナブルホールディングス、2MW／8MWh級系統用蓄電池の設計依頼を受領",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04TjlDcFZiR1NYNU81bXBZcjdGbWJacDhySTlVb3J1TWJCWUx6eHdzX05PNXlDLUcwWHVSaHNaZXJmdUtSYkE?oc=5",
+   "source": "Dellows News",
+   "summary": "サステナブルホールディングス、2MW／8MWh級系統用蓄電池の設計依頼を受領 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T23:57+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "baf42e3514dd25d1",
@@ -1080,6 +1165,20 @@
    "published": "2026-11-05T17:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "191c01286812a9a7",
+   "title": "【日本発の次世代技術！ペロブスカイト太陽電池に期待】上野で開催された再生可能エネルギーのイベン...",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RnBkMERnWVVPZXFFMjFiTUtGRVIwS0l2VDhaaW5PZU5OUkxyZFFMd1A2V0NLRDQ3NUVGNjE2aTg0M2FUMlFxbnVMUnhmQ1NxczFJZWR1bFBfNldraHFB?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "【日本発の次世代技術！ペロブスカイト太陽電池に期待】上野で開催された再生可能エネルギーのイベン... 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "8d1ccdd35e106f87",
