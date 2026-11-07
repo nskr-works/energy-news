@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T16:44+09:00",
+ "updated_at": "2026-11-07T20:16+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "35ba1c84db3c74b5",
+   "title": "太陽光発電：アジアにおける新たなエネルギー競争。",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95cGRtMURibHdMc1ZiTDh1Q1dpazNkOXE1MnFsQktyaWFXMU5rRFk4djhwVDVaclBvTDljcFhGUHM0NGtPN3RvUlI0RV84UmJiTnRvLVVjXzFzSEY5NWI3U2UwdzZoWHBWLUpZVnlPUDhmZmFaU3J5QVlINWs?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電：アジアにおける新たなエネルギー競争。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T20:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "21275b04706cb029",
+   "title": "太陽光発電を交流に変換する「パワーコンディショナ」は世界トップクラスの技術！ TMEIC【傑作選】",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nVUlFcC1iZDRlTzBTSFlVWGdLalowLUoxV3g5RUZzck5kTlp0SG9PdHRiQ0ZOQ3ZFeDJsZEY1bkV5TmtkN0xaOTRhWQ?oc=5",
+   "source": "TVer",
+   "summary": "太陽光発電を交流に変換する「パワーコンディショナ」は世界トップクラスの技術！ TMEIC【傑作選】 TVer",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T17:17+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "920d8fd08c6eb25c",
    "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで超軽量・超薄型の太陽光パネル「ペラペラ太陽光」実証開始",
@@ -289,6 +317,20 @@
    "published": "2026-11-06T16:30+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "bcb77f21708e5332",
+   "title": "エー･ディー･ワークスが宮崎県日南市の系統用蓄電所を竣工、稼働は累計3か所へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Zd1J0WWFRU1Zza1Z6RFlHVUtDN2Uxekl1UFhYeDVDSDRKVzNRdXk1bFpDSThiRjgzT1BNNDdFZjUzVk9ZQm8w?oc=5",
+   "source": "Dellows News",
+   "summary": "エー･ディー･ワークスが宮崎県日南市の系統用蓄電所を竣工、稼働は累計3か所へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-06T16:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "48b9240c88ded20a",
