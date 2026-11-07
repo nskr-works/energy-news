@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T10:10+09:00",
+ "updated_at": "2026-11-07T16:44+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "920d8fd08c6eb25c",
+   "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで超軽量・超薄型の太陽光パネル「ペラペラ太陽光」実証開始",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VSXZGcmVRSml0R09XLUdYc3RDUlZoUnpNM2xGNkg0Wm8zdVQ0LVdWNndjUFhuSDl2bGx3MEhTUS1VcmdRNXZLVENLZmJCdHRVQXlSNlJUU3JHQ01RR2F2alV3VzBOVUk?oc=5",
+   "source": "健美家",
+   "summary": "「バルコニーが発電所に！」広島の既存賃貸ビルで超軽量・超薄型の太陽光パネル「ペラペラ太陽光」実証開始 健美家",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T15:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "b3f437682735f024",
+   "title": "中国、太陽光発電の導入量が石炭火力を逆転も利用率は数年連続で低下、業界は「価格シグナル主導の消費」を訴え",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbHVIa0VZRlFBWTNlSHhtZTJPa2VCd19PbUF1TUkxUUNYWl9qYXZiWDF5b2xPVmxiRzhCdDllaU0zZ3FNUENYT0JldmZmUGFJeF9ZX180S0ZUeE9KZ0UyRWlnSlVXX1VyVXh3eHhMd2tWTWJC?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国、太陽光発電の導入量が石炭火力を逆転も利用率は数年連続で低下、業界は「価格シグナル主導の消費」を訴え BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T13:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "b69eac141fe671d7",
+   "title": "リエン・チエウ・ワード氏がホアヴァン太陽光発電所プロジェクトについて語る。",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2o2WFBfSEhjNmt1NEVFWlkzU05XWGJLMnMwNWd5VGRpVmcydV9EbGpUa1ZiZktxYXJKbWkzWlZGTUhXOHg4YTBfS0M5WHhLenBQR3pLcXVUOGV6a3Z2SHlmN1dJSW5aQzZyZ0VleWwxMzBDM1RFaHFLbmt2dnpHYk5TUjYxWU1uS19CS3hfRTBJTWVOck9V?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "リエン・チエウ・ワード氏がホアヴァン太陽光発電所プロジェクトについて語る。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-07T10:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
   {
    "id": "f6e9ade66dcc8da8",
    "title": "パナソニックHD、GSユアサ…蓄電池セクター注目の7銘柄：AI普及が招く電力不足を支える（茂木春輝）",
@@ -1593,6 +1635,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "ff3e3509b228718d",
+   "title": "屋上太陽光発電に新たな推進力が生まれる。",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBON2J3V01weENmbjFVS2FVUjlhZ3U0WTJ1Z3NDU2hROE5ldlVZQTc3eTlnVkF6RmNzQzlMbFEyMkFEblR3cmVuOGJTRGg4ZW9pU2hPVHZMSEd2Z3U5WjNoTk1UN09OUjhSTVlkdGRKTllRQQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電に新たな推進力が生まれる。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T12:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "fc70e882006efaca",
    "title": "系統用蓄電池ビジネス、20年収益をどう確保する？ 長期事業化の要点を解説",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yS2o3WWZlMUJfREhRS1VZbEhrdTZWNlJIMWg0aW5WeWRXSlZKTVpfbzN5TG9VSG1ZcmJXRThuRjRWaEVRalA1SGhiMlpSaTc3MXpRZVRXQWdocXpVWXRnZ1FwdThPNExCR0RURjFGUG5tOE9acXpIang0ckZRSzg?oc=5",
@@ -2776,7 +2832,8 @@
    "published": "2026-11-04T11:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "6a47a26a770c47f0",
@@ -2837,7 +2894,8 @@
    "published": "2026-11-04T11:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "topic": "発電所・開発",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "00a9b26727df51d0",
