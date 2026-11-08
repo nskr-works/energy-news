@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T16:56+09:00",
+ "updated_at": "2026-11-08T20:28+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1738c78309da817f",
+   "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3RWYxQWRjYW5rSURORjlVNEJHSU1CZDJZczJzQXJaQURweGtkdXFiS0lQYlU2elc4eTQwSE1FYk1JVXBNVTJSZncxbGFSbjNBVncwU29KZkkzVVBNRjZFaW9ET1RPWVA2bGRlT2R6R0M?oc=5",
+   "source": "Gizmodo",
+   "summary": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし Gizmodo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T20:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "7423559f64d228db",
+   "title": "グリーンエナジー＆カンパニー、低圧蓄電システム「GREEN CHORD」の実機を徳島市に公開",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWMXZLRTBVMngzN05kTEVlbUc0LXpoTlhUQ0VjOFBydDhwejdKSVktUFhrZjdlLWR5LVNpaDZ5V24tMXNCako1T19rM0VLenltY1E?oc=5",
+   "source": "山陽新聞",
+   "summary": "グリーンエナジー＆カンパニー、低圧蓄電システム「GREEN CHORD」の実機を徳島市に公開 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T17:05+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
+  },
   {
    "id": "87549526792dfbaa",
    "title": "中国電力とJR西日本、蓄電所共同開発で合意 鉄道沿線の未利用地へ設置検討",
