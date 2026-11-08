@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T09:54+09:00",
+ "updated_at": "2026-11-08T16:56+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "87549526792dfbaa",
+   "title": "中国電力とJR西日本、蓄電所共同開発で合意 鉄道沿線の未利用地へ設置検討",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNXRHWG1nRE1abmpScFRDXzVaRTBzSllkeFRlcGxqbTIwczNVSkYxaTlpSEs1N2R5NG1QYXRqUm1uN1laNTN0em9YZ3VaeDVsaHVlMXpzeHExdw?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "中国電力とJR西日本、蓄電所共同開発で合意 鉄道沿線の未利用地へ設置検討 中国新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:28+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4748afd282d95a06",
+   "title": "【太陽光発電】卒FIT（固定価格買取制度が終わる）前と後で「売電の収入」はいくら変わるのか？東京電力の標準プランを例に試算 (LIMO)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFVSQW83Y1BBYVUwdkY0V2c4LUE1SGpkRlFVS1VoNENMZmhmUlE0VG5IQzRrSkZwV0dkTWxCVGt4c2hqdzgtNDBZQXl3MEdiRUhtU0djejhEM3lvbjllN2lBWFI2aFJUdGJKQkxjWTMxTEZjYWtZTzNwYU5vY3ZDOVJCZ0VSYXZrTmEySy1n?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【太陽光発電】卒FIT（固定価格買取制度が終わる）前と後で「売電の収入」はいくら変わるのか？東京電力の標準プランを例に試算 (LIMO) Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T09:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
   {
    "id": "4cf75fc869dd8564",
    "title": "臼杵市の営農型太陽光発電施設でショウガ生育状況など調査 大分短期大学生ら、パネルなしと比較",
@@ -386,6 +414,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "9949e1942e137847",
+   "title": "ソーラー・フィールド13 太陽光発電設備設置を計画",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVFPSTN3QnRMU3JNNmEyZGZsbmt0YWZjRkxRMXJ1TXZaZ3BlbVF0a0YwTTZsbGVXa2tYUnRFNktZYzBMZHBVSFgyMzJ0RkJ6bEtjakNiaXRtYTIwdnVUbDFUT1JRaWhxSHFaZzRpNjhnOU1TVmJhSGgwTUpIT0t4bQ?oc=5",
+   "source": "建通新聞",
+   "summary": "ソーラー・フィールド13 太陽光発電設備設置を計画 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T18:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "d79204a0ff925f08",
    "title": "ソーラーアレイウィングの世界市場（2026年～2032年）、市場規模（リジッド型太陽電池アレイ、セミリジッド型太陽電池アレイ、フレキシブル型太陽電池アレイ）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GT2VGam5RVzBZc3d1N282c2gwNHp0ekZYb2R4dkREUFJrc19EY2VicEd2ZkdEM05PYy12Y3V6c2daYmxCRTBIU2pZVTlFdEE?oc=5",
@@ -632,6 +674,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社No.1"
+  },
+  {
+   "id": "29ddc3f95d4ee285",
+   "title": "最近、グローバル炭素中立基調と政府のRE100履行政策拡散で公共機関の親環境エネルギー転換が速度を上げ、公共部門内の高効率太陽光設備調達需要が大きく増加している。このような流れの中で(株)グランドサン..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DYkRNa0VXeVNILWVMenlXZG8zQlpDZEpVaG1Bc196WUIxdFAtTk9XQ21XenVSdkFrQ194bkNpdFpFYkVCaUsyeEM3WGp4c3k1Q05V?oc=5",
+   "source": "매일경제",
+   "summary": "最近、グローバル炭素中立基調と政府のRE100履行政策拡散で公共機関の親環境エネルギー転換が速度を上げ、公共部門内の高効率太陽光設備調達需要が大きく増加している。このような流れの中で(株)グランドサン.. 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T15:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "a376e42d060bb6c4",
@@ -1635,6 +1691,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "8d46d1a5739905ce",
+   "title": "【フォトギャラリー】厳格規制で普及にブレーキ？ 岐路に立つ営農型太陽光発電「農家を助ける技術なのに…」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91OTFjS0Roa0xPRmNxLWl2TWNHT2JNc2d6QlZwTXFQSF9qc3YzYllYMGFhNkM3QnpQMUNNUVhHSWNrVk1NOHhIRzQ1UFZrODBiOVdYcVdB?oc=5",
+   "source": "朝日新聞",
+   "summary": "【フォトギャラリー】厳格規制で普及にブレーキ？ 岐路に立つ営農型太陽光発電「農家を助ける技術なのに…」 朝日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T15:52+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
   },
   {
    "id": "75f89a8c269dd9b9",
