@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T20:28+09:00",
+ "updated_at": "2026-11-08T23:28+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "0bfa07cc738b471b",
+   "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5",
+   "source": "環境金融研究機構",
+   "summary": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構 環境金融研究機構",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:28+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "294de7c09a879834",
+   "title": "ペロブスカイト市場調査レポート：現在のトレンド、財務データ、および2026年から2033",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Jd0RFRmNzWkl5TkZPVHZaNnFmdmZOd0Y1aXBkUUk4NkJadmdYVFdYTGNTc3htQ3Zqb0VDdDlQU1Q3YVJGeDZ1Wlh3?oc=5",
+   "source": "pando.life",
+   "summary": "ペロブスカイト市場調査レポート：現在のトレンド、財務データ、および2026年から2033 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T21:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "909f681082efef62",
+   "title": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnN1WVFjdkFyN0pvdFVoVEcxWU5zX08xS1dRT3lWMmFnTVFkYU91YVNETklrMnQ1QzBCdDZydjNUVkxFcUdwZTU1Y1I3VW1IZ0xDNkZTbjZZcE44dFlmdHJCSFRVOTU1Tkd3TnFiZzR6dzJ1UlZvaTEzUVhfVVZXU2JWVzl0SUYwc29PV1paSzVqaVRsZkJDUjNsRzczSkVJMU5XcXBHN0ZZZTJKR0JlUkc1TTkwR1IzNkhUa1dqZ2ZRY1U?oc=5",
+   "source": "Laodong.vn",
+   "summary": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施 Laodong.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T20:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "1738c78309da817f",
    "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
@@ -46,6 +88,20 @@
    "published": "2026-11-08T17:05+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "f29bfec46f5ccab3",
+   "title": "太陽光発電とショウガ栽培、大分短大学生らが両立の可能性探る 臼杵市の営農型施設で調査（大分合同新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYU1WQnd0ZFBiNFF5eHB6UEUwLVR3NzhNdlJvY1lQYjJJaXB2OUZUelRwLWc1aUFJQ3FhaHlEWWduMlp3akVrNXhQR1pZc0xTdVJCRXZHcHBjMDUwbldiNWdfZzhIaHF1WlE5VklTSkRvYnhIQTFqSkxPWFpfN2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電とショウガ栽培、大分短大学生らが両立の可能性探る 臼杵市の営農型施設で調査（大分合同新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "87549526792dfbaa",
@@ -687,6 +743,20 @@
    "via": "PR TIMES（蓄電池）",
    "company": "日本蓄電開発機構株式会社",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "e54ccf3547588e2d",
+   "title": "グリーングロースとかがし屋、2026年度ソーラーウィーク大賞優秀賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6UVk1WkJqTV9yVE8wR1I3YWZRX2FnRlJ0TEZ5R2lMOEpsSHRtLU0xY1o5QmhOLVlvMFA0YWgyZHFhcTlyc0Zz?oc=5",
+   "source": "Dellows News",
+   "summary": "グリーングロースとかがし屋、2026年度ソーラーウィーク大賞優秀賞を受賞 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T15:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "14abf4afb95f76ce",
