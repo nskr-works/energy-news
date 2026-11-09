@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:16+09:00",
+ "updated_at": "2026-11-10T02:45+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,76 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1fefccb3caa1b488",
+   "title": "商工省は、2026年の太陽光発電料金体系を発表した。",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjdpUTVwTTlvTFlVUTFuNF9PSnNmWUw4UHpzZmV5a1dJTWVUTkFVYWQ0RTZWdkF0N2R3T3JhLWtZZjJJSVFqQUZ3RkQwQ2tvV3VpM3RIY1pOaWxfZjNJd0hxVUdVMXQwN2tfTUJBX1E0QUVlclRrVGVPbmtnaldDcmtacnl4dmt4?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "商工省は、2026年の太陽光発電料金体系を発表した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T00:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "92739978674415af",
+   "title": "農地の未来を守る、営農型太陽光発電ならヤンマー。〈ＰＲ〉",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFTEpobVZtSU5QYW1ReVVEX0R6cGIwMTZ6TVdxenpFZlRQelFoN2hHZ0lHWUk4Q19iT0NQalVJbVIxNmNzVEpFS256YzduLWpPOVhBUkVsSWhoMHU0ZWFMZ0tGMA?oc=5",
+   "source": "日本農業新聞",
+   "summary": "農地の未来を守る、営農型太陽光発電ならヤンマー。〈ＰＲ〉 日本農業新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T00:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "891d653517fb4006",
+   "title": "政府、太陽光設備用鋼管の48％関税を撤回",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10c0xjMmVRMHlOWWVQR1p3X2xTWFRsZHBYWjRidEEzVy03X3k3YllQdmZ0Tll0X0VsNjAtU3JqN2hWRFBCREE?oc=5",
+   "source": "NNAアジア",
+   "summary": "政府、太陽光設備用鋼管の48％関税を撤回 NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "bd985cb38193dd68",
+   "title": "2026年の太陽光発電料金体系：最高価格は2,120ベトナムドン/kWh以上",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhyUEpKbExvMmh2SjJwTk5mUmYwVVE3NG1pOWItOUVscjNlakNRaVUyUTlzYW10cjZZVGZPc0dNZE50ZW1qT0lKUkt1ei1VaTJVZTQ1bG9Zd0pvOExTNlBhY0FvZjlHQXJITmRZQW92X3UySDJaM0xTb0RtbHFVTHg1dVRKNTlOWnNsYlVNOA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "2026年の太陽光発電料金体系：最高価格は2,120ベトナムドン/kWh以上 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T23:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "523a593c9debdb0f",
+   "title": "太陽光発電の販売による収益は、税金を計算する際に他の収入源と合算すべきでしょうか？",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazg4cFdFR3FiNEt3Sno5eE5BOWI2RzZoR0JxTnYyY3dHU19EZEt5aUhlY281dTdMNUF1T2ZvXzJONkJ4emdGUG5KQ2xUQmhITlpGWlVNSjkyMU5mb1BFd1VKNE1UbVJoT3A4WFdGdGFKbVZ1VS1LSkNISkt0dy01eDNWZVZUY25VT3g2QnRkcFFYc2tzQVBkVDh2WGFJcEk?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電の販売による収益は、税金を計算する際に他の収入源と合算すべきでしょうか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T23:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "c64151f372c56988",
    "title": "PV EXPO【関西】（第14回 太陽光発電展）【11/18〜11/20・インテックス大阪】｜RX Japan合同会社",
@@ -74,6 +144,20 @@
    "published": "2026-11-09T20:31+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "ecb5086185d5ec00",
+   "title": "北海道内の「セブン‐イレブン」約870店に太陽光発電による再エネ電力を供給開始 年間約2,000トンのCO2削減に",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INklSdVZIRWxOZFhFdC04Q3hhUGRpRlVhdDVEOFlCNTNKeGNhbWl4b0ROWVRBcFNPc3N5MENkd01GYWp2eVF2b1FldzdQMnMzbzEzRGJ2NDRpMElNamlaZDIxTXcwQQ?oc=5",
+   "source": "AMP[アンプ]",
+   "summary": "北海道内の「セブン‐イレブン」約870店に太陽光発電による再エネ電力を供給開始 年間約2,000トンのCO2削減に AMP[アンプ]",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T19:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "6e291fec5998e295",
@@ -164,6 +248,22 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "67458c27341fafdf",
+   "title": "枕崎市に蓄電所が受電開始、日本蓄電池など共同開発",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qQVVGbHVNZnVBcE9YTURCcVJoR3BYdk5ZZVFfNmJKU2VDOS1tVjFNZWNLTmRKQ2FPZjlrU2t2X3pORGxscmFnS2w2UEd3S2oxQm1KNWJCaWRJNjMxMVgxaHRwYTl3REtieXl5VzNiTEVNOWtI?oc=5",
+   "source": "日経BP",
+   "summary": "枕崎市に蓄電所が受電開始、日本蓄電池など共同開発 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T16:19+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
    "id": "29e85eddc4845ea2",
    "title": "2軸式ソーラートラッカー市場―2026年～2032年の世界市場予測",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5USnh5SW1lM1A4RHZxaXYtQkNocWQzWW81OGx5aWdJb1loZ3FISEJjVjZjY08zNHdJbnd1T2wxUkt4MkYteVBrODdQMlVyWlU?oc=5",
@@ -247,6 +347,34 @@
    "published": "2026-11-09T15:30+09:00",
    "via": "PR TIMES（太陽光）",
    "company": "株式会社UPDATER",
+   "topic": "営農型"
+  },
+  {
+   "id": "7c4ca48365958a4e",
+   "title": "アイシン、eAxleやペロブスカイト太陽電池など展示へ…メッセナゴヤ2026 2枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xWWdONFh5YXIzcmh0NmhmdGZqYU9rUURCbUtTTkJWbmZTNXprcU10ODE3cEFqSklJMkZfWTlSSm54ZzFfM2tyazZiSUVtd09MdnFSQ3ZmYkpaSGl5WDBaWDhtR1R4dVBPdXVxMW9NYktvQQ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "summary": "アイシン、eAxleやペロブスカイト太陽電池など展示へ…メッセナゴヤ2026 2枚目の写真・画像 レスポンス（Response.jp）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T15:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "06486c19a04d624d",
+   "title": "感動発電＋千葉エコ″＞ 千葉の畑から、TBSのスタジオへ。UPDATER、TBS GX初の高圧営農型太陽光発電所の取得を支援 (2026年11月9日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02S0VmLVU4S0gxZWRybDJ0OFNUVlZid1ozNkxMM29kNTdFcmgydmEyT19UVkpBWDJjNTlaQWF4bnZaUHdxdEhhZWotRkMzaE02WGlzT1NaS2Z1NkZhZjNwSzRn?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "感動発電＋千葉エコ″＞ 千葉の畑から、TBSのスタジオへ。UPDATER、TBS GX初の高圧営農型太陽光発電所の取得を支援 (2026年11月9日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T15:30+09:00",
+   "via": "Googleニュース「営農型太陽光」",
    "topic": "営農型"
   },
   {
@@ -480,6 +608,48 @@
    "company": ""
   },
   {
+   "id": "ced10b2c4f87a3fd",
+   "title": "【海外】LONGi：イタリアの水上太陽光を約948kWに増強、バックコンタクト型パネルで設置面積を変えず容量約2倍",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JUmZZcFBlc1lFUmRVbHYzOFhQYUhjZUtNWVkzRjMtc0xOR01CYmRvNFQxajNRSFY3UTh0WEZiMm9CV0tXdmZreHh2emx4UHJjeUEyUm91NW5DRmhZZWRtNndNYUROX1p3bktXamFYS2s3QQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【海外】LONGi：イタリアの水上太陽光を約948kWに増強、バックコンタクト型パネルで設置面積を変えず容量約2倍 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "a6f4a1c28b1d74d4",
+   "title": "【脱炭素・SDGs・ESG】日鉄興和不動産・住友生命・大林組：品川インターシティでグリーン水素活用へ、太陽光由来のPPA電力も年間300万kWh導入",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Y0dSWjJ5cG9GV1pWbVRNRTZTdnFmV3RZRFZBVGhfTlBiLURzTjRDeU8yM0VlSlhhZ1dXcU0zNmFYalJmek9Qc1R3anE5M3pleHhBNXM5Tm9kTFZfc1FydDZCUEI2X20yblRmaGVQTjM5Zw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【脱炭素・SDGs・ESG】日鉄興和不動産・住友生命・大林組：品川インターシティでグリーン水素活用へ、太陽光由来のPPA電力も年間300万kWh導入 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "ae39b01ff0ab768e",
+   "title": "【海外】Sungrow：欧州で電力系統の安定化と蓄電池の役割を訴求、ポーランド工場に2億3,000万ユーロ投資計画",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPd0xRbXpMVW43MnpWMTR6SmMtU1g1dHVDblJncGcwUElmenREVFV4Z3QyQzhRaEsxRzVqY3hBQXlyV2l5d3hSV25UNDNrVzNqdkpHWmRXVno5N25MZVplVVRuUWFqNTRxenNmOWNpS3JCdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【海外】Sungrow：欧州で電力系統の安定化と蓄電池の役割を訴求、ポーランド工場に2億3,000万ユーロ投資計画 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "e0a204148f3a0e3c",
    "title": "中国の太陽光関連株が急騰、欧米の再エネ需要期待高まりで",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRWlZelZzc294ZU9TNUZtTF9wQms5aW1MemNGV1JoMGxwclh4b1lkaDJabDNkZG5EM3RhMGNUcVFhaUVULUdXWWV3TkE5cE80alA2b2JLcVlxZHZndDJOR3F2cGhBY3Rs?oc=5",
@@ -628,6 +798,52 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "REVIX JAPAN株式会社"
+  },
+  {
+   "id": "693187e6e30f0ce6",
+   "title": "【太陽光発電】フィンテック グローバル：住宅用太陽光・蓄電池のリース債権3593件を証券化、約38.8億円の資金調達を支援",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NOENSZ3RGUFJUZ2xrMVhuaVp0MFdnQ1puZUlMVzZtTV9na25Kemh5REVTOXZWbDBzZ19UX2gtWXU3Qk5qWnpZcXRralRudFdVcFc5dzc3bm0zR3RsMU9iV1FzdXFFazF0YmFMMW9ZUDBnQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】フィンテック グローバル：住宅用太陽光・蓄電池のリース債権3593件を証券化、約38.8億円の資金調達を支援 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T07:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "6d722c57d70d9e9c",
+   "title": "【蓄電関連】住友電工：家庭用蓄電池「POWER DEPO Rx」の2台連携に対応、26kWhの容量と停電時11.6kVA出力を確保",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJZWpMc01BTjN5TXA5bXFyWmFoMEY3Z1ZvNHRYWUhKdHZuNHRvbTExb2diellLMUxjSS1HNjRIeUJibUZHc1hRU0ZzUHloeGF1OEVYVWxrcnRiZExnZlk4S2F0NXdkOW03RmNEZmppN00tdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】住友電工：家庭用蓄電池「POWER DEPO Rx」の2台連携に対応、26kWhの容量と停電時11.6kVA出力を確保 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T07:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "46e75198e82978a2",
+   "title": "【蓄電関連】関西電力・E-Flow：太陽光併設蓄電池の複数市場運用を計画、2027年以降に合計110MWで展開",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NNjJpcUZLQnRvQmtNUHdBV0gwUUlKR3ZuNFpVOVpkTDJXcmVBdTBPaUR0RVhfcnExaVM4U3JjSEdDcFVrdU45MGM4YW9Ucy1mOU9BdVdSTF8xU3pyalIzLUtpUnZkY1M3WU55ZExkZ0EwUQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【蓄電関連】関西電力・E-Flow：太陽光併設蓄電池の複数市場運用を計画、2027年以降に合計110MWで展開 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T07:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "806defa3e788679c",
@@ -812,6 +1028,66 @@
    "topic": "営農型"
   },
   {
+   "id": "6bc102296718db9f",
+   "title": "【太陽光発電】ネクストエナジー：住宅屋根への異なるシリーズのパネル混在設置に対応、設計ソフト拡張で発電量の最大化を支援",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tcFowVHRmY3V2S2kxaTZxTDZRNGdDdTRSaEMyR01jUURVUVdhU0RmeUFJdTNKLVZFS1RpTDJqQ3F3V1FkazZQOWRjeXB6WHBwcXZ4WHg4cTlWUGVHbGFZUThmMHQwc2h1ZXJLRWJNenF5dw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】ネクストエナジー：住宅屋根への異なるシリーズのパネル混在設置に対応、設計ソフト拡張で発電量の最大化を支援 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "fce206493e4a7c59",
+   "title": "【太陽光発電】大鵬薬品：つくば研究所で350kWの太陽光発電設備が稼働、年間約185トンのCO2排出削減を見込む",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVb3loSUpfMll3U3JKT0RTOWVOakQxREo1NDFaZ0tWeGdCcVctajJDN1QtVEp0eFJYU0ZKUFJfOXU4YUdySmotOVNOajFuVV8yMmtjakZJR0poeFdWVUZET0NjbnVhRFNhUHp3M3ZoMjRnQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】大鵬薬品：つくば研究所で350kWの太陽光発電設備が稼働、年間約185トンのCO2排出削減を見込む みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2b23de45718f0fa2",
+   "title": "【太陽光発電】SMAジャパン：太陽光・蓄電池用PCS2製品でJC-STAR★1適合ラベルを取得、IoT機器の基本的なセキュリティ要件に対応",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nQ05NREY4dk1MZTd4MERCOTZCaXRXbWx4c2o3VzZULWs5dmZlR3pBRThfVnZfelR3ZDNPTk1sZ2cyQXExNFJ5Tzl5SE9rYk5IUXNxbmg1a2NVMm5HLWFLSzRhWHAwcUw5TzVKVlRYZkdPdw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】SMAジャパン：太陽光・蓄電池用PCS2製品でJC-STAR★1適合ラベルを取得、IoT機器の基本的なセキュリティ要件に対応 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4ac1ff0538d77d97",
+   "title": "【海外】米国太陽エネルギー産業協会：太陽光・蓄電池で夏季の電力費用を大幅削減、米2州で2021年比計約60.5億ドルと試算",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TVUZ0WFFTVjZzY01oUWpRZWFzMWtBMXA4ZlhRTENwWWVDRlpvNVljMTJ2M0RHQ0l5NzVtbWdxYTA1QmpiX3daX0VEYl84anFyMnRJdmhKb2RyTGxvUlZPNWtyekFsRDNLVUNRTERtWVhzZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【海外】米国太陽エネルギー産業協会：太陽光・蓄電池で夏季の電力費用を大幅削減、米2州で2021年比計約60.5億ドルと試算 みんなの広報宣伝部",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外",
+   "storage_topic": "その他"
+  },
+  {
    "id": "87549526792dfbaa",
    "title": "中国電力とJR西日本、蓄電所共同開発で合意 鉄道沿線の未利用地へ設置検討",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNXRHWG1nRE1abmpScFRDXzVaRTBzSllkeFRlcGxqbTIwczNVSkYxaTlpSEs1N2R5NG1QYXRqUm1uN1laNTN0em9YZ3VaeDVsaHVlMXpzeHExdw?oc=5",
@@ -838,6 +1114,20 @@
    "published": "2026-11-08T09:21+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "ce855d6b8dfaebe8",
+   "title": "【海外】Sungrow：豪展示会で家庭用蓄電システム「PowerHarbour」を初披露、最大120kWhの構成と産業・系統向け製品を紹介",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8weExnV0pCUG9NZk11TkV3OWJXRVBRdVc4ZHlDdlJrT1FZMWpxRGt4dWlQRlloOUNFZmxidUZFNE9sS2dId2w0b3VZVXk3RWRpMHNkSjVvdm9ISDBkUjZSSnF5Ylphdlo3Sy1haWxsZVNuZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【海外】Sungrow：豪展示会で家庭用蓄電システム「PowerHarbour」を初披露、最大120kWhの構成と産業・系統向け製品を紹介 みんなの広報宣伝部",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T07:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "家庭用"
   },
   {
    "id": "4cf75fc869dd8564",
@@ -2410,6 +2700,20 @@
    "published": "2026-11-05T17:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "efeb7cd62f299aa8",
+   "title": "商工省は2026年に太陽光発電所の発電価格枠組みを承認する。",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjJGaWFhSy1SZXZBUHZJWXZNMEp2ZHp3TVFBMUo5bHdUZFI4d0otdnZsa0NwYnpzaFQ0WnlOVWZTTWpSdS1nSW5lQlAwVlZZTTZFVmpoeU1hbGhnQjNzVERTQmdqX1d1YkJYWF9ieUFrSFRGTWM3T2pDMEhNUmdPWnNBMkZwNG0zdmxGNW15OWVoX2hEcFA3a0k5dE1zNUFfV05kMnNObFhlZUFMcWw3cA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "商工省は2026年に太陽光発電所の発電価格枠組みを承認する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-05T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "8d1ccdd35e106f87",
