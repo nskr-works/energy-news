@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T23:28+09:00",
+ "updated_at": "2026-11-09T10:11+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,182 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "a9947dd3d98f0be7",
+   "title": "【日本蓄電池株式会社】熊本県荒尾市にて系統用蓄電施設「NC荒尾市府本字打越蓄電所」蓄電池設置開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Nmk2ZmNYcXdnNFVQY19vUTZGSEs3YmQ1ZUZwajFzbndwbFZKeU5HRk00dUJjNTBMMVQyZXB2R183czU3bC0zNU5GZTlSSURGaGhuaGxMQW9yZjBSVEE2NmZpXzVaMkdxaWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】熊本県荒尾市にて系統用蓄電施設「NC荒尾市府本字打越蓄電所」蓄電池設置開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "848544ad9cb32353",
+   "title": "RENON POWER、低圧系統用蓄電池の累計受注1,500サイト突破",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KYm1aZFlDV0I5RXdJNl9Vd3pfWllxVjVwVncxbFVJWWZfVU9wNUdJUzNTSTBIc1h3VTJmeHpiTGVNQXNHTWVZcmpOSnpfbURwdE15YkdJSEQ4ZXRldDVOT0V3amtZRXM1T1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "RENON POWER、低圧系統用蓄電池の累計受注1,500サイト突破 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T09:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧",
+   "company": "RENON POWER 株式会社"
+  },
+  {
+   "id": "353946ff16189efa",
+   "title": "エコ革、系統用蓄電池事業が本格稼働フェーズへ。全国11か所の系統用蓄電所が系統連系完了、3か所が運転開始。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aGdjTjNtTnFzazI1TlVTTjFNRDBIUUJxbVJDcmVDT1o5R1FjYnRtZUl6MFpRUFB1OG1acXZPOW9ka0t1UnFmQjBWYnpQeTRQVU9CdVFTZzJGTE1faVFsaF9tTmwwNEZ5cEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "エコ革、系統用蓄電池事業が本格稼働フェーズへ。全国11か所の系統用蓄電所が系統連系完了、3か所が運転開始。 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T09:17+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社エコ革"
+  },
+  {
+   "id": "017b0680fde29e28",
+   "title": "「調べるほど、何を信じればいいか分からない」 太陽光・蓄電池の購入相談で見えた情報過多時代の消費者の悩み",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyZS1SYnRxbTRSVFR5WXpEOVNfendrVGdIX1R1M0JQV2lQT2tlc2RNQk9TSzRBNVZyQWlEd0ZxcXRpWVFSOGk1NFBQbm9yYkpYRlBxZG9YVm9oaGJrWGt6WTZ3TFFRNzA1M2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "「調べるほど、何を信じればいいか分からない」 太陽光・蓄電池の購入相談で見えた情報過多時代の消費者の悩み PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他",
+   "company": "株式会社トラーチ"
+  },
+  {
+   "id": "65da04047a57faba",
+   "title": "グリーングロース代表の河野淳平、新社会システム総合研究所主催のセミナー「蓄電池ビジネスの事業化戦略と実践」に登壇",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOFVIUHBDSGt6U280cTRFUVlWMWJwdHFnS1RNZjBHdnEtbUo3SGhBenlGV2VWb0REclNxbXRYRlF6NjA4SmF5dk5ncDlCaHY5YlhGV3BMR25oU2F5WVdSb1ZHaVI0ajF4X2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "グリーングロース代表の河野淳平、新社会システム総合研究所主催のセミナー「蓄電池ビジネスの事業化戦略と実践」に登壇 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他",
+   "company": "株式会社グリーングロース"
+  },
+  {
+   "id": "c263720cdedce587",
+   "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査②】",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEcWZkY3B4X2NYZ3BYTGY4MHlUcjFrSDgxdVE4b3d0M2VtU08wU2ppU3NmTkp6TVJyS29PQ1BPdi11UTVWWmQxWXF2Q3RqWEFMMU1NN0ZlbWhBTENnNkY5S2dyZFlqOVVZVWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査②】 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-09T07:50+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "REVIX JAPAN株式会社"
+  },
+  {
+   "id": "806defa3e788679c",
+   "title": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ：太陽光 - スマートジャパン",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVlRLX25QYzdCS1AtSGw0R19udHNWQWlibERkWV95TFdtb2tnLXlRSGQ1V2M4U1IwZXUzeTY2bFlfbjdXMWhtZGdtTXM2VUo1UG1hdW00UExsRkk5TUVSRHBfdHgtUlZkZkhmS3dtU0p1MGl2?oc=5",
+   "source": "ITmedia",
+   "summary": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ：太陽光 - スマートジャパン ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "7fbec858bc292c61",
+   "title": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/09/news031.html",
+   "source": "スマートジャパン",
+   "summary": "富士経済は2026年10月30日、ペロブスカイト太陽電池の国内市場に関する調査結果を発表した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T07:00+09:00",
+   "via": "スマートジャパン",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "d1df9dce55781a9b",
+   "title": "NASA、原子力で動く新型月探査車「PROMISE」を発表 太陽光が届かない月の南極で水の氷を探す",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tei1ybkFGajhqWnpfNEY5Z2xnS25GMUZTandLZHdZdmN5Z1JQUUxMYUl6alBWa1BJV2syeWx4enQzSWwyZWh6N0lSMDkwWW8xREM0U1lFMThabl9nN1BzaGt2bGs2bmZHMzNVXw?oc=5",
+   "source": "XenoSpectrum",
+   "summary": "NASA、原子力で動く新型月探査車「PROMISE」を発表 太陽光が届かない月の南極で水の氷を探す XenoSpectrum",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T06:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "bd75b2bb37c4ec28",
+   "title": "太陽光パネルにスプレー塗装 カラフルな発電建材が街の景色を変える",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xSVp5VENONmJJZ2RSVDFSQ1U5alg0cWgwNWVHVEtlUmZneF9MWG84WUxLVFhCSEtqRDJJUUpXRnJGbVpmbUNFdlZpUm9MeTVqcWpMQQ?oc=5",
+   "source": "ASCII.jp",
+   "summary": "太陽光パネルにスプレー塗装 カラフルな発電建材が街の景色を変える ASCII.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "6d36142377b69e4c",
+   "title": "ＧＰＳＣ、東北部で太陽光発電所２カ所着工",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MeUdNOVVxal9UTEk3MWkybng2MW83Um1iN0ZOV0pQb3JRSHdoMHA1VUlWbDU0MmNqWXFKSGdmOFQ4NGdid3ZDNEFSSQ?oc=5",
+   "source": "日刊タイビジネス",
+   "summary": "ＧＰＳＣ、東北部で太陽光発電所２カ所着工 日刊タイビジネス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T05:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "3734e9db72bc604a",
+   "title": "変換効率28%の太陽光､日本投入 中国トリナ｢品質勝負｣",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51cW9GZ2Q2UXYxemd1aWlDRmNNNXNILU9VV09KN0EwQS1SUFlfZTJrMkxWRHU3SDBjQ2JlUndfYmxsbEpabUV6Q3ozN3MwcXZFNnVPcFNvQUR1LUVyVjZxUVJ2bWlfUWtTeFhxcHdReXBTaU5IblM0?oc=5",
+   "source": "日本経済新聞",
+   "summary": "変換効率28%の太陽光､日本投入 中国トリナ｢品質勝負｣ 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
   {
    "id": "0bfa07cc738b471b",
    "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
@@ -88,6 +264,20 @@
    "published": "2026-11-08T17:05+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "e774ba06b8786fe1",
+   "title": "サステナブルホールディングス、国内系統用蓄電池案件で設備等売買契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIWGhkd2lpeldqc1J5Nk1JbzN3TFVUMkg1WFZvZ3p5b1cyS0xFeGRsWWV6TjRYX1FteVJoOVVaVjROdWttRHc?oc=5",
+   "source": "Dellows News",
+   "summary": "サステナブルホールディングス、国内系統用蓄電池案件で設備等売買契約を締結 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T16:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "f29bfec46f5ccab3",
@@ -2116,6 +2306,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "dbef3198d362e1ed",
+   "title": "「ポスト系統用蓄電所ビジネス」と題して、株式会社H Energy/株式会社悠Green/環境エネルギージャーナリスト",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94dEJjWk56R2lOZEhEcEtOY0h1U3FzY3pzVHRfZEZZUWNTcE5vZWpFSkZnb0J1NmpsOEJzQTE0dkdHNmFXQUtmUXo1UGQwWXhsUWotVQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「ポスト系統用蓄電所ビジネス」と題して、株式会社H Energy/株式会社悠Green/環境エネルギージャーナリスト ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-05T12:45+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "ff3e3509b228718d",
    "title": "屋上太陽光発電に新たな推進力が生まれる。",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBON2J3V01weENmbjFVS2FVUjlhZ3U0WTJ1Z3NDU2hROE5ldlVZQTc3eTlnVkF6RmNzQzlMbFEyMkFEblR3cmVuOGJTRGg4ZW9pU2hPVHZMSEd2Z3U5WjNoTk1UN09OUjhSTVlkdGRKTllRQQ?oc=5",
@@ -3637,6 +3841,20 @@
    "published": "2026-11-04T08:05+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "95e1bd9d7a5dcd6a",
+   "title": "【太陽光発電】アイ・グリッド・ソリューションズ：フォルクスワーゲン国内拠点に再エネ電力を供給、オフサイトPPAで年間4.6GWh・再エネ比率100％を実現へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZUZjbVY5cm1jc0dJVjV5OEtaellDbERvSHFpNndVUEVVYnI5aFlXdXVxYlJTS2hxOE1vaFlWRXgxTmMyMWZ4Ukx2dl9oQ0VVQVVHNFUyLVUzbExqQXMtYzN5eXV5bFBzbjdpb010eUVUZw?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【太陽光発電】アイ・グリッド・ソリューションズ：フォルクスワーゲン国内拠点に再エネ電力を供給、オフサイトPPAで年間4.6GWh・再エネ比率100％を実現へ みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-04T07:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "57f8eacf3aaaaddf",
@@ -10263,6 +10481,21 @@
    "published": "2026-10-27T14:03+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "6ebe837cb04b0e26",
+   "title": "「美野原カントリークラブ特別高圧太陽光発電所計画計画段階環境配慮書」 に対する環境大臣",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Qld0aUM3akFkZEFQQlBoalFGUks1eFpldVAtbHRrdG5KNVQwczRLS1lYUFlXUk4xUkZQWF9mdEdFZDhxWXVhNFRPaGpzS2kxa0FPZDlR?oc=5",
+   "source": "環境省",
+   "summary": "「美野原カントリークラブ特別高圧太陽光発電所計画計画段階環境配慮書」 に対する環境大臣 環境省",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-27T14:01+09:00",
+   "via": "環境省",
+   "topic": "政策・制度",
+   "company": ""
   },
   {
    "id": "bd74683e7c67abab",
