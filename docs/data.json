@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T12:47+09:00",
+ "updated_at": "2026-11-10T17:48+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,196 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "3b7f80429c8414e0",
+   "title": "蓄電所事業が拡大、関電系E-Flowは運用受託1.5GW",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vZXVaRmlnNEw2TDFpWnJFTDJFbjQ3M3FDYnU2S0h5NlBTem9GbU1CeTFiRVlzblR3WGk3RWtlZVhSbGpiYnZqeDdXYnNwY0p4eEZhRHQycHdGWmw5ci14Tm9KSngwOW5hT0ZUMHZqTVktZkZp?oc=5",
+   "source": "日経BP",
+   "summary": "蓄電所事業が拡大、関電系E-Flowは運用受託1.5GW - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:37+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "2e0424a6d6bab019",
+   "title": "CO2排出量を大幅削減！ビッグハウス下妻店の屋根上と駐車場にソーラーパネルを設置！",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDN3VxUktrRmJJTjZtdVpIck5mSmt6NzZ6enE1ZVRyQ3FHLVk2ZlhGLXJJYldXWjJ4X1ZtaERBTGIzMERZV0xSU09KUDktRC1FNC1YUzBjQ2VESHd0LVo0NlRadlN6NllXTi1GLWJNY1J5Zw?oc=5",
+   "source": "Infoseek",
+   "summary": "CO2排出量を大幅削減！ビッグハウス下妻店の屋根上と駐車場にソーラーパネルを設置！ Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T16:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "しろくま電力株式会社"
+  },
+  {
+   "id": "199386ea037b169d",
+   "title": "鶴見製作所、太陽光・蓄電池増設でCO2削減625t 工場で再エネ27％に",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BYlYzVTI0eEloVm1pX25hZlRKYVFvQjBVNnNMaWw2eWZGaUdJWGczR1B6cXFrdGdiTDdzUXJHVnU0TGw2T0JVZEZKQWd6UHV5VFN5emphZGRZUlFNVDZOaUhsVV9wV1BXYkxfMFhNdXE5TE5HWUpWbDNfYXA?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "鶴見製作所、太陽光・蓄電池増設でCO2削減625t 工場で再エネ27％に 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:43+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e76b4fe79545ce1f",
+   "title": "テスラ、米テキサス州で101億ドル（約1.6兆円）の太陽光発電所に着工 2029年稼働目指す",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSzhES1dSeFR1MmNGZWJjZjExT2dEMThCczZtNWo5cUlSd2p3UlpjRkhEaEdyY092NXBTSmxzVktKTFpGMFRYMmhJTEwtVEd2enVqQnVBNzFBQ2c0YzZINl95SmkyQVFmMlZDczFseWFzTDlC?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "テスラ、米テキサス州で101億ドル（約1.6兆円）の太陽光発電所に着工 2029年稼働目指す BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "66cbaf2bf7c2f793",
+   "title": "エー・ディー・ワークス、千葉銀行の「ちばぎんリーダーズローンNEXT（環境設備型）」を活用し系統用蓄電所事業のための資金調達を実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bUlqbEIzUHdGcFQzbXlZVnY0U0dLNi03TmtvczgwRFFpUG1lbzNEVmhCU3VlbHVYeU5sLUtTMkZOVHlfMTdmU3BaWDU3bm1wZmJCd2c3cTlXNjdKSUtfQUJ0ZUFFMnZTTVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "エー・ディー・ワークス、千葉銀行の「ちばぎんリーダーズローンNEXT（環境設備型）」を活用し系統用蓄電所事業のための資金調達を実施 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T15:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "株式会社ADワークスグループ"
+  },
+  {
+   "id": "80f2ab87d4d2bbe1",
+   "title": "ペロブスカイト太陽電池の宮坂力氏ら3人に京都賞授与、賞金各1億円（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SR19VWFoyajlLVURFUXB0UzdZdTVHaWdvLWQ2Tkh2c2hBOEM2X1dNaGg3bUM3MjhIY09xVFhFVWJqQzFGaDdHM2xjYUFodUFWZlJ5TVR0NHJJMGYxMWFGMXNSSzZGWVdWWGFQWkkyWm1XcHVNNFJ1c1IwTmZNZTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ペロブスカイト太陽電池の宮坂力氏ら3人に京都賞授与、賞金各1億円（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T15:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3995f2fba64f4168",
+   "title": "ソーラー照明システム市場―2026年～2032年の世界市場予測",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mX0VDQm14YkFPaW5mMjU5ZWNtU0hIT0J3bzZBc0huNDIwNUpjb3E4VWZ5bVNybXZ6em5yTUF4M0V2UWJBaVdicWY0cG9SZ0E?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラー照明システム市場―2026年～2032年の世界市場予測 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T15:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社グローバルインフォメーション"
+  },
+  {
+   "id": "87ab1d33f86f6535",
+   "title": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設「NC海南市木津蓄電所」受電開始 コピー",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RQWtKRF9sZC1pX0tFTDU1WlF0QmFOd3pERXpBVk94VFByREh1bWJlaGg3NG9RZ2cyTDhNUXh2b0NYQ0YzV0VncXRKb25RTmJRX3hiYVdJdGJGdjF6b0FJR3ZJNDkweVpUS3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設「NC海南市木津蓄電所」受電開始 コピー PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T15:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "6051c6019bd06305",
+   "title": "TESSグループ、ごうぎんエナジー株式会社様向けに「太陽光発電システム」を納入（設置場所：青海流通センター株式会社様",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwOFkxNnJVSjN6OGNnSUN6eU5COGpueFpReDZBNkw5VnluNkVwYWtRUlJITmNRVFBjb1Z4RlNKX2FmWTFROVpCWVNLa0tHTnZkQ042cnB0VmpCNDk4LV9ET2JjbldCYV9qX1BseTBlU0pnMjJrVVVqQWNQMA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "TESSグループ、ごうぎんエナジー株式会社様向けに「太陽光発電システム」を納入（設置場所：青海流通センター株式会社様 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "76ab269d5eb827ba",
+   "title": "屋上太陽光発電を解放することで電力網の負担を軽減し、数百万ドルを稼ぐ人々がいる。",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWFJSTM4Q2tvczRhRHpjZXNqaFNxR1dpQ2NSNG01eVMtNE53YVlYeFN2Yk1qNzZlUkQtQzBEUEVocXc1Z0Fza2QzTy1GX1N5dHRWN0ZZdDZJM01hY1BXdDJUTXBFZUlWVVNhUUpIYWVOd1BXbFVJbTdPM1ltbzFVZi1oMVJubG1PYmNLLUprMlBEWXVCZUp6Rw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電を解放することで電力網の負担を軽減し、数百万ドルを稼ぐ人々がいる。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d4a1c778fa569186",
+   "title": "低圧蓄電所の需給調整市場参入を一括支援 日本蓄電開発、VPPで新サービス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vYXZGRklYZGQ2V2J6RWhuMHFLWVV2M3ZncW9YOHlWVXZaTUZpTkZvTkdabHdRV3BSSTVzdFJsZW82TG1kcnU2UE1NSFNQbHdzUnZscjl2VVBBVXp1LV8ySk5KNFJsM3RwQU1jTGZBcmdaSDFsa0tBMldMSXo?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "低圧蓄電所の需給調整市場参入を一括支援 日本蓄電開発、VPPで新サービス 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T13:57+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "ac84d5bef7533755",
+   "title": "太陽光発電でトレーラーを遠隔管理 資産追跡市場26年には16億ドル規模に",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSXljMkhEYnNCOTJuZ0JJVXR2bV9PRV91bnpuLTRfeWluZ0ljRVhpQjdhRERKejdHc25FN2YwZl9pRGpNaGFGMGhHM21PbXZ4eEZ1V2tfSGJ2NUpWQ3RhN0Y1STl3T2FSWmh5UzNHUk9UNHdpVFYtbTJtU2t4blU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電でトレーラーを遠隔管理 資産追跡市場26年には16億ドル規模に 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:57+09:00",
+   "via": "環境ビジネス",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "459d23d664f02d52",
+   "title": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTA0NWRWVzhDak5IcDZ6eDRUejlSMGNBZmRwNHlHYXRqTU1sWC1MdjBWS3pTY2xfaExwdXp3Z0lTQ3V6cmlxbk1tNVZseEJaSEV4WWoyNTNHLWdmMkZBQmEtc2p3UF9xeGxmTlRlRmlaTGlNWnhOU0pqbExrRFpfVG9uTFF6SXpzaEHSAXxBVV95cUxNNkptTThpRUtSbWlvZGZCWFZranBfY0U0Yk1iUndqcGxZd0tQbE9zM2tMSmxvVVpneWV5QUM0dkkyOWMwYUVKV2pyTWZnbE1leW9GdXZ0MS1CdVlzaFF4YTI5bnFsM09PXzZWdFpZR1NWcFc1amhnTjdQeVd0?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "33b91db39a43ee25",
    "title": "米国住宅用太陽光発電（PV）市場、2035年に387億5,000万米ドルへ拡大予測――年平均14.58％成長の背景にある電力コスト、蓄電池需要、住宅エネルギー戦略の転換 | 株式会社レポートオーシャン",
@@ -339,6 +529,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "7d4f3c313e1e2b88",
+   "title": "基礎研究こそ重要…東大名誉教授が指摘、ペロブスカイト太陽電池で勝つために必要なこと",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lS0JnSFpNQ2JvMVpBbURkUVFYbTZ1aW05QUM3RXBtTXRQVk94RlVXcFd0LV92YzltWEVfQXh6bDZMdw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "基礎研究こそ重要…東大名誉教授が指摘、ペロブスカイト太陽電池で勝つために必要なこと ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T06:02+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "766332571336ed03",
    "title": "【独自】サイバー・ブラックアウト懸念拡大、太陽光設備対策は初歩段階",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0JyUmJPNU1iTVRObmhJaTVSWVJ2QWdJRzZ4dlYzV3lUM1hwdUd5RUVNLTJkYXFjVG9sT0MtY01NOWFoUjBIQ2hZWVFCcUhCQkEwQ1FJSzVNOVRSdlpyTC1YenN2eTNac285NHFCc0gyWElLa2ZZMmtvV0l6U0FlSg?oc=5",
@@ -351,6 +555,20 @@
    "published": "2026-11-10T05:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "e9930db4326ec065",
+   "title": "人工衛星用ペロブスカイト、宇宙で年内実証 中国・上翼",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnZPTmlhMkZVbUY2RGpUX1NURVV6M1JvbExldUI2OHVTeEVzMXVaVGpBYkZrcmlIZG42Wi1Ib2xJMFh6ZmwwaFYwZXpMeGtWaktqTWdKOXBPdVZKbU43SGwtdjI5TDFRT3RFZFlXRlUtZG1YVWNlRjRBQmJRcUstYl9GZVFsMkJVQUhISEs0UTJmUm1zLXRUZTFhT2Y?oc=5",
+   "source": "日本経済新聞",
+   "summary": "人工衛星用ペロブスカイト、宇宙で年内実証 中国・上翼 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "75708b4c5b93762d",
@@ -484,6 +702,20 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWxXb3Q1TjB6MHF3TERuenUtdDhiY09DZXh0RWJvMDhSSEZyalBjQlhLNmJrR0J6YVpiOXJlT05JR29pd0VieEtMSVl5TkZJMWFQWFJtcGFqV0NhTFdyNWZGb25KS2ZsZ21sQmEyQUFaMlhoeE1kUnBNd1hfTW11RVJkRktlLUttaENjS2JMMVJjWWJUZWdhbzZPdXgyeW9ZcFE?oc=5",
    "source": "産経ニュース",
    "summary": "パナソニックHDのガラス型ペロブスカイト太陽電池（同社提供） 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T20:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "a4443ef016079700",
+   "title": "積水化学工業のフィルム型ペロブスカイト太陽電池（同社提供）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXMwS2QtUjN3bWhOZ0xjdEtrR2d1OUpUcl8zYlVHdE93VzZlR0FMRi1wZVIwQVBWNWUxbU1YODlVWDNqNTBYaWgwWGhUSVVZbFNWbFVqSDZTMk56alNtVDgxVGhTdi1pWEhYVVpFMU5zcmxwSzdpT3BHVHVQdnJHakxaZU5BMjFMZFJnM1dWMy1mVzlaZnlaRVJEaGE0MTJtS2c?oc=5",
+   "source": "産経ニュース",
+   "summary": "積水化学工業のフィルム型ペロブスカイト太陽電池（同社提供） 産経ニュース",
    "categories": [
     "solar"
    ],
@@ -1461,6 +1693,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c931d457d4993b2d",
+   "title": "【次世代自動車・充電器】DHLジャパン：商用EVバン「F11VS」を導入し集配車両51台体制へ、物流拠点の469kW太陽光で充電",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxVTMxSDRCYXFTM3ZHZHV5cEgxV0R0azZYSGV5cjFodEs2YklQNnNkVzN3eUdDaHpYeWRRVF9Xc2JHaEdJQUJkOUkzYjhPSVBLVk5BbzMya2dJUWg3SW5ZblpqVzF6TDhWT1AzRE5MVjJGQQ?oc=5",
+   "source": "みんなの広報宣伝部",
+   "summary": "【次世代自動車・充電器】DHLジャパン：商用EVバン「F11VS」を導入し集配車両51台体制へ、物流拠点の469kW太陽光で充電 みんなの広報宣伝部",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-08T10:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "87549526792dfbaa",
