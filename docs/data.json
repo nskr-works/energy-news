@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T17:48+09:00",
+ "updated_at": "2026-11-10T21:55+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,248 @@
  ],
  "items": [
   {
+   "id": "c592d1c2205570f8",
+   "title": "【独自】釧路のキタサンショウウオ「保護区」26年度中指定へ 太陽光建設困難に",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERkVtSU9JbmdraV9VU1hCd1BNU3dRMVZVUE14QnZQcEU2VWp1YnM2ZGwwWk9fTmtwYmhFbDZTXzRPUk1fUGtrVGVheXRwLVNNdC14ZzNESFZOOWZFU0NxNTFXSXU?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "【独自】釧路のキタサンショウウオ「保護区」26年度中指定へ 太陽光建設困難に 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T21:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "bd751e5d34557a99",
+   "title": "セブン-イレブン、太陽光の電力使用 北海道内店舗の9割で 北電などと契約",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UT3QxWm5KNll6NXBEVWRFVlFXVy1uUEo5cVRWbEdHTUxnVm54ckRvNDR5UXVhQkg2SU5qRVRiTTRnZHd2ZllkN044LVl3SjhtODY3Qmt5VENtZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "セブン-イレブン、太陽光の電力使用 北海道内店舗の9割で 北電などと契約 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "c4d59bf2297730d2",
+   "title": "「原発20基分の発電をペロブスカイトだけで」京都賞受賞の宮坂力さん 次世代太陽電池の開発を先導",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSX0x4Ulo5RHZDMnRyU2hhSi1Nd1NHR2dOemdaSklaMjdfcUNfSkZqVGlIU191OTZtTTJieE9JcjhWZDlDLUVuaExtOU1RRVJieGJFYmU5NkY?oc=5",
+   "source": "京都新聞デジタル",
+   "summary": "「原発20基分の発電をペロブスカイトだけで」京都賞受賞の宮坂力さん 次世代太陽電池の開発を先導 京都新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:24+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "fe2a8b18d4333cca",
+   "title": "「ペロブスカイト太陽電池」の宮坂力氏に京都賞…「熱心な共同研究者・学生いなければ達成できなかった」",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ralAwNVU4SXhhNEpZSHJxQXZBcjdpT1FXUVY2aTRqNXR3ZjV2WnhTN3R0bDhVY0w3eXgwLUxRNWdTVF9qTkFua2NQZ3Y1a295ODE4aDJGUTBHemJ6Qy10cTdHcFg?oc=5",
+   "source": "読売新聞",
+   "summary": "「ペロブスカイト太陽電池」の宮坂力氏に京都賞…「熱心な共同研究者・学生いなければ達成できなかった」 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T20:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "1be448ba083abec2",
+   "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcS1hYVNZX1ZlZTNZYjg5c2wxQ1FUbFhZbVVZemZIcWg3VzZZa0JJckNacHVGZTBFVTlFdzk4cTE5NDd5a3hhUnJib2Z5YUExRmtkWm55UlhsWmw1QXN1ODBvSk1MVWY4R3c?oc=5",
+   "source": "PR TIMES",
+   "summary": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T19:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "c3569ccb361e35a8",
+   "title": "プレスリリース：GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Yk45Mmk0Z3RWZUZUNEY0WHI4MTlua1EwNy1PS3h5LUJ1RkUxRDM3cFBlVEpzUUFvUl9oNDFycUxnWjhxTnFIVWhzMU1jRmhYY05KRW9TZVpvX1M4d0pVa0xwT2tCOUFH?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催（PR TIMES） 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "4695b38e1ac306d0",
+   "title": "2027年相場を牽引､これが｢ペロブスカイト｣関連15銘柄だ！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TVpJOXo3RHNVLVEzUFhBTWdzTW5fTFo5SXN0ZEJ6aE1naTNvVUhQVWN6cmc0N01ULTNERlVuZkhxbHcwM0VES2wtWHRtM2ZuRDlnbWlEbw?oc=5",
+   "source": "四季報オンライン",
+   "summary": "2027年相場を牽引､これが｢ペロブスカイト｣関連15銘柄だ！ 四季報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "06b2f95a8980d403",
+   "title": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wSkZyQ3VGeUk3N3NoSjNTY19vc3Ixa2hLbkYyWTV2Z3ZVdHZGOVdYcGN6Z29vOFBqX1JsTmVtMm5XVUdOWjNIZTRHZjdLTDN0aVNaMmpMdk5NeW5Vd05TaGtqcENCOUxic2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T18:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "発電所・開発",
+   "company": "GoodWe Japan株式会社"
+  },
+  {
+   "id": "23a7a257658af3eb",
+   "title": "宮坂力氏らに京都賞授与 太陽電池開発「感慨無量」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZSGI3M3B2SEpBTFFFV1pZUUNhbjVxSTcyRFIta05LQWQ3eXNsNWhnSEpJeFQtR3VEN1ZqZEFsYVhUS01hRFF2cGxYOXdNdw?oc=5",
+   "source": "NEWSjp",
+   "summary": "宮坂力氏らに京都賞授与 太陽電池開発「感慨無量」 NEWSjp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "eefb2f8bd2508c44",
+   "title": "宮坂力氏らに京都賞授与 太陽電池開発「感慨無量」 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Um9zRWQ0Y0tyRUtJSVlBV09xVVB5SlFtdmowbUthSkJtU2tuZGdieGZwN21xb05vZFp4V3pSc1RjZHVCT2tkZEZoQlItWS1nOW4yM1ln?oc=5",
+   "source": "佐賀新聞",
+   "summary": "宮坂力氏らに京都賞授与 太陽電池開発「感慨無量」 | | 全国のニュース 佐賀新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:07+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "10ec8c9db2eea06a",
+   "title": "空港施設 太陽光発電設備と蓄電池を整備 | 航空 | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKMTQwTzlhX2VmLVhSeUlRYWd0OW81QmlUWnVoREdTMjR3dndoQUtEeFMwWkNHb2lHdjE2aExnWU9lM3JUaEllS0w0dmNoZEgwemQ3cmtSTUtHbEtTd2QxTlVUT1EzbFNC?oc=5",
+   "source": "Daily Cargo電子版",
+   "summary": "空港施設 太陽光発電設備と蓄電池を整備 | 航空 | ニュース Daily Cargo電子版",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f64314473545ebe0",
+   "title": "2026年の太陽光発電の最高価格は2,120ベトナムドン/kWhを超える見込み：どの投資家が有利になるのか？",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzl4VlRxYjFua3EtXzV0NzhTWlBhOFJPMUhvZGU4aUlMMFZWTk9oV0p5RzdyLTJCMjJaemdCRUJncXZUR1lFeENKY0hMaGoyQ1ZwLUhJRUU0Ni10TXQzR183T2huazRwUXhSUC02Sms3MGdWOVctUWQ1NkJGOVBJTS14N1UzTnEtNkp0VkE1UW1IMmdEU0lHMlB4UG9CaXNTcFZYS29ud0lNZFNV?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "2026年の太陽光発電の最高価格は2,120ベトナムドン/kWhを超える見込み：どの投資家が有利になるのか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "2a18599ccd71ea7b",
+   "title": "ＪＡＬＣＯホールディングス[6625]：（開示事項の変更）成田蓄電所の浸水被害に伴う設備の引渡時期および運転開始時期の変更に関するお知らせ 2026年11月10日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbTZOa2cwY2FfUFdMQjY0VnpRa2xhYkJwODltU25hY0g3N2djRWlGZFlTU1BWVWdmQS1lMzNNYXMzVUhTQlBtLXJOdEVoYzc2SHRtb3loWmgxQl9tMks3UW9FeVRWOVZvV3ExZ1JyVUZ6VWUyMlRKaU15bm10UDQ2NWJEbWJiTUdwelFmdXV1VTBVWmNyMTQ4WDV3eWQ2cVlmYzQzYWFRWHZMbHhaM3hkblQ1ZkQyeU5pYzJvRjFRNjU0SGwzUjMyUHRlc2M?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ＪＡＬＣＯホールディングス[6625]：（開示事項の変更）成田蓄電所の浸水被害に伴う設備の引渡時期および運転開始時期の変更に関するお知らせ 2026年11月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "211b12c2458762ca",
+   "title": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ELXlFaExWNjRPQUJJMEJtSkxNaUFpSWF0TWFVX19fX0M2QmkwYmQyd25DaldNX3gyc3JMT0xJVmdldHR5TmNWSDY3R1FFREQtYmZlV0xzY0ltbUd5c0JqdjBRSGp6eE55TlYyakt6d3ZXeFZPV1VpWDdRZ2llT0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "a505fb78015f34f4",
+   "title": "「ペロブスカイト太陽電池」開発の宮坂力氏らが京都賞受賞「学生らに心から感謝」と喜び",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHUySG9JZVY2SV9ILTFWTHFEQUpWXzVuQWJPY2xGRmk5RHJGUFdTOTZqRWppRGFjOEN0d2IySGdkNHVIbUI1MlpKUS1xbVV1d3NZQXBsbTFvV1NiY19fTHJNRHpGcS1fWFZuakRBVEtUWkIzQWlGd281SVZNNXFaN3AyWU9GWml3US1Zaw?oc=5",
+   "source": "産経ニュース",
+   "summary": "「ペロブスカイト太陽電池」開発の宮坂力氏らが京都賞受賞「学生らに心から感謝」と喜び 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T18:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ea9d011288149fac",
+   "title": "「エコめがね」情報漏洩、デジタルギフトが不正交換",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YeFJuaWtFM19ScFEwVFIwaXZZX1ZldWJ5MWdqNFdtZXZtYkprNFp1dUFUMnphXzJ4NWU2RUp6N3lpY1NxWjBHLS1EYlJFVmlZMDJmMmZCc1VLMTRISFlWUmZONW1zakp4WFF2R3JiRW9ZZmtX?oc=5",
+   "source": "日経BP",
+   "summary": "「エコめがね」情報漏洩、デジタルギフトが不正交換 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:44+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "37878eba8cabf5e7",
+   "title": "水電解装置の世界市場が拡大、2035年に累積300GW",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hNWZtS2pwQ1hERnpjYTNaWTdvZkZrMHlnUVMzZTdtZGhGVV9pNkpIdTRpeXg3SjJEN1RmZ21YdkR2Nmhmd2JhUTB3V29YTmtJcm1neWZxdmNULTJHWDMwLWFzMEtCeV8xaWxTY0VuY0NaaU1K?oc=5",
+   "source": "日経BP",
+   "summary": "水電解装置の世界市場が拡大、2035年に累積300GW - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:41+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "3b7f80429c8414e0",
    "title": "蓄電所事業が拡大、関電系E-Flowは運用受託1.5GW",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vZXVaRmlnNEw2TDFpWnJFTDJFbjQ3M3FDYnU2S0h5NlBTem9GbU1CeTFiRVlzblR3WGk3RWtlZVhSbGpiYnZqeDdXYnNwY0p4eEZhRHQycHdGWmw5ci14Tm9KSngwOW5hT0ZUMHZqTVktZkZp?oc=5",
@@ -34,6 +276,20 @@
    "via": "Googleニュース「系統用蓄電池」",
    "topic": "発電所・開発",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "a2022c4dc0584443",
+   "title": "需要企業が営農型太陽光を所有、賃貸ビルへ電力供給",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SX0JEN0J4VFdWdzZwRjUwSDN5MUtQMl9QV2VvVnJlV1pjcDVyMTFQd0RnbnV4R2tQR280RXczV3diX0RfVEdZVU9XSzNVNlJsRnhhNk81Qk1maURMUnZwRV91U1RCR1Y0M29ZWll3aG85TVNr?oc=5",
+   "source": "日経BP",
+   "summary": "需要企業が営農型太陽光を所有、賃貸ビルへ電力供給 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T16:33+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "営農型"
   },
   {
    "id": "2e0424a6d6bab019",
@@ -1605,6 +1861,20 @@
    "published": "2026-11-08T17:05+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "f40fbd9406fa957e",
+   "title": "バディネット、北海道弟子屈町で2MW・8MWhの系統用蓄電所が完工 開発から系統連系まで一貫対応｜プレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BbEVhRWxFaGJ2ajVQcUxNRldQVkhqNFRXRndqMnR4UVkxbTBBVGpadU1rakZLa19HUXdpUXdsTVlkRUp3S0VZ?oc=5",
+   "source": "新電力ネット",
+   "summary": "バディネット、北海道弟子屈町で2MW・8MWhの系統用蓄電所が完工 開発から系統連系まで一貫対応｜プレスリリース 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-08T17:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "e774ba06b8786fe1",
