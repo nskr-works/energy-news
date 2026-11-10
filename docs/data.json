@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T02:45+09:00",
+ "updated_at": "2026-11-10T12:47+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,353 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "33b91db39a43ee25",
+   "title": "米国住宅用太陽光発電（PV）市場、2035年に387億5,000万米ドルへ拡大予測――年平均14.58％成長の背景にある電力コスト、蓄電池需要、住宅エネルギー戦略の転換 | 株式会社レポートオーシャン",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SUWN6SHlibjREWHlIcG1mN2dnR2lGOU9KbS1IRENHeE1KUklpOXBYQldrTEhHTkJyQkpmLTVpUVBrSHZFOUcwREJNTThpcEE?oc=5",
+   "source": "アットプレス",
+   "summary": "米国住宅用太陽光発電（PV）市場、2035年に387億5,000万米ドルへ拡大予測――年平均14.58％成長の背景にある電力コスト、蓄電池需要、住宅エネルギー戦略の転換 | 株式会社レポートオーシャン アットプレス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T12:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用",
+   "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "e3e368cf2700b08f",
+   "title": "シーアール物流株式会社 ３施設へ太陽光オンサイトPPAによる再エネ供給開始",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16aFBQUndUNnV6S1l4cmVsWU96azExNERvR2RQLVFEb1RVMTBPZHgySXBJdm9kLS1PZExnaHFaMnZ4LVZPWkpsMU00Z2szVlNpS1B6cXBPa0R3QzlzOGROazhwS2kwRnA4ZC04?oc=5",
+   "source": "時事ドットコム",
+   "summary": "シーアール物流株式会社 ３施設へ太陽光オンサイトPPAによる再エネ供給開始 時事ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T12:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "d2b601b754b516e4",
+   "title": "リミックスポイント、全国7か所の蓄電所計画で5か所目の受電を完了",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5M01DQlVFb3JjSFZhd3ZoMmIxMUFDYl90LWhsWlVweHZPblp2MHRPR05mX0t6YW9TRzBMbmwyNUhoLTQyQkFodjVPajNUZFBQNUo0?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "リミックスポイント、全国7か所の蓄電所計画で5か所目の受電を完了 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:02+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9ae9565d8938161d",
+   "title": "【想定年利30.0％・運用期間 約9ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『広島県尾道市蓄電所開発ファンド』11/10(火)より募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMzFrWVVCLTRIb2JUM3BfZ0hCbTVBcEdFbWVTZUU2WEdmNVprODNYbGxtU0FaeU50M2k2SnJFNXRwQkRkTEg3LW5oV25NY1JNLTVNdWJSY0JvNE9RVWRkYmFKdWxtOUFMMFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【想定年利30.0％・運用期間 約9ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『広島県尾道市蓄電所開発ファンド』11/10(火)より募集開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T12:02+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "299cce33b8870d32",
+   "title": "リミックスポイント[3825]：【日本蓄電池との共同プロジェクト】和歌山県海南市で約2MW系統用蓄電所が受電開始 2027年2月頃の需給調整市場参入を経て、継続的な収益化へ 2026年11月10日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYS2VZbjRlR1hTOEFmbmZ6RHphekM2UTRYSy1vNlpFaC1pLXBPSW1BWk5NMG1keDVLeXZheVlzZXNITzYyczdpMFhfQzN1QWpWbHRFZDNVUVJZMFRBQ0g2TEczY0htbWZLN1E?oc=5",
+   "source": "日本経済新聞",
+   "summary": "リミックスポイント[3825]：【日本蓄電池との共同プロジェクト】和歌山県海南市で約2MW系統用蓄電所が受電開始 2027年2月頃の需給調整市場参入を経て、継続的な収益化へ 2026年11月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "42ea7114d0d6d908",
+   "title": "【日本蓄電池との共同プロジェクト】和歌山県海南市で約2MW系統用蓄電所が受電開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER1IyODdsX0xCcUxHdEpKejAxTkF6WUE5OTkyQ3EzTXYzbWJuU0V0QlB5OXc5MlJoeURZbzZGT1dIV2h6YUpsTUpFWDhXWXQyQmpNa0hwUDlXRjNVaUpOVHFsc1kwVGphSlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池との共同プロジェクト】和歌山県海南市で約2MW系統用蓄電所が受電開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T12:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "高圧（特高含む）",
+   "company": "株式会社リミックスポイント"
+  },
+  {
+   "id": "7052bb61b27881d2",
+   "title": "変換効率30～35％の次世代太陽電池を量産へ、imec発スタートアップ「Noak」が500万ユーロを調達",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ielExclRCbjdNUEZQdnlsTkp2a1hEZVo5c01vSGtjekZ5ZzBUM3NOd29xVVJMRFd3WGZNQVN0UTBCbVAwaTNqX3pMMFI5MlVXQ3NJZ3FEcEJVcXU2bmdnaldEY2l5MFBY?oc=5",
+   "source": "マイナビニュース",
+   "summary": "変換効率30～35％の次世代太陽電池を量産へ、imec発スタートアップ「Noak」が500万ユーロを調達 マイナビニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T11:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "de0082c64691b1ba",
+   "title": "[独自レポートVol.55]ペロブスカイト太陽電池の試算を「十分に示せた」担当者は20.8%、提案で最も必要なものは「電気代削減額と回収年数の試算」で44.3%",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZREhxNlBBek5zQlU1a1RHalc0Vm1wbThZaUM0aktvQlhDZnE1N1ZIaXpFVEN4LWFWQTJtN0h0QWJRRFBpRWwxQVVLenlGbWxnbFptZ2ZJTm51alRiM1U0YjVXZklEUlM5U0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "[独自レポートVol.55]ペロブスカイト太陽電池の試算を「十分に示せた」担当者は20.8%、提案で最も必要なものは「電気代削減額と回収年数の試算」で44.3% PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T11:10+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "次世代技術",
+   "company": "国際航業株式会社"
+  },
+  {
+   "id": "fc94ed2c3635d125",
+   "title": "シーアール物流／再エネ利用へ3施設に太陽光発電設備導入",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OanlhVHF6Y3BnalJ4UTJTYTVScDdUYm12dS1BYlhlMlF5TDkxZl85LXhyd3liQThrRzRXZTQyd3BnaV84QkV5ZnRTTG1FNXNsdEhPMg?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "summary": "シーアール物流／再エネ利用へ3施設に太陽光発電設備導入 物流ニュースのLNEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "ac50da513a47a0f2",
+   "title": "株式会社エンブルー、埼玉県「比企郡嵐山町志賀1872-1蓄電所」が完工、引き渡しを完了",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMzA5NWxRenlhRkNkcXItR0xhWnpILUY1enEtb0FaTm1ObDhjMmtBaVZhYTZ3YnVodDlfY0dqVnI2YjdrdXg3dE91czZGdjRMVzdQb283U091MzJnZUxUZE1hR2NpMlpfMnc?oc=5",
+   "source": "PR TIMES",
+   "summary": "株式会社エンブルー、埼玉県「比企郡嵐山町志賀1872-1蓄電所」が完工、引き渡しを完了 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社エンブルー"
+  },
+  {
+   "id": "61060ee169626f52",
+   "title": "Looopとユーラスエナジー、高圧太陽光発電の開発・譲渡に関する包括基本契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRmFxcjF0bUVaNE9LNnhPREZ0T2FRdGR2ei10dDNvVDRveVQ2Yl9xclYyaFNjb1ZNVXNYUk5SY1FOUmwxT3VyYlUzVWxwcFRwMy1WSEpsYUdRck9yUWlMdG1kSkFraERUdmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Looopとユーラスエナジー、高圧太陽光発電の開発・譲渡に関する包括基本契約を締結 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社Looop",
+   "topic": "その他"
+  },
+  {
+   "id": "e4bfd43d8f231643",
+   "title": "ファースト・ソーラー株、民主党勝利効果が息切れ？",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tX2JCTzJQaF80SFNTRlBPQ3hPc1Zyb3dWVjJxVTVZdzNXNEZaVTNrQzBOcEp6ZHdjVGtWOWxQY01SMTBYRnJ2V0hqbThLUQ?oc=5",
+   "source": "バロンズ・ダイジェスト",
+   "summary": "ファースト・ソーラー株、民主党勝利効果が息切れ？ バロンズ・ダイジェスト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T10:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "290bcd6caa85243e",
+   "title": "「牛と同じで…」地域に根ざす営農型太陽光発電が生み出す価値は?（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vc2lnUzBBUXV2Skpoam5HdVRSWkg3X0JVUVd2Ym5obHVnalRKczZxb3FuSXJtdnhHZ2VSNkd4ekplZUlHMHJJNjdPdHdtS0FNaV91anlIUEdST3YxaU9Zak01dnVRaU9rQXNROHJIZi0zQUF6VXZkMGhEdXMxVW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「牛と同じで…」地域に根ざす営農型太陽光発電が生み出す価値は?（毎日新聞） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T10:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "482ed632b2aed39b",
+   "title": "新出光が「蓄電所」事業に参入、九州地域の再生可能エネルギーを有効利用…耐久性が高い次世代型電池を導入",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1va1A3bGNqNTNMcDhtSjVCRTdjamRWMW1QcDFZZThkdGVFTHJOWXlDZGFKa0E3U1Z5aTRzVHBZODlxNm9HQXU2TG5TZHA4d1JvSUtDaGNsTG4za1otWFFzdzR6RzRhem9lOEZzUEd6eXhPc0tTZTdxMTZDR2RDRmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "新出光が「蓄電所」事業に参入、九州地域の再生可能エネルギーを有効利用…耐久性が高い次世代型電池を導入 Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T10:21+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "84341d7f4e3e33a8",
+   "title": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設「NC海南市木津蓄電所」受電開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16cHFPLVhHN1VoMjF5bHR0WDdsWTFKMjlPY0NteWRyR1E1LWhXUlpzX2JqV2h5OUdvcjdWdTRaRXdMZzM5ZXdqekRtLXMxbm1pMkNUN3ZLOTJoNnJSTktDQmUzTEF2Q0wxYXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設「NC海南市木津蓄電所」受電開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "5f72e1557d6b471c",
+   "title": "【ECOライフホーム】テスラ新世代家庭用蓄電池 Powerwall 3 の本格発売開始。補助金申請を含めた導入サポートをワンストップで提供",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mUndRbXNoSV9mSnJSa1lFMnVIUGpEUkkwSVotVVFQREpwRS1ONWZZY3A1YWZhSjFKeGdWbnlvSW8zcFFrM1cwLXdyWnhIcUlpdHpybzh4RUhWWlFyM0s2clBDVE8yU1I5bEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【ECOライフホーム】テスラ新世代家庭用蓄電池 Powerwall 3 の本格発売開始。補助金申請を含めた導入サポートをワンストップで提供 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-10T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "家庭用",
+   "company": "株式会社ECOライフホーム"
+  },
+  {
+   "id": "48a54dc9499b2203",
+   "title": "TESSグループ、ごうぎんエナジー株式会社様向けに「太陽光発電システム」を納入（設置場所：青海流通センター株式会社様 青海流通センター）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPUTRuZE1ER29hMFJkZW9fcllYZzVEal91a3NiamFIeUFkZjliUF95TDNNcG9hV3B6LVRfQXpUMUNmeDZOQ0ZJalk3V0pPdnJkM3NOYmJMbThzSjdUUkNudE5uRnZaZkMyQ0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "TESSグループ、ごうぎんエナジー株式会社様向けに「太陽光発電システム」を納入（設置場所：青海流通センター株式会社様 青海流通センター） PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-10T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "市場・企業",
+   "company": "テスホールディングス株式会社"
+  },
+  {
+   "id": "b9412deaa00e2611",
+   "title": "アイ・グリッド・ソリューションズ---1Qは営業利益6.37億円、太陽光発電施設が累計1,594施設に",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmY2THdaLUIteE9QUG0zdmN4OXJyQW5HT0VnZWpRNXhCdjlYNml0dWlRZHdiY3E3dmRnQUtXWWNDUU9WVlRrOXlaWU4zaWpnc0RIY3RqamQtRXBWNENKNzFvYU5tN3dmWnVBUjRXek04Q202UnU3LWZiaTRyUHRzWnlLT2F3MFHSAYwBQVVfeXFMTzllX1dFZ0tfcFptbm9ySFlzMXZ3Zld6aUNLajZNS1dOQXNNYWZOay1fYkZkNjZ0SXYwYjQ3d2w1czlqMmtMU3UzeUdnUWVOS1RaZUg3cVRtakdTVHBYa3FnNlROUTU3clFUYV9Nd00yaHVzajlxSVRndjFvU3BrcFYwaHlUbDBWd1p6QWw?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "アイ・グリッド・ソリューションズ---1Qは営業利益6.37億円、太陽光発電施設が累計1,594施設に ｄメニューニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T09:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "ca0fc1fb0fcc3eda",
+   "title": "災害時電力供給で協定 唐津市と栄信ホールディングス 系統蓄電池利用 | 行政・社会 | 佐賀県のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JelVBTGxwai1fNWlaeUlDU2pxaHZueDJTMkRuRWtOVzh2RFY3QWIxMXhLejdHR2Rad2U5aXFxV2FBQWR5ZUt1RC1mMTZNcVZKSVVNTmlB?oc=5",
+   "source": "佐賀新聞",
+   "summary": "災害時電力供給で協定 唐津市と栄信ホールディングス 系統蓄電池利用 | 行政・社会 | 佐賀県のニュース 佐賀新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T09:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8d453a69454e5829",
+   "title": "レポートオーシャン株式会社プレスリリース : 日本太陽光発電市場、2035年に183億8,000万米ドルへ拡大｜CAGR 8.2％、再生可能エネルギー導入拡大と次世代太陽電池技術が市場成長を加速",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5obFFnRHBzXzZpYllhaEdBWTV2WVJFUW5UWjJvRXlXdU1xTkotZ1FaNnJSNWR6ZVhNRUdSV1lLRzlRVTV1OGRuM3pGd1BGNk82enVZ?oc=5",
+   "source": "ドリームニュース",
+   "summary": "レポートオーシャン株式会社プレスリリース : 日本太陽光発電市場、2035年に183億8,000万米ドルへ拡大｜CAGR 8.2％、再生可能エネルギー導入拡大と次世代太陽電池技術が市場成長を加速 ドリームニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "c45751ae019d6680",
+   "title": "狭小地を低圧系統用蓄電池で収益化、不動産業界と連携した新たな土地活用モデルが登場",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1a2RzUkhYWjRFYlh4S3U4cmNRWGJtbGIzYzZoZzJSdFBWUVEzNy01ZGhiQjhJU0pVOUYtb2RCN3dVRXpaZ3dIdzhNYUo3M0RQTnc?oc=5",
+   "source": "リヴプラス",
+   "summary": "狭小地を低圧系統用蓄電池で収益化、不動産業界と連携した新たな土地活用モデルが登場 リヴプラス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T07:39+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "6ac66004894c50a8",
+   "title": "燃料価格高騰による調整力費用の急増、BGによる不足インバランスの増加も要因に",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/10/news028.html",
+   "source": "スマートジャパン",
+   "summary": "燃料費高騰などを受けて、電力会社による調整力調達費用の増加が続いている。電力・ガス取引監視等委員会の「制度設計・監視専門会合」では、足元の需給調整市場の動向と、調整力費用の詳細な増加要因について分析が行われた。",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T07:00+09:00",
+   "via": "スマートジャパン",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "766332571336ed03",
+   "title": "【独自】サイバー・ブラックアウト懸念拡大、太陽光設備対策は初歩段階",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0JyUmJPNU1iTVRObmhJaTVSWVJ2QWdJRzZ4dlYzV3lUM1hwdUd5RUVNLTJkYXFjVG9sT0MtY01NOWFoUjBIQ2hZWVFCcUhCQkEwQ1FJSzVNOVRSdlpyTC1YenN2eTNac285NHFCc0gyWElLa2ZZMmtvV0l6U0FlSg?oc=5",
+   "source": "조선일보",
+   "summary": "【独自】サイバー・ブラックアウト懸念拡大、太陽光設備対策は初歩段階 조선일보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "75708b4c5b93762d",
+   "title": "IEA、中東の再生可能エネルギーが3倍増と予測 2031年に設備容量3倍、UAEは1人当たり太陽光発電で世界首位へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HM0FWVEMtTFowMGhTZjVWRG91Yy00VDZKM2Z6S2dGeUc5QlA0VXlwLVBCbVBMT1JCRExqRVZDcktVaWR4Tk5naFRSd0VHeTdzWjR6WWRYQVpmeGFZS3RKUEEtT3RKRzdGNXlLeEgxcXU2Yk44?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "IEA、中東の再生可能エネルギーが3倍増と予測 2031年に設備容量3倍、UAEは1人当たり太陽光発電で世界首位へ BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T03:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
   {
    "id": "1fefccb3caa1b488",
    "title": "商工省は、2026年の太陽光発電料金体系を発表した。",
@@ -204,6 +551,20 @@
    "topic": "その他"
   },
   {
+   "id": "4686cf760a223127",
+   "title": "グロームHDの系統用蓄電所第2号施設が運用開始 一次調整力市場へ入札",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vWXhWRGl5N181alFtQldhczd6UjJZdUxvV3VXVnpza0diREUyUzdLRTVuNkF6TWlUbHo5ZUgwSDlsZFJJalRJ?oc=5",
+   "source": "Dellows News",
+   "summary": "グロームHDの系統用蓄電所第2号施設が運用開始 一次調整力市場へ入札 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:40+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "0796d8df0bd7adef",
    "title": "系統用蓄電所第２号施設の運用を開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12eWxmMWdXdEUxMEJrdW85am9HX0I5WFo5eUVBMlhOZHJ4Z3ZWWS1wRGNfeU9tZEtQN3hlaXBkenFGVmNtU3Y0R1J4N3pFd09sRjVEMGtKYVB5M1dCbjlZWF9hZ2FjSGFCRUE?oc=5",
@@ -232,6 +593,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "3c6494f2cd5b9383",
+   "title": "陸上風力の最低落札価格が10円/kWhに、初の10円台",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3VWVmU0ZYZWxaclVfUXVIVTBKa19uN0RiSXJUbHNqajVWazFYa0JieTJFMWNRVjVZeE0xcTdJdU50dERITDVSbmh0T0U1OXhtMThQbWdGTDd5cFRydHY5VXZvSnpaN0ExbHhiUUpnZTJjMTJV?oc=5",
+   "source": "日経BP",
+   "summary": "陸上風力の最低落札価格が10円/kWhに、初の10円台 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T16:25+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
   },
   {
    "id": "2afbb276dfb74a42",
