@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T21:04+09:00",
+ "updated_at": "2026-11-12T00:34+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,76 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6a1a1ebbd7719db8",
+   "title": "新発田市のゴルフ場敷地活用、大規模な太陽光発電所整備を計画 2032年3月の営業運転開始予定",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13YnNVelNBUWFIQ1lhb2dta2pGRlJRVXpPVzNmY1R3Q3UtNlBweHBxTGllblEzbUJ3cWJGN0Y3a3BxVU1fSjUwZDZ0ZmFZeG5UQ2NselFrenRFVHhZWEE?oc=5",
+   "source": "新潟日報",
+   "summary": "新発田市のゴルフ場敷地活用、大規模な太陽光発電所整備を計画 2032年3月の営業運転開始予定 新潟日報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "bda588c09771d90a",
+   "title": "イバドローラ、ドイツの太陽光発電資産の売却を検討＝ブルームバーグ",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yYlpVUVM2M2lNNWF1MzJybDhCUW9IX2EyWS1GS0xjbzJCOGhMYVJXNkh3Q2dEaHJNQTlWUUlHTXpFSEpBOTA3M2pTeHczWmdqWlE0dE10Znk4MThCdHdRVXZNaW5hZ0NMbE9ucUE5M25VNHhsRWZz?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "イバドローラ、ドイツの太陽光発電資産の売却を検討＝ブルームバーグ Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T23:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "9dff3b58dfd298a3",
+   "title": "FlexGenがウェストバージニア州のMN8エネルギー86MW太陽光発電プロジェクトを統合",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTkhFTEZCd3RabG40OGpMZ1ppcEVheEp2dDZQLUpISTVvZVUxcVhyMDltOUNRTHRjVTY1Q051UEZOSmxYODlGT1NPOW4teDZyb1NwRWlDZFl4NVAxelJveWNzdGRCdm9mUWtseWh5Z0Y?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "FlexGenがウェストバージニア州のMN8エネルギー86MW太陽光発電プロジェクトを統合 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T23:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "6678f7fa1a940bb9",
+   "title": "EU首都の屋上太陽光潜在力、パリが首位 研究で判明 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk5ncjBMQmVaTDZzU1RFaG1fUk5fOGdXeG9YeUVhMVEzYldOaF9XdjIxZ2RIX0QwM05fb1Z4WjJtVF9qVmRxeEFzRXIxSkxHaV9VVlBHdDFnQ0xGMTE5a1hyci1mbzhFOU55MnNoekxSVEctRWZFVUdtWmtyVmhjYU5KMVRRVWk3a21QTFVnS2oySFJ1RlY1eG9VeUpLTVBucDNuM2U4UldUNTdfS1BHMTNfcGJVRmtDUW10T2hvbDJhQXc?oc=5",
+   "source": "IndexBox",
+   "summary": "EU首都の屋上太陽光潜在力、パリが首位 研究で判明 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T21:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "8eeb1565ed20a029",
+   "title": "アグリボルタイクスが太陽光発電でアグロトンネルの経済性を改善 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTYtb2NCcDR5LVQyYUdBNm1pUjl4Vk1CaHNJN2twa09oa3VBb0Nqb3FBbVc3NXljQ1FheWd5Slc1S1VXSTNxb253RkYtUklrZDY5dUlIWmQ0eUozaThNT0dOVU9PX2RqRFVMNjlOeEtQTHItSjlnaFYxaVdnWVNBMWxkc180ei1TelB2TXpyRWhQMnZaTlo3dWJUVUFhSUZx?oc=5",
+   "source": "IndexBox",
+   "summary": "アグリボルタイクスが太陽光発電でアグロトンネルの経済性を改善 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T21:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "bb4e2c61b006d5eb",
    "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町",
@@ -614,6 +684,20 @@
    "published": "2026-11-11T06:32+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "b0ced190abbdb73f",
+   "title": "JR九州と住友商事が建設する系統用蓄電所のイメージ（JR九州提供） - 長崎・諫早に大型蓄電所 JR九州と住友商事 28年12月運用開始目指す - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GSDhDNnBvZkJJOWYtaXVCeWtZZEF2XzctMjVfVk5WMEpaUlBRLW5FWmpYOTVoRUtTX2RyZ3NrQ3QzaFZDdlRLVXhLTWdFNU9fRHc3S3NmRQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "JR九州と住友商事が建設する系統用蓄電所のイメージ（JR九州提供） - 長崎・諫早に大型蓄電所 JR九州と住友商事 28年12月運用開始目指す - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-11T06:09+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "41bae24722845207",
@@ -35823,6 +35907,20 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aR2pCdW1CYnRUdlJiTWp1a1ZVcEdfcksyaWlvUDdHNUdfSGFJZmticFE1N3VmOG9aYWxpYkR3M2xZNk5kbDYyb214N0lHOUV4Q0hqdGloQQ?oc=5",
    "source": "電気新聞ウェブサイト",
    "summary": "需給調整市場の価格予測、１次調整力など追加／気象協会 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-08-28T06:03+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e083903c43efaa1a",
+   "title": "住友商事で蓄電池事業を統括する浜田盛亙氏に聞く／３０年までに５０万キロワット開発",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcG9CZG9NV0NlUncyWWFNNnR4Z2hHOWpHZEd1YTJZX1B6MW10bWRtSm9JaXpBb1hLYnBRNWVBUnBYdnljTUFFblZiLWUzY2hBLXZibFpNUQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "住友商事で蓄電池事業を統括する浜田盛亙氏に聞く／３０年までに５０万キロワット開発 – 電気新聞ウェブサイト",
    "categories": [
     "storage"
    ],
