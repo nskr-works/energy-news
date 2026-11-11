@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T18:48+09:00",
+ "updated_at": "2026-11-11T21:04+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,64 @@
  ],
  "items": [
   {
+   "id": "bb4e2c61b006d5eb",
+   "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGEtZGd5eVdxd2tiWF81ejZNelk1M3N0cnROSXJERG9lVFZZSmNhX3hwZkYtYXBDdjhUQXVPNHpmWllCcnlrVjV2TkswVzJLSGJfc1JnWW45QUZVS1Q3LW9JOUdpSVpXUHJKWF9iS3o5RnFueFRXVXNMZF9rekRDNVVFb3NkSlE?oc=5",
+   "source": "日テレNEWS NNN",
+   "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町 日テレNEWS NNN",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T19:49+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "993330b678b3b502",
+   "title": "メチルアンモニウムフリーペロブスカイト太陽電池モジュールがスロットダイコーティングで22.70%の効率を達成",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMS1naERDTlZ0dWNBdXdZUFpXTy1teWltSWM1cUlDYmNuS21IMGo5UnlKdUNJYjVLNG45elNPb2tKNkRJOF9ia0FLalg0bWZCbHpJM1RIY3Fpc1VLR3FPbk1aSjBTYkUyaDlDYml6eWRHdVpUQnNtZG1qZnA1cmE1WnRKS1ZvLXZ5UUlXZkQ5UTJVblppdVRuMnpOZ29QRDZxeWJVYkU5N3Q2bFA0eE13?oc=5",
+   "source": "IndexBox",
+   "summary": "メチルアンモニウムフリーペロブスカイト太陽電池モジュールがスロットダイコーティングで22.70%の効率を達成 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T19:23+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2afd355f3947f7bb",
+   "title": "静岡空港の太陽光設備、新エネ大賞特別賞を受賞 鈴与商事・東急",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdldLblpRc3d6WjFIZENNNzQ2ejd3UTZ6dHUwMS1UMlpDel9kaHVRWlBXTUZTYmItX0xpa3pYWXpacTUtUEhaN3Z6R1VOMWNrNXhLX2tsbno0TXYzMWIxQnZ1U0hwU01XNzlhYQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "静岡空港の太陽光設備、新エネ大賞特別賞を受賞 鈴与商事・東急 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:44+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "b61bb21b9f1f86a3",
+   "title": "中国電力、7.1億元投じ寧夏に350MW太陽光・蓄電プロジェクト 国核院にEPC発注",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGZ2RSRmZNNW1uWUlaSUFpd2JXazRiOWNWbHQ2bFFCRWl0ZmVEbnROLUtoc0JfSGRGSWVFLU5WaWxwTkNJVHhEdEdMeVRZTmcyTFYzd3RRLTZQVENfWTNSeVBLTVp6NTJtbWFBVDRIaTBBOHpU?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国電力、7.1億元投じ寧夏に350MW太陽光・蓄電プロジェクト 国核院にEPC発注 BigGo ファイナンス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "69b032a4d12e23bb",
    "title": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000119.000181124.html",
@@ -32,8 +90,66 @@
    "published": "2026-11-11T18:15+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "4f4b035b07b5cb9f",
+   "title": "電気法を改正する：屋上太陽光発電に関する手続き上のボトルネックを解消する。",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmU1QlNfNFpZSzlybm9VY2N3bHA4OUFSV2J6SzhIV183aTdIOG9VazJMTjlMOUdJSTY2dDlta0RiMjB4X3o3REVUekExXzZCNldibERVVDVGNnQyWFpTbWZacVpRRG1EeU42eC1CbE5LVUlUR2ExYjBad3NXU0xoLVo5VWN4aUVhMUNlQmJMX3dPX3VnQkE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "電気法を改正する：屋上太陽光発電に関する手続き上のボトルネックを解消する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "f902d5afcc6a6ac4",
+   "title": "蓄電所運用、アグリゲータに任せきりで大丈夫？ 分析ツールが無料モニタ募集",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zbHJLa0FybVFNYmR2ZU11R1hoRi16WnhRc0d5a0swdnp3cC1JSUlOVTVZeGFLdEg0WXp3UGxoY0tmci1Va3A0NFR0SDh6eUNieFdhbGQtVFU0VXYyWDcwM0VuekwyMGlEREFILU5sSzZVY3E4ejM1RG5IWjY?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "蓄電所運用、アグリゲータに任せきりで大丈夫？ 分析ツールが無料モニタ募集 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-11T18:12+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b0a0d0a9fd4c3442",
+   "title": "屋上太陽光発電設備の設置を支援する政策策定に対する批判。",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZThtcGVpTkNlWUo1S19aLW5mY2UtelpSeXdVbWstcnNRRk9TWlRWbS1HdEtzemZnNG5rQ1RIblBBY2p3RzBIUW5sWjJmeVcwOTBWc1VISEQwMlpDSDA5Y2s0bm1JNlZ1aHBoeXZySmxaRzIzbzVacjVkZEgzdFBTV05HMGt4MlF5QnB1akJFWmtoMEFFUjVV?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電設備の設置を支援する政策策定に対する批判。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "ff3622ca467d723f",
+   "title": "住宅用太陽光・蓄電池の販売・施工を行う株式会社トラーチの 大阪ガスマーケティングによる",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHl0MFFGeUJtV0ZfTi1HamZRVGU2TE55WUlPVWxUT09jMUJHaUpLbklNbkwxSWpZdkEwNTB4RU5VenJ0TF9BOER6Z29aQTFBU2VzdEVkWTJGSExMY0xaWGNDTU1yWnRzdHVIby1zM1RRenllUEVJU2tFY3lqNVg0LTZiS2JpaDNtYk05ci0xSUM?oc=5",
+   "source": "PR TIMES",
+   "summary": "住宅用太陽光・蓄電池の販売・施工を行う株式会社トラーチの 大阪ガスマーケティングによる PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-11T17:28+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用",
+   "company": ""
   },
   {
    "id": "57db638d16a50ddd",
@@ -175,6 +291,20 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LME10STFDU2FPRzd6Q0VMeWlTN0dvck5vOXQzRFZIRDNfWm05RTI2a2d6VUwzNXRVUGx0MjlMRnUzbTRza05wLWNPN3I2TXNlajFkWkFmQmNMaEVIRVI2NVlsZk5peVhFQmM5cm1md2hOQ1hUY3pCYXJ6MWM?oc=5",
    "source": "環境ビジネスオンライン",
    "summary": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ化供給 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T12:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "38e604356bc04aa9",
+   "title": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LME10STFDU2FPRzd6Q0VMeWlTN0dvck5vOXQzRFZIRDNfWm05RTI2a2d6VUwzNXRVUGx0MjlMRnUzbTRza05wLWNPN3I2TXNlajFkWkFmQmNMaEVIRVI2NVlsZk5peVhFQmM5cm1md2hOQ1hUY3pCYXJ6MWM?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給 環境ビジネスオンライン",
    "categories": [
     "solar"
    ],
@@ -582,6 +712,20 @@
    "published": "2026-11-11T04:35+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "d41d434df512f4da",
+   "title": "初飛行に成功 中国初の商用レベルの中小型・純太陽光発電無人機",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tWnFQZzZ4a0x1VDE3R3Jyb19zQkV5QUtpcUFFbWFLX3ctUnJKRVRId1Vha1ZHall2b2ZIQUZ5eDBIaGN6N2ptRWR0TWg5bW56aDk1RHAyYlVkV0d1S0tfXzBFdDlWUQ?oc=5",
+   "source": "CGTN Japanese",
+   "summary": "初飛行に成功 中国初の商用レベルの中小型・純太陽光発電無人機 CGTN Japanese",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T04:12+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "64510bfbaf2dc645",
@@ -1114,6 +1258,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "e893518f301879d6",
+   "title": "Looopとユーラスエナジー、 高圧太陽光発電の開発・譲渡に関する包括基本契約を締結 〜大規模太陽光の開発適地減少の課題解決に向け、開発の検討を開始",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRkgwcnhnTnhmMkFsN0ZnQTA1YXRzaUN4VXNJdDdzN3NlVzFTLWoyTU1OMUgzRHA5OGZhbzB4Q3B0WTNtaGZoRTdEeFhzbnM?oc=5",
+   "source": "Ｌｏｏｏｐ",
+   "summary": "Looopとユーラスエナジー、 高圧太陽光発電の開発・譲渡に関する包括基本契約を締結 〜大規模太陽光の開発適地減少の課題解決に向け、開発の検討を開始 Ｌｏｏｏｐ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T14:37+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "76ab269d5eb827ba",
    "title": "屋上太陽光発電を解放することで電力網の負担を軽減し、数百万ドルを稼ぐ人々がいる。",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWFJSTM4Q2tvczRhRHpjZXNqaFNxR1dpQ2NSNG01eVMtNE53YVlYeFN2Yk1qNzZlUkQtQzBEUEVocXc1Z0Fza2QzTy1GX1N5dHRWN0ZZdDZJM01hY1BXdDJUTXBFZUlWVVNhUUpIYWVOd1BXbFVJbTdPM1ltbzFVZi1oMVJubG1PYmNLLUprMlBEWXVCZUp6Rw?oc=5",
@@ -1358,6 +1516,22 @@
    "published": "2026-11-10T10:45+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "営農型"
+  },
+  {
+   "id": "259a56a511ebf0e1",
+   "title": "全国1741市区町村の太陽光・蓄電池の補助金が検索可能に",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SZzlZU0xGWl9ZcFZtazdfY3ZJekx1dUx0czVwV3A1R2xaWmw5dE0zOE5qNU0yOURyWnp4cTJHNG5oT1phUFN2N2t0cnAxd0FVNWc?oc=5",
+   "source": "新建ハウジング",
+   "summary": "全国1741市区町村の太陽光・蓄電池の補助金が検索可能に 新建ハウジング",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T10:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
   },
   {
    "id": "482ed632b2aed39b",
