@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T17:48+09:00",
+ "updated_at": "2026-11-12T19:13+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d9973bc09115cfb9",
+   "title": "蓄電池の充放電判断はなぜ人手では追いつかないのか――AIによる最適化技術を読み解くウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000120.000181124.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-12T18:41+09:00",
+   "company": "ジャパンブランディング株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "89c4c49f25362006",
    "title": "全国４拠点の系統用蓄電所を取得し、系統用蓄電池事業へ本格参入",
@@ -43,10 +59,11 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-11-12T16:46+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "政策・制度"
+   "topic": "政策・制度",
+   "company": "三井不動産株式会社"
   },
   {
    "id": "1b475c35988f747a",
@@ -2737,7 +2754,7 @@
    "published": "2026-11-09T17:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
-   "company": ""
+   "company": "ブルースカイエナジー株式会社"
   },
   {
    "id": "0796d8df0bd7adef",
