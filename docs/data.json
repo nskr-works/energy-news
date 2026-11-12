@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T00:34+09:00",
+ "updated_at": "2026-11-12T11:29+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,278 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6f9d636094debb6d",
+   "title": "産業用蓄電システム「YRWシリーズ」に出力制御機能を追加",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVVNkVmFFQVE4aFV0Q2x2Qk00cml5eTZrckowZm9JLTJreDhXQ0s1ajh1MXZfNEJENlNSMk5pUG51YXk4OE9YLTliY3RZOUNCWUlXU2tBVlllbnlYRTloN2llX2NTdWdWOUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "産業用蓄電システム「YRWシリーズ」に出力制御機能を追加 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-12T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社YAMABISHI"
+  },
+  {
+   "id": "5cb4a71e04c0939b",
+   "title": "島根県出雲市の系統用蓄電所が需給調整市場に参入",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JT08zWU55ak1wV1FaU2d6SmxtcHFYNDZXV2pMc3dTZ2lHVG93SWFVcnE5ZmwtQVBBZlBReFBTMjNhZTJOVmxpSlFkTkFhdzNIbHFFSVFKUWNMdTIwendGYW52VWNVUlI3N0Nv?oc=5",
+   "source": "時事ドットコム",
+   "summary": "島根県出雲市の系統用蓄電所が需給調整市場に参入 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-12T10:16+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "999493540ba68887",
+   "title": "「私の夢は…」 ペロブスカイト太陽電池開発者ら、京都賞で講演",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZW5Zc1BkQURoMlpfR2dYZ0hUUWlwSmRXOXY0VHZJQzVmd21HamhEeE9QNl9hdkQ5bUxJaWZqeV9Ka01pYUpoZHZVZ1EtbGk1X091TzI4WjBNNHJ5Q3MtZ2tvZmIzTXp1?oc=5",
+   "source": "毎日新聞",
+   "summary": "「私の夢は…」 ペロブスカイト太陽電池開発者ら、京都賞で講演 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "0470e9d43998f488",
+   "title": "共生区域の設定「ふさわしくない」 町の審議会、月内に答申 おいらせ・メガソーラー整備計画巡り",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRkxDbnN2VlJtdDZsWVU1NmllUDVaZjFNQ0h6RDhKZDBiMC03RG1qVWFGZVgyc191dHVtR21HaHlUTXJtY3AtdDhBRWxRb3otR2dwNGNVaEdCaDhRZlJWY0pYUmlxVDQ?oc=5",
+   "source": "デーリー東北",
+   "summary": "共生区域の設定「ふさわしくない」 町の審議会、月内に答申 おいらせ・メガソーラー整備計画巡り デーリー東北",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "c12d31f1adeb39d6",
+   "title": "株式会社竹中、本社工場と藤岡工場へ太陽光発電設備を導入 ～工場での再生可能エネルギー活用によりCO2排出量を削減～",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVd2dzS3J2TGk4SVo1MkFrX2NKX3hRQmtucm1kSUV0YVhGZUdsWHh5enRxWUpTb2RTNkxHZ3JRb0pOYmNjYjdUNlY4Rmp5dUxCbWJncUxOeEh0X3FReElSYQ?oc=5",
+   "source": "Infoseek",
+   "summary": "株式会社竹中、本社工場と藤岡工場へ太陽光発電設備を導入 ～工場での再生可能エネルギー活用によりCO2排出量を削減～ Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-12T09:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "＠Press"
+  },
+  {
+   "id": "8073262640858f2c",
+   "title": "中勢水道 高野・大里浄水場へ太陽光発電導入に向け事業者募集",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR041QkJYMmNOcml6YzJ2d0pQdHk0OEtaSUx3ZmFLb0FjdU5xV3l1R29FYnRtMHFyNmNDMnFPam0waWVRMUVnRXltdkZscktkWWFaSVBDVnk4UFgxSzQ5MWxYMkl3cjJPNFd1SHNyNTBYZ21OTF9kSE1rQUFoUmR5dw?oc=5",
+   "source": "建通新聞",
+   "summary": "中勢水道 高野・大里浄水場へ太陽光発電導入に向け事業者募集 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "93151981f74edff8",
+   "title": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzRU5FNEQtbUtjb2E4YUotUGl1SE93em1mbnR5M3RzYjBCQllBOEdBRFZGR3ltb21vSUVWcWY3WmJFRXF2?oc=5",
+   "source": "ウインドジャーナル",
+   "summary": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に ウインドジャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "f88412c5ab203ec4",
+   "title": "SpaceX初の異質接合（HJT）生産ライン、独SINGULUSに決定 中国太陽光発電設備メーカーが排除された理由",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54RWlsOFNSUTVXRW5UTk9CdjhHTXFXTGx6NmFhNC0xVkNMUXN0SXNna1JobkJpcnM5dF9WeV9jTnZqS0Q3aks5RlBrRVNwWHVJQkQ4MnBjT2s3R2UxYlhyb0UzZ3d1bjRtUWlXX24xMTRmUy1H?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "SpaceX初の異質接合（HJT）生産ライン、独SINGULUSに決定 中国太陽光発電設備メーカーが排除された理由 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "7b943cdb520b2720",
+   "title": "太陽光発電「進める理由ない」／おいらせ町審議会、答申へ｜行政・政治｜青森ニュース｜Web東奥",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRlRuMTdzRlcwcEFhUDlVdDF5eVdJREZnLV9nMzE0YV9nMnpwdDNjZFFMSENzVy1NcUJ0Z3J0M0NxVm9YOS1MQldmM0tGTTduMVVob0ZybHk?oc=5",
+   "source": "東奥日報社",
+   "summary": "太陽光発電「進める理由ない」／おいらせ町審議会、答申へ｜行政・政治｜青森ニュース｜Web東奥 東奥日報社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "353c06718216af1e",
+   "title": "ＤＧ(350A) 島根県出雲市の系統用蓄電所が需給調整市場に参入 蓄電所事業の拡大へ着々 自社保有蓄電所では3カ所目",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ISVBmSXdhQU85UXIzMWxtTHlXQjlqT2NSbERKc1VYRlZzTVhDRGozSjhKWlQ5VC1Kd0FGeVVQNlNSTkl6OWJoaA?oc=5",
+   "source": "みんかぶ",
+   "summary": "ＤＧ(350A) 島根県出雲市の系統用蓄電所が需給調整市場に参入 蓄電所事業の拡大へ着々 自社保有蓄電所では3カ所目 みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T08:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "8ec2313a0757e8c3",
+   "title": "デジタルグリッド[350A]：島根県出雲市の系統用蓄電所が需給調整市場に参入 蓄電所事業の拡大へ着々 自社保有蓄電所では3カ所目 2026年11月12日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0VDZkp5NFN3Vk9sVUV0SlE2dEJEOTRzOTluNjlLeEtQam1hMjlDUWRBVWpVMjlIdGI0cHo5dnh2WEhNODk5OVV6aFpZT1NFMFQtT1Z1dHQ2WTVIMUx1UUFvVDVndEp0OEpqdTBELTNMUlJsdFRzaU50c1M5VE00aWU5NWd1WFFCT005aWRSRzFqc2hvX3FMc3hNSUE3X0N3U25iSk5zNVhIMG03MldnaEpuaHdwamhqQXFhelpaYjZZX2cybFZFTWwwcmY?oc=5",
+   "source": "日本経済新聞",
+   "summary": "デジタルグリッド[350A]：島根県出雲市の系統用蓄電所が需給調整市場に参入 蓄電所事業の拡大へ着々 自社保有蓄電所では3カ所目 2026年11月12日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T08:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f07abc8263af57ff",
+   "title": "【 発電するガラスで成長を！】 パナソニックHDが取り組む次世代太陽電池戦略",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5laG44aXhBZGx0SHlyeTMwazlvMjBmU25GWmZmMFlfbGJudXlBVVBDLVAwN0RRLTRiUE5kcXdPdXp4RHFaZW9HLTV4eXA5dlF0OXQyd25SdHp1TEZQ0gFiQVVfeXFMTVNfemI2aHhVamgwcHZzdkFPNVJ6eml5bTdsOTM0d1NDb2ZZRVp6VFFtZUp3ZklMV3dKT3hXVkh4Y0FoelFFMEFkQ0NCSVVDSzByeDU0MHpMa1dqazdaRnFOb0E?oc=5",
+   "source": "Infoseek",
+   "summary": "【 発電するガラスで成長を！】 パナソニックHDが取り組む次世代太陽電池戦略 Infoseek",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T07:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "eff6891d12e70216",
+   "title": "ＥＸ４Ｅｎｅｒｇｙ、系統蓄電所でサイバー対策／独自基盤で外部通信を限定",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENGp1c2YxTWc3TGdmZllfeHE3WkF2M1ZNSm5LQ1c1NURzWDd3UXM5aWluZmdUYVJncDg0ZE15QUZ2MXlhRlBXNmdHYW16UVM1MnRwcnJ2WQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "ＥＸ４Ｅｎｅｒｇｙ、系統蓄電所でサイバー対策／独自基盤で外部通信を限定 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T06:01+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "2b8634b2bff5347a",
+   "title": "有機薄膜太陽光を展望／広島大学主催交流イベントに中国電力登壇",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44ME9KLXlmNXBMS3NqM0ZYLTF6ZTdrY04wUWd3UzhHRVVXUzlSVFF5YXFHRWlxRFVMNWNVeTgxRG9CY1ViZndxRGtlRVNNRldEUFcwYXdHbw?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "有機薄膜太陽光を展望／広島大学主催交流イベントに中国電力登壇 – 電気新聞ウェブサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T06:01+09:00",
+   "via": "電気新聞",
+   "topic": "その他"
+  },
+  {
+   "id": "4108410cf4f5ac61",
+   "title": "青森県内の風力発電量は昨年度「全国2位」 太陽光発電は全国17位 2016年度と比べると太陽光発電は2.7倍増・風力発電は2倍増で急速に開発進む",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WG5ad2pnQU5SbzNXWV9ZR2xxWUZBVjBVX1VEZGdRQnIyMzVxcXBCYlVNVGtJQWRVaGk3aHVxdnlBTDRiYUdrVmZuTmw3NUFZREdvSGNhRGRxenpJbGxsdTEybjM?oc=5",
+   "source": "TBS NEWS DIG",
+   "summary": "青森県内の風力発電量は昨年度「全国2位」 太陽光発電は全国17位 2016年度と比べると太陽光発電は2.7倍増・風力発電は2倍増で急速に開発進む TBS NEWS DIG",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "30218ff122ce0e2e",
+   "title": "太陽光発電用PV材料市場、2035年までの見通し：大規模太陽光発電と蓄電池統合が需要を牽引 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMm1FaVJLSV96S3VabW51bVJOcUZKU05nMDBtcmVTd1Ryd25IQ25GbmNOWDF2bjVlT1dkekRmTU5LTWhvWlZxRG9VYkYyelRqWTZoYTZYUWU2alZ5elZBcFB6V243cnExQ2tIZEFsVy1vQTZDclJfNGpmTU5SRXQyNGhlVUxXNFBNU0dObjJ0dTNrQTVJdmlsU2J3UkJBS1FPX2tDMnNOemJXakFKcnFLcl9mbHBSMTJIZVh6cU50MGRwbW5HM2JkWUNaZF9MY1ZyNURlODk4ZmhwS3JZYkhZ?oc=5",
+   "source": "IndexBox",
+   "summary": "太陽光発電用PV材料市場、2035年までの見通し：大規模太陽光発電と蓄電池統合が需要を牽引 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T05:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f94f83f235370273",
+   "title": "高利回りうたう小規模蓄電所、投資家需要狙う 太陽光より価格は不安定で識者は「営業トークの前提に注意」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZX21lbWltdUQydm96elJnNXg3a3pwd3dZR1E2QmhNZXVkdDFWVEExc3lnM0pnYUJwZE1WQXZqSGRobVptZ1ppUEpwNXlONUdkeVFPV2VVY1J1TTlkYVRMXzRVaFZzQVRWOU94NA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "高利回りうたう小規模蓄電所、投資家需要狙う 太陽光より価格は不安定で識者は「営業トークの前提に注意」 日本経済新聞",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "48da4c77884c327c",
+   "title": "フィルム型太陽電池の施工キットで「どこでも発電所」、日揮・未来戦略室に聞く",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NHk0NUFYUVQ4U0FSZk8xR0FiNmNDQWR1WnRXT0xrdEVZYjk0ZmxoeGpMS1BEYlZpZUhjcDduazFGUzM3enJFZkpLZXZ5TFN4S1RCa0ZLYzFrSHpkalRGbEl0S1ZNNG9uZVhzU05IYWhReEtFRUhQMQ?oc=5",
+   "source": "日経BP",
+   "summary": "フィルム型太陽電池の施工キットで「どこでも発電所」、日揮・未来戦略室に聞く - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "95ce80fb62337f4b",
+   "title": "GSIクレオスが「第2のペロブスカイト太陽電池」国内販売 ブラジルで生産、27年度から自治体向けに",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdTk3bzRpSnhaSXR1M1JsOUlVa1plSVlRcWRmdHZ2OWY2NlIwYndEbTZFaUFxZm44dnFjcmpGTGFNOW16V281QUdjdGVtb2kyd3BiUk1QSlhLVXdPZDkyblpMc1h5X0RId0o5cw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "GSIクレオスが「第2のペロブスカイト太陽電池」国内販売 ブラジルで生産、27年度から自治体向けに 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T02:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
   {
    "id": "6a1a1ebbd7719db8",
    "title": "新発田市のゴルフ場敷地活用、大規模な太陽光発電所整備を計画 2032年3月の営業運転開始予定",
@@ -268,6 +540,48 @@
    "topic": "その他"
   },
   {
+   "id": "a8411d98e6326b91",
+   "title": "高圧FIT太陽光の「FIP転」、九州や東北でサービス化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WZUZuU2dycU54Z3diaEprUS0zOU93Mlc1N0FhSnYtQzBZZGRiTExMRVpzUnRpWDZIZGdLVExIVV9iellXdzdmbWFwMWFQTEU5NHV6UHdIWEFfVlBYbUEzaW9iY2Uxb1J1MjJWR09razBwQXQ5?oc=5",
+   "source": "日経BP",
+   "summary": "高圧FIT太陽光の「FIP転」、九州や東北でサービス化 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T15:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "d9ef916936ac1bad",
+   "title": "13カ所・10MWの高圧太陽光を新設、PPAで飲料メーカーに供給",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QY2czOEdXeGpZZDJ4cHFjcWliODBUYnRFTnBQMEYzZnFmOXY4RzVuOVVlQzZmUW1wa1JwbV8tTVc3bER6TVBHaS05SUIwRGo0M09Md1VfaFdfZnJxUmhPQ25ONFZFeHBIaVRfd2pBc3BsMHk0?oc=5",
+   "source": "日経BP",
+   "summary": "13カ所・10MWの高圧太陽光を新設、PPAで飲料メーカーに供給 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T15:43+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "1ec82c1766d8ea37",
+   "title": "還元材に水素100％、低品位鉄鉱石から還元鉄を製造",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YZkltNl85Q0JOOVhIZm5qS05NYjVfcjMwakdhTTdWaFFEbV9TQ1FVR0U5S2xJcHFXS1NwcHFNY3FheGtGSk5Sb3BpNXUyRFJsSGxLelBXSF9pNi1OWVJrV250SGRCeEx0aXRrRFVIRkplTl9T?oc=5",
+   "source": "日経BP",
+   "summary": "還元材に水素100％、低品位鉄鉱石から還元鉄を製造 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T15:40+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "30f09e72302f4c69",
    "title": "船舶情報自動監視データシステムの世界市場（2026年～2032年）、市場規模（主電源式、太陽光発電式）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sSTdnekFLOUxDbG1GVHFia05PUkxhYkszVFFWbGZEUzdFckllRzhweVNBS1kwY29XYUE3cDNkek5zOWJKUEwyRFVhYm9LV1U?oc=5",
@@ -281,6 +595,22 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "O&M・保守",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "5a1c68167638c42e",
+   "title": "千歳市に50MWhの蓄電所、6mの防音壁に「アート」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQlZLZEd1MDM2SjF6YzJPTjdKdFR2U1lFQy1IdGJRUEhsUEVKQTRNd0J0T3BmaDJ6LUVHTS1VR0hzUmJzWVgwTFNVZTROY3VyMjkyb1RCRjMyTFJRa01Lb3pTUWlpMm5CVFE5X2ZicjdmVnFn?oc=5",
+   "source": "日経BP",
+   "summary": "千歳市に50MWhの蓄電所、6mの防音壁に「アート」 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-11T15:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "c9aba95f161a3a0b",
@@ -1530,6 +1860,20 @@
    "company": "国際航業株式会社"
   },
   {
+   "id": "40dfad84844d9ce9",
+   "title": "ペロブスカイト太陽電池の導入試算、十分に示せた担当者は約2割 国際航業が実態調査",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52WDRRelhXN0NOMXBqc2k3ZHpZNXczYjFkazR0SWd3eC1GNnc3dzlBblNYWTFIU3NLVlpJQ1ctWkZHOGgzRUtB?oc=5",
+   "source": "Dellows News",
+   "summary": "ペロブスカイト太陽電池の導入試算、十分に示せた担当者は約2割 国際航業が実態調査 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-10T11:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "fc94ed2c3635d125",
    "title": "シーアール物流／再エネ利用へ3施設に太陽光発電設備導入",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OanlhVHF6Y3BnalJ4UTJTYTVScDdUYm12dS1BYlhlMlF5TDkxZl85LXhyd3liQThrRzRXZTQyd3BnaV84QkV5ZnRTTG1FNXNsdEhPMg?oc=5",
@@ -2020,6 +2364,20 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90QllEb28yMWxKekJMaGs4NXlrbW1UQmV4eWc4UWNtOUpXMGU5Z3lueFc2VDdBNWNXMWR2WkRVUm9oY2k3UEtXZktvbmNrMXp3YU1aT3QyVkNtamZOdTJVQjFmVWNlRU1OYlE?oc=5",
    "source": "BeInCrypto",
    "summary": "テスラ、100億ドル規模のクリスタルサン太陽光工場着工 BeInCrypto",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "07adabf67869b187",
+   "title": "自家消費型住宅用太陽光発電設備等導入補助事業について",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXp6TUY1R2tJM29sX2JBZS1oT1J4NkRtTG9udjJ4WFVUSndtSmpER2xyM3k0WE9CbjhpTDQyN2Z4T0ZKTmVBdFdiNWJSbEN6TkJWSmtjYWRGNUN6OFhZNkQ0Y0FhbV9kOVJreTVKYTRvbFFCZDctZkV0MnU2dkhsVlZFNnB0Q004NFUxWklMdllGd1gt?oc=5",
+   "source": "兵庫県太子町",
+   "summary": "自家消費型住宅用太陽光発電設備等導入補助事業について 兵庫県太子町",
    "categories": [
     "solar"
    ],
@@ -3463,6 +3821,20 @@
    "published": "2026-11-06T17:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "8cf965d48db01940",
+   "title": "新築建築物への太陽光発電導入等促進制度（中小規模建築物向け）",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxSkJuQ0NNVmIxcHQ2R2lRWVZfQ2wzTmxxZDBYSFM5eDcydjRiRjBVY0NuT1BYVXB2WlhfVU13cWMxaFhrRnk3Sjk5aFhWUUFHelQtUG1SMUV6OTludkIzYWtWdE1Ldk1TU09Uelk5azZwV3duZjdr?oc=5",
+   "source": "仙台市公式ホームページ",
+   "summary": "新築建築物への太陽光発電導入等促進制度（中小規模建築物向け） 仙台市公式ホームページ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-06T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
   },
   {
    "id": "856fef0115639f7f",
