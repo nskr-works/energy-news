@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T19:13+09:00",
+ "updated_at": "2026-11-12T22:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,62 @@
  ],
  "items": [
   {
+   "id": "e944020b2ca6e073",
+   "title": "太陽光発電の価格体系が変更された今、消費者は太陽光発電設備を設置すべきだろうか？",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBJLXhCaUttYVcwbFV0NFBCaGJSU2xYRGFCaW1LcGJ1U0Y2QzcyRkt1X0Q3NEhNN1hmMl94YjF0SkU3bW9kbHptNGxPYmx0WXQzdzJOU3dacUljLVdfbi1zQkNoekFaeEdGWEFtbV9TUV8wcmowYW1DRjBfeGctWXg1bWRNcGtWNUIzMC1vVFc1RktLc2pseXZ5bmg4dWdZWVJ1blo1WnBmX240ZGc?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電の価格体系が変更された今、消費者は太陽光発電設備を設置すべきだろうか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T21:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "2768e1b2758b57ac",
+   "title": "8金融機関がトルコのAcwa Power太陽光発電所2GWを支援 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekhqajFCUnZINGZYekZBdTI1Rnl5OHZnNDhBQW9qcXBkSUlLcFVuVnJKbnVOT1NxQmduRzZ4enkya18zQ1ptdURsWWhvdkNPbmI2Zzlick9ob0l3MFNmMHc2MXFwNkdhOVRVSUVCLU1HTmh4TXhJQmN0b0hpMnBxZVJOamdDTWFtd25DcnVMSVFhaE5TeGhuYVlicTZ1dw?oc=5",
+   "source": "IndexBox",
+   "summary": "8金融機関がトルコのAcwa Power太陽光発電所2GWを支援 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T20:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "6ebcfef74bb3b704",
+   "title": "LONGi、豪州太陽光市場向けにX12、X10 Ultimate、Hi-MO 9 Prime、LONGi ONEを初公開 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkVQV2dCa0FveUJSMWZqWEh3QTdQZkNScmdVV3JmcjJ6T0UwTXdobUhDY0xaS2RlTURZZi13YnhoQTFwZnpoZU5zOWpCcVZxa2t1dVBydjNQVmlYcE1rU1cyb0JwLVI5QmFtWmJMa1pGb3lnVGpXZ2NycDc4NHpZQWFlUkNWeXRybjA4NHRoX3pQUTJvTGRkS2VFVm9qdl9FUVgxLTdrdXlJSlJDZHFRc1JSR2tab3pHOER4R3plT2g2cFVVX0pySQ?oc=5",
+   "source": "IndexBox",
+   "summary": "LONGi、豪州太陽光市場向けにX12、X10 Ultimate、Hi-MO 9 Prime、LONGi ONEを初公開 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T20:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "ec5ba8d9d9d618a6",
+   "title": "ソーラーシェアリングの芽を摘むな／市川大悟氏（WWFジャパン地域再エネプロジェクトリーダー）（ビデオニュース・ドットコム）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSM3RFSTZtekN5OVdXQm82THE5ejBTRDdCOUhlS0k1RmVxTU5vbjRpUlVEbE1NOWFCRWR4SjNlM3Y3UnhGVDNMY0lGRElTdnhOYXZ2TFdSQVRUcllRSjEzd2FWN2VZbnJWVFZzQ21oMzljS1BRR0E4R0JKZjFFVFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "ソーラーシェアリングの芽を摘むな／市川大悟氏（WWFジャパン地域再エネプロジェクトリーダー）（ビデオニュース・ドットコム） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T19:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
    "id": "d9973bc09115cfb9",
    "title": "蓄電池の充放電判断はなぜ人手では追いつかないのか――AIによる最適化技術を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000120.000181124.html",
@@ -32,8 +88,52 @@
    "published": "2026-11-12T18:41+09:00",
    "company": "ジャパンブランディング株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "storage_topic": "その他"
+  },
+  {
+   "id": "04237734ad1923bd",
+   "title": "GoodWe、電力市場変化を見据えたセミナーを12月3日に開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000028.000167163.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[GoodWe Japan株式会社] GoodWe Japan株式会社は、2026年12月3日（木）、東京都千代田区の鉃鋼ビルディングにて、太陽光・蓄電システム事業者を対象としたセミナー「JC-STAR・増値税税制改正、この分岐点でどう勝ち抜く？」を開催します...",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-12T17:41+09:00",
+   "company": "GoodWe Japan株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "222a13e611a37282",
+   "title": "政府が太陽光発電量の多い昼間の時間帯に電力需要を移すために産業用電気料金体系を変えたが、企業の電力消費パターンはほとんど変わっていないことが分かった。 電気料金の差が企業の操業時間を変えるほど大きくな..",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqQ2R6WEc5aVZjaWhIdG9IN3lSWGtqMXh1OXh0SV9zT1M3QThuaUNwcmdJaXRVamZWUjU3cHFpdnA2LTFaU0Fza0oxZFZvc1VxQnc?oc=5",
+   "source": "매일경제",
+   "summary": "政府が太陽光発電量の多い昼間の時間帯に電力需要を移すために産業用電気料金体系を変えたが、企業の電力消費パターンはほとんど変わっていないことが分かった。 電気料金の差が企業の操業時間を変えるほど大きくな.. 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "035fc66120d0de37",
+   "title": "51％が「1年以内にペロブスカイト太陽電池を提案」と回答",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qTU9la1dBVmZGalQtYVJsUHpwZnFiRFdSNEIxLU5HbklEeEJRSVc1MVVJNFhKQUJFTjFGbUhKVHhTNHlPcEJmVHlhOEVZQmhPRERqMmFROGhmMjk2QXlJaHRhMHRCYThMZkp6akViQkNpSHBl?oc=5",
+   "source": "日経BP",
+   "summary": "51％が「1年以内にペロブスカイト太陽電池を提案」と回答 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T17:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "89c4c49f25362006",
@@ -158,6 +258,20 @@
    "company": "株式会社マーケットリサーチセンター"
   },
   {
+   "id": "4cd42b0d64a2d8aa",
+   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(5/6)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCbVY4bTV6VWVBNmVnQVlXb1N2cDRXRnllOFdMZGszV3U2ZTM3YXdJeERVdnVLNl9NMVpZSUFiWFZwLW9aaVpaWUZYcXNXZDhZa0E5QUdUanNwMXhJQ3VR?oc=5",
+   "source": "JBpress",
+   "summary": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(5/6) JBpress",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T15:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "2acff32db7679182",
    "title": "ENECHANGE、エネルギーの「総合ソリューション化」へ─ 太陽光・蓄電池・省エネの提案サービスを開始",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TRkxEdHdPdFhCRGRTdmlUMGtteXN6bEloaDN4d1JycTkzRVRfQW4wVWtGanF6ZmlYc0dkSHpaNkdQUVVrM2dOV1g0ZC1nUmdYZE1JTTR4c1M2SHNRcE1UNGF3WG9GckJlYlh1U29Ta2ZQUQ?oc=5",
@@ -216,6 +330,20 @@
    "via": "PR TIMES（太陽光）",
    "topic": "政策・制度",
    "company": "東京都初※1"
+  },
+  {
+   "id": "54b8d438d3881497",
+   "title": "茨城の地元スーパー、太陽光PPAで電力36％自給 屋根上＋カーポートで",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44RFFjTWZTZkZPQW9ZakVqUnhzMm80VXp2Zk96eHlEX1FHam9CNmlmcHhRZ3Rmd053S0NuSE9qaUNzQmVhczA3NVhhRWl6Qk51YnRYSjQ0THlLYk5RRk9mOTlYMGJpdUw0U3JvT2xYb2NBWGhnU2dDeWFsRWw?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "茨城の地元スーパー、太陽光PPAで電力36％自給 屋根上＋カーポートで 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T14:08+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "2701cdf934e0976b",
@@ -304,6 +432,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "388541023a3d08cc",
+   "title": "北海道伊達市に8.3MWhの系統用蓄電所、リエネ・エナジーなど4社が開発",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FSFZzN3hQRGc1d2psc0dySDg0VDJ0M0h3a0pNbW8yeXNIdEh3Q3ZRR25oaE5JTVFwUHVmOEhPX3pkOUp4V1BDd21DT05UOWs3ZkNWLVRLbS1QYkNCemF3SW50NW5DM0EzUGNld1hRYnQ5a0hiYWV4a2Y3Wlc?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "北海道伊達市に8.3MWhの系統用蓄電所、リエネ・エナジーなど4社が開発 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T13:08+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
    "id": "befe86778b40d71c",
    "title": "同じ白いLED照明でも「光の質」は違う。lipro、太陽光に近いスペクトルの適合度99％超を第三者試験で確認",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84NXI3VFFRSTZIcUZ6MTFPMFJHaXBMdU9GdHE0MnhEemVMVThkbGdsSExHTVFIUkJMVmV2OTViX1dveXhpR29VUjctLURXczBjTWVjbzNMY0VCQkNqWFA5QXh3QXg0X05Ocmc?oc=5",
@@ -331,6 +473,21 @@
    "published": "2026-11-12T12:56+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "19f2192b04e083ee",
+   "title": "太陽電池式EV充電ステーション：市場シェア分析、産業動向・統計データ、成長予測（2026年～2031年）",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNlVQb0k3Y1VTdGF4dnlQTDNULWNHdGZ2TWJ3TV9JZTNiVERVb0s4RUJpb3REWFJ3VndBRExHa293NFZGdHBGRTJKZDJnVDg?oc=5",
+   "source": "アットプレス",
+   "summary": "太陽電池式EV充電ステーション：市場シェア分析、産業動向・統計データ、成長予測（2026年～2031年） アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-12T12:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社グローバルインフォメーション"
   },
   {
    "id": "ccbbded335a5c4a5",
@@ -699,6 +856,20 @@
    ],
    "type": "news",
    "published": "2026-11-11T21:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "8f69bed51c623d90",
+   "title": "SingulusとSpaceXがHJT太陽電池ラインで契約、納入は2027年上半期に - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUFBLVRBNy11di10Ny1PaTlIUENzeml0X0VKWThJS21KMnhsX3pPczZ0d0w2dXN2bTNGdHNUc212VGJiVTNlcHY5QXliaTR3VVBlVzVaZEt4QnBjbHBDRzZVVmEzOW1BSG1FcWpBVzQyaVVaU0hXdXU4LVp0ZHN5bTNpZ1hrT0RPZi1IcDhJN3U5SDFtZDE5Rkw5VlFna2RXb0lRSVJwLVF2U29xeXZvZ0F2X0RiclRmVTJRYW5acHlBMURK?oc=5",
+   "source": "IndexBox",
+   "summary": "SingulusとSpaceXがHJT太陽電池ラインで契約、納入は2027年上半期に - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T20:30+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
