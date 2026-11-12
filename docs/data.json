@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T22:10+09:00",
+ "updated_at": "2026-11-13T01:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,62 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "e796d2d816f85f53",
+   "title": "宇宙ＡＩ向け太陽光発電、台湾企業に商機も",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92cVVXUEdqdk9rcGtpdElaWUI0M09Kb2JTbHVaSkladDRaRHBDUDBkSklKNFBmZll4OWZxbVp3WGVtYzJsTHc?oc=5",
+   "source": "NNAアジア",
+   "summary": "宇宙ＡＩ向け太陽光発電、台湾企業に商機も NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "647739567ceaabcf",
+   "title": "Terabase、テキサス州457MWプロジェクトにTerafab V2自動太陽光建設プラットフォームを導入 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGhPQXhVcU15T2lxNUZkb3FROWk1NU1CNGdlbFp5NlpMQ1hpQnlORHJZcnVpRm5BeXNNcklaNUhoSEp4aklhMUNrVUpPaXdlYlNOTFJkd28zUFNxTTZ3bjM1bFFxUEVxdDdudHRXREdOVHZNcUFYV1JtMFJUckNiRHlVLXlLYV9KT2ltLVdDNENkWmdnUFFEbDBnMkhHVGdpOXhaLUNXbUFHT0lTQlUxMVFSWnVGY3JlOTNBTkNmeFROaHBOeHowMEpVc1U4bVg2SlRlbw?oc=5",
+   "source": "IndexBox",
+   "summary": "Terabase、テキサス州457MWプロジェクトにTerafab V2自動太陽光建設プラットフォームを導入 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T23:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "29c7ad19985b1aec",
+   "title": "Vattenfall、SSAB Zero採用で太陽光発電所の鉄鋼排出量を67%削減 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFpGLWZnVUVuaUVFQzFtbXVtZkt3WFZtMHZKaG11cXNyUGhlMVlqUTRKZ0p4N3ZhaFQ1SncwN2NFbUFVd0xab1dQQ3AtTXprSWwwN1RYNUZJTmJiZmx4bEFDS0hVR0dOQ1pjNVEwVFJWR2s1c3NRYnpNb0pCdUdOR3Ezd1pDUlF3N0R1VFQtb09YVHp4eThRU0NB?oc=5",
+   "source": "IndexBox",
+   "summary": "Vattenfall、SSAB Zero採用で太陽光発電所の鉄鋼排出量を67%削減 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T22:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "cff074dd52333bc2",
+   "title": "バーレーン、100MWacのビラジ・アル・ジャザイヤー太陽光発電プロジェクト入札を再公告 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTThWbERJSmVsWXV3N3Fvc2hIQnhfcmdCdFAzQVN0NVVtTXd4bVNJRGE4ZlBaNFlIZElqVGpaV1pZdm0tV0lSeHE0M2RUckZpWU03TVBQVDZLR2dCc05uVUVVdkFma2E2amRrQmpKQ0hsVFhhSVBsdktNazNxUzR1VHp6Z3lkQU02OWNZMFVVRjRsZWtCbkFyb2pZaVJubG4x?oc=5",
+   "source": "IndexBox",
+   "summary": "バーレーン、100MWacのビラジ・アル・ジャザイヤー太陽光発電プロジェクト入札を再公告 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T22:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
   {
    "id": "e944020b2ca6e073",
    "title": "太陽光発電の価格体系が変更された今、消費者は太陽光発電設備を設置すべきだろうか？",
@@ -372,6 +428,21 @@
    "published": "2026-11-12T14:00+09:00",
    "via": "@Press（太陽光・蓄電池）",
    "topic": "その他",
+   "company": "ネクストエナジー・アンド・リソース株式会社"
+  },
+  {
+   "id": "21b6d01b7cfbea93",
+   "title": "ネクストエナジー、490Wの高出力と美しい外観を兼ね備えた 太陽電池モジュール「漆黒(SHIKKOKU)」を 11月12日(木)より販売開始 | ネクストエナジー・アンド・リソース株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OY1N4bVFINXJkV0xlbmVOQnE5aFY1STE0UG1zWVhCVUppS1V1WkRmM3FwTFN4UnZWcHRzTUtYTUwxMENmS2N4TWFYMEhxUQ?oc=5",
+   "source": "アットプレス",
+   "summary": "ネクストエナジー、490Wの高出力と美しい外観を兼ね備えた 太陽電池モジュール「漆黒(SHIKKOKU)」を 11月12日(木)より販売開始 | ネクストエナジー・アンド・リソース株式会社 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-12T14:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
    "company": "ネクストエナジー・アンド・リソース株式会社"
   },
   {
@@ -774,6 +845,20 @@
    "published": "2026-11-12T05:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "b3c49cea7ce7ebe7",
+   "title": "コスモエコパワーとアスソラ、八戸市の太陽光巡り20年間のコーポレートPPA締結",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzc05XWFd2WHRzOFViZFBlUE84SE5KN284aTNHVUFQcFV0Q3liSFgtdmRObl9FWmhUZUh2VUs4WHR3R2s2SUE?oc=5",
+   "source": "Dellows News",
+   "summary": "コスモエコパワーとアスソラ、八戸市の太陽光巡り20年間のコーポレートPPA締結 Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T02:20+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "95ce80fb62337f4b",
@@ -2283,6 +2368,22 @@
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用",
    "company": "株式会社レポートオーシャン"
+  },
+  {
+   "id": "ef1231d636de0a9e",
+   "title": "米国住宅用太陽光発電（PV）市場、2035年に387億5,000万米ドルへ拡大予測――年平均14.58％成長の背景にある電力コスト、蓄電池需要、住宅エネルギー戦略の転換",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FUnFLY2FMdEQ3eVMxbWx2TnhtUS03MkVwRFpBeUFoUEpPTnMwWWlYaGtLVzFTM2tNSHdXeFZaVGc2OC0xc0hyRjRRVzVseW8?oc=5",
+   "source": "Newscast.jp",
+   "summary": "米国住宅用太陽光発電（PV）市場、2035年に387億5,000万米ドルへ拡大予測――年平均14.58％成長の背景にある電力コスト、蓄電池需要、住宅エネルギー戦略の転換 Newscast.jp",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T12:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
   },
   {
    "id": "e3e368cf2700b08f",
