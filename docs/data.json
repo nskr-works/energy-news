@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T21:32+09:00",
+ "updated_at": "2026-11-14T00:38+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,66 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "fea3484b9a46f38a",
+   "title": "マスダール、カリフォルニア州で9億5000万ドルのロックハート太陽光・蓄電池複合施設を完成",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHM3X3JudDVFVl9IVTdvblhYQXJWVmI0ajcyZTVrQU1YQURGZmN0dXNKbDA5TG14Rll4Z1h5bnYwNUdjY1dxN0RWaGg4c1dPT19QSDBvTWZaczlpQlpZOF9BY1dCUWlZTEswUkZMTVpwUGtSU19LN0VFVGVyYnJQRTE3bXJVbUdSWm5rRjVndks3N2tGRTROZTYyZ21tcGZrMnFLalB4cm9yeWtIMXdV?oc=5",
+   "source": "IndexBox",
+   "summary": "マスダール、カリフォルニア州で9億5000万ドルのロックハート太陽光・蓄電池複合施設を完成 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-13T22:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3a1651a9d108af39",
+   "title": "タイは太陽光発電を推進し、スマートグリッド開発のための政策を整備している。",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3IyZ3lFOUlIelMxR0haWEZENm9PY1BXY2J0LWpDX1BfSlVMMEVuSXpaTDVWcHVWUDN6X0JXOG9pRlZoTlRXQl9kT2N5NU5LS1hmbVZ0S2FRTGRibzNsWmpTWlZJaVlGNG5CZHktelNFWUYyUHJ2YUZybHY0akJSdjhPM1JFOGRMWjNUVkZLZjhJd3lPcnFPQjdFRjlvTHNwc2tXSExadjRDQmJPOWtBSA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "タイは太陽光発電を推進し、スマートグリッド開発のための政策を整備している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T22:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "016b7d055abac2a2",
+   "title": "次世代の「ペロブスカイト太陽電池」沼津市役所で実証試験へ 室内の明るさでも発電 薄くて軽く曲げられる素材",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUUs3R0xNLVRQTmRmQ1Y5ZzFoeHFIWGFpVnlPd1UzUXRuY3JvUW03dzhxVWV1Q3h4Z2Y0RW9zYmNnTThPWmQwZ2dvdXI4ZFFDa1NVZi1HcTAxdTFUTXFBRlFoNA?oc=5",
+   "source": "テレビ静岡",
+   "summary": "次世代の「ペロブスカイト太陽電池」沼津市役所で実証試験へ 室内の明るさでも発電 薄くて軽く曲げられる素材 テレビ静岡",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T22:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "1d3cbe9ad285769b",
+   "title": "共用系統連系が太陽光集合住宅の蓄電池経済性を改善 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1Rlc2tsLW03MjdZekJhN25fVzA5WHVXS041SG5wYWc5eGx4bFBGVGpYRmMzWnVDTnZZRGZLVVl6d0JzUWxET1ozSy1aQWN5MUx0aWZEalNielFKd1NXVmZEUEs5ZHZPckdlTDBWU2V1cnFDWGJMQ0ZpV3lxUmdxR3g0LUFCRnA2MGNRVnBoMkUxbTNkaDlsM1hjTk9oZ0ptQXc1TEFNNlB1cW9RVjE0REhUd1d3cEp5?oc=5",
+   "source": "IndexBox",
+   "summary": "共用系統連系が太陽光集合住宅の蓄電池経済性を改善 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-13T21:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
   {
    "id": "40705fadfe3d5a1b",
    "title": "韓国、太陽光発電式無人航空機（UAV）による7日間の飛行記録を樹立。",
@@ -77,6 +137,22 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "5809ebe4803eb99e",
+   "title": "太陽光発電の営業から「蓄電池も付ければ電気代がほぼゼロ」と勧められました。しかし、追加費用は「200万円」もかかるとのこと…。本当に電気代の節約だけで元を取れるのでしょうか？ (ファイナンシャルフィールド)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0VBU2JTSHZLM1Q4REhiRXhQWjlMeHFpd1hORklVaWozbUw1SUVDMkhSTmZxV2NUekFkSkEyb2dISW15WkVoeGx0U29nRG9CUmxMNGFkTXZHVDBZa25QNzZwcDBlT2pVakJ1a1ZJMDBpcWxxTlhzXzNUVEE3Ri14SmNpVVFXLXpKdmJtXzdn?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光発電の営業から「蓄電池も付ければ電気代がほぼゼロ」と勧められました。しかし、追加費用は「200万円」もかかるとのこと…。本当に電気代の節約だけで元を取れるのでしょうか？ (ファイナンシャルフィールド) Yahoo!ニュース",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-13T18:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
   },
   {
    "id": "c1239cc08bdfc26c",
@@ -463,6 +539,20 @@
    "published": "2026-11-13T10:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "company": "株式会社　新社会システム総合研究所",
+   "topic": "営農型"
+  },
+  {
+   "id": "81911e250808df1a",
+   "title": "営農型太陽光発電の動向と企業事例を学ぶセミナーが12月17日に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjVDRnaHNTNERITFFoQmhpR20wV0Z0dVJ3bjlHMDhodEJ6Z0IwMlRKMjhFY2lCeHRJMjFxbUJ4azd6TTVqdDFR?oc=5",
+   "source": "Dellows News",
+   "summary": "営農型太陽光発電の動向と企業事例を学ぶセミナーが12月17日に開催へ Dellows News",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T10:00+09:00",
+   "via": "Googleニュース「営農型太陽光」",
    "topic": "営農型"
   },
   {
