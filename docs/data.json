@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T00:38+09:00",
+ "updated_at": "2026-11-14T10:43+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "e9a2a57fa19712b7",
+   "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eW1nREs1Sm9kbWc1NmItbjFBR3R3TVVJcHBCQ2Z0RUNyeF9ZUWtBcjluSlJ5b2ZFZlFGU1JZckhrQ3g3OEVmNnRJZGJrQVFjZXY5TzBR?oc=5",
+   "source": "岐阜新聞デジタル",
+   "summary": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も 岐阜新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T08:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "79076c5da6fad285",
+   "title": "IVカーブトレーサ市場、2035年までの成長見通し：太陽光O&M需要が下支え - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2YzOGt2c1lqMVhpdTVSQTBNTjFQMlNSSlpvZlkwdmctRDZjV3E4Szd1bHdNU3ptQ19MZWU1R2xxNUZacHdqQlNFalotV2hsNUdBLVJ3QXpHYVFfN0dBOG9meVV1cGFhUW5JLTNsZFB2Y29maDMtX3l3eU5nMF9Vc1lkdE85aUhkWlVtZFRJdU1NNlBfUnpNaGUwc1lueGlvX2NaU3JlT2stZUZkY0FTaUFR?oc=5",
+   "source": "IndexBox",
+   "summary": "IVカーブトレーサ市場、2035年までの成長見通し：太陽光O&M需要が下支え - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T05:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "56628103b04c2ef8",
+   "title": "１２月定例会２０日開会 風水害受け予算提案 メガソーラー条例も 【県議会ちば】",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1INGEtdXZmVWVXbkVfb1c3WGZMVTNOWWhSV0hkMmZvcUdzLWdyODU2STE4SklPSzFJWW9la0FvSkJBX1dpcFFySG94VmY2MjRQelJNNmU0Tzg?oc=5",
+   "source": "千葉日報オンライン",
+   "summary": "１２月定例会２０日開会 風水害受け予算提案 メガソーラー条例も 【県議会ちば】 千葉日報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
   {
    "id": "fea3484b9a46f38a",
    "title": "マスダール、カリフォルニア州で9億5000万ドルのロックハート太陽光・蓄電池複合施設を完成",
@@ -1748,6 +1790,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "a83ab53c288566e1",
+   "title": "新エネ大賞の審査員特別賞に鈴与商事、東急、静岡空港 太陽光発電設備導入事業で評価",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rNGZsaWE2ZnpKMEtXQk5xcklEcHhyUENzNll6U1Z1RXlLZnNIMnRqVTAyWHE2THNWQmlzLWI4OFhVTE9ydGJ5eXpDRzNIZw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "新エネ大賞の審査員特別賞に鈴与商事、東急、静岡空港 太陽光発電設備導入事業で評価 静岡新聞DIGITAL",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "b3c49cea7ce7ebe7",
    "title": "コスモエコパワーとアスソラ、八戸市の太陽光巡り20年間のコーポレートPPA締結",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzc05XWFd2WHRzOFViZFBlUE84SE5KN284aTNHVUFQcFV0Q3liSFgtdmRObl9FWmhUZUh2VUs4WHR3R2s2SUE?oc=5",
@@ -2646,6 +2702,20 @@
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43VWtmZkRoYi1Ic3l6dFBzQnNVNjVaYUZFN283U052Sl81b0FFNG1LUmY1Q1p1T3JhYjB2blVLVmtnN051UEtwUC1GeVg?oc=5",
    "source": "ダイヤモンド・オンライン",
    "summary": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も ダイヤモンド・オンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-11T04:35+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6f62a9d90d911c3c",
+   "title": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も | エネルギー動乱",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43VWtmZkRoYi1Ic3l6dFBzQnNVNjVaYUZFN283U052Sl81b0FFNG1LUmY1Q1p1T3JhYjB2blVLVmtnN051UEtwUC1GeVg?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "summary": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も | エネルギー動乱 ダイヤモンド・オンライン",
    "categories": [
     "storage"
    ],
