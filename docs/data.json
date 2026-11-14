@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T16:59+09:00",
+ "updated_at": "2026-11-14T20:42+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,35 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "5a1be979e2e45e48",
+   "title": "製紙会社が太陽光発電設備を導入することで、電気料金を12億ベトナムドン以上節約した。",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemQwRzRUc0gzWW1PRjJkR09zSEJFZmhQdWFFVDFUYVptZjlxeS1JcS13X0k2U0dSVTBYVUl6UVRCOXhENXJXOW8xY25DRHJSU0dYcE9VWW84ck5DU0hWRmVtNHJveV9nREhsMjRzWjkwRmw5N0RzVUktcEQtYWUwcWpndFRIb2RYZUhFY1BGYnUtUzZKU3RyRVB1bVF4elR6N3lr?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "製紙会社が太陽光発電設備を導入することで、電気料金を12億ベトナムドン以上節約した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T19:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "d1c7cf9941a79351",
+   "title": "商社は系統用蓄電池で何を担っているのか――福岡県筑前町の3社連携を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xbVYyNmx0Zzh0QnV5eHc5M1JEaTBvRU40MTJEYm0tanBYc190QV9TT0I5NDRtV1Nwb2hib1R3SUY2aDZzUm1QTFJkaHNnLURVZjY5aG5mMEljUlJfS3d5RXpacUxwajJBR2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "商社は系統用蓄電池で何を担っているのか――福岡県筑前町の3社連携を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-14T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
   {
    "id": "1f7033a0d9bd6d4b",
    "title": "トラーチを子会社に、太陽光など住宅事業強化/OGM",
@@ -2395,6 +2424,20 @@
    ],
    "type": "news",
    "published": "2026-11-11T12:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "706e4f0554482531",
+   "title": "コニカミノルタ、リコーリースと太陽光発電由来の再生可能エネルギーの環境価値を対象としたバーチャルPPA契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0hQaUlWd2JxM3FDZ1hnbUxLcFZWTmt5T3VqSW04QjVnM2lYNjBKaUw4cmRKRGJYa1owdVlBMzNTdnFVbkhZd29zVWtBdWtocjRYdzdLVkpFUjg0UGd2ME5NSjFoRVJOcWcxTw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "コニカミノルタ、リコーリースと太陽光発電由来の再生可能エネルギーの環境価値を対象としたバーチャルPPA契約を締結 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T12:25+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
   },
