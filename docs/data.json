@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T20:42+09:00",
+ "updated_at": "2026-11-14T23:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "7e39058485838253",
+   "title": "BYDは、太陽光発電を内蔵し、5分で超高速充電が可能で、充電器を差し込むための自動ロボットアームを備えた充電ステーションを発表した。",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0p4TndGbThCanJhbGdWR3JtVTBVbWNSQ2RrQ19BUTlqT2k0NDB0STNhRUszR0VhY3dLV2J2cE9OaVBYWldEMWN5aEx1Nk9LeXhvRGVsaWJvWHRCMzRtcS1VV3dpNVhEQ194X190N1dlbDBkdm1fTlNBdFJtbnVJemo1dE9rRlNCYXhjb2ZrWmxaVjNrUC1zMGlOblYtXzM3MHQ3ajE0Q01jNXZKWXE3YkUxZWZ5SzNOUEpxSzMxUQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "BYDは、太陽光発電を内蔵し、5分で超高速充電が可能で、充電器を差し込むための自動ロボットアームを備えた充電ステーションを発表した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T23:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "ef5880ba6348a720",
+   "title": "屋上太陽光発電の普及：ホーチミン市は家庭におけるコスト障壁を取り除く。",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnJBNlFVUjZKYW9yQWZ2UHltcWhJV1lDSEZDbTFpOE5MRndWUUZvUC15T19aOFpZemc5enN0ZEFwM0VsQ3lmeXVrQ0UtVmRpUWktWE5yRlZmdThQTE54LXhzb2RQOG9TN1c0b0puU0RyQVJBekFMSW83WmxIRHpoOW9sMVZadzJ0eWRrVkU4NTNhcmMtM3h2anlFS1E4SHRINFdlclZ3?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電の普及：ホーチミン市は家庭におけるコスト障壁を取り除く。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T21:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "5a1be979e2e45e48",
    "title": "製紙会社が太陽光発電設備を導入することで、電気料金を12億ベトナムドン以上節約した。",
