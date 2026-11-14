@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T12:31+09:00",
+ "updated_at": "2026-11-14T16:59+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,77 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "1f7033a0d9bd6d4b",
+   "title": "トラーチを子会社に、太陽光など住宅事業強化/OGM",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FX0lXS2RBa3JZc2tKRkx0dHJpdElsRExrU21mNUpnZG9xcTg0OVFxSnBlNXpvdzBSUjZiWHQ5RHRPenhOWjl1Sk5VM05fTEt1ampkbDVFenE?oc=5",
+   "source": "ガスエネルギー新聞",
+   "summary": "トラーチを子会社に、太陽光など住宅事業強化/OGM ガスエネルギー新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T12:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "f8911a1673bf2658",
+   "title": "ホーチミン市は、貧困世帯が太陽光発電システムを設置する際に、最大5000万ベトナムドンの補助金を提供する案を提示した。",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeURsUV9mLS1nckk5WkNLU2hFX05SaUk0cGNrbjUwQ25hN1pvU2doTnFzSU5fOXhib2hKaUo2c2ZzTmpXSEhGNUdlQ2Nia252V3RFT2duamt1Q1N2WFFkSHA2Sk1RZkRySGhpX1JIREg0c1M3bmJvQzF0WnlxYnJZVUVsd2FPUXlpUWZmcFJJVDZ2elN0cWJ2bGJEWQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ホーチミン市は、貧困世帯が太陽光発電システムを設置する際に、最大5000万ベトナムドンの補助金を提供する案を提示した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T12:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "baaf42457304dcdf",
+   "title": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93U1FYbXJhTThNNjdIWG5lSUVJOTJOdlg3WnkyUUdXR0R4SEpTdEN3REt4dmxGU1R4Mkh4cGZERFVIazNVSWtGYnlXSDZnZXpqOXQ4OA?oc=5",
+   "source": "中日新聞Web",
+   "summary": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設 中日新聞Web",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T12:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "83b48215e1706c5e",
+   "title": "フレキシブルソーラーウィングの世界市場（2026年～2032年）、市場規模（半導体シリコンセル、ガリウムヒ素セル）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HUUxBcGpNYTZ6U0VSZlVJT09wbm1XTFFTeEFWZERNaGctZ2NIM2JxYS1JcmpXajBnT3Q4NVNIWFdTV2prdUFlTnRmQUlJQjQ?oc=5",
+   "source": "アットプレス",
+   "summary": "フレキシブルソーラーウィングの世界市場（2026年～2032年）、市場規模（半導体シリコンセル、ガリウムヒ素セル）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-14T10:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "次世代技術",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "2b249186a7e5964f",
+   "title": "ジャパンブランディングが系統用蓄電池の解説ウェビナーを2026年12月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PUGRiWmR5Xy1fbURPLTcxdDZTNHNxZVBDeFhtMmNkUkZNUzlVMEZjak1lcFpfaG1JaVNIUzlDczhWcnl6eHpV?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディングが系統用蓄電池の解説ウェビナーを2026年12月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-14T09:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "e9a2a57fa19712b7",
    "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
@@ -209,7 +280,6 @@
    "published": "2026-11-13T18:41+09:00",
    "company": "株式会社ケー・シー・アール総研",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "次世代技術"
   },
   {
@@ -239,6 +309,20 @@
    "published": "2026-11-13T18:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "e66bd960c13a6455",
+   "title": "フォーシーズＨＤ[3726]：株式会社ネクスタとの系統用蓄電池設備における包括売買契約締結及び 低圧系統用蓄電所事業への取り組みについてのお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kTXJvbTR6bDJQVjJyV1QyTk5pTEN0WG5RcHhqRnk4RWQ1RU1peVVYUmZxTEdVbFRYZnFOZzMtNkVOMnpBRnZnaXcyZDBQMEhrcUNMdEY3cUs2ZnFFYkNMekhHVUlWZlpUWFE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "フォーシーズＨＤ[3726]：株式会社ネクスタとの系統用蓄電池設備における包括売買契約締結及び 低圧系統用蓄電所事業への取り組みについてのお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-13T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "eaada64474470a48",
@@ -1533,6 +1617,22 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社YAMABISHI"
+  },
+  {
+   "id": "0afc1264fc3dae97",
+   "title": "住宅用太陽光発電・蓄電池システムを展開する大阪ガスマーケティング株式会社が太陽光・蓄電池の販売・施工を手掛ける株式会社トラーチの全株式を取得し完全子会社化",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvUks5YnpJVGdHU2dRelF2amtfVXBteFh0am9QQy1kWEx1ZWFsdE00Z3pyNG9URnJRcDlDalRGWkhoblFhSTlPRVZrSGpYeWc?oc=5",
+   "source": "STARTUP LOG",
+   "summary": "住宅用太陽光発電・蓄電池システムを展開する大阪ガスマーケティング株式会社が太陽光・蓄電池の販売・施工を手掛ける株式会社トラーチの全株式を取得し完全子会社化 STARTUP LOG",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T10:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "家庭用"
   },
   {
    "id": "5cb4a71e04c0939b",
