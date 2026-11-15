@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T21:12+09:00",
+ "updated_at": "2026-11-15T23:56+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6345045d23a7ea12",
+   "title": "次世代太陽電池「ペロブスカイト」実用化へ新潟大で試験 日本発の技術・県産の原料…国際競争で巻き返しなるか 連載「太陽光発電の現在地」＜上＞",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSMDdvdDNPTFFhbEV1R1NlMXFaNERibGVKVmJqT09RcGNObHBRMWQzbDN2ZWV0eU91SnNYLWpCbVR4Yy1kM1pxZzF5QQ?oc=5",
+   "source": "47NEWS",
+   "summary": "次世代太陽電池「ペロブスカイト」実用化へ新潟大で試験 日本発の技術・県産の原料…国際競争で巻き返しなるか 連載「太陽光発電の現在地」＜上＞ 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T23:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "099bd4f0057f1664",
+   "title": "米DARPA・Caltech、地球軌道でロボット組み立てに初成功…宇宙太陽光発電の前哨戦",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYdE83bXU0Q2t6WlYxOGdKMzVTR1dWWlZnMlV5YXhOUEwwT2ZHVmpBZGg4Wk5SYkF4V1JBdjNCNlJ3eV9pZnhSZHI1NFg0bURzWnlibWoxTHcyZzFTQTNBUkJEb1VfTDJxT0VyVWd3V2FYMHhF?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "米DARPA・Caltech、地球軌道でロボット組み立てに初成功…宇宙太陽光発電の前哨戦 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T21:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "b7ceca9d5c020148",
+   "title": "サステナブルホールディングスが系統用蓄電池事業でO&M体制の強化を推進",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VcmZkdjVGZGROVlgyeFZFQ2FoeXlpSUwyNHJzbTZhT0dsdWFha001SFFfQlFFZXVTZ3JHTFpuZEI2U1B2UEVv?oc=5",
+   "source": "Dellows News",
+   "summary": "サステナブルホールディングスが系統用蓄電池事業でO&M体制の強化を推進 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-15T21:28+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "9d73c52ae7ce4d5a",
    "title": "DC結合型太陽電池システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
