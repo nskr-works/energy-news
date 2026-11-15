@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T23:26+09:00",
+ "updated_at": "2026-11-15T10:17+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,49 @@
  ],
  "items": [
   {
+   "id": "169cc909309d3a22",
+   "title": "低高度経済航空機用バッテリーの世界市場（2026年～2032年）、市場規模（リチウムポリマー電池、リチウムイオン電池、リチウム金属電池、太陽電池、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNy1mQldTOGtuZW8yX3BqQVhubHBjaWdkb2Y0S0pNLVdVdi1uS0FvMlJ6cUFWbEo0b0NYYUtYQ0FjZUpPQUVXZXp3SXJ3d28?oc=5",
+   "source": "アットプレス",
+   "summary": "低高度経済航空機用バッテリーの世界市場（2026年～2032年）、市場規模（リチウムポリマー電池、リチウムイオン電池、リチウム金属電池、太陽電池、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-15T09:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "ef0fc6954f2ce722",
+   "title": "営農型太陽光発電、導入費要らず ヤンマーが普及加速へ協力農家募集",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05OWJOUXEwdDF0QUxwUWtPN0ljRDJjU2xzZUQ2RmQyVXlXNGVNN2w0MWpaWFVISEtBN3ZPdk5GcXRqVlprYkt6MWJ2LXlkbW9VUW1XQVN4VQ?oc=5",
+   "source": "日本農業新聞",
+   "summary": "営農型太陽光発電、導入費要らず ヤンマーが普及加速へ協力農家募集 日本農業新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T05:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "1f99ef8a4b4b2a43",
+   "title": "丸木美術館 太陽光パネル再設置へ 市民団体がCF ／埼玉",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbTh0dzQ1ZFZWN0NacVVOdFFjaU1ZMERGVnNDMWpnaTN3Q1ltNkIyYjV5T0FmVm5FOHhkWFlwekh2c2dYZlo0M3NqYi00UHJXSm9ZTDl1cDFCbE1BRzdxeXNvR1hLSTRx?oc=5",
+   "source": "毎日新聞",
+   "summary": "丸木美術館 太陽光パネル再設置へ 市民団体がCF ／埼玉 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T05:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
    "id": "7e39058485838253",
    "title": "BYDは、太陽光発電を内蔵し、5分で超高速充電が可能で、充電器を差し込むための自動ロボットアームを備えた充電ステーションを発表した。",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0p4TndGbThCanJhbGdWR3JtVTBVbWNSQ2RrQ19BUTlqT2k0NDB0STNhRUszR0VhY3dLV2J2cE9OaVBYWldEMWN5aEx1Nk9LeXhvRGVsaWJvWHRCMzRtcS1VV3dpNVhEQ194X190N1dlbDBkdm1fTlNBdFJtbnVJemo1dE9rRlNCYXhjb2ZrWmxaVjNrUC1zMGlOblYtXzM3MHQ3ajE0Q01jNXZKWXE3YkUxZWZ5SzNOUEpxSzMxUQ?oc=5",
@@ -32,6 +75,20 @@
    "published": "2026-11-14T23:05+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "b939ce2f253476cf",
+   "title": "ジャパンブランディング、系統用蓄電池の輸送や搬入を学ぶウェビナーを12月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MTUMzTXYzemE4RHFiQU1hZzY0bkhoM2h2TGVVMDlHWFc2RkQ0S2VsaDE0RXF0VlNaRzkzSkNwODZuU2NoaGNR?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の輸送や搬入を学ぶウェビナーを12月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-14T22:25+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "ef5880ba6348a720",
@@ -1703,7 +1760,8 @@
    "type": "release",
    "published": "2026-11-12T10:16+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "999493540ba68887",
@@ -3294,6 +3352,22 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用"
+  },
+  {
+   "id": "31ea5075e87d26ab",
+   "title": "羽田空港、蓄電池＋太陽光で24時間再エネ化 貨物ターミナルで27年度稼働",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LMFJwa2piQXpXd1ZNOTV3bGVxc25Ic2d1WFVxdk1CcWFFYjZSWkJ2TmpwcDZBN1ZTbkFmeU5yc180QURwU3FsLVZVYXBKYjU3bFd6OG54VUhJQQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "羽田空港、蓄電池＋太陽光で24時間再エネ化 貨物ターミナルで27年度稼働 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-10T17:00+09:00",
+   "via": "環境ビジネス",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
   },
   {
    "id": "ea9d011288149fac",
