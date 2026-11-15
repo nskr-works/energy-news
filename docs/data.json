@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:25+09:00",
+ "updated_at": "2026-11-15T21:12+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,64 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "9d73c52ae7ce4d5a",
+   "title": "DC結合型太陽電池システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uMi1WclRfUkFsZ0ZUVl84T0pMWkZGd0syUXlSYTVKNUs5WllGSE9ob1pndnhhdjNaNnMxSTFlZEdPWFlxWThPYVVrc1FJOGs?oc=5",
+   "source": "Newscast.jp",
+   "summary": "DC結合型太陽電池システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-15T18:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "6bfdf5c4d3cf9fce",
+   "title": "風力発電および太陽光発電に関する技術基準と規制の見直しを強化する。",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkdoLTlhVkgzd3NrV1ZIY2EwZGZWSkNocDNGVzRyazFFRm9UeWdfbkI4NWhyRWh6akZ4VktKMVlEZjdQWXRHSWVHd3JXZ19yZEF6VEJEc295c0E4NXkwenVtajk3QnFkZEZPZ0ozOU91akxOX3FjODJqTk9iM05PTHZ6aE4wbVZWMzFWNEpLSV82dUp1b2x0anJrZkRQSDZ3VlE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "風力発電および太陽光発電に関する技術基準と規制の見直しを強化する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T18:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "fb90be38d463c301",
+   "title": "電力会社はなぜ自ら蓄電所を建てるのか――関西電力と中国電力の2事例を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBidlFKblNscnctZU4wanU4MndEQ3ZWSXRTdXJYSWQ5TzlMeFhwZHE1dWtSakw4T3dKVENodk9rbFZTanQ1d2FQeXRkbVVEMlFTRmVYakRZOHk3dkI3RV9PYmt6NVQzSnBWQkE?oc=5",
+   "source": "PR TIMES",
+   "summary": "電力会社はなぜ自ら蓄電所を建てるのか――関西電力と中国電力の2事例を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-15T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "cd821fb2322752a0",
+   "title": "工場の自家消費で年間約212トンのCO2削減へ！竹中 本社工場・藤岡工場の太陽光発電設備",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSbW9XR0hwSWpJWE13eTNILU55Ri14UVFiNGdTU1huUWdXejFXQzE3Y19SYlRLLUlPQWJUUFBrOFRpUDhiNndaY2owZ1NwYmZVTnNtR1h0OTZCb2FCWkx3?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "工場の自家消費で年間約212トンのCO2削減へ！竹中 本社工場・藤岡工場の太陽光発電設備 ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T16:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "2157dfd3614ea8e8",
    "title": "系統用蓄電池の現状と将来展望",
