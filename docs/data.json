@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T10:17+09:00",
+ "updated_at": "2026-11-15T17:25+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "2157dfd3614ea8e8",
+   "title": "系統用蓄電池の現状と将来展望",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZlNkZG1TRHZkYll5ejVuQVk1T2tSWlBjQkxjSUtmODQ2dTkxdWZrX1R6Nmw5QXRpa3hwR0cyT0dhOU81SWx4YkE1bFlSbTFvRW9DUEk2OGgzbDNtck9zUkxmTjc?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "系統用蓄電池の現状と将来展望 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-15T15:36+09:00",
+   "via": "電気新聞",
+   "storage_topic": "その他"
+  },
   {
    "id": "169cc909309d3a22",
    "title": "低高度経済航空機用バッテリーの世界市場（2026年～2032年）、市場規模（リチウムポリマー電池、リチウムイオン電池、リチウム金属電池、太陽電池、その他）・分析レポートを発表",
@@ -203,6 +217,20 @@
    "published": "2026-11-14T09:40+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "b10e6b1e2523cbb3",
+   "title": "平壌で数千kW規模の太陽光発電／地方でも",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BNkJKdzlMN29Xb3ZxZW00R3VtMnljckh2RlM1ejk2OTZ4d3U2TmdmLWg2dWoxSE1QOEdPOEkxeTJVamZHSkZRX2FUTjA4eEx4NUVXWGR3?oc=5",
+   "source": "조선신보",
+   "summary": "平壌で数千kW規模の太陽光発電／地方でも 조선신보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T09:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "e9a2a57fa19712b7",
@@ -479,6 +507,20 @@
    "published": "2026-11-13T16:02+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "0a1b0a873d21e7f5",
+   "title": "【新規上場】ヘリオエネルギー、太陽光発電中心の再エネ企業［会員限定］",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtNHR1bmpBSzBhblVsMW9teWJSdGdGeGQtU1lXdDJvTVJpLVhSY2xySXlYQklWbFRTdUdvd2tQRVVJNVdpWURiVEw3RUFzQTNYb2lWVkl4eEc1YmJHYlNLMHhsZw?oc=5",
+   "source": "VIETJOベトナムニュース",
+   "summary": "【新規上場】ヘリオエネルギー、太陽光発電中心の再エネ企業［会員限定］ VIETJOベトナムニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T15:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
   },
   {
    "id": "a009158532580403",
@@ -995,6 +1037,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "0067fcacb505a2da",
+   "title": "北海道：キタサンショウウオ、「生息地保護区」計３１ヘクタール…釧路、太陽光事実上建設できず：地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aRlFaN0E2aUZHVzUwblAzSzUxVXBPVzBiZW01ZXV4LV9KdURHX25pN3BwSFJjY21rbDlKRHhBRkc5dlFkZ21WZlZ0ZUpTN05wQW5zZEVCczRtSkxHc20yaFUzSUE1TVJNcldiMlpHX29yNlI3?oc=5",
+   "source": "読売新聞",
+   "summary": "北海道：キタサンショウウオ、「生息地保護区」計３１ヘクタール…釧路、太陽光事実上建設できず：地域ニュース 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "ee32d8251c195d91",
    "title": "野村不/コンテナ型DCを整備/IID新戦略系統用蓄電池に参入",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSU9oUmI0b3Q4UUUyemN0b0VTcDRmeDFoSjFNemp5UmwwdjZfVmVpd0ROeGxJMDNJbjk4azJ6NzBkdU5HczY0amszQTJXLWRhR2hrVHJNQm0?oc=5",
@@ -1161,6 +1217,20 @@
    "published": "2026-11-12T20:05+09:00",
    "via": "環境ビジネス",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "d7ce22d5ba3507b0",
+   "title": "SpaceX、Starmind向けの太陽電池ラインをSingulusに発注",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakh5ZTVkam4yU1V4S29oVUcydDRyYWl5dnRDWGJqNTJQR2Nna2JQX1pvUmpWU1UxcUI4SWYwdHFLMGVDNnpGSERKTU9IajFXQUJIVlZoZm5KcVhJVGVvYjNpaU9nWVF3c0pRLVZ2OW55Z25YdF9ybWNxZklsT2FWd1JCWlFhX0JpSlcyZHg2WEFhUHIzQ19KZA?oc=5",
+   "source": "Pasquale Pillitteri",
+   "summary": "SpaceX、Starmind向けの太陽電池ラインをSingulusに発注 Pasquale Pillitteri",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-12T19:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "70367abbcd6013f0",
@@ -2277,6 +2347,20 @@
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用",
    "company": ""
+  },
+  {
+   "id": "07fffb1e68234f5b",
+   "title": "ペロブスカイト太陽電池で電気代は安くなる？次世代ソーラーが注目される理由",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xWDhjYy1mV1NWRnVKa01MTExoeHdBOGdGc1RxTGY5TVA1UkFpVllaaWdvSTJUSTVmdE9MZVczVG1iZ0ZhTU1uUVJTSG5FUW9OaDlqcnlrOFFCa1k0dlNDT1hHYlpFOTBVQXZkdERHZWZpVjVR?oc=5",
+   "source": "セレクトラ",
+   "summary": "ペロブスカイト太陽電池で電気代は安くなる？次世代ソーラーが注目される理由 セレクトラ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-11T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "57db638d16a50ddd",
