@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T10:21+09:00",
+ "updated_at": "2026-11-16T17:33+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,340 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "61852bb72b6b23de",
+   "title": "関西電力、米国での蓄電所事業に進出 東部最大級の蓄電所に出資（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd2w0djcydWYyM3V1Sk5saHBEWkFYT0lyaGxfUlQ2U0xWRlp1b2NmVVBiY3QtSEJRdFVyR2dmbkgxQ3NyRHM3cXlqdDVhbHlJQVBqTk9RVFpBMHVBcVctRkVaekhVaXQyaDZhWklDRUZ3TExBTWJ2ZEZBbWx1Z2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "関西電力、米国での蓄電所事業に進出 東部最大級の蓄電所に出資（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T17:06+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "30d2d7c1600517ed",
+   "title": "ソネディックス・ジャパン、国内初となるBESSプロジェクトの運転を開始",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ucUpzV3NaN3lnYjBUZ3VWcDhFZmpSRnI0anFUNkZWUmNWZ3pWYnhBZHVNVVJ0bVVtSnQxVXRrb2U2eFdWeW13RmlsM3NNeHpkSF9QTEs5cENWMUtOSWstTV9WajJLQWlkZUZjbWsxckp6UQ?oc=5",
+   "source": "Infoseek",
+   "summary": "ソネディックス・ジャパン、国内初となるBESSプロジェクトの運転を開始 Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-16T16:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他",
+   "company": "ソネディックス・ジャパン株式会社"
+  },
+  {
+   "id": "6a101475b88a7224",
+   "title": "レノバが103.4億円を調達、再エネと蓄電事業を加速",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pZjE4R01PYm1lQ0VPUUFCYmVtbGZIVWhzRWpuQWl5d1FGUTAxd3BZUjJZUUQyR055SmVLejF5NExBU0prTThSRS1odXJ5QUZUbDBV?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "レノバが103.4億円を調達、再エネと蓄電事業を加速 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T16:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "275953fc4a47805c",
+   "title": "3メガバンクを主幹事とする総額103.4億円のグリーンシンジケートローン契約を締結〜国内外の再生可能エネルギー・蓄電事業の開発を加速し、脱炭素社会の実現へ〜",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXdk1NR1YyVHhzbnRkRnBXZUNPeHJRUzYtcHlIN3NRcHlrWE52bWNfN050ak5QVDFjbjRrS1BsdGdqMEFSaS1wNFFtMnJJS3pIdUlUZnd5eGl1THRmQXQwYkVRc2E5ZFRVT0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "3メガバンクを主幹事とする総額103.4億円のグリーンシンジケートローン契約を締結〜国内外の再生可能エネルギー・蓄電事業の開発を加速し、脱炭素社会の実現へ〜 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-16T15:40+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社レノバ"
+  },
+  {
+   "id": "a9667cc56df9420e",
+   "title": "3メガバンクを主幹事とする総額103.4億円のグリーンシンジケートローン契約を締結～国内外の再生可能エネルギー・蓄電事業の開発を加速し、脱炭素社会の実現へ～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000062.000054933.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社レノバ] 株式会社レノバ（東京都千代田区、代表取締役社長CEO：木南 陽介、以下「当社」）は、本日、株式会社みずほ銀行（東京都千代田区、取締役頭取:加藤 勝彦）、株式会社三井住友銀行（東京都千代田区、頭取CEO: 福...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-16T15:40+09:00",
+   "company": "株式会社レノバ",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6f373ec395b77149",
+   "title": "LehmanSoft Japan、系統用蓄電池EMSで「JC-STAR ★1」取得 2027年の連系要件化見据え",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXZzlnczNiNjJTTE9GVndJYXRPd0lNZXFjSnVxZkZKbVZfc20wM0lPVDNSM05VLVNRYWJWVm8xUTRDWmNpaE5ZY1RiV3dNeEloY3NMXzBMSzB5MUpqX2ZJ?oc=5",
+   "source": "電波タイムズ",
+   "summary": "LehmanSoft Japan、系統用蓄電池EMSで「JC-STAR ★1」取得 2027年の連系要件化見据え 電波タイムズ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T15:07+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d31bbe98fae467e0",
+   "title": "次世代太陽電池の“競合”へ、新潟で実証実験進む「カルコパイライト」 耐久性と軽さに利点、課題は施工方法",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbDZiclNMSjBqS1FXVVNpY2hLZGZSVmZWemFFaWhJLW9BRXR4enBwTFhkMVE2Y254aGNXNW1pRXk3Uld0UjNSQjdDdUF5OFh5em9VbW9za2hhekRydkE?oc=5",
+   "source": "新潟日報",
+   "summary": "次世代太陽電池の“競合”へ、新潟で実証実験進む「カルコパイライト」 耐久性と軽さに利点、課題は施工方法 新潟日報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T15:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f86ec643f2ea2794",
+   "title": "車両一体型ソーラーパネルの世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン、薄膜）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NRjlKei1rYzdlLWhnZEhrdXBscmJPWHdldm9PWVdveTBIZ2xNaDN3QjVoNXpXMExPbWhIekdYaFE3Mko0ODAydU1Bd2lpQUU?oc=5",
+   "source": "アットプレス",
+   "summary": "車両一体型ソーラーパネルの世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン、薄膜）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T14:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "310ff36d969f1ed2",
+   "title": "再エネ促進特例区域で建ぺい率緩和、ソーラーカーポート導入 都内戸建分譲初",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iV3RzZ0NxOEY5M1RMTVlCNkloZ1BwWnpDTmJtZTFPUzdiUFZKQmFIVHEtYndNU1FMbGNfQVRGbEN4MU84d3hvRGVYb3VSbjNfbDJCYmoxTHVub1MtZkxsSzlXT2RXcmhKZGpxTWpzWXZibnc0cVBya3o5SlQ?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "再エネ促進特例区域で建ぺい率緩和、ソーラーカーポート導入 都内戸建分譲初 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "db06a779f5c0f3ff",
+   "title": "横浜市 35年度までに16住宅・１２０棟候補に太陽光発電 屋上防水も順次実施",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSnlRWHdyVi1oc0NlNWxNR2VaMWxwSGRta0RpWl9lMXkzVUZNWTBwTWNUQjN6SXYydEpxQ1RLdlFvNDJFM0w5R1lSU0J5TWwyVTRIb3ZMaDlTVHhxaDhtWUdOYS1fOU04cTNsS1JibThYZ0RwZjJzT0tzeGJhakVacQ?oc=5",
+   "source": "建通新聞",
+   "summary": "横浜市 35年度までに16住宅・１２０棟候補に太陽光発電 屋上防水も順次実施 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "2de894d7e2a0050c",
+   "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qb2ZpMHA4V2dJQmQ5djlHOVFEVDV1VEtNZ3Axa292S0gtbk52djNNdkVFa1BxT2VzajJObzlGSS1QQklHZDNsN0NHczRmUXZ3dW1walhzWFhEVGpEdzF4eG5xT3p5N0d0SXNRRTNNbFBZM3Bf?oc=5",
+   "source": "大阪ガス",
+   "summary": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について 大阪ガス",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "edc378916a74fc77",
+   "title": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXYWotaDBfeGxtbTFLNkthbEVIMGtsTHh4S0lUMTJVRi12T19MbzdDM0hOQkpkZ2ZJZUtObFZPVzBMRzA?oc=5",
+   "source": "Digital PR Platform",
+   "summary": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工 Digital PR Platform",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4c0ac6a77975fce2",
+   "title": "野村不動産、蓄電池事業に本格参入 系統用4拠点・計8MWを新たに取得",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQRWNEZzNJSTB3SnRFT18tMVZlQmJiSVliWXhjQ0t4ejVMc2swNkVkSmplUUdodTNtYjRpcXlvUEtPNG1Bb1h3dEUyNGtwbFRrNVdsVVRRNW54WkFCT3ZlbkhjRmY4amlHSENPS1Q1Tko3cUFpb05FQmtZa3Q?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "野村不動産、蓄電池事業に本格参入 系統用4拠点・計8MWを新たに取得 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T13:25+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "4a2167faaa94ab5e",
+   "title": "ペロブスカイトの権威・若宮教授、母校の度会中で講演 故郷に感謝語る：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1idHdEUmNHeHdMd0dVdnFiR0E5TXUtTmFnWThJcjV2WHNpLW9SeEFrOXJXRGh3WmViOFRMMnVvdElCam9EQWtXOHpENmVuVWxveHJJd1VNMmpja05CTkpN?oc=5",
+   "source": "中日BIZナビ",
+   "summary": "ペロブスカイトの権威・若宮教授、母校の度会中で講演 故郷に感謝語る：ニュース 中日BIZナビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T13:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "e58990d7e07c8b52",
+   "title": "太陽電池ストリンガーマシンの世界市場（2026年～2032年）、市場規模（マルチバスバー、従来型）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sSEpRS3RyOGUyLWl4c2VmRHJpQ09zcmtpWlhFaVRKdkRDZzM4elJ1a3RETWdiOGI5eDYtWFRjYU5IckpLNWJQdk96ZUV0QTg?oc=5",
+   "source": "Newscast.jp",
+   "summary": "太陽電池ストリンガーマシンの世界市場（2026年～2032年）、市場規模（マルチバスバー、従来型）・分析レポートを発表 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T13:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "b56ca21306cbd151",
+   "title": "グリッド－後場売り気配 約5億円の蓄電所開発案件を受注(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejM3VGNtTzZmSnkzcy00UktVS2FxajJkbXNrMWw2WmFfOWJrQmpCc2g1ZWlVX1BIV19YWjRIMnowY2s1ZUl4VWM0aHlCOGZreVRLNlJnaU55UFRfcjlzSEk5aWNEcXpmbE12dVpiM3BZX2E4dTZoQXI1ekRyd0tkQWM5cktYR2M?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "グリッド－後場売り気配 約5億円の蓄電所開発案件を受注(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T12:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e6bf9b90f8235d9d",
+   "title": "故障対応から維持コストまで 太陽光パネル洗浄の課題に応える G-Solar Partnersの洗浄ロボット「RHINOSTAR」",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YeDlLYmxaeWEyTmRVdWFxZ2JXV09UdEhpbmx4U2oxa1NFRG1vY05pZzZlRGU2cVdERVlzYTVUZnVzWXVjUkVmZGpBWm1lTnM?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "故障対応から維持コストまで 太陽光パネル洗浄の課題に応える G-Solar Partnersの洗浄ロボット「RHINOSTAR」 ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T12:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "dedf676379b01c19",
+   "title": "タンザニアの新興企業、太陽光発電で泥水を「飲料水」に変え、子どもの健康と就学機会を守る（オルタナ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tenhkRDlFYl8za0xFUlFQaU9abGR5ZWJ5c3FQdzBmVFJ2MFBuNU9Hcl9GTVpoMVdQWTRVWjZwdVhodjBZMmdGcGdSZWRDMlo2SGZmdnRZMW5feU9UbEU5UHM0Sk5DWkFwVTlJT3FQdmd5S0dONVFHWTczakhLSEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "タンザニアの新興企業、太陽光発電で泥水を「飲料水」に変え、子どもの健康と就学機会を守る（オルタナ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T12:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "caaf023711f0ad88",
+   "title": "グリーン・エレクトロメタノールの世界市場（2026年～2032年）、市場規模（風力発電由来のエレクトロメタノール、太陽光発電由来のエレクトロメタノール、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bFBpWng4WHJOSllvd19pQVFUcFJNZk5hZGJqb3FLMGZhSVdLeU5ZTFotRVo3MmU0NksyS0JBRnFWalo4ZGkxa0xuOWdVYUk?oc=5",
+   "source": "アットプレス",
+   "summary": "グリーン・エレクトロメタノールの世界市場（2026年～2032年）、市場規模（風力発電由来のエレクトロメタノール、太陽光発電由来のエレクトロメタノール、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T12:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "239f64f0d9ea9b4a",
+   "title": "「量子ドット太陽電池の実用化に向けた最新研究開発動向」と題して、電気通信大学 大学院情報理工学研究科 基盤理工学専攻 教授 沈 青氏によるセミナーを2026年12月21日(月)に開催!!",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNUlpzRkVzOVhUTThVS09UdWtzTDhFS2FrQ0hKT3JuU0VCaFZGZWZDSnhsQTMtSE5xSmxTaHdXU1BfcGg1NWRvS1BTemEwU25ZaUZwSUJ6Q1VDS3VSS3ctRlFqdXlxT1JjdXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「量子ドット太陽電池の実用化に向けた最新研究開発動向」と題して、電気通信大学 大学院情報理工学研究科 基盤理工学専攻 教授 沈 青氏によるセミナーを2026年12月21日(月)に開催!! PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T12:00+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": "株式会社 新社会システム総合研究所"
+  },
+  {
+   "id": "749f3bff3f54e853",
+   "title": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsTW9JSk0wRGxQVTNpT1RfQ1VHOUF5NjVYT3VVUzhjZVZRY1dmakVSazdTRngtMExrbHBHXzNXMnZTbXFKcENKbW83M0tDQWFjdDV0VXg0VQ?oc=5",
+   "source": "西日本新聞me",
+   "summary": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現 - 写真・画像(1/1) 西日本新聞me",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T11:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "O&M・保守"
+  },
+  {
+   "id": "cdba93fed9995f3f",
+   "title": "大口受注（約5億円の蓄電所開発）に関するお知らせ 投稿日時： 2026/11/16 11:30[適時開示]",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01VV8xLTFvT0NYRHpCd2ZNRXNzZjFxMjk4eFhueGp4YUgwUm10VHBiRDhkOF9WbFBRc3oySTVVcm1DRkpUcUdkRg?oc=5",
+   "source": "みんかぶ",
+   "summary": "大口受注（約5億円の蓄電所開発）に関するお知らせ 投稿日時： 2026/11/16 11:30[適時開示] みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T11:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "6fe5920aad1560f9",
+   "title": "トヨタ自動車東日本宮城大和工場向けの蓄電システムを受注",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QY2xuR1VyckRDS3VNZFNqSDVMdDR5bEJINkktcVpVVWNiVG02R3M0dE1sa2RXc3paVzNSS2dsNFBQaG5GTFp6aUVKNm9XSGVmWUVsZTl5ZTh2VkVUaGxCd3cxaVZTWXJlbVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "トヨタ自動車東日本宮城大和工場向けの蓄電システムを受注 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-16T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社パワーエックス"
+  },
   {
    "id": "7b81f7af955a6132",
    "title": "【松本市の系統用蓄電池案件で事業承継手続きを推進】名義変更・連系申込の手続きを進め、2027年11月の系統連系へ",
@@ -73,10 +407,11 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-11-16T09:30+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "市場・企業"
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
   },
   {
    "id": "69d920faa6c9408c",
@@ -249,6 +584,22 @@
    "storage_topic": "その他"
   },
   {
+   "id": "601b2f5b5ef4d559",
+   "title": "サンヴィレッジが仙台の太陽光発電所で蓄電池併設工事を進める 2027年3月完工予定",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14d0sxVDhKMjVHQlFQQUpuaEZpeUpkMUplZGZuNWt1OGVZU3J6R2N2bE1NS3R0MG5OTGp4MW92eVJxbHEzTF80?oc=5",
+   "source": "Dellows News",
+   "summary": "サンヴィレッジが仙台の太陽光発電所で蓄電池併設工事を進める 2027年3月完工予定 Dellows News",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-15T19:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
    "id": "9d73c52ae7ce4d5a",
    "title": "DC結合型太陽電池システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uMi1WclRfUkFsZ0ZUVl84T0pMWkZGd0syUXlSYTVKNUs5WllGSE9ob1pndnhhdjNaNnMxSTFlZEdPWFlxWThPYVVrc1FJOGs?oc=5",
@@ -276,6 +627,20 @@
    "published": "2026-11-15T18:28+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "fdae223453268ee0",
+   "title": "パワーエックスと蓄電池ビジネスに関する基本合意書を締結 -第１号案件として松江市に系統用蓄電所を建設",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTOTBTaUk0b3hEZmlRS0JXNk4wY2dCbGJqSGlaNFNaZ0NtcGZxRzE1eGRTUWtEOEIzamR1UFQ0eUpqZkdxVHlMUURLMG8wWmNaNnc?oc=5",
+   "source": "山陽新聞",
+   "summary": "パワーエックスと蓄電池ビジネスに関する基本合意書を締結 -第１号案件として松江市に系統用蓄電所を建設- 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-15T18:08+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "fb90be38d463c301",
@@ -433,6 +798,34 @@
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "17e7ca4f6f166962",
+   "title": "ペラペラ太陽光｜既存メガソーラーの収益を２倍以上へ｜FIP転×市場参入×リパワリングの「運用型太陽光」",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51S3NHUjdKajg2WElqT2k0ZE10T19WdjJOQlRFVUc3bWZ4VUtZMWdWMzhIbF9ISkwtTjV1bHFhNGkzcHJUZjI3Ukk3ZXo2elFTVnc?oc=5",
+   "source": "山陽新聞",
+   "summary": "ペラペラ太陽光｜既存メガソーラーの収益を２倍以上へ｜FIP転×市場参入×リパワリングの「運用型太陽光」 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "f57485d4992401df",
+   "title": "【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」",
+   "link": "https://solarjournal.jp/event/67470/",
+   "source": "SOLAR JOURNAL",
+   "summary": "FIT終了から、災害対策、そしてGX2040ビジョン。さまざまな角度でより注目を集める太陽光発電。激変する市場環境下でビジネスを加速させるの最新戦略を、業界のトップランナー企業と専門家が徹底解説する。 The post 【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」 first appeared on SOLAR JOURNAL .",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-14T16:00+09:00",
+   "via": "SOLAR JOURNAL",
+   "topic": "政策・制度"
   },
   {
    "id": "1f7033a0d9bd6d4b",
@@ -4563,6 +4956,20 @@
    "published": "2026-11-09T21:43+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "41cd4472cb305d75",
+   "title": "感動発電＋千葉エコ\"＞ 千葉の畑から、TBSのスタジオへ。UPDATER、TBS GX初の高圧営農型太陽光発電所の取得を支援",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05MW9FcjF6eXlVMVlaVEZ6eVdrSkRFY3l3ZU9ONzR5MjExYllLMDdNVkE0THJwQ3NWeXlLVzIwZDk3NUNNeEVEN0o2RVB1TDhrcWlGSlo2aEREeFBBNVZlcVBINjR4aGc?oc=5",
+   "source": "福島民報デジタル",
+   "summary": "感動発電＋千葉エコ\"＞ 千葉の畑から、TBSのスタジオへ。UPDATER、TBS GX初の高圧営農型太陽光発電所の取得を支援 福島民報デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-09T21:02+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
   },
   {
    "id": "b1b41f2e1f26a684",
