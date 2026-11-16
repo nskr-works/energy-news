@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T23:56+09:00",
+ "updated_at": "2026-11-16T10:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,179 @@
  ],
  "items": [
   {
+   "id": "7b81f7af955a6132",
+   "title": "【松本市の系統用蓄電池案件で事業承継手続きを推進】名義変更・連系申込の手続きを進め、2027年11月の系統連系へ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NRVNpaFNvU3JJcURCcURzcWYwNU5rWENveDBQWlZrb1BEQWJTcTNtNjVJUDJSS0w4eUt1cWFxeTlnMWVzZ0pLYW5zeGJiSlFCdXlPb05nem8zbGN3bzRLd1JxSGF1d294Unc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【松本市の系統用蓄電池案件で事業承継手続きを推進】名義変更・連系申込の手続きを進め、2027年11月の系統連系へ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-16T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
+  },
+  {
+   "id": "0e7cd18b612c9b6d",
+   "title": "北関東の畑から、富士通の量子研究へ。UPDATER、ソーラーシェアリングを含む9か所の発電所で20年間のVPPAを締結",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RMzRUU3llbG9ianpJOGVSckR1TllldzR1dERyaHZPM0hDa2R4Zy0tanRIRTVXSVc1WE5STWIyRUtMdkZJaW44YWVRanZnSFhqbmlaQ2trODkxX2h1SGE5NWExaVZFOFhXVUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "北関東の畑から、富士通の量子研究へ。UPDATER、ソーラーシェアリングを含む9か所の発電所で20年間のVPPAを締結 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型",
+   "company": "株式会社UPDATER"
+  },
+  {
+   "id": "0bfe45d0ce0fc827",
+   "title": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GNGtaSHcyeU5La3l3VGYxSHBlS2N0QkpuMF96Sl95Vld3NnV3WXdIMFI5SC0zckRPRW9uUmwzSDhDaGdCVE9BNVVXaWJWbXJwWWJHWUVlQ1hjdmpjbkhLVzFPdHhXNHhCUHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-16T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "O&M・保守",
+   "company": "Tensor Energy株式会社"
+  },
+  {
+   "id": "ab2ca412af2922bd",
+   "title": "ポータブルレーダー式速度表示板の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZl9FRnNPei1CQU9YN1BONXo1RnhPdGV4SVJqME9mU01wc29lcmNLYzlYa0RtRUQ4SDg5R2htd21uMmUxeHMzMDNGOVIzSFU?oc=5",
+   "source": "Newscast.jp",
+   "summary": "ポータブルレーダー式速度表示板の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T09:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "69d920faa6c9408c",
+   "title": "再エネ、出力制御が増加 広島など中国地方で9、10月 太陽光拡大や島根原発再開が要因",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lR3NLTXUtNWVPTVhNRmdNYXp6Qk1HblZYa2Vrb21WWHV2bmtKcnFocThXVUJHOEZBUzJ0bTgxRktoWVg4amQwQjRzeFpRSkFlRVlvWDZDSEVqQQ?oc=5",
+   "source": "中国新聞デジタル",
+   "summary": "再エネ、出力制御が増加 広島など中国地方で9、10月 太陽光拡大や島根原発再開が要因 中国新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T09:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "b133eb191fc1b2de",
+   "title": "竹中、2工場に補助金活用し太陽光525kW導入 CO2を年間212t削減",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY1dKSHZ3RjNUUkw1R1NjbmVVN1N4VS1Wbm5yd202TzdlSmJGZTJfbV9Qa2swR1gwRDhPVUs0UXprLUZJY0JORVUtTl8wN0lEbEY1bnh0SW9FTXZwQ0lab0ExUTR6RFR4Mnd3bk5wN1FRdWRscXAwZkJwR1U?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "竹中、2工場に補助金活用し太陽光525kW導入 CO2を年間212t削減 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T09:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "810e9341e179088a",
+   "title": "中国が押し付ける売れ残りEV､太陽光パネルはやがて日本経済の毒になる…｢デフレ時限爆弾｣が爆発する\"Xデー\"",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbXZSUDNkd0p0eVBlYURrQmJDbjVFZEJIazNlal9uWkRXdVVTSjFJd2RGXzZPTU5GbFFTT1Y2N3cxeHV5SjdWakszbHNObnlEckxGZDJuTnZ4RlVyY3h3NGw5bGxRYl9QNS1PUlVtMHUtZF9tck5DYV83WHg2bEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "中国が押し付ける売れ残りEV､太陽光パネルはやがて日本経済の毒になる…｢デフレ時限爆弾｣が爆発する\"Xデー\" Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T09:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "576ed214134405c3",
+   "title": "環境省、太陽光パネルのリサイクル事業者認定基準案を提示 ガラスの再資源化や廃棄物処理法の特例を検討",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SMHdZTVd2SnJJOVBkazFmZXVuNzJPenZGd3AxS1BxekFPMDZhR0tkb01ZVjJ1ZGlvZlhyelhRYVc4M1ZsWnF6c0FsZ2c5NHo5OVc1b0NRT2NFb28?oc=5",
+   "source": "ESG Journal",
+   "summary": "環境省、太陽光パネルのリサイクル事業者認定基準案を提示 ガラスの再資源化や廃棄物処理法の特例を検討 ESG Journal",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T08:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "aabb9e4694021d9a",
+   "title": "中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qSlZrbEtWekdrQUZ3OVZ0TXRjeHFybGhmcEtMbk9POG9aQWpMbGRBZEVlVHFfY2ZXV01mZnQ0ZHpjdW5zNHNkcUxOU3Yzc3VBNFlRa1RpU2ZFVzRHd1pPT3c5LXBiSm5kMFdja3llZ2pBcXVy?oc=5",
+   "source": "ITmedia",
+   "summary": "中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は ITmedia",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d1500a53098a9397",
+   "title": "「太陽光発電を3億世帯に倍増」COP31の新宣言に疑問（天野健作） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWZPNlNVSDU0RkF0ejZoWjZmREVoanUzWHlfM2hoRmhoX0pwNDhaT2dzbjJQVFNPVURRZERTTjdXMEthOWljalpraXAtNzdXOWRjdjBnbHc5aTFxTzA3WURreXlDX09KM3Y4VWY2NVJVUkFNZXNyalRMNEdRQk1xb20tODduakl2?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「太陽光発電を3億世帯に倍増」COP31の新宣言に疑問（天野健作） - エキスパート Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T06:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "5584bcc7bbb79878",
+   "title": "「脱炭素はコスト」という前提を疑う…オンサイトPPA・排熱発電・バイオガスで進む工場のエネルギー自給",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PSVpYUDlxVG1EUTBCWFZmUV9XSlFtS2JQVU0teEJyb0QyZXhudDdCOHlzMFUxS1J1YjJrbEtOc1VIREVSQXBHM19ZR3BxM2lJOWx6VXZaZHVzd3c?oc=5",
+   "source": "ビジネスジャーナル",
+   "summary": "「脱炭素はコスト」という前提を疑う…オンサイトPPA・排熱発電・バイオガスで進む工場のエネルギー自給 ビジネスジャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "171a62d2de53f4c7",
+   "title": "家庭向け太陽光補助制度、来年３月まで延長",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03VjdpczNvLXJnUUlwTVI1ZTRYeno0RExVSTNuM1pJVkp6alVLOElZU3FlYTAydkV1QWxmNFBhN0NVdEZPUVE?oc=5",
+   "source": "NNAアジア",
+   "summary": "家庭向け太陽光補助制度、来年３月まで延長 NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "6345045d23a7ea12",
    "title": "次世代太陽電池「ペロブスカイト」実用化へ新潟大で試験 日本発の技術・県産の原料…国際競争で巻き返しなるか 連載「太陽光発電の現在地」＜上＞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSMDdvdDNPTFFhbEV1R1NlMXFaNERibGVKVmJqT09RcGNObHBRMWQzbDN2ZWV0eU91SnNYLWpCbVR4Yy1kM1pxZzF5QQ?oc=5",
@@ -30,6 +203,20 @@
    ],
    "type": "news",
    "published": "2026-11-15T23:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "8ac34e125bafc5d0",
+   "title": "次世代太陽電池「ペロブスカイト」実用化へ新潟大で試験 日本発の技術・県産の原料…国際競争で巻き返しなるか",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0dWFldG15cmRjQXd4aVRPM3lzalpwRndGTEcxSHgwbXRBUHY3V2ZjbGloX1A3WG5zX0pjVmdWSEJPWlh6ZTkzeUI2YkxqUFgtOHNveUZvUUVCSl9QcEE?oc=5",
+   "source": "新潟日報",
+   "summary": "次世代太陽電池「ペロブスカイト」実用化へ新潟大で試験 日本発の技術・県産の原料…国際競争で巻き返しなるか 新潟日報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-15T23:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
   },
@@ -593,6 +780,20 @@
    "published": "2026-11-13T17:11+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "dbe6b7dbeaa107a7",
+   "title": "太陽光発電パネルリサイクル新法、「ガラスほぼ全量を再資源化」を認定要件に",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZN3p2NndPbUwyVlZnVktIcHJwZnZZNGxsbTFLM1RMM1RKdzYtWWR5d1lQUU1haUZmYTd3Zjd1QU1abWJpOHFuajF2cEJVTDhsTG1zaFJ3T2k5NVY3NDJNN09CekxEQ1UtV25rdUs2VFl0YWJnZmdJNEVPX24?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電パネルリサイクル新法、「ガラスほぼ全量を再資源化」を認定要件に 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T17:00+09:00",
+   "via": "環境ビジネス",
+   "topic": "政策・制度"
   },
   {
    "id": "04f8ca4132cdbabb",
@@ -4922,6 +5123,20 @@
    "published": "2026-11-09T11:30+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業"
+  },
+  {
+   "id": "46d654e09e87ed12",
+   "title": "プレスリリース：RENON POWER、低圧系統用蓄電池の累計受注1,500サイト突破（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43VWdNNlBDSGJDaWZ5UlQ5TUU3SmxrcUFabE1SNVV1V2ZnTmNDc0Vmem1QQ0xMeWQwZ0NKcVdId202ZDh6bXJscmd4TC1uYnByX2dJTFctcEloWlVPSUFDOWVKbVozaE5N?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：RENON POWER、低圧系統用蓄電池の累計受注1,500サイト突破（PR TIMES） 毎日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-09T11:22+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "0ab6689fb9b29664",
