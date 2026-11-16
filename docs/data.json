@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T22:05+09:00",
+ "updated_at": "2026-11-17T02:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,78 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "87d974a032d2d24d",
+   "title": "PVCase、初期段階の太陽光発電用地実現可能性ツール「PVcase Concept」を発表 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczRwQ05PZnhzaUY0X1d6VjBXMjJOVkp4UTY1QmNXNGlpaDAtVU9uYXJpeUstOUJEeE9GaWFPb0tFRjFWdENGazB1dlZKZU4tN3hOSkRWTzlyNC1XN1Z2Z05oOG9RaDZqcFpMSEhLUXlXRk9RX042QkRkTHdNVWNEOHFrTEppS01IaTF5bVJQTzA2cWNkU2VmNE1wcTcwY2lFODlnaw?oc=5",
+   "source": "IndexBox",
+   "summary": "PVCase、初期段階の太陽光発電用地実現可能性ツール「PVcase Concept」を発表 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T01:22+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "69f2f816870dbefb",
+   "title": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUd6MHNyWGdnSzlsTG5vOHdoUy1sZWxpeUxlb2RmOGMxZDhSblEwZW5FZFVGd0xDdkJhSHoxc0lJakxsZXZkWmhMdm9BbUVHNjJHSmZ5MHZfYlFkUy11Y1lON09IZC1ac1VTU3c5RXdQYk45M3RMVXU5OC1KXzRweUlEV0Z1bmZQQXktdmhSbEo1YUo2c2lQU1doU3RXNkxjRUxsWVNva1RKTVBtQkJWSFFCbHB3OUN4bkpEYjlXSnR4MVNocVVmSHNBdFlsZE44NXc?oc=5",
+   "source": "IndexBox",
+   "summary": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T01:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "cf81fb95524b95ee",
+   "title": "GarminがAMOLEDと太陽電池を組み合わせたスマートウォッチを特許出願 弱点のバッテリー持ちを改善か",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qdWdYc0ttdm9NZ2M2VDdJcDBJaEdXQ1hHdGtaREZzOGtjSmpjTFpjTVc4UHRVcEZpN1ItSmRwOWFLT3NwU2NWaA?oc=5",
+   "source": "スマホダイジェスト",
+   "summary": "GarminがAMOLEDと太陽電池を組み合わせたスマートウォッチを特許出願 弱点のバッテリー持ちを改善か スマホダイジェスト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T00:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "05ccad7043944d55",
+   "title": "日本貿易保険、東ティモールの太陽光発電・蓄電池事業で再保険の引受を決定🔒",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wd2NjVmxXV1l6cjJyWExWX25leVFwcmtqQlpGMGFHYTV2c1hmeWtyNl9DeWFsaFZDQXg1OVRuaDFwYkFKY1FTa0lLN1UtWDJCd0llbjFn?oc=5",
+   "source": "シンガポール新聞社",
+   "summary": "日本貿易保険、東ティモールの太陽光発電・蓄電池事業で再保険の引受を決定🔒 シンガポール新聞社",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-17T00:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f50ad8a8ff8442f1",
+   "title": "CK7湖太陽光発電プロジェクト用地の測量。",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMHVDeTdoVnJTQlNwdG9jOVF3dkVWRk1OS2tnYmhrLVlPNmVTek8wM0hleVNkekdCbnBQMTNmNlIxNmJRV0MxRFVQNG9TZlBRdjUxSmZ0c01ic0Y2MjJTLUlfREpUaDFvWTFlc3ozV3dFZVRHdlhOcEVKcjMtNEFnM0IzVzBvZw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "CK7湖太陽光発電プロジェクト用地の測量。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T22:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "9c414bbb6ad89f3d",
    "title": "DoGoの系統形成型蓄電がインドネシア離島に安定電力を供給 - ニュースと統計",
@@ -46,6 +118,20 @@
    "published": "2026-11-16T19:15+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "4ec27b591fa1bb89",
+   "title": "HD現代、効率24.4%の高効率太陽光モジュールを前面に北米クリーンエネルギー市場を攻略",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vX3YxNXJ2YlRWZkh3SlpaYlB0QVBBdkhsanVKRk5kX0F2T0FDdVFyME5FOVluVENEMVE2QVVnbmtlZzJudnBuamkwbXZnRFdmSEw2bjkzQVh2Rmdoc2pSTUkwdUtYelFMTnpoWlN0dE1YTTFl?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "HD現代、効率24.4%の高効率太陽光モジュールを前面に北米クリーンエネルギー市場を攻略 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T18:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "e18df62354f4b00d",
@@ -653,6 +739,20 @@
    "published": "2026-11-16T06:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "4368a7fc026719f1",
+   "title": "中国最大規模の風力・太陽光発電を活用した水素製造一体化プロジェクトが始動",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwTFVUaXFIUmYtWHlIaEhKWkptdC1yNzdiU09QUFUxMUNZbXpxaDQ3Q25ySGVoWjY4RG9HUHhmeUsycGtEc0FHa09aSmh0bHJSWnlRcU9ONGdUamd0Tml2MUFRdGR2QQ?oc=5",
+   "source": "CGTN Japanese",
+   "summary": "中国最大規模の風力・太陽光発電を活用した水素製造一体化プロジェクトが始動 CGTN Japanese",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T05:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "171a62d2de53f4c7",
