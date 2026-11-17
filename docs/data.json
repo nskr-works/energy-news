@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T18:43+09:00",
+ "updated_at": "2026-11-17T22:46+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "6c943b4a223105b5",
+   "title": "ハヴェルズ・インディア、REI Expo 2026で蓄電池システムを初公開 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPME5EVUtwbTdyaFVzQVJoTjVsTUw5Nms0bmU4Nm03Z0dwczk0bGk1aTF2UmhvQ3RBeTl4OHQxTW9mM3JMUHhfNy1qNEFOemgtbGtzcmpJcFo2QUlBYVZHbWdDTFBqUDRLWXNGSGVTU3N5Q0xzbGJRazVMQTRxUkwxOWt3MDhFclMtOXBmRWFKRWhBRWpTZlN5Z2R1MmlYMVB0bUh6Vg?oc=5",
+   "source": "IndexBox",
+   "summary": "ハヴェルズ・インディア、REI Expo 2026で蓄電池システムを初公開 - ニュースと統計 IndexBox",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-17T20:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d3794c6e693a5fa5",
+   "title": "衛星研究：21GW共和太陽光発電クラスターで植生がより緑豊かに - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHV0T3JndnNVZU5FRENyREUyUTl1akloOGxtMGpXSmJTZ0F4TU5id21BS3ZqcWpfajFlOUUxckk1UHVOQzBXUkNDLUJyelk2UUg5d2RnV1FTUHhXdlFqRTUtbnFteElESzlyeGN0ZG5melVaem9SZUlXZ0ZwNmsyR3JBa2gxVTdjS2ZCdnN1dGhmeW1hN2xnbzBxQUdDLVU?oc=5",
+   "source": "IndexBox",
+   "summary": "衛星研究：21GW共和太陽光発電クラスターで植生がより緑豊かに - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T20:11+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "cbd59b3f34d41970",
+   "title": "《独自》ゴルフ場閉鎖し2027年着工へ...新庄市でメガソーラー建設計画 山形｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcTVoNmNxbEpOVUdPUWFTNW5KMWpPU2JncGZPcmRFQ2pTWmV2NzZBS18yNnZleFhLR084bm5pcWwyN2VyaGxaRHI1czZNNHU4Sjd2dkJWdjRZMkdiRGNqOEVQcTFmVTg1cC01eWplR29QV2M?oc=5",
+   "source": "さくらんぼテレビ",
+   "summary": "《独自》ゴルフ場閉鎖し2027年着工へ...新庄市でメガソーラー建設計画 山形｜ニュース さくらんぼテレビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T18:47+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
   {
    "id": "d866e686eed4199d",
    "title": "ゲアン省は、各家庭の屋上太陽光発電システムの設置を支援するため、400億ベトナムドンを割り当てる計画だ。",
@@ -151,6 +193,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "a6d3aea4fc63623e",
+   "title": "ペロブスカイト太陽電池の「関連企業データベース」を正式提供開始 量産工場・製造装置・材料から施工・保守まで関連企業を調",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMS1QRFA5dkFTdU9JRFo3RzVlVXNEVzJMSl9TSEQxUFVub2szbzkyc3dDWkJlODg2c3pPdmhiSVlRWVFVbXFFVG1RWUpUdERYZXhhWmdXOUZNaHJudnQ5bE1ua1BCU3VT?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ペロブスカイト太陽電池の「関連企業データベース」を正式提供開始 量産工場・製造装置・材料から施工・保守まで関連企業を調 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T16:45+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "e704afb5534f01cf",
    "title": "ＡＤワークスグループ、熊本の蓄電所が需給調整市場へ参入",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rb21GbWVhcENzY2VydGhWNDQzajBCa1JvR0R4RU9OV2JIcGcxdFI3X2Z4NmZMNzRva3dLdS1ubWN6ZWpHaU1UMzlxVnlpZ2N4WFFJ?oc=5",
@@ -254,6 +310,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "1f074f098ed896d8",
+   "title": "風車タワー側面にカルコパイライト太陽電池 先細曲面での設置方法を検証",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTOGVKS3ZEelBzVzR3VUpNeDM2eWdWZ2lBek40YVpGVWJPLTlneUJ3dmZ6aEZqc3JGdDlyRWU3YzRvZk1CakxUTE11VWowaGhsZHJsNl9aeUdublFnQ1EwU3RrME13WlE3MXc2aFdnRmw2ZHczOUpZYVNBZ2Q?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "風車タワー側面にカルコパイライト太陽電池 先細曲面での設置方法を検証 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T15:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "b0e5779a02cedae0",
    "title": "Korea Zinc、米SolarCycleと太陽光廃パネル合弁会社「Jupiter」設立…持分69%確保",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CY05KVWs2b20xa0dJc3VxYVF5RGFyT1ZqLV83aF9MMU9lYTRScTZtdlIzQnlWaE43d09hcC05bUxYVG5xVEpscE96Sl9idDRXSFI2TzB2c1o4OFljcnUtbUp5MUNzT3F4cmRPbkFic2txSzI5?oc=5",
@@ -308,6 +378,20 @@
    "published": "2026-11-17T14:10+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "ee39bb53271dc599",
+   "title": "福井市の50MW陸上風力、村田製作所へオフサイトPPA供給",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUktLWTI1LV8tcUJNVG80V0E0OEFpY2xycG8xcDdCbkRTWEVrWV9UbFpvX0tZb2FlZjVRbktfTGF3SHpObTBPRnV0b2VVQi02RjlYbHRZSDNDcDh2a3dLZk1tM1k3MVV4WFh3Ul9PZHVHeXNS?oc=5",
+   "source": "日経BP",
+   "summary": "福井市の50MW陸上風力、村田製作所へオフサイトPPA供給 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T14:09+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "53a00f3d02214a6f",
@@ -420,7 +504,8 @@
    "type": "release",
    "published": "2026-11-17T12:02+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
   },
   {
    "id": "31d1252b0bdf1322",
@@ -629,6 +714,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "低圧",
    "company": "RENON POWER 株式会社"
+  },
+  {
+   "id": "5391061f10d97945",
+   "title": "松本市の系統用蓄電池案件、事業承継の名義変更・連系申込手続きが進行中",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzbTl5UEptU0R1RVc5NEllbU1sZE9ieGZRblV6SlJLbm45dnJ1RzZ0QXFwU254NUI5RGZoSzg0czJOS2xYaEtobzZQT2Q1YWl3T25CS1U3WlV3Wkh5M3VsUVNuMUxCV0xNUkRRTFdDVVJVdEk5R3JCVg?oc=5",
+   "source": "SDGs NAVI",
+   "summary": "松本市の系統用蓄電池案件、事業承継の名義変更・連系申込手続きが進行中 SDGs NAVI",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-17T07:38+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "fab14d9d0754ba55",
@@ -889,6 +988,22 @@
    "published": "2026-11-16T22:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "81f5a2a1d79f36f7",
+   "title": "LONGi、オーストラリアのマスウェルブルック太陽光・蓄電池事業にHi-MO 9モジュールを供給へ - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTd1Q1NnbEIxLS1kNGlCMnhkYlQ1SWV1STBTbDJ6UzI3WElSX0lDRzZFZjNzX3RKMGpEbGloX1ByYzRJNEh5MUVSbzFYbGY2Y0Y5MVpCZUt4YmM3c0hMd3plbzI3ZU9tMDRocDdPVEFLckIzcUcteHRmcFVJZVJiZlNFeTNIRHJKMDFxakJQNlJVOTlKa0IyM3lId0dMS1lrUmdDeGRZMlNJZ0ZfU0JLM283X29QZ042LWo2M1VqVndQcnEyT0JuaTFrV29YS1BY?oc=5",
+   "source": "IndexBox",
+   "summary": "LONGi、オーストラリアのマスウェルブルック太陽光・蓄電池事業にHi-MO 9モジュールを供給へ - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T21:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外",
+   "storage_topic": "その他"
   },
   {
    "id": "9c414bbb6ad89f3d",
@@ -3212,6 +3327,20 @@
    "topic": "発電所・開発",
    "storage_topic": "低圧",
    "company": ""
+  },
+  {
+   "id": "21ec7bfdb3428e9f",
+   "title": "ミカサ商事、北海道伊達市での系統用蓄電所の共同開発に参画 電力系統の安定化を推進",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00UG5XN3ZpVnNmNnRLRWdXUXExX1BQNTd0WU5mNlpLWG1JSkhuSU8zSkd3d0VBUUxDUUM4ck9sRTAySXhmVURIZkp1a2FmSElBSWc?oc=5",
+   "source": "電波新聞デジタル",
+   "summary": "ミカサ商事、北海道伊達市での系統用蓄電所の共同開発に参画 電力系統の安定化を推進 電波新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-12T16:24+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "8685bbf441a739c3",
