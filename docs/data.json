@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T22:46+09:00",
+ "updated_at": "2026-11-17T23:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "14fd92767c71aa41",
+   "title": "ANGEL CLOVER史上最高スペックの多機能ウォッチが登場。ソーラー×ワールドタイム×アラーム機能を搭載したソーラークロノグラフ「MONDO SOLAR WORLD TIMER」を発売。",
+   "link": "https://prtimes.jp/main/html/rd/p/000002085.000025284.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ウエニ貿易] [画像1: https://prcdn.freetls.fastly.net/release_image/25284/2085/25284-2085-3961875538454c0e4b34d906c811f28b-1920x1280.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-17T23:40+09:00",
+   "company": "株式会社ウエニ貿易",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "6c943b4a223105b5",
    "title": "ハヴェルズ・インディア、REI Expo 2026で蓄電池システムを初公開 - ニュースと統計",
