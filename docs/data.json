@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T23:51+09:00",
+ "updated_at": "2026-11-18T02:01+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,20 @@
  ],
  "items": [
   {
+   "id": "115ad72eb9b8ffdc",
+   "title": "flydubaiとPositive Zero、ドバイ・キャンパスで太陽光発電事業を開始 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2pDRGhYRHBocXhVTVZpbW9rRjBOLWRhelMtc2p6V1BFZWNzOGpQT3hRMklhc1FZa1RTc0dFOUxRaDEyTXVUYlRpR1RNTF9YYk04aFc4VHk2QXpBRGFuQ3BieGNmOVVFWHpXLWhGSGh2em1FYkc3c1FjVE1DZUdGLTlCbzNLRlhhWXBZbURmYzRsTmFTN0FJUkl0LUVOd3dHNnJjbXVhYmtJNnQzUUdpTjBzaHBpQW9qcVE?oc=5",
+   "source": "IndexBox",
+   "summary": "flydubaiとPositive Zero、ドバイ・キャンパスで太陽光発電事業を開始 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T01:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "14fd92767c71aa41",
    "title": "ANGEL CLOVER史上最高スペックの多機能ウォッチが登場。ソーラー×ワールドタイム×アラーム機能を搭載したソーラークロノグラフ「MONDO SOLAR WORLD TIMER」を発売。",
    "link": "https://prtimes.jp/main/html/rd/p/000002085.000025284.html",
@@ -32,7 +46,6 @@
    "published": "2026-11-17T23:40+09:00",
    "company": "株式会社ウエニ貿易",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
   },
   {
