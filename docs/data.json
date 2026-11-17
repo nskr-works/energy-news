@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T02:01+09:00",
+ "updated_at": "2026-11-18T08:07+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "245021d116f8305e",
+   "title": "1月8日(金) AndTech「有機薄膜太陽電池における基礎・高効率化と課題～低電圧損失と高効率電荷生成の両立～」Zoomセミナー講座を開講予定",
+   "link": "https://prtimes.jp/main/html/rd/p/000001878.000080053.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[AndTech] [画像1: https://prcdn.freetls.fastly.net/release_image/80053/1878/80053-1878-2ce48abc17f05925f8b371041c87a400-1920x1005.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bo...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T05:40+09:00",
+   "company": "AndTech",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "その他"
+  },
   {
    "id": "115ad72eb9b8ffdc",
    "title": "flydubaiとPositive Zero、ドバイ・キャンパスで太陽光発電事業を開始 - ニュースと統計",
