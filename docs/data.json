@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T08:07+09:00",
+ "updated_at": "2026-11-18T12:07+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,265 @@
  ],
  "items": [
   {
+   "id": "f36e2446e715e226",
+   "title": "大阪ガス、大分のメガソーラーに国内最大級30MW蓄電池併設・FIP転換",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CamRDQzd0bkhuMnU1U0s0ejZKVHpUcS1RSTVmejc3TnJfeVFmTEp1YmNiekxELWJpV1FQekRMbVY3REZZLTM5Nmw4elZHX3Fwb0dpVDc0c1dVNGxvVUMzSTdEZ2w5UHdDaVN6ZTA3VGRrNVJVV1AxcndfemU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "大阪ガス、大分のメガソーラーに国内最大級30MW蓄電池併設・FIP転換 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "9362c30fcb0681bd",
+   "title": "補助金7900万円で定置用蓄電池導入、DRにも対応 TMEJ宮城大和工場",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1maWJ1eWZ6Und2WmJYaEtDbEdodFV6ZnJsMFpWNkNIY3Fjbk1heXdXQzJVWUFVd2FpZmNNZWhXN3lPTW5ZbE1NaWRXLVh0b2pJNWN4eHBLMjQtWDBDc2hhZHRXVUpiLVA2Z2I4eXBIQ3hsb2VSbGhLNDhZeGg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "補助金7900万円で定置用蓄電池導入、DRにも対応 TMEJ宮城大和工場 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:00+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d1a40809810735a8",
+   "title": "103億円を太陽光・風力・蓄電池開発に レノバ、グリーンローンで資金調達",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDZW9qQjB0X0h3WHRqTUxGdFBYT2hhMkVCRDhCRW43SDZDZjB3YlVvdGhac1pxWFlHa0NUb2lJOWIyd0pJVjVJdkZNeFNCT2kxQnJMS1BNNG1nYVZiQ1FoQXpEanJ1bjJBWXl3QVk5TnRaMHNaUUZ0TldhN28?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "103億円を太陽光・風力・蓄電池開発に レノバ、グリーンローンで資金調達 環境ビジネスオンライン",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T11:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1ce8ecd7ba0c27b6",
+   "title": "富士通、スコープ1向け森林由来クレジット15年調達 営農型太陽光PPAも",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EajRBa3JQYkxZQlp5TXVhZjk0RmpnWDBxZlNoYnFGVE9BRDd2dU8xNDBPT0kxTF9iek95NHFwenowMVN4N2tpWDlJQnFYU0RGR3ZVZVNRRGlRMy1rU2VyMnFDajRDbGNIQWxaeW12VkpJQTltS0R3d1hiVFE?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "富士通、スコープ1向け森林由来クレジット15年調達 営農型太陽光PPAも 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T11:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "e7d779b5688923af",
+   "title": "習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FcXVHZTZCdk5kcDF4dDBMM24xYnhhQ0hYa1Z5eWN0b191QlM2aXBPVUdoRFIxbWdJVjByR1FsS2ZWSXozdWhONWFaNmxObXZvWnBiZXdONm9odDd2QjlxOTdPMHRaSHRCVHNpZk1qUzJEMXlOV2JjM0R5TWxDbGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状 Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T11:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "1e069e1d6f9aa6d3",
+   "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOUdtR3lVeHFxY1ltUVhRS0hienVZVEhjMGlNSTlIVXNjR1kwZ0I0WW5NRkk3U1p6Z3RkRXYxZkhTampxMEZBZ3JQZjNWZkh2VHRDTzF4LWpjREkyQ3ViYlJXTk1meHJUcXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T11:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "低圧",
+   "company": "株式会社エコスタイル"
+  },
+  {
+   "id": "f2c03b9d7167490e",
+   "title": "RENON POWER、低圧系統用蓄電池「133kWhモデル」の開発を開始",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTElOSE1temFYWURRbmFSMk1jb0lyZjY3cFplQWZQN3I4MUI3TGNvUV9DSXNWZHJmQmFKUHZ2ZU9YZGZiUF9QdlVCSF9JM0ZWa2MxQ0FheV9XUW5QWXpQMGZYc1BQdWhXSTRB?oc=5",
+   "source": "時事ドットコム",
+   "summary": "RENON POWER、低圧系統用蓄電池「133kWhモデル」の開発を開始 時事ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T10:46+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "7124fc292df73632",
+   "title": "蓄電池の開発用地はデータセンターに向くか。BLUEHOUR が「データセンター転用の見立て」を開始",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVFJTV21jdVFsUDlqa0UwYzRMMmwwejZBTVNWVW9nTFNHWDk4TmwzdlR4WGZSTXhGaDkzN3U0X0dwdzhSOTVjeWFaT1pSTS1DemdCSWdoWVlGcjFJRFAwZnF5N0FpLWM?oc=5",
+   "source": "Infoseek",
+   "summary": "蓄電池の開発用地はデータセンターに向くか。BLUEHOUR が「データセンター転用の見立て」を開始 Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T10:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "193c149c9a7b3a4a",
+   "title": "グッド・エナジー、中古太陽光発電所の買取事例3件を公開｜2,250万〜2,420万円",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRHVhWnFUYmdKSnpRSWRZSlg2dG1yRFlXejJtSVo4OW9SMEJwYTlETEJ0dVRINEdEQUV0RTA4MGFhNVMwb3NSVmxjZkY5aEVCM013VHFoUjhnMWRWY195TUloUEZBaGxKQUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "グッド・エナジー、中古太陽光発電所の買取事例3件を公開｜2,250万〜2,420万円 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T10:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "株式会社グッド・エナジー"
+  },
+  {
+   "id": "9035c1b74476a3dd",
+   "title": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hdnNqT0JJZnNjRnBHRWtWYi10T2NQQk4wNGxDdi12MEtONlA2MmN4cUhQZXNHdGZ4Zk9mQlF0ZXVjQ2V1OGJEVnczQjRXUTI2Q1lZcUZuN2UwY0U?oc=5",
+   "source": "共同通信PRワイヤー",
+   "summary": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注 共同通信PRワイヤー",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "8cafa7823a7c47a3",
+   "title": "ADワークスグループ---子会社の熊本益城町蓄電所が需給調整市場へ参入",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPam9UUURiMENJUWduUnpIN01XeVJsYndkbldtYk41bE8xWmhUR3Y3elRzMjEtWmdaajhBbjk0TmJZM05Fc0tqRlM1VHhJQTdiSjB5OVgzb0NYMTVRc256QVJ4emFiTXEzU3dNV0FodDJuM2x5N1JCR0lrcFJ5dVI4WVZsejJmS1I4V256YjFFZ3VObC05ZFF5ZFB30gGMAUFVX3lxTE5nVWh5OFB3TTZxbTBCZnM1TVE3a2dZRmhLZXpGa1VGUXYwUlJaUXo3bFFpalcyWUotSm9EanNYa0hsbDNIbWg2OHFWRE1uRXBGQ3Nrc29PRFFJRHVQTmc1N0F5WjcySUxDdG5YWkNHZUFoZG5ESnd3YmRXUWY1cG40T0NOU3ZyTEhHRG10?oc=5",
+   "source": "ｄメニューニュース",
+   "summary": "ADワークスグループ---子会社の熊本益城町蓄電所が需給調整市場へ参入 ｄメニューニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T09:43+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "04192e491f75420f",
+   "title": "ＡＤワークスグループ---系統用蓄電所事業 「ADW熊本益城町蓄電所」が需給調整市場へ参入(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFJnVmdUdE5xd2NBc2NhZ3Ytel9MRTM2RXpfV2FFR09BMWd4Slg0bEdLV2hEUVNwTV9GU0x0Si1Hc3MzMVl5ZmN0MWgtTVFvSFZoWl9XVy02R09Jcm5YRm5RY05NV2JWN01HT1RsX3pCVE1MQ0dnRzlxYkJlQ3Y3VVBzQ2F5MUk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "summary": "ＡＤワークスグループ---系統用蓄電所事業 「ADW熊本益城町蓄電所」が需給調整市場へ参入(フィスコ) Yahoo!ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T08:29+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "9c8e103e49ad3ce7",
+   "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RUM2S0NJM0c4Ti1GNThpN1VFWnByTmxGdHBYaXQ1VzljSHJXcE5kQXl5ZzJrYm50ajQ4VnR4bFNpd3ltR2NlMFBHS1h3ckhfM2Z0RWppd2pSdUR3eUJWYVhYcXdxcDJmb1NpSkt0cTVpOUlDR3k0?oc=5",
+   "source": "GIGAZINE",
+   "summary": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる GIGAZINE",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T08:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "c98a9e3549667dcd",
+   "title": "世界のリチウム電池セパレーター市場、2032年に26億5,000万米ドルへ EV・蓄電設備の安全性が焦点",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsejdfTm16alh4V0JXTFYyRU8zcnZqQU5KMVppbFdOVWY3dnN2Q3BPMmtvZ3lndmRERmdoczNGSEZGa0tmdDRGcFlvSXVwdVU?oc=5",
+   "source": "アットプレス",
+   "summary": "世界のリチウム電池セパレーター市場、2032年に26億5,000万米ドルへ EV・蓄電設備の安全性が焦点 アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T08:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "その他",
+   "company": "ReportPrime（レポートプライム）"
+  },
+  {
+   "id": "f38c2d0d06c99570",
+   "title": "2016年に設置した太陽光パネルの「10年間の固定買取」が終了します。これまで年間「約9万円」あった売電収入は、今後どれくらい減るのでしょうか？（ファイナンシャルフィールド）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oT1Bsd3Ixc0FCNlE0bHJfZGFMUkZXX3F4U0tfc2NUVFl6X2VaYWpuNTdUTGFHRzBIQnJvRHdZV2JYcGViQW05T3l0R0xBVktpVE1ZdGpTWVkxTzV3czRFWWtOSTlGS0pKY0oyQURqMkdITmNrVFBzZ2gxWUFEVlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "2016年に設置した太陽光パネルの「10年間の固定買取」が終了します。これまで年間「約9万円」あった売電収入は、今後どれくらい減るのでしょうか？（ファイナンシャルフィールド） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T07:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "5b0b1fbf3bf182e0",
+   "title": "使用済み太陽光 再資源化の処理基準 環境、経産両省の会合 産廃処理ベース、保管上限は設けず",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HOEhYbE5LeXI4bnZhbUxtQXd3aWZZRlZsR1ZpNS1sOWk1cFpxYmg1SEluMkE1cjFkbnYyX0tjMUJiaXR6SzV4RGg5bEtJeDU5RHZaQnp3TlhOXzZQdHA4ZmtXVVpYMnNSM2dNc3M0djh0ZHNmdGNYQi1TQQ?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "使用済み太陽光 再資源化の処理基準 環境、経産両省の会合 産廃処理ベース、保管上限は設けず 環境新聞オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "eca3a223dfa56887",
+   "title": "ペロブスカイト太陽電池市場は2.9倍に成長する",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uMFVYTUx5eTh2S0dRSVd1YzM0WnJwN3ZSUFZHLVRaX0RDb2RUZWRnTUVYVnJlRWNrX3RaVDBWN2tRUQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "summary": "ペロブスカイト太陽電池市場は2.9倍に成長する ニュースイッチ by 日刊工業新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T06:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "15fe2b3deca7ece7",
+   "title": "停車時も走行時も太陽光でバッテリーに給電。車体をソーラーパネルで覆ったEVトライク「アプテラ」が充電レスな日常を叶える",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcldDdnA3d2RrekpTT0g3SzkyWjdlUE9QWExidzlFVnVsRU5xeEk0X3Q1YUhrTXRDSm9NamRXbDY4aGU0QmtvVF9nTmJFcmU1eVhJUnFXaU5WRW1ZWTQ3MnJnOGR4dnBsSEUyNFN5ZERlQUdJbkpRdUJQb0pPcHNveVE1dF9mZGM4UmlDS1c2UUhSaER4?oc=5",
+   "source": "carview!",
+   "summary": "停車時も走行時も太陽光でバッテリーに給電。車体をソーラーパネルで覆ったEVトライク「アプテラ」が充電レスな日常を叶える carview!",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T05:55+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "245021d116f8305e",
    "title": "1月8日(金) AndTech「有機薄膜太陽電池における基礎・高効率化と課題～低電圧損失と高効率電荷生成の両立～」Zoomセミナー講座を開講予定",
    "link": "https://prtimes.jp/main/html/rd/p/000001878.000080053.html",
@@ -32,7 +291,20 @@
    "published": "2026-11-18T05:40+09:00",
    "company": "AndTech",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
+   "topic": "その他"
+  },
+  {
+   "id": "07542ed3a35ec2e4",
+   "title": "OMCO Solar、全直流の太陽光発電式トラッカー制御システムを発表 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnJNUXdYSmVXczBRX0NRUFY3UTRERkM4dndjdDZDU1VMdERpcnF1MUF3UTNwTjFMZjhsRGtGT0VRcmRQLVlELS13Tk51Ul9jSS00Tndfbl9vYnY2N1hLX3dGblZxMkd2OWlMc2lXOXUwYUFLbHh1OWVLcDl1YnBRS0ViQmFHamJIaHdtSWRwMmVaSFpPY296dXZn?oc=5",
+   "source": "IndexBox",
+   "summary": "OMCO Solar、全直流の太陽光発電式トラッカー制御システムを発表 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T04:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
   {
@@ -46,6 +318,20 @@
    ],
    "type": "news",
    "published": "2026-11-18T01:21+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "1a3437d3de1f9ab8",
+   "title": "【コラム】太陽光なき「冬の夜の電力」、誰が責任を負うのか",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDUyVzl6cy1kSEk5UWpPN2FnOElla29sOEVWTzFPZm1XWVhlVnJ0TlBidjVoMkJrekVGaXhkOVpUWkRXTW5MVkF0bXdrOXFmdjJsWEllZUJRVXQ0N1NSSldsWWdaZ3U4VzZTRlg3Q3NySnBNMGx0bDRqVlNCOVZ1Qg?oc=5",
+   "source": "조선일보",
+   "summary": "【コラム】太陽光なき「冬の夜の電力」、誰が責任を負うのか 조선일보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T23:55+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
@@ -296,6 +582,20 @@
    "topic": "住宅・自家消費",
    "storage_topic": "家庭用",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "afb05e1660f65db5",
+   "title": "稲盛財団、京都賞授賞式 ペロブスカイト太陽電池創成の宮坂氏ら3人にメダル授与",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tb1B0c1pmUHlHVXI3bnFGc3N1elJoSUNicDlNZ0tIcFpBWXBtZnRCZ0lIdjhMVThIMGJPMFQ0WE1JNWpCRHJIanExWTc3Z2JIckE?oc=5",
+   "source": "電波新聞デジタル",
+   "summary": "稲盛財団、京都賞授賞式 ペロブスカイト太陽電池創成の宮坂氏ら3人にメダル授与 電波新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T16:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "c6403d1fad7fb60f",
