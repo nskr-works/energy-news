@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T12:07+09:00",
+ "updated_at": "2026-11-18T18:04+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,349 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "a41e5671a0437075",
+   "title": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV0xCRGN1Sm5EYkQwcjJ1MkxFSzVDcGc4WWtoNktud3d0czZIZG8xZi1IdV91U0p1UFBHYW9OUVB4R2Faam1wWU53US1nb2dqUEROaTRET3gzdndlNUFmOXRVVWo1blpmRTRweV9sMmw2X0QwQnFMa0ZoZkNWTTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:45+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "0477ed59d5c5815c",
+   "title": "卒FITの太陽光は昼に自分で使うと1kWhあたり「30.89円」得。1日2kWhで年約2万2550円、売電8.50円との差",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44eE81RFJQczJwN0tqQmM0NnRIdnJZVFlWWVI5WURkeGFlLUdEYkR6bEgtVnoyV1NYb3laNXVMa3liNDV0RkJmLWVvMFQ?oc=5",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "summary": "卒FITの太陽光は昼に自分で使うと1kWhあたり「30.89円」得。1日2kWhで年約2万2550円、売電8.50円との差 LIMO | くらしとお金の経済メディア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:43+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "3278db41c5aac3e1",
+   "title": "太陽光業界の反発で…地方の電気料金引き下げを保留",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fQVRwcWdoZHlzeHNzYmRPOFhMOWlUZU1GQXpLYm9KeEt6RXN4dXNBak5QVEItUXlSay1GSWVuWE43UDB5NU5KUDkxZkZJLXdqbU9z?oc=5",
+   "source": "매일경제",
+   "summary": "太陽光業界の反発で…地方の電気料金引き下げを保留 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:37+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d10b9341e5c64127",
+   "title": "エチオピア、ソーラー灌漑設備の導入で農家の負担を軽減させる",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PcmhKdVBzZ2dKVGphTElKc1FkOUtlTmUwU3RMZVF4eEpIWWdhVXhpRWkyTDVDT3NSZElJbjA3aVNBRnhOaEpZRHltZVcwUlFiaXpEX2VnZU5RNjkwWXNOdkdhbXFNQQ?oc=5",
+   "source": "幸せ経済社会研究所",
+   "summary": "エチオピア、ソーラー灌漑設備の導入で農家の負担を軽減させる 幸せ経済社会研究所",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:36+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "13fa1238786f60ef",
+   "title": "ペロブスカイト原料のヨウ素、30年に4割増産 世界2位の日本が先手",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56QmlfTW9fLVVwcXduTUlvbEJnU1dCZ2hBcFJmazhFYWpvU1lhTXFJcnJpZkNPZUUybm5ROTNMNnVyd1dOa3Rfa1FIcTZxTGNCdlo0Zm42S3BWWDFRVEZ4bGxxWlFjcmlEcmlmNw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペロブスカイト原料のヨウ素、30年に4割増産 世界2位の日本が先手 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b4b326ee98929bca",
+   "title": "KLP48が蓄電池など手がけるボルタとアンバサダー契約「普及を応援」マレーシア進出機に締結",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOLXlkV0RtY2hkVHIxRXlVNFZXLXVmck1sbFBLbExTcEVvWWtqX1ZlNC1pVUdmR0lFdzVvdnl5TTNJQkhYdEc5V1JfYk82Q0ZlYmNOS2FJZlJuMmozMkVlY0lRMG5fel8tanJNaHhKcms1WTDSAXhBVV95cUxNRzZ3SWRzLXpZTDJROUZTbklFVFhkVnVKSGY0UGZZQnEyUkI5T0RhMzE5TXlDaEVkVklrUF9WLWNCcWNGVTJMZ2oxckFiNkdaMnJEQWRGZmxMOXZvYlRLWm5FREZrY0hETnhBRUFsZHdlN2Y1UmZGeGY?oc=5",
+   "source": "Infoseek",
+   "summary": "KLP48が蓄電池など手がけるボルタとアンバサダー契約「普及を応援」マレーシア進出機に締結 Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:22+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "ac1e1c4888f1bdca",
+   "title": "SEETEL Group・AUROSIが「低圧蓄電池システム」の販売を開始",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ybEZIem9CVFFHY0hLRXJFRXhkd0diMExEUExSYzdMN0ZRb0VFTVlCYkJvenRJV2xoUHJoUmNJWWhTZHR6WjBhdDMxeDVnUHFCY0dDTUVFa0I4ZVlyX1ZqVDdLX3JDNWFhMWhYbm1GRUN3QQ?oc=5",
+   "source": "Infoseek",
+   "summary": "SEETEL Group・AUROSIが「低圧蓄電池システム」の販売を開始 Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T17:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "和熙新能源合同会社",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "4e76b03f4b071a16",
+   "title": "【SwitchBot】顔認証と映像通話をドアベル1台に。「ロックUltra Max 顔認証ドアベルセット」とモニター付きソーラーカメラを11月18日から予約開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000218.000057002.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SWITCHBOT株式会社] IoT・スマートホーム事業を手掛ける「IoTデバイスNo.1ブランド（※2026年4月 家電Biz調べ）」のSWITCHBOT株式会社（本社：東京都渋谷区）は、2026年11月18日（水）、「ロックUltra Max 顔認証ドアベルセット」と「...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T17:15+09:00",
+   "company": "SWITCHBOT株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "fbe11cf7e96795cc",
+   "title": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZTFfam4xS2tqMW1JdEtoUWlnTGZ1MHBHVlBjTnZ5cEFmUTRPN3d0c2stTnVVODJqNFdRUGc3VlM5eXdaWEE5bVV1SFZydnBUNVhCR0M4dXlPOEVJd3FOR1FfamdESXlZdnJn?oc=5",
+   "source": "時事ドットコム",
+   "summary": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結 時事ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T16:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "company": "グッド・エナジー"
+  },
+  {
+   "id": "849ba9252bfa9d45",
+   "title": "AC結合型太陽光発電システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tR1ZHV3VmcmFQcmRhekVmb04yQmZUa3JwMUFDSkQxbW9UZWZmNVFLX3MxcHRJRWpJVGlaVlZLNXpablU2TWtvZWVUbHI4WXM?oc=5",
+   "source": "アットプレス",
+   "summary": "AC結合型太陽光発電システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T16:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "24861b9e10755841",
+   "title": "次世代太陽電池は「従来型と勝負しない」？雪国新潟での活用は…東京理科大・植田譲教授に聞く「適材適所」 連載「太陽光発電の現在地」＜番外編＞",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KTjI1X016RkFyMno0Z01KemNlV1Z5S291aUMyS3hNTllfOGdRNGdoWmlINTJWNEZ1a1BPUzEteWxhTjZPQnhaSHF5bw?oc=5",
+   "source": "47NEWS",
+   "summary": "次世代太陽電池は「従来型と勝負しない」？雪国新潟での活用は…東京理科大・植田譲教授に聞く「適材適所」 連載「太陽光発電の現在地」＜番外編＞ 47NEWS",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T16:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "01d41dac2df1e75f",
+   "title": "釧路湿原のメガソーラー、環境に配慮した工法採用 希少種増加、環境省が「自然共生」認定",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QU1pQXzItV3V3Vlg4N25xa3hSME1IeFhMSnozVWFhRUdhRFRBa0g3RG5zbEx0enE0dHdjNWRjaGJjQlpTS2ZXTV9HaHZnQjJFcDdoTF9JckJEdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "釧路湿原のメガソーラー、環境に配慮した工法採用 希少種増加、環境省が「自然共生」認定 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T16:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "2e2fd35c44c8897d",
+   "title": "次世代太陽電池は「従来型と勝負しない」？雪国新潟での活用は…東京理科大・植田譲教授に聞く「適材適所」",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTjRwV3hKRDdzZmM5cENnM1FIcXBXOVBidFNWbHIweXZGNnlFb3dsNnA0SGRfVlhVV2FqVkpscUJ5bE5TOVJTemlIWnNoODY1c1hudW9GOS01d0xkWWc?oc=5",
+   "source": "新潟日報",
+   "summary": "次世代太陽電池は「従来型と勝負しない」？雪国新潟での活用は…東京理科大・植田譲教授に聞く「適材適所」 新潟日報",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f88cef7cda2f7e4d",
+   "title": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt4ZkNjN1pkbnRxdlRlVklUQjcxTUR2LUJoQjJ2VDNjdEtfZW8wb3E0c2RLNTduTHhReGhYZEZ2WGZEQVg3dVBIVUFpSDNkZEVBSDdGMHpER3dKYmRoUnlMRHFlMWpBY3hrNEhkeDdQMXFTcXFhR21pNEtYcUF1R25RUTdUcUNwRDJ6VW93by1LM2p5NmN4QkR0aHVwbS1jU0Z4UVpLNVJTUQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T15:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "c67ae458c7d8c669",
+   "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOU5BUWVFSWhjZ25SZ2xvUnpsRHFNanN2clp6ZUI2WGluZG5wUkhxUU1oSVMxa1YtRy1KZlMtY1U3RjRxSXVrTnp5dmg1RGVCdkp6NXFPVHNieXg5eVNZaEE2TlZZd0hBY2xhbW1YODgtamJzWVhpUmt1LS1POTdPNC1tcVNodHdhRHg5LUh3?oc=5",
+   "source": "PR TIMES",
+   "summary": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T15:22+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "低圧",
+   "company": "エコスタイル"
+  },
+  {
+   "id": "0474833f2afab910",
+   "title": "系統用蓄電池向けファイナンスの最前線 3つのビジネスモデルの特徴と展望",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYXVoTFN0TTUyaTdoZ0JzV1ExRkRPLWVKNWF2QUJEMmFtc0NuQU5iSl9uSWRGWk1La1BxcS1hRDlQLWIwVlhmdE1aR3puazc5Yk13UlBwZkFROU5Gb1p5d0p2SVROdzZRbG1HRjFkMWRRNGF3WVFpdzJfOWRkaUU?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "系統用蓄電池向けファイナンスの最前線 3つのビジネスモデルの特徴と展望 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T15:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "3614206a7a506264",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを26年12月中旬に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUSzNCQTFWTFN6S3dwQjRBSDBXTU52OWlkZFFwc1ctSWJUN1pCcDdvU2xsZG1GRGM3MFZNR3d3WUxDZzNMLVp3?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを26年12月中旬に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:01+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "625b473620df2b92",
+   "title": "持続可能な農業を支える世界のソーラーシェアリング推進政策｜コラム",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjbThiZ1k0V1Rrd0tUQnp4empwWEpXUVBpOW9rZjZMUnJLaGJqX3lkRGhkZVN5M1FkNnpjRFdNTXVGRlNUU1dvLVUycHdnLUljM0lLbU1FTDFHTFFNRktDUExrbkxGaHRGcGhMOFN1ZzZrUDNuckN3?oc=5",
+   "source": "自然エネルギー財団",
+   "summary": "持続可能な農業を支える世界のソーラーシェアリング推進政策｜コラム 自然エネルギー財団",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T14:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "1a3f86c8017f69ed",
+   "title": "無許可のメガソーラーに罰金最大50万円 千葉県条例案を提出へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWFNBTDB6dnN3djN1QTRWVmlqamlGQ09lRk5wMEdKaHpnVUhOcUt4dHBTcUVrbVlUVmtmZ1pkUTBBTU9HRl9UVXJDY3VIRjNfSnBQSmdFUUZxakRaME53cHo4Z1NEZl9O?oc=5",
+   "source": "毎日新聞",
+   "summary": "無許可のメガソーラーに罰金最大50万円 千葉県条例案を提出へ 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "53ceef081f80ef96",
+   "title": "日本発「ペロブスカイト太陽電池」（下）～ 科学の目",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5scnhkMGJtaW8xYks4NFk2alFLTEhNNzFDZHlkZTVPaGlJd3pxUTNOVTZ1dHBNMVJrSVN6UTZpSDIySWh6alJtWUFhYTV3MEU2dXM1VjZGTFJ0U21vall3TWhLdUo?oc=5",
+   "source": "十勝毎日新聞",
+   "summary": "日本発「ペロブスカイト太陽電池」（下）～ 科学の目 十勝毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:40+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "cbef1bd963ccaa31",
+   "title": "ペロブスカイト太陽電池材料産業レポート2026：市場規模1125百万米ドルと将来展望",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DTTNhbUlrZU9BQUNPdXpodElaVWItV2lyckxlV3BWRS1yQ2FXUUxjeFoxLW0yYkg2dnhMeDFkM2F6SkNWcjFDeXdSUi1nNk1PSWlGcll5OHd4c1c2WDNCMGhjLS04cWpPSjVUN3RSbkdrU2czcGViWEZqQQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ペロブスカイト太陽電池材料産業レポート2026：市場規模1125百万米ドルと将来展望 ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:36+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "6188ef10d3daea80",
+   "title": "太陽光と蓄電池の連携で「電力コスト40％削減」 欧州の研究機関、COP31で報告書",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81bmJHT1YtRDRKdk54N3dKbUN4X21ZRkRRWVgyVUl1YWdQNjNfajlFR1ZaRWp1U3NFQk9OUHY3b21GdjVBZ3ZuRl9RMlBJTjhEbVc2SzFxb1Y1azl1QVVMOEVhamJUeWM4TVpYbTVFTjk3elnSAXhBVV95cUxNMG9vV3NvRzlsbFdYNUdGelp1NGczWTdmTWhYNjNSaXo5dEdPNGE2VVUyU2R0Vjh4VkRWSkE0U1Q1enhQbFNFZG5NQ1B0NEZkVGJKWjVsaWRpRVNBNzRfcjNwMW5GODh0OEh4cU9lWXJDbXIxOWRHQ3c?oc=5",
+   "source": "Infoseek",
+   "summary": "太陽光と蓄電池の連携で「電力コスト40％削減」 欧州の研究機関、COP31で報告書 Infoseek",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T13:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "02931d6fc9860191",
+   "title": "トヨタ子会社、補助金7900万円で大型蓄電池を工場に ピークカットやDR",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1maWJ1eWZ6Und2WmJYaEtDbEdodFV6ZnJsMFpWNkNIY3Fjbk1heXdXQzJVWUFVd2FpZmNNZWhXN3lPTW5ZbE1NaWRXLVh0b2pJNWN4eHBLMjQtWDBDc2hhZHRXVUpiLVA2Z2I4eXBIQ3hsb2VSbGhLNDhZeGg?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "トヨタ子会社、補助金7900万円で大型蓄電池を工場に ピークカットやDR 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:40+09:00",
+   "via": "環境ビジネス",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "5e29ff4f936282af",
+   "title": "川崎市 市営住宅30カ所に太陽光発電設備導入 リース事業者をプロポ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc21CU3I1MzhCcXM5Rk50MGdOWEJmVGFpa2RNNTU0NDA1aUp2M044eEx6b3lRcFcxcVVpZ0tWdWxlN2o5d1M0ZURLOVJ1a0tuSU5ES2drZ0pDNVg5eENoTnkyZHhOeHJZOVczMXRfaDZ4WWdqOGtWTWF6RExFbnNQcg?oc=5",
+   "source": "建通新聞",
+   "summary": "川崎市 市営住宅30カ所に太陽光発電設備導入 リース事業者をプロポ 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T12:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "f36e2446e715e226",
    "title": "大阪ガス、大分のメガソーラーに国内最大級30MW蓄電池併設・FIP転換",
@@ -80,6 +423,20 @@
    "topic": "営農型"
   },
   {
+   "id": "77382ff8c8f1279a",
+   "title": "蓄電所・再エネ投資に103億円 レノバがメガバンク3行とグリーン協調融資",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDZW9qQjB0X0h3WHRqTUxGdFBYT2hhMkVCRDhCRW43SDZDZjB3YlVvdGhac1pxWFlHa0NUb2lJOWIyd0pJVjVJdkZNeFNCT2kxQnJMS1BNNG1nYVZiQ1FoQXpEanJ1bjJBWXl3QVk5TnRaMHNaUUZ0TldhN28?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "蓄電所・再エネ投資に103億円 レノバがメガバンク3行とグリーン協調融資 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T11:39+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "e7d779b5688923af",
    "title": "習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FcXVHZTZCdk5kcDF4dDBMM24xYnhhQ0hYa1Z5eWN0b191QlM2aXBPVUdoRFIxbWdJVjByR1FsS2ZWSXozdWhONWFaNmxObXZvWnBiZXdONm9odDd2QjlxOTdPMHRaSHRCVHNpZk1qUzJEMXlOV2JjM0R5TWxDbGM?oc=5",
@@ -92,6 +449,22 @@
    "published": "2026-11-18T11:15+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "f936086b1041dd7c",
+   "title": "大分市の出力39MWのメガソーラーに容量125MWhの大規模蓄電池を併設",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVUhlQ2lvb1JPdUFqZTZ3YV8yN0JMTjNYY1pZWUJaeUFYNnRYT2ZUSTQ5Qzh3R1pMNWx1MTg4N0xmWFFZSGFXN1FxQ2hreUhkTjVOMFRIZldKWjRJMVAta3FUT2lxMXJ4c05CZ2YzeURodGRm?oc=5",
+   "source": "日経BP",
+   "summary": "大分市の出力39MWのメガソーラーに容量125MWhの大規模蓄電池を併設 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T11:01+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "1e069e1d6f9aa6d3",
@@ -384,6 +757,20 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcTVoNmNxbEpOVUdPUWFTNW5KMWpPU2JncGZPcmRFQ2pTWmV2NzZBS18yNnZleFhLR084bm5pcWwyN2VyaGxaRHI1czZNNHU4Sjd2dkJWdjRZMkdiRGNqOEVQcTFmVTg1cC01eWplR29QV2M?oc=5",
    "source": "さくらんぼテレビ",
    "summary": "《独自》ゴルフ場閉鎖し2027年着工へ...新庄市でメガソーラー建設計画 山形｜ニュース さくらんぼテレビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T18:47+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "97b3afd02c4093d8",
+   "title": "《独自》ゴルフ場閉鎖し2027年着工へ…新庄市でメガソーラー建設計画 山形",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzVmticEYyVEVJZVdKdndtd3hmcFVYenNFTDRiQzF5S2IxQmJnc0ZpcnlaU2RobDhfT3hMQkJpR0VrcmY5eHFkbnRfcW1tZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "summary": "《独自》ゴルフ場閉鎖し2027年着工へ…新庄市でメガソーラー建設計画 山形 FNNプライムオンライン",
    "categories": [
     "solar"
    ],
@@ -1407,6 +1794,20 @@
    "topic": "トラブル・地域"
   },
   {
+   "id": "1d7bdd3e1f1f79a2",
+   "title": "安東湖の水上太陽光に反発拡大『コアジサシ追い出すな』",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2RraDdUbllJNldpYXBhWl9QZzk5cmRtS25wOUYxR3lhOEtXaDI2aVI1bmtneEsxUzJtSkxnM3kydkdnSUdFNjcyb2p4UU9OeWZxYXl3R0xpMndKUVJOWXoyZ1NTOUM4SzRRQUhXNXBDX0J0WGhhZmVsVFVybEJGWTY3OHBnZVctRXp1a1hB?oc=5",
+   "source": "조선일보",
+   "summary": "安東湖の水上太陽光に反発拡大『コアジサシ追い出すな』 조선일보",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T18:49+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "9c0fbe49c1a2a1a7",
    "title": "蓄電池スタートアップはなぜ「作る」だけで終わらないのか――パワーエックスの事業展開を読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000277.000181124.html",
@@ -2326,6 +2727,20 @@
    "published": "2026-11-14T17:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "c1ddf9d5a95ff13a",
+   "title": "Bluefield Energy、系統用蓄電所の運転開始に必要な電力契約手続きを一括支援 BFパワーとの連携で事業化を促進",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KZXJPZXhEVEVEQjBsTUc1VS10MTd3dHBmbkNlUXR6T0s1WUN0V2hLbHpTNXlrWnRvN2hHdzhkTnNnQTB5VVBr?oc=5",
+   "source": "新電力ネット",
+   "summary": "Bluefield Energy、系統用蓄電所の運転開始に必要な電力契約手続きを一括支援 BFパワーとの連携で事業化を促進 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-14T17:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "f57485d4992401df",
