@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T22:21+09:00",
+ "updated_at": "2026-11-19T01:41+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,62 @@
  ],
  "items": [
   {
+   "id": "f5ad160915f9f4be",
+   "title": "ジャパンブランディング、系統用蓄電池をテーマに2026年12月中旬にウェビナー開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDQ0RPbnlyVUFUTUR4WVd4aHB3QTNNYUhvV1VuWk1MSzE0TGlqdS1FMnJQTUYzSFJveFZoeWVzOXFpbE1adUNv?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池をテーマに2026年12月中旬にウェビナー開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-19T01:38+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "638f9b406ca95a26",
+   "title": "太陽光発電（PV）市場の包括的な分析——市場規模、市場セグメンテーション、市場シェアを対",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51UnNKQV9lU2stSjVwS2pEX3dQVnpSdm9lNlRVcGdtaHQxRGI2UHV5WDVJWEJXTzNld0lxZlFrSWNfOS15Q3hZUVpn?oc=5",
+   "source": "pando.life",
+   "summary": "太陽光発電（PV）市場の包括的な分析——市場規模、市場セグメンテーション、市場シェアを対 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T23:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "9ab92d55675f1ce3",
+   "title": "世界シェア8割超の中国太陽光、上場22社が赤字転落 過剰生産が招いた共倒れ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wTGJ4YzZNZ1JoZmFISmxFQmZfNXllMFpxMzIzeDd4Z09Cb2ZsWFFENW1odVpDa19NYkNNUDBzbzlabGJYYzZwaWYxTzMyaWpUaHFEMmtkT2MwSDByTzhmX3FWTmVDeUg0bmhsQUx2ZGZ3QmVR?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "世界シェア8割超の中国太陽光、上場22社が赤字転落 過剰生産が招いた共倒れ BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T23:25+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "c95312e3c22f4b77",
+   "title": "太陽光発電：新たなエネルギー源による発展への道を開く。",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWZiN2VLcS1TWHNCMFB4RDRvRDJmdGxQeldwbklKR1hUQzd1dlJOMm1zQTZXU2NSdDVSSHBqeXA0dmN6QVNpN3lqNjc3Xzk5N2NMSjZHa3gwRm02Q0xYdXpQZ3llVXplSnFBcUZydXBfaGNFWVJkVjQxc25NckdxemFfRG9rVlVP?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電：新たなエネルギー源による発展への道を開く。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T22:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "46306240151090e4",
    "title": "片面・両面混在型太陽電池アレイの研究：スイッチングマトリクス再構成 - ニュースと統計",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdqMzVleUYyb3hFYlNuSEVfek04OUoxcHJBdU00VEpZWHNrckk2aTBIMWRNWmVzOXNkVUJZcmdOYnpPYkJ4SEMxeFBZaUQ4Ulh2ODU3eWx1Rks4LVVRQndERlduVEp3MGpTMkp0X3NYaTJJVVVCQ083TDVCVlgtZjEwc05GdlBEMVJRNEF6bnNSQklreFR1Yk8yOG10V2VmSjU5WHJfUQ?oc=5",
@@ -39,6 +95,21 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZm1PYzB6SEtwRDB1dEtOOGd5VTVKaGlrTko3a3JYRnZZOG00elZNSGMwRG4tSUJqS1ZCNktUSWpwSFRSaGIxX2w4ZmFGX1Z5UVB3d1FFWU5Kb3ljYjluS0lXRjJmZkJieFE?oc=5",
    "source": "PR TIMES",
    "summary": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示 | ミラリタ株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T19:41+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "a5e1293e71322ee2",
+   "title": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZm1PYzB6SEtwRDB1dEtOOGd5VTVKaGlrTko3a3JYRnZZOG00elZNSGMwRG4tSUJqS1ZCNktUSWpwSFRSaGIxX2w4ZmFGX1Z5UVB3d1FFWU5Kb3ljYjluS0lXRjJmZkJieFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示 PR TIMES",
    "categories": [
     "storage"
    ],
