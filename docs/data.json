@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T18:04+09:00",
+ "updated_at": "2026-11-18T22:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,165 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "46306240151090e4",
+   "title": "片面・両面混在型太陽電池アレイの研究：スイッチングマトリクス再構成 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdqMzVleUYyb3hFYlNuSEVfek04OUoxcHJBdU00VEpZWHNrckk2aTBIMWRNWmVzOXNkVUJZcmdOYnpPYkJ4SEMxeFBZaUQ4Ulh2ODU3eWx1Rks4LVVRQndERlduVEp3MGpTMkp0X3NYaTJJVVVCQ083TDVCVlgtZjEwc05GdlBEMVJRNEF6bnNSQklreFR1Yk8yOG10V2VmSjU5WHJfUQ?oc=5",
+   "source": "IndexBox",
+   "summary": "片面・両面混在型太陽電池アレイの研究：スイッチングマトリクス再構成 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T20:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "98c5f8b2f1c25b3b",
+   "title": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示 | ミラリタ株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZm1PYzB6SEtwRDB1dEtOOGd5VTVKaGlrTko3a3JYRnZZOG00elZNSGMwRG4tSUJqS1ZCNktUSWpwSFRSaGIxX2w4ZmFGX1Z5UVB3d1FFWU5Kb3ljYjluS0lXRjJmZkJieFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示 | ミラリタ株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T19:41+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他",
+   "company": "ミラリタ株式会社"
+  },
+  {
+   "id": "d0d9e322e7ade56e",
+   "title": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85NG1INWkwcXBhb2paMy1PalZEUlhsN0J6ekY0cXgwelNKM2lqNDVGVGZ1dFBPWm1JZHZEMjBfMWdpZGdSMzU0S196UXZwQ20wX3JybUlPUnktTWs?oc=5",
+   "source": "PRESIDENT Online（プレジデントオンライン）",
+   "summary": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状 PRESIDENT Online（プレジデントオンライン）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T19:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "e919b0eef68f2c8a",
+   "title": "集光型ソーラーパワーコレクター市場分析レポート：2026年5111百万米ドル規模、成長率8.3%推移",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMDRxUElrY1I3dS1xVzdqZHBlakJwMjRfT25IXzZDRVFyc2ttMU4tVkVTeDdoMXlTU0o1T2tucGVMam9tSWFsanJGclZWTlE?oc=5",
+   "source": "アットプレス",
+   "summary": "集光型ソーラーパワーコレクター市場分析レポート：2026年5111百万米ドル規模、成長率8.3%推移 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T19:08+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "QY Research株式会社"
+  },
+  {
+   "id": "a97c4b821c58a088",
+   "title": "リコージャパン、長野でペロブスカイトの実証 寒冷地での性能確認",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBUVVWQ3VpMjZWRWw4LWhLZG9jOXVYaHQ0REh0enFhV21MOGZDNVc1OTdxN3BDRk8wbEFOc2xQRjBQaGdBcU0xSTY1NVFvNFgwRXhZSXN1UUlLUHM2UHoxQ2xYLVhTeWxpdXVncA?oc=5",
+   "source": "日本経済新聞",
+   "summary": "リコージャパン、長野でペロブスカイトの実証 寒冷地での性能確認 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T19:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "347e3a159ed30446",
+   "title": "蓄電池の運用なら任せてください！WATT-TUNEとRENON POWERが業務提携へ！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4ODFqY2NULWoxZkd2dmVxVUdIUklucUlXS096eUllcWdndWFDVm12RmpuZkdfcHNIcWQ4cEZVMEhOcjl4RXI3UmxERVg1dldKdDVpVU5DcFNjOVNXb2QtUXV2aUx1SGZLUVE?oc=5",
+   "source": "PR TIMES",
+   "summary": "蓄電池の運用なら任せてください！WATT-TUNEとRENON POWERが業務提携へ！ PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T19:02+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "WATT-TUNE株式会社"
+  },
+  {
+   "id": "c5661ce2e1e054b9",
+   "title": "「知識・経験利用し悪質」グループ主犯の男に実刑判決 愛媛と福岡の太陽光発電施設から銅線窃盗【愛媛】（テレビ愛媛）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VC1mQ2NLWm40NUlmTEdNVzB4amRoVmhiLVBXT3ZsX0dDTVBYQlRHQ0UxYkJJczdua1NUdlI0MnRuR1ZQMjRDbmVrUVFYVmRCRm9VWEllbEJWYWFBZ2FweGlWZFlZOTJ4TDV2OXY0U2dxWkRxeUk5VV9ZTmVRZ1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "「知識・経験利用し悪質」グループ主犯の男に実刑判決 愛媛と福岡の太陽光発電施設から銅線窃盗【愛媛】（テレビ愛媛） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "8a993c6223eda4f0",
+   "title": "石油精製所の敷地になぜ大型蓄電池が建つのか――合計290MWhの産業施設併設事例を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SdWlQbi1qdmxySkZFZWtnd2E0bTlEODNRanVtN0ZTQ19WM1h5Z2dSWWF1bk5xSW1RZ25qWG9uRWdtWWNLYl9PdjBiMWlIZkp2VFVERE5DNHFxWC1zSV9IQ1pxY3pHcDQwSUJvSXVWaHRPNGs1OWFLaw?oc=5",
+   "source": "RBB TODAY",
+   "summary": "石油精製所の敷地になぜ大型蓄電池が建つのか――合計290MWhの産業施設併設事例を読み解くウェビナーを開催 RBB TODAY",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T18:46+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "bde9726bba634dbf",
+   "title": "屋上太陽光発電の経済的メリット。",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2ZzhQNlAxeEp4UlMzRl9Bc09EZlktX1VBREU1Q2U0R1ZtcUNjWFFHQ0hMc0xrX0JsM2hBb3dKUWp2aURaZE52RXZKVFRzNFZkU3pOdU5CRHcxRS1fVEVYclVwdzUxbGt5R3IyY0IzdElsT0pM?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電の経済的メリット。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "38896b9c6b475909",
+   "title": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGlMVEM2eV85M0VZamc3X3Y1U1lDd3YtenhxSnJrTjRRaG80N1JCVjVob0JONVlhTnlCVXNNNFNMQTRma3RNOExIM3AxbXRCUnN6cm1OcWJVcU1SRmdXemFROTR6ZHZ5bkVtZEJoNWRHaVJidlE5bWVndzRUOVlaRnNaU3lySWRLbjI5Njl6MGZSMnN5YzNodkFweGgyU0Zid3h5TkhR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "8783479151c1a91f",
+   "title": "単接合ペロブスカイト太陽電池の世界産業レポート2026：市場シェア、競争状況、成長率40.6%分析",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jcE5FUDZzZC1VQzhELVktSlZCZjdfVmx4NjIxallDUlZVaG5xdWE3X3NFNFZpclo3emRPOTk4UVoyN2JLSm5kMkZIM0ZrVzg?oc=5",
+   "source": "Newscast.jp",
+   "summary": "単接合ペロブスカイト太陽電池の世界産業レポート2026：市場シェア、競争状況、成長率40.6%分析 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-18T18:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術",
+   "company": "QY Research株式会社"
+  },
   {
    "id": "a41e5671a0437075",
    "title": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）",
@@ -90,6 +249,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "00986520b6eed37e",
+   "title": "ペロブスカイト原料のヨウ素、30年に4割増産 埋蔵量首位の日本が先手",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56QmlfTW9fLVVwcXduTUlvbEJnU1dCZ2hBcFJmazhFYWpvU1lhTXFJcnJpZkNPZUUybm5ROTNMNnVyd1dOa3Rfa1FIcTZxTGNCdlo0Zm42S3BWWDFRVEZ4bGxxWlFjcmlEcmlmNw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "ペロブスカイト原料のヨウ素、30年に4割増産 埋蔵量首位の日本が先手 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:31+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "b4b326ee98929bca",
    "title": "KLP48が蓄電池など手がけるボルタとアンバサダー契約「普及を応援」マレーシア進出機に締結",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOLXlkV0RtY2hkVHIxRXlVNFZXLXVmck1sbFBLbExTcEVvWWtqX1ZlNC1pVUdmR0lFdzVvdnl5TTNJQkhYdEc5V1JfYk82Q0ZlYmNOS2FJZlJuMmozMkVlY0lRMG5fel8tanJNaHhKcms1WTDSAXhBVV95cUxNRzZ3SWRzLXpZTDJROUZTbklFVFhkVnVKSGY0UGZZQnEyUkI5T0RhMzE5TXlDaEVkVklrUF9WLWNCcWNGVTJMZ2oxckFiNkdaMnJEQWRGZmxMOXZvYlRLWm5FREZrY0hETnhBRUFsZHdlN2Y1UmZGeGY?oc=5",
@@ -102,6 +275,20 @@
    "published": "2026-11-18T17:22+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "0845f403c3581eec",
+   "title": "営農型太陽光を広げるために、地域で先に話したい4つのこと",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54ZXVrVG5KOXlpaUF6X213WHZ1ck9RdmYzZDVWN2hXYXlWcGZ6TlVfYnJYWi04SXdZdDc1S3NIQnc1bjVCZXNzN0RYVGZ3N2lGOWFoZDdtdU83ZVd6bnFrdy13?oc=5",
+   "source": "NewsPicks",
+   "summary": "営農型太陽光を広げるために、地域で先に話したい4つのこと NewsPicks",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T17:22+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "営農型"
   },
   {
    "id": "ac1e1c4888f1bdca",
@@ -218,6 +405,22 @@
    "published": "2026-11-18T15:49+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "f718e988a70f0bc9",
+   "title": "関西電力、海外蓄電所事業に初参入、米に過去最大600MWh",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKTWFZMGJIWVNkUThjaW1yMkI1bUZ6MHh4VWNfRVR5MzZ4cHJEYWVsaUZwOWNRTjNHUnJJN25sY0c0M0lOTm9HT1Y2NTRlbXpjbGZ0R20yYXR4aW5CRWMwVGItbHdTZmJrQXg1eXJSYWlTMjVB?oc=5",
+   "source": "日経BP",
+   "summary": "関西電力、海外蓄電所事業に初参入、米に過去最大600MWh - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-18T15:29+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "c67ae458c7d8c669",
