@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T22:48+09:00",
+ "updated_at": "2026-11-20T01:45+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "4c3ce2c7739bcb74",
+   "title": "太陽光発電向け送電網を整備、再エネ導入拡大へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96UE91Q3JFSEQtbGExVmY5RWlfTTZEU0xFQnhvQ2ViREQwMUp4aTVzNU9BeVFrZndUVDBYRnpSOXotSlJuMVE?oc=5",
+   "source": "NNAアジア",
+   "summary": "太陽光発電向け送電網を整備、再エネ導入拡大へ NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d5478ab9ec8ccd9b",
+   "title": "「蓄電池ビジネスの事業化戦略と実践」と題して、Energy&ICTコンサルティング株式会社 永井",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41VE9Pel8tOWVqMnpTWS15NXlCcGt4eFU2c0ExaHA2YnRqaEpQb1g2aWhQbGViWVd6NUozQjdjQWhBdWRhZ3d4ckt5cWhGNzc0eDhjVm5qdzRlVHNKTUdSTHZJZlRxMmxS?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "「蓄電池ビジネスの事業化戦略と実践」と題して、Energy&ICTコンサルティング株式会社 永井 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-19T23:51+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "080fa2a4ca3c6816",
    "title": "CECのNon-FIT 太陽光発電所が",
@@ -624,6 +652,20 @@
    "published": "2026-11-19T07:00+09:00",
    "via": "スマートジャパン",
    "topic": "政策・制度"
+  },
+  {
+   "id": "837917f8f387d0d5",
+   "title": "エコスタイル、低圧系統用蓄電所の機器パッケージを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUV3pVSktFRjNPczEtWThGa3hzX0ZBNWdlRG1DejB5NVQ5dHgtRFVNTkk2NjZEZGZ0bl9OUHVIaktaSHZHN1dj?oc=5",
+   "source": "Dellows News",
+   "summary": "エコスタイル、低圧系統用蓄電所の機器パッケージを提供開始 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-19T05:55+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
   },
   {
    "id": "deda592f505a5a26",
