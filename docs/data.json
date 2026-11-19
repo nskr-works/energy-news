@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T01:41+09:00",
+ "updated_at": "2026-11-19T11:47+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,192 @@
  ],
  "items": [
   {
+   "id": "49ebc0c7f1c6c27d",
+   "title": "CPower、日本製太陽光パネル採用へ 長州産業・東日本工場で生産",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90THBjNV9URnRyVThQUmFjS2N5NG8tcG11aHB4cFA2cUF1WGVTTFphdkFMRW9FdXU1S3p1QlBFdmhUOGRZT01Id1JSLWJvLWlhc1dJOWN3Y0ZDYU8zVFFGWjg1R0JaMGI3UUlF?oc=5",
+   "source": "時事ドットコム",
+   "summary": "CPower、日本製太陽光パネル採用へ 長州産業・東日本工場で生産 時事ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-19T11:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "company": "CPower"
+  },
+  {
+   "id": "84f5c82436b9cf32",
+   "title": "ガラス型ペロブスカイト太陽電池の実証モデル開始について",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PVjlMUjEzbW9TcWR2dUZyeEJ5YXZ3VWhpMmU3SURpY3BlSU1fWkF2TUpCWXZMWWl2LXRzQkE2VGNzeDBpMFhIdEUyVmtZazJCb2NadnBwVXhOVjRhRmtwUzMxc0h0cE9YdDh5aTJB?oc=5",
+   "source": "千葉県公式ホームページ",
+   "summary": "ガラス型ペロブスカイト太陽電池の実証モデル開始について 千葉県公式ホームページ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T10:42+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "ca4bad05e060ac4d",
+   "title": "那覇空港旅客ターミナルビルでガラス型ペロブスカイト太陽電池を内窓に用いた建材一体型太陽光発電（BIPV）の実装検証を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tTU1kanhaY0k0LXdMLVhVNE1QalZYNUNBcnJHbmVrbkNRVjdTMHNKWmpjNENKaVlISDFfS3k5NW5QUWZva09LSzRJR3dDZVR5Q3p5aEI2MGhPVlBBc2dCb2VCRlBFX3lMN0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "那覇空港旅客ターミナルビルでガラス型ペロブスカイト太陽電池を内窓に用いた建材一体型太陽光発電（BIPV）の実装検証を開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-19T10:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術",
+   "company": "YKK AP株式会社"
+  },
+  {
+   "id": "c3698f795814bf60",
+   "title": "世界有数の「ヨウ素」生産地 千葉県の県庁本庁舎でガラス型ペロブスカイト太陽電池を用いた「建材一体型太陽光発電 内窓」の実証設置開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFbjZQOWxOTXhWLWJ0NHNFSnQ5MkJNR3RWT3o5a1I2THRfcEN0Z0RpbXNua2ZoaV9BcllfQ0M5TjFlRThMcHdTc1lzOTNQcnRyY2xrN0J3N0dZbHk2M1JyUnB4MU1zX1FsTEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "世界有数の「ヨウ素」生産地 千葉県の県庁本庁舎でガラス型ペロブスカイト太陽電池を用いた「建材一体型太陽光発電 内窓」の実証設置開始 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-19T10:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": "YKK AP株式会社"
+  },
+  {
+   "id": "5dd05824b079b64c",
+   "title": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供",
+   "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxObU5td1ZyZUIwZ0RodGhRUW9rcTdhZEdodVdOWWMzelhIcU1MZTdsdTlvZ1RxOGh2SWVKZWVzOHF6SFdtSno2all3QmpCTmNULTU4cDVKc2g3Vng1R1RZNzBpSFJUQU1QY0l1eVJFT2VtZ0RJa1JEMXR4N0ZxZEswOG81ZVU4djNVYklHZHk0QVZzblp6SEhjamdibjlfZWlTLXhJbGxvY19WcHVON0x6bi1NWFNPb1lObUdqdTJ4ejZ3LWhjdWtFVnhVeVN3T01VeWZueTRiZmdKUzhhV1lkdXhLWlo0YXhSZDVEcmNVejd2T1ZVUmcwbmdxaHVMSGJ5YlRqTWJJMlloVFdINjJCbWhPMXJhZzYydmswRkFPQ3Y3c2cwVTdfRG81eC02UTV5TzdGYnJsY0hiQUZfVUx5YlpKSmVXWWJ0XzdnOE5OanNPOGo0UVdWMWlSdU02ZHpCVXpXU2RyX1pPbGk5bTJLRXJPbWlSRzhaQ29MOE9zVlp6TUNOWl9SREhZZmFGU0VueGtXWDE2ZEhUX3JmM09maw?oc=5",
+   "source": "アラブニュース",
+   "summary": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供 アラブニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T09:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "dc2633745b3c9733",
+   "title": "ソーラー式障害物灯の世界市場（2026年～2032年）、市場規模（低輝度障害物灯、中輝度障害物灯、高輝度障害物灯）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kWUNObVRSZ3dRRm1pamQ1Q3JoZFBYWGlRdHRhbno5WGJENFU1LXY4VU5UY3NnMnpLbnJ3cEstSGRncjV4bFNVQVJNV1JkYmc?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラー式障害物灯の世界市場（2026年～2032年）、市場規模（低輝度障害物灯、中輝度障害物灯、高輝度障害物灯）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-19T09:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "b07e41b3c78edb76",
+   "title": "プレスリリース：蓄電池の運用なら任せてください！WATT-TUNEとRENON POWERが業務提携へ！（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VWxaWHpvc2otTVZBX1RaZ0h1eFFwZmpCSl9hTklvTWVKamZMOVkzY3Y3RHV4N19STlNyOEFjbVo1eDFqRWVRdklnVUJKUmRPeXFNdzhBRHctSDRwZW5tdWNSOHBWT0ZF?oc=5",
+   "source": "毎日新聞",
+   "summary": "プレスリリース：蓄電池の運用なら任せてください！WATT-TUNEとRENON POWERが業務提携へ！（PR TIMES） 毎日新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-19T09:22+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "a1c280bc08779327",
+   "title": "太陽光発電の電力で電気代を削減：時間帯別料金の導入効果 | 報告書・提言",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUXp6b3QyRHgwVExGSnpwOXRqNnlRMklNaDFXTDduQ1ZKVUNlMTBtbWhFblVVbWY4SGRjN3FnamFWVEMxUWtWOXVrUkRHWG5QMUpSZzNSOVEwakFYcVh5clVqbklXWlJVWk5wVw?oc=5",
+   "source": "自然エネルギー財団",
+   "summary": "太陽光発電の電力で電気代を削減：時間帯別料金の導入効果 | 報告書・提言 自然エネルギー財団",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T09:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "90ac09bf504901d9",
+   "title": "新庄でメガソーラー建設計画、28年秋の稼働めざす アーデンゴルフ倶楽部を来秋閉鎖",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yX3hybDF4ODNjb3p4cEllVXd5OE9GMUxPM29zUjZ3VG1mNm1zUDZIZHQyakQzYVc0VzRzR1B6TWt5eVh3SGJsWUoyanNaZmlMTExaYXBMT3VrY3p2cXlnMjhabTlZa0oxbTNVOVl2UQ?oc=5",
+   "source": "山形新聞",
+   "summary": "新庄でメガソーラー建設計画、28年秋の稼働めざす アーデンゴルフ倶楽部を来秋閉鎖 山形新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T08:34+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "b8ee1a305ab481f7",
+   "title": "神社屋根の銅板、太陽光発電の電線…盗み防止へ ５～９月に被害続いた浜松市浜名区の細江警察署管内で「出発式」 静岡県警と住民",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zMzI4bGZHT2lkc1FOUlIxTnRNTlFIbTJMUkNoMklrOHhvMDU3ZFlRT3I1bDY2RUlSUHllVV96UUhmVzlCMXBYNjRSLUN4Zw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "summary": "神社屋根の銅板、太陽光発電の電線…盗み防止へ ５～９月に被害続いた浜松市浜名区の細江警察署管内で「出発式」 静岡県警と住民 静岡新聞DIGITAL",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T07:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "ec6151cf74b69a6d",
+   "title": "風車タワーにカルコパイライト太陽電池、鹿児島県で実証",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news038.html",
+   "source": "スマートジャパン",
+   "summary": "古河産業、四電エンジニアリング、頴娃風力発電3社は、フィルム型カルコパイライト太陽電池を風車タワーの側面に設置するための共同実証実験を2026年11月10日から開始した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T07:30+09:00",
+   "via": "スマートジャパン",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "d007a17ca4212dc5",
+   "title": "最短1年から契約できるオフサイトPPAサービス、Q.ENESTが提供",
+   "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news035.html",
+   "source": "スマートジャパン",
+   "summary": "Q.ENESTホールディングスで電力小売事業を展開するQ.ENESTでんきは、最短で1年から契約可能な「短期オフサイトPPA」の入札受付を2026年10月から開始した。",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T07:00+09:00",
+   "via": "スマートジャパン",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "deda592f505a5a26",
+   "title": "海面下10mでペロブスカイト発電 雲南大、インフラ向け",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uZFVEOUptOGgwaS1ESm05ZXd3QXd6SEVJaWxNbk50TW1PMmp5QWo0RWZVMmtoa0tyNEVHcEI4eVRTRWVuUHkzQzVPX0Z4U282ZVo2OEg1cFJ2ajZDTGdjLUppcFZsdW15SWItZHdVX3ZxVUxadnlV?oc=5",
+   "source": "日本経済新聞",
+   "summary": "海面下10mでペロブスカイト発電 雲南大、インフラ向け 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "f5ad160915f9f4be",
    "title": "ジャパンブランディング、系統用蓄電池をテーマに2026年12月中旬にウェビナー開催へ",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDQ0RPbnlyVUFUTUR4WVd4aHB3QTNNYUhvV1VuWk1MSzE0TGlqdS1FMnJQTUYzSFJveFZoeWVzOXFpbE1adUNv?oc=5",
@@ -32,6 +218,20 @@
    "published": "2026-11-19T01:38+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "829023e238132c3b",
+   "title": "太陽光パネルの下で初収穫 「SAVE THE FARMS by YANMAR」のビジョンムービー公開 ヤンマー",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TanV1dzVZTUIwZG5ib1gtMWtkRUxSWU1wWjRJSXN4eWpySW12QnZ5Y2ZfX1lmQ3pKa2o0a3NJcWVicUFYcTV2TnZscVdrMkVvTmxaN1doSkhnbW1MZnh1Sm5sN2w?oc=5",
+   "source": "JAcom 農業協同組合新聞",
+   "summary": "太陽光パネルの下で初収穫 「SAVE THE FARMS by YANMAR」のビジョンムービー公開 ヤンマー JAcom 農業協同組合新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T01:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "638f9b406ca95a26",
@@ -231,6 +431,20 @@
    ],
    "type": "news",
    "published": "2026-11-18T18:40+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "766ab1b8df2eeb86",
+   "title": "太陽光発電所の銅線ケーブル窃盗で拘禁刑2年4か月の判決",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTlJQVmJ5Q1dMSHRQN0o5dzg4ZEFLUk44TV9BSENBRlpTZk9lVHRXc0RiV28tTFNySF92bXBlUV9CZHZzZUxNT0tWMm5fdDdwRm56aEdyMkNrRlpneUtV?oc=5",
+   "source": "NHKニュース",
+   "summary": "太陽光発電所の銅線ケーブル窃盗で拘禁刑2年4か月の判決 NHKニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T18:33+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
   },
@@ -1026,6 +1240,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "131a750d0faf1e19",
+   "title": "独自》ゴルフ場閉鎖し2027年着工へ…新庄市でメガソーラー建設計画 山形（さくらんぼテレビ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUjlLN0szWEkzdGhWYmJDREFDREJuOFU2bnBMMFl6SGYtdVNGajJfMkJ0ZjU1cTNOMl9RT1EzYzRrZFk0b0J3NmtYZFRVOElXT1EweXo0VmR0ZDhndkdnb0ZGWjlRV1hvZTBKc3V3dGliQjJDTkNNbkJzaWRFMTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "独自》ゴルフ場閉鎖し2027年着工へ…新庄市でメガソーラー建設計画 山形（さくらんぼテレビ Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-17T18:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "cbd59b3f34d41970",
    "title": "《独自》ゴルフ場閉鎖し2027年着工へ...新庄市でメガソーラー建設計画 山形｜ニュース",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcTVoNmNxbEpOVUdPUWFTNW5KMWpPU2JncGZPcmRFQ2pTWmV2NzZBS18yNnZleFhLR084bm5pcWwyN2VyaGxaRHI1czZNNHU4Sjd2dkJWdjRZMkdiRGNqOEVQcTFmVTg1cC01eWplR29QV2M?oc=5",
@@ -1153,6 +1381,22 @@
    "published": "2026-11-17T17:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "5f8a3465a8df92e6",
+   "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託 将来的な蓄電池併設も視野に｜プレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3UThiZm5RakpCdXJLZWlTb01maTVhXzkxRjhCYTNBcDN5aWJtTUFqQ0hQQVlRVV9zUTNjV0J2SjNuU3Zua29N?oc=5",
+   "source": "新電力ネット",
+   "summary": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託 将来的な蓄電池併設も視野に｜プレスリリース 新電力ネット",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-17T17:00+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
   },
   {
    "id": "9441172bb268c4ad",
@@ -2292,7 +2536,7 @@
     "solar",
     "storage"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-11-16T14:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発",
@@ -3685,6 +3929,20 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlNnZmU210OTFxOXpBY2M1aXZoS2NGQm1yNE5vWk5saG9aY0V0VWJoam5tdHZPR21oQ0dHZHFVSTRGbGMzREdGcg?oc=5",
    "source": "オルタナ",
    "summary": "タンザニアの新興企業、太陽光発電で泥水を「安全な水」に変える オルタナ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-13T12:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "29e301b73aef4408",
+   "title": "タンザニアの新興企業、太陽光発電で泥水を「飲料水」に変える",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlNnZmU210OTFxOXpBY2M1aXZoS2NGQm1yNE5vWk5saG9aY0V0VWJoam5tdHZPR21oQ0dHZHFVSTRGbGMzREdGcg?oc=5",
+   "source": "オルタナ",
+   "summary": "タンザニアの新興企業、太陽光発電で泥水を「飲料水」に変える オルタナ",
    "categories": [
     "solar"
    ],
