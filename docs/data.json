@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T18:09+09:00",
+ "updated_at": "2026-11-20T22:30+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "07d645ecadcb4e50",
+   "title": "カールスバーグ・ベトナムは、フーバイ醸造所に新たな屋上太陽光発電システムを導入し、環境に配慮した事業変革を推進している。",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlJsM0w0d2o4S2VtOEVXUkZ5VWxOdDdqenV4bnZoaGc2cERuMXZJTjFuSzYwSnNFY1FWbmN5SXo5T3VZZng5RjVSMWJTRjFWSWl3dV94NTE5TjlpSjdabmZ5UWZUREF6Q051V3A1dGhiN3AtMFNZQzVKcXZIdlVDbGpuMGNoTFFQU04yeWZWMkRXaEJNOWFlemM2MXBRUzc4U0M3MnFjaVNfZzJVb3dZNmhvOU52bXhkYWJtUTJ6cHMtRlp3VVd5aG5Vbw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "カールスバーグ・ベトナムは、フーバイ醸造所に新たな屋上太陽光発電システムを導入し、環境に配慮した事業変革を推進している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T21:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "8c10c06454ad9380",
+   "title": "JOAホールディング、系統用蓄電池のバルク販売における「特定生産性向上設備等投資促進税制（即時償却）」の個別相談・一括",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVzctVHdiVXFQNEpnS203UlJDejU1YklzY2ZkZW1HRFlYeV9TWXNSVHpqOXphVVVjU0lWR1lkTjFyYUtfQVdTSnhjdGRTX256M0Y0WVd2LVVnaHpqOVhnT3RJdnVIYVla?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "JOAホールディング、系統用蓄電池のバルク販売における「特定生産性向上設備等投資促進税制（即時償却）」の個別相談・一括 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T20:21+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7df1d8e74d8f01c2",
+   "title": "JC-STARで変わる系統用蓄電池【第3回】★1の先に何があるのか",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51R21kcWVjSlMtZ29SQWo0ZFhRUnIwSEpQTjVWUFhNTkk4VG40SDJLdmJEUTQxYkx6bWpsZDRBUWpVajdjNzBRUg?oc=5",
+   "source": "新電力ネット",
+   "summary": "JC-STARで変わる系統用蓄電池【第3回】★1の先に何があるのか 新電力ネット",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T18:02+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "e5ce2098e1e62fc7",
    "title": "地域新電力と蓄電池はどう組み合わさるのか――岐阜県恵那市の地産地消モデルを読み解くウェビナーを開催",
@@ -50,6 +92,20 @@
    "company": "ジャパンブランディング株式会社"
   },
   {
+   "id": "a0cb8f5e228725c1",
+   "title": "発電所格付認証機構、地域共生に関し、５サイトを格付け",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zOUR2SEtwZzlQMXJ5X0hBYUlPaWtrYTA1NlMtemVIQUZCOXRLZ0Y3NjhUbHM3bDFlUnlKVmt1QzNtVVVPbXFualJVUWtLVlBSMzJuNVlPZDVkX3hjb0JQVWJZWlo5cW1NeHNfdzJ3LXgwZ0ha?oc=5",
+   "source": "日経BP",
+   "summary": "発電所格付認証機構、地域共生に関し、５サイトを格付け - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:36+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
    "id": "2fb6b7b7348d1344",
    "title": "配線不要で手軽に設置・取り外しできる「ソーラー充電式ドライブレコーダー SDR-01」を先行販売 ～太陽光充電と準固体バッテリー採用で、駐車監視ニーズにも対応",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNWF6WmZySnJYanM4OXpiOE1aVUdfNzhqYUFtUGZPUTR5ZzB0RDdZc000eVlhX0xpUWtLZXBzUkRkaU1ITHBFYnRLRldKUGUyYjNUMXRXWWJPZlhIYkhiZ1lsZnNGcmhWSUFxTVlKNDBXaFg0?oc=5",
@@ -79,6 +135,20 @@
    "topic": "O&M・保守"
   },
   {
+   "id": "6bd71beb4059e30f",
+   "title": "麦の営農型では国内最大、熊谷市の「農福連携メガソーラー」",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCVUU2d1dHNS1xazVCSGlLdFdYYUgxM0tQYjdCVGxxREp3eXhZZVpxUDFMU0pOTUFGbEk0SWl6dGNCZVZXbDYzOUtyNE1CaHJEZHBvWXhnNmNiTEVNNHdCMnRuZTNTWW9qR1JhS25KS3lUR08wMlVscw?oc=5",
+   "source": "日経BP",
+   "summary": "麦の営農型では国内最大、熊谷市の「農福連携メガソーラー」 - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
    "id": "e841ad0f90dc416f",
    "title": "千葉県 メガソーラーの設置「許可制」に 条例案提出",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WRjYwREtUSE5zNnFXYlVUczVRa3J5ZWE0S1FIV29oZHVQS29DYXVUTDh1bkI5V2tXRV9DUU52NHpZbGJiRGZHOGVjZnNqbW5FVUMtTExMRThhbnFCSEFz?oc=5",
@@ -101,7 +171,7 @@
    "categories": [
     "solar"
    ],
-   "type": "news",
+   "type": "release",
    "published": "2026-11-20T16:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
@@ -148,6 +218,35 @@
    "published": "2026-11-20T15:26+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "a8da553ca8034455",
+   "title": "【JPIセミナー】「量子ドット太陽電池の事業化はどこまで見えてきたか 用途・市場可能性と参入判断のための実用化ロードマップ」12月7日(月)開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSeUhKTEpSVkxjOW1yMWp4NWlaVGpZYlpYdUduY053MkxkbnFhMGlPQ19NUmNNbzRqcG9zTlZHYXViYW9heUxjZy00a0FnT2lXbS1sVTNjT1Y1em5HZWFrNHJQaG5GOHR4TGc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【JPIセミナー】「量子ドット太陽電池の事業化はどこまで見えてきたか 用途・市場可能性と参入判断のための実用化ロードマップ」12月7日(月)開催 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-20T15:20+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社日本計画研究所"
+  },
+  {
+   "id": "5ccebfbceeabf2e6",
+   "title": "野村不動産 系統用蓄電池事業に参入",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemFFX1RoakYzenVpUXVoNFdieXJ0OVBHMVV1TGhUYmx2VFB1ekVwenNfYUZ5TUZOaVNFMVpLc0VobVY0aHJYXzVuSnRlMFRKZHh1MENJbVhOY2ZyaGc2d0x6RXhqNVl6cE1zdmNVc2xXeEQzYkZkc3pXZzg4TUotbQ?oc=5",
+   "source": "建通新聞",
+   "summary": "野村不動産 系統用蓄電池事業に参入 建通新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T15:05+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "54ed1379a6447b32",
@@ -223,11 +322,40 @@
    "topic": "次世代技術"
   },
   {
+   "id": "489375961ee9f2e5",
+   "title": "配線不要で手軽に設置・取り外しできる 「ソーラー充電式ドライブレコーダー SDR-01」を先行販売",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBMlBQazNxWFEwcV9xWFpGTkhCeDJPSFZzOFJlVXdxbno5MlhnY0hQNlpOeFZORHo3ckFFcmdFVF93cW1zVFQ2TF8zazE3MnlvX0xSMHV5cUZ3Q29mUzE1X2F5ZWNZNWNH?oc=5",
+   "source": "株式会社オートバックスセブン",
+   "summary": "配線不要で手軽に設置・取り外しできる 「ソーラー充電式ドライブレコーダー SDR-01」を先行販売 株式会社オートバックスセブン",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-20T14:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": ""
+  },
+  {
    "id": "c6aa453d3b98c755",
    "title": "低圧系統用蓄電池に133kWhモデル開発へ、投資規模に応じた選択肢を拡充",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLQnU2aUFMaGducTY2dVotUklKZldBWVlLME0yMFN1a1JoalZOZDhZbTM0d0hIeE15TXFZSWNsMVY2V1J0UWlONkhpOGF1NWJfTHlKOHBKaGphQ0d0c0dTMVk1ZHlXRDNmd19CeXNtNnlYQUxxZ0xlQzE5M1o?oc=5",
    "source": "環境ビジネスオンライン",
    "summary": "低圧系統用蓄電池に133kWhモデル開発へ、投資規模に応じた選択肢を拡充 環境ビジネスオンライン",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T12:52+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "3ec9601c49c0f27a",
+   "title": "1500万円で蓄電ビジネス参入OK！ 低圧用133kWhモデル開発へ",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLQnU2aUFMaGducTY2dVotUklKZldBWVlLME0yMFN1a1JoalZOZDhZbTM0d0hIeE15TXFZSWNsMVY2V1J0UWlONkhpOGF1NWJfTHlKOHBKaGphQ0d0c0dTMVk1ZHlXRDNmd19CeXNtNnlYQUxxZ0xlQzE5M1o?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "1500万円で蓄電ビジネス参入OK！ 低圧用133kWhモデル開発へ 環境ビジネスオンライン",
    "categories": [
     "storage"
    ],
@@ -250,6 +378,20 @@
    "via": "環境省",
    "storage_topic": "その他",
    "company": ""
+  },
+  {
+   "id": "25bdbab7b2850280",
+   "title": "中国の太陽光パネル大手が成都に集結：1〜9月の新規導入は約54%減、2027年に小幅反発はあるか",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lanJtdnhocGcxUmlJN093QUpfdXhydzV3VXRlZkRnRWplRU85WnoxdG53Z29wZEc4cWNQcHVsVlIyMkthczJUN3I0Z01LRHNKTEUteWFHd19qZXp0bF83dmdXRWg0aW5yZExFNXprTmlHUXV0?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国の太陽光パネル大手が成都に集結：1〜9月の新規導入は約54%減、2027年に小幅反発はあるか BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T12:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "7eda13754b62b83f",
@@ -481,6 +623,21 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社JOAホールディング"
+  },
+  {
+   "id": "f17466048f453656",
+   "title": "JOAホールディング、上限価格引き下げ・エネ庁方針転換で激変する蓄電池市場に対応した「アグリゲーター選定基準」と「電力3市場の最新分析レポート」を公開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVkR2NVFxU0kyT0M1ajhEWXB0cFFCTHlKaUZ3c1FwV29jdEhRSXU2cHJmYXdLQnowaDFiRThBblRuM0VxNm9ZSVlZamY1UllUZ3U5QlNBSGxDU040Tms3VmlzYWlzd0I0YUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JOAホールディング、上限価格引き下げ・エネ庁方針転換で激変する蓄電池市場に対応した「アグリゲーター選定基準」と「電力3市場の最新分析レポート」を公開 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T09:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社JOAホールディング",
+   "storage_topic": "その他"
   },
   {
    "id": "7d5ba0db974c495a",
@@ -42665,157 +42822,6 @@
    "via": "環境省",
    "topic": "政策・制度",
    "company": ""
-  },
-  {
-   "id": "3a920adf5d8468d6",
-   "title": "蓄電所の設計・制御・市場運用を一体化し「安定運用」と「収益最大化」を追求するTAOKE ENERGY",
-   "link": "https://solarjournal.jp/product/67744/",
-   "source": "SOLAR JOURNAL",
-   "summary": "蓄電所の価値は、運転開始後の運用・制御・市場対応によって形成される。これらをどれだけ連動できるかが、ライフサイクル全体の収益差を生む。TAOKEは「蓄電所資産オペレーター」として、最先端の設備でシステムを構築し、自社開発EMSを中枢として活用、アグリゲーションで電力市場での最大化を追求する。 The post 蓄電所の設計・制御・市場運用を一体化し「安定運用」と「収益最大化」を追求するTAOKE ",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-18T12:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "dd9afdbcf94efb50",
-   "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
-   "link": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html",
-   "source": "スマートジャパン",
-   "summary": "住友電気工業（住友電工）は2026年9月14日、最大100拠点の系統用蓄電所のマルチユース運用と一元管理が可能なエネルギーマネジメントシステムを開発したと発表した。",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-17T13:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "e9f1fc02805b7d29",
-   "title": "「新仕様」のフィルム型ペロブスカイト太陽電池、積水化学らが実証",
-   "link": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news073.html",
-   "source": "スマートジャパン",
-   "summary": "積水化学工業と積水ソーラーフィルムは2026年9月15日、鹿児島銀行、南国殖産と共同で、鹿児島県志布志市において新たな仕様のフィルム型ペロブスカイト太陽電池の実証実験を開始したと発表した。",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-17T12:00+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "9426c8948fe11030",
-   "title": "住友電工がＥＭＳ開発／蓄電所１００拠点を管理、複数市場に対応",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QdENzSjFKWUFQWVNnRzY0UzlxbUxBejB2SUMtZmhiOU4tZ19reFZybndwRUQwM21Kc0FTRnJXY3lHalhJSVBuTExIVGliejdLZnA3N1VUYw?oc=5",
-   "source": "電気新聞ウェブサイト",
-   "summary": "住友電工がＥＭＳ開発／蓄電所１００拠点を管理、複数市場に対応 – 電気新聞ウェブサイト",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-17T06:03+09:00",
-   "via": "電気新聞",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "ab25c3cbd9a59176",
-   "title": "再生可能エネルギーのススメ「自家消費型太陽光発電」③ 薄く、軽く、曲げられる――。「ペロブスカイト太陽電池」は、再エネ普及の切り札となるか - トピックス - 脱炭素ポータル",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUVGlVR1Jad0sxVDVLR200dzNvZGstNWlLWXdpTHVFaHhVQTBES0E2ZDJNd2M3RzZNdGZDMk8tMEFTLWdKcXBrcGwwcjBJZ3lGbWlwRWFod3ZSbE04amhVQWxzbTgtWWp2RWs0QVQwSFNvMU8tSG84?oc=5",
-   "source": "環境省デコ活",
-   "summary": "再生可能エネルギーのススメ「自家消費型太陽光発電」③ 薄く、軽く、曲げられる――。「ペロブスカイト太陽電池」は、再エネ普及の切り札となるか - トピックス - 脱炭素ポータル 環境省デコ活",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-15T16:00+09:00",
-   "topic": "次世代技術",
-   "company": ""
-  },
-  {
-   "id": "6378c97d990ce2a4",
-   "title": "2030年を見据えた再エネ市場戦略 ～政策動向と最新技術トレンドを掴む～【第39回PVビジネスセミナー開催レポート】",
-   "link": "https://solarjournal.jp/event/67689/",
-   "source": "SOLAR JOURNAL",
-   "summary": "2026年8月28日、恵比寿とオンラインで「第39回PVビジネスセミナー」が開催された。「再エネ主力電源化時代へ」を掲げ、FIT依存からの脱却戦略に焦点を当てた。講演ではコーポレートPPAの最前線を皮切りに、市場価格変動に対応する蓄電池ソリューション、VPPやオプティマイザーを活用した次世代エネルギー運用など、多角的な手法が解説された。2030年を見据えた実践的な知見が共有される、極めて有意義な場",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-15T15:21+09:00",
-   "topic": "次世代技術",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "1ba2389e99c853cc",
-   "title": "【12/3大阪開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新トレンドと収益モデル〜",
-   "link": "https://solarjournal.jp/event/67700/",
-   "source": "SOLAR JOURNAL",
-   "summary": "12/3(木)大阪のオービックホールで、低圧系統用蓄電池ビジネスセミナーをリアル限定開催！ 空前の盛り上がりを見せる低圧系統用蓄電池の最新トレンドや、投資家・EPC事業者が今知るべき具体的な収益モデル、運用設計をプロが徹底解説します。お食事付き懇親会でのネットワーキング機会も。ぜひご参加ください！ The post 【12/3大阪開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新ト",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-15T14:46+09:00",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "5ae8d8cb4c954d04",
-   "title": "オルテナジー、ＰＣＳ交換に買取保証追加／きょう１５日から、太陽光向け",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGNERhU2pGckJYMUxOTzJSZzlLRER4RXlWRDBMZGJZakR1TnVYRTUwYkNkUHJoVXR1Ny1SSE5CODJ4LXIwY0pFYTJFdHVvcUVYQzNIUUpqdw?oc=5",
-   "source": "電気新聞ウェブサイト",
-   "summary": "オルテナジー、ＰＣＳ交換に買取保証追加／きょう１５日から、太陽光向け – 電気新聞ウェブサイト",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-15T06:02+09:00",
-   "via": "電気新聞",
-   "topic": "その他"
-  },
-  {
-   "id": "777ce57cb1713cd7",
-   "title": "再生可能エネルギーのススメ「自家消費型太陽光発電」② 意識改革、新たな事業展開、企業価値の向上…。先進企業に見る、再生可能エネルギー挑戦がもたらすものとは - トピックス - 脱炭素ポータル",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJaDM0TGMxR0huUkphWFM2RlJCMmxZR0xnUkhkd2NfLVFORl9VLWJScWtTRmhNRVdtMElNSHJ0cnUwQ2IwZWFvRlphZTktVnBBeC1HY1VlRUthN05rZFdQcUNDRzBzXzlTUG1XMHlTNW1OUVVsVjRR?oc=5",
-   "source": "env.go.jp",
-   "summary": "再生可能エネルギーのススメ「自家消費型太陽光発電」② 意識改革、新たな事業展開、企業価値の向上…。先進企業に見る、再生可能エネルギー挑戦がもたらすものとは - トピックス - 脱炭素ポータル env.go.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-14T16:00+09:00",
-   "via": "環境省",
-   "topic": "住宅・自家消費",
-   "company": "環境省"
-  },
-  {
-   "id": "80a86532ad64db61",
-   "title": "沖縄の防衛省施設にペロブスカイト太陽電池、積水化学が実証導入",
-   "link": "https://www.itmedia.co.jp/smartjapan/articles/2609/07/news085.html",
-   "source": "スマートジャパン",
-   "summary": "積水化学工業と積水ソーラーフィルムは2026年9月7日、防衛省施設においてフィルム型ペロブスカイト太陽電池の実証実験を開始したと発表した。",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-07T16:00+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "07de5180608772da",
-   "title": "損保ジャパン、ペロブスカイトのメーカー対象に保険／導入リスク抑制",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PVF9jNEUtUzNXUzZhOEpGdzlzTFZnTG96MndxaEZUbE9ZY2wyYzhQcVhZQldpaE93TUk2dU1DTko4MXFpdFhsdnB5aG1QRmxQMWs2enlNWQ?oc=5",
-   "source": "電気新聞ウェブサイト",
-   "summary": "損保ジャパン、ペロブスカイトのメーカー対象に保険／導入リスク抑制 – 電気新聞ウェブサイト",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-03T06:02+09:00",
-   "via": "電気新聞",
-   "topic": "次世代技術"
   }
  ]
 }
