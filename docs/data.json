@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T22:30+09:00",
+ "updated_at": "2026-11-21T01:19+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,34 @@
  ],
  "items": [
   {
+   "id": "61f219f7c285fbf7",
+   "title": "中国の通威（トンウェイ）が最大20億元で自社株買い、劉漢元氏「過度な内巻きに出口なし」と太陽光業界を憂慮",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Hb19RUklmdXdyek5TVmFCLWJnTlgwQjdjdEhWODFNdEZOSjNfUVZKTmIzVHpCX0NmNGJLQ2VzUTNOTUxiNlV4cVppNWRidGdqa0l2Y1ZHVDBXUEJoS0JGX09tLXdBLXN3NkRVVV9GMi16Yld0?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国の通威（トンウェイ）が最大20億元で自社株買い、劉漢元氏「過度な内巻きに出口なし」と太陽光業界を憂慮 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T23:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "92eb924a269609b1",
+   "title": "雨の日でも、夜でも発電。太陽光発電の弱点がなくなりつつある",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RVUMzZmlJYXEyRXVnUlpVOVlWRUhYVThhS1U0cjdfQWxudkl1ZDJxZ3ZmZm1FczRFUGFXMnJ0R1NKaW13R0Z0VHAwTmQ1blN0NUZGRENuejluaHREREsxLUdWYmNjWkRndVJVX3BHeVE3Wm8?oc=5",
+   "source": "Gizmodo",
+   "summary": "雨の日でも、夜でも発電。太陽光発電の弱点がなくなりつつある Gizmodo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T23:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "07d645ecadcb4e50",
    "title": "カールスバーグ・ベトナムは、フーバイ醸造所に新たな屋上太陽光発電システムを導入し、環境に配慮した事業変革を推進している。",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlJsM0w0d2o4S2VtOEVXUkZ5VWxOdDdqenV4bnZoaGc2cERuMXZJTjFuSzYwSnNFY1FWbmN5SXo5T3VZZng5RjVSMWJTRjFWSWl3dV94NTE5TjlpSjdabmZ5UWZUREF6Q051V3A1dGhiN3AtMFNZQzVKcXZIdlVDbGpuMGNoTFFQU04yeWZWMkRXaEJNOWFlemM2MXBRUzc4U0M3MnFjaVNfZzJVb3dZNmhvOU52bXhkYWJtUTJ6cHMtRlp3VVd5aG5Vbw?oc=5",
@@ -32,6 +60,34 @@
    "published": "2026-11-20T21:48+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外"
+  },
+  {
+   "id": "ed34d9104d1b39e7",
+   "title": "ペロブスカイト太陽電池 : ブログ : 秋林たかし｜千葉県議会議員｜松戸市",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU2h0clBuektkakhibklmelYtX1p3Q3dxazlpMnJlcy1OZXdmWWxMX2RQTHh3YktNRy0taXhIR2NHczBPbkJhV1N0V0ZkMVgyVnFzZnAyYnVMdWE4bzBnck5FRkpRZkhDTE9yeUNDcGdLT3VMLW83UVhpaGZGMTc0eEZTbFhXS3NueGw4dHRoeXg4T3BGUmJRejM2ckpEeXd4Q1JOS3BjZ1hCS1k1SnFvWVVXNWR4RllzVlVrMEV2UUxYUFdCWjZzTFl3eXhlNGJNNWVwT2ZDY2hVclFsRi1Dd21TbEt6cGk4STNzV2ZFX0ROY3dPX05vZg?oc=5",
+   "source": "公明党",
+   "summary": "ペロブスカイト太陽電池 : ブログ : 秋林たかし｜千葉県議会議員｜松戸市 公明党",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T21:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "04c6942b4244012b",
+   "title": "【テスホールディングス FY2027 Q1 決算説明会】静岡菊川蓄電所の検収ずれ込みで営業損失9,800万円、通期予想は据え置き",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcHh0SVNjTHQtMHlNQjNJY053cFJuRlVnSE0yMkRiRkJXSXBSOWpUN0Q3Vi1JcnBtTThWcVdrVVlrWmxJOW84N0MwbkFwYllUU1V4aG40STVQbEtUeWhz?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "【テスホールディングス FY2027 Q1 決算説明会】静岡菊川蓄電所の検収ずれ込みで営業損失9,800万円、通期予想は据え置き BigGo ファイナンス",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T20:34+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "8c10c06454ad9380",
@@ -135,6 +191,21 @@
    "topic": "O&M・保守"
   },
   {
+   "id": "5c17229391e2f2d5",
+   "title": "系統用蓄電池に関する 系統関連の課題への対応について",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2VXWUlHOUFiY3RkVllpaWc3U3RNVFVuVkEtY1hsWDdjSWRZa2ZETlltV2dxZmFVeDFYMUViT1dpOEZxS1NkQVZ0V2VERkpfa2t5WG4yQXFiRnZUY2hRUmFfXzhyOU40d1ROUTkxNG01cnd3c25ITVBnSXJ5b01KVWNMRVAzenlXQ1pZQThuNjRRbVNtZDZTRm9Va3NqaFZXcElvNA?oc=5",
+   "source": "経済産業省",
+   "summary": "系統用蓄電池に関する 系統関連の課題への対応について 経済産業省",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T17:08+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
    "id": "6bd71beb4059e30f",
    "title": "麦の営農型では国内最大、熊谷市の「農福連携メガソーラー」",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCVUU2d1dHNS1xazVCSGlLdFdYYUgxM0tQYjdCVGxxREp3eXhZZVpxUDFMU0pOTUFGbEk0SWl6dGNCZVZXbDYzOUtyNE1CaHJEZHBvWXhnNmNiTEVNNHdCMnRuZTNTWW9qR1JhS25KS3lUR08wMlVscw?oc=5",
@@ -175,6 +246,20 @@
    "published": "2026-11-20T16:46+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "92a53877b13c36a9",
+   "title": "JOAホールディング、系統用蓄電池のバルク販売に特化した税制活用支援を開始",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjOFMtdmc5UXUwbmRVSTR4WGp3OFhxNG1BVGxqR292NElIRUQ3cUlKOHZQRGgtRGpMak1QbmxOMkI0dzZ1SW1aSU9ZbzVQbVd6ZnRmeUsxRHYycmxHNDlKOW1tVkNkNTA?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "JOAホールディング、系統用蓄電池のバルク販売に特化した税制活用支援を開始 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T16:43+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "8000c9e95a8905b4",
@@ -42741,87 +42826,6 @@
    "type": "news",
    "published": "2026-09-27T14:57+09:00",
    "topic": "政策・制度"
-  },
-  {
-   "id": "aba0a8fce44a6663",
-   "title": "答えは宇宙にあった 衛星データとAIで蓄電所の用地難を打開する逆転劇",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNWhES09DVURPUlNrNE1XSEx4TGJBeGNGck5PTThpS3lIYU5FZzA0MzZYcjQ2RVJsczZDcDFQTHNROTZjVzltNHBwMmNKXy1FUXRUUmlfZy1mQQ?oc=5",
-   "source": "Forbes JAPAN",
-   "summary": "答えは宇宙にあった 衛星データとAIで蓄電所の用地難を打開する逆転劇 Forbes JAPAN",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-27T11:30+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "da5ce20153ea1bcc",
-   "title": "【特別対談】次の蓄電池事業は「エンジニアリング×アグリゲーション」 設備と運用を一体化するSUSTECH",
-   "link": "https://solarjournal.jp/product/67752/",
-   "source": "SOLAR JOURNAL",
-   "summary": "蓄電所は造って終わりではない。運用の視点が建設時から重要であると両社は言う。EPCとして多数の案件を手掛けてきた「テス・エンジニアリング」と、先進アグリゲーターとして注目を集める「Sustech (サステック)」。協業関係を強化する両社の対談を通して、蓄電池事業のこれからを探る。 The post 【特別対談】次の蓄電池事業は「エンジニアリング×アグリゲーション」 設備と運用を一体化するSUSTE",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-25T12:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "9f0f2c68ad9157e3",
-   "title": "窓のようなガラス型ペロブスカイト太陽電池、パナソニックが神戸市で実証",
-   "link": "https://www.itmedia.co.jp/smartjapan/articles/2609/25/news057.html",
-   "source": "スマートジャパン",
-   "summary": "神戸市とパナソニック ホールディングス（以下、パナソニックHD）は2026年9月24日、ガラス型ペロブスカイト太陽電池の実証実験を開始したと発表した。",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-25T07:30+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "d0573fd510c8adf0",
-   "title": "浸漬式液冷蓄電をグローバル展開 リライズエナジーの実力と挑戦",
-   "link": "https://solarjournal.jp/product/67749/",
-   "source": "SOLAR JOURNAL",
-   "summary": "遠信儲能（リライズエナジー）が独自の浸漬式液冷技術を強みに、日本市場で事業を拡大している。高い安全性と長寿命を実現した蓄電システムを武器に、再生可能エネルギー普及を支えるソリューションを展開する。 The post 浸漬式液冷蓄電をグローバル展開 リライズエナジーの実力と挑戦 first appeared on SOLAR JOURNAL .",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-24T12:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "8b933c2f9c6600a2",
-   "title": "「環境調査研修所への太陽光発電電力等供給事業 」 の企画競争参加申請に伴う質問及び回答",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ZlFaa3JWOG1qeGdWcVVpU2IwNTRONmdOWnpjcHFqR0cxY0o1bXFNbTVoRmlWUk9fakxtWk5Cekc2aUNZc3BxdUJ4NEdWUzhCN3JjTFRR?oc=5",
-   "source": "env.go.jp",
-   "summary": "「環境調査研修所への太陽光発電電力等供給事業 」 の企画競争参加申請に伴う質問及び回答 env.go.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-18T18:38+09:00",
-   "topic": "その他",
-   "company": "環境省"
-  },
-  {
-   "id": "dcf612316ebc26e8",
-   "title": "「環境調査研修所への太陽光発電電力等供給事業 」 の企画書募集に伴う質問及び回答",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeFJ0QlEtd2JPUklKazBxbjdXaXN5NXhYdnlpcDdXODBsWjdzSnEtVkc5TVRvVjRJTFVLNFUxSU91NUNfUUtLTDNmdFZaUHUyYmNlNVlB?oc=5",
-   "source": "環境省",
-   "summary": "「環境調査研修所への太陽光発電電力等供給事業 」 の企画書募集に伴う質問及び回答 環境省",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-18T18:36+09:00",
-   "via": "環境省",
-   "topic": "政策・制度",
-   "company": ""
   }
  ]
 }
