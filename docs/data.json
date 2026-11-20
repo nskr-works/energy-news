@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T01:45+09:00",
+ "updated_at": "2026-11-20T11:34+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,323 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "5fedf9cde2559e80",
+   "title": "日本が育てた営農型太陽光、海外に商機あり COP31で熱視線",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcUUzVGdXODlfX3QyTk1FZF9vVldNcTh2NTV6cjdaR1ZONGJTYVZHN1J3SjVsSmxPS1ViY3dsLVVDVUMwcmpGejVseXhQMjBhcGluSFZkaW0zd2pwakRFbTBwZlhaMjZI?oc=5",
+   "source": "毎日新聞",
+   "summary": "日本が育てた営農型太陽光、海外に商機あり COP31で熱視線 毎日新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T11:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "ed4957589ccde7ea",
+   "title": "需給調整市場への参入済み容量が150MW超に",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWllMc0d1TWRLU2g5V2p4eGpDVFBfMm9LcUdyR3NqYVRCRTdmNFZLbllqcTE5WVRyQnlLLUxVZzRDdG44LWlqWTU4M1ppcmE4T2twbC1OYU50R0hmM1pSM2tMMFdqNnBN?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "需給調整市場への参入済み容量が150MW超に ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T10:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "854f374ac30c490b",
+   "title": "ハンファジャパン、低圧系統用蓄電池事業に本格参入",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ldUhKNVFaV0VnbmlZYzhBYm41TnRwRnNuYlZwTnlSVndXbUt0UV9jYU9ScjhhMTF6dVpTb0dQZGFWcDQ1SzRjRzV6cDZsdE1DeWxFQnZGQXNJNHZDQUI3MHoxZ05kNzhBWUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "ハンファジャパン、低圧系統用蓄電池事業に本格参入 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T10:06+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "低圧",
+   "company": "ハンファジャパン株式会社"
+  },
+  {
+   "id": "d35063e161b9bc44",
+   "title": "姫路相生太陽光発電所の環境影響評価準備書に関する公聴会の開催",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IOXlXR1oyZUl2WnNNSl9RV1BQRzB4UGZ4amo2RGliaUktbW5DX3pDRVlsaFNXLVNaVHZNRFNDT05PdTlKbm05XzF5SktzR0NxZHhXZzdKLTRNcV8tQjdka2FiYw?oc=5",
+   "source": "兵庫県",
+   "summary": "姫路相生太陽光発電所の環境影響評価準備書に関する公聴会の開催 兵庫県",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T10:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "7a73fbfb07369801",
+   "title": "カナダとの蓄電池サプライチェーンに関する協力覚書に基づく第三回局長級対話を実施しました",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mall0OFdXenhGS2N1eWNQVmV5aTAxTXVRa1NsZk5pTWtRVHgtN1ZDYjI5c0paVkt4UzRVLW55RGVaSjFDRU43WllBYV9mdkczUWdCaDM3WWIwS3Y4clNtZXV1aw?oc=5",
+   "source": "経済産業省",
+   "summary": "カナダとの蓄電池サプライチェーンに関する協力覚書に基づく第三回局長級対話を実施しました 経済産業省",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T10:03+09:00",
+   "via": "経済産業省（Googleニュース経由）",
+   "storage_topic": "その他",
+   "company": ""
+  },
+  {
+   "id": "0d4e218cb4fff757",
+   "title": "Bluefield Energy、ハンファジャパンの低圧系統用蓄電所事業にアグリゲーターとして参画",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Q0hTZTIxSXVmTWtudHVQTHY0MnNVbUtqWU91ZXRrVzRaYzRrU2pVam1jaXlSQkRtWTRNaEFfbFl6cHk5RE9teWtNLTJQcWl2cUxBLVdsUldfR2k5YkNKM19lbmxBRURfcFE?oc=5",
+   "source": "PR TIMES",
+   "summary": "Bluefield Energy、ハンファジャパンの低圧系統用蓄電所事業にアグリゲーターとして参画 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧",
+   "company": "Bluefield Energy株式会社"
+  },
+  {
+   "id": "7585e9636a92f6d9",
+   "title": "テスホールディングス[5074]：株式会社シャトレーゼ様におけるスマートエネルギー事業向けにガスエンジンコージェネレーション設備・太陽光発電設備等を導入いたしました 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YSjM1T2o1TF9yWTRZTmoyQjVDbnJ4NnhSYUotM1otVVRid05FWkpnQVRUbkRtNDZwczBfakMtclVldGZfaTlydVBCSHRPZ3ItU2VudVNTRTR3NnM2X1VqYnZLV1lFOU11VlE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "テスホールディングス[5074]：株式会社シャトレーゼ様におけるスマートエネルギー事業向けにガスエンジンコージェネレーション設備・太陽光発電設備等を導入いたしました 2026年11月20日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T10:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "e7696a77636c620a",
+   "title": "「令和9年度に向けた発電・蓄電設備に対する税制優遇・補助金」と題し、株式会社KKRコンサルティング 山田純也税理士事務所 山田 純也氏/池田 美香氏によるセミナーを2026年12月22日(火)開催!!",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRGFTSHhmOUl4QlhlRTJ5Q0FubDdBdkJxMkI5ZVp0dUFCVVU2Qk9DbFlpZ3JTakV6aFZLVUd6VXYxbFBZaWNDenJraC1DLWhGeDFVb2JfQUtSNGt6YWtjWFlNTDhyVHV5dEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "「令和9年度に向けた発電・蓄電設備に対する税制優遇・補助金」と題し、株式会社KKRコンサルティング 山田純也税理士事務所 山田 純也氏/池田 美香氏によるセミナーを2026年12月22日(火)開催!! PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "company": "株式会社　新社会システム総合研究所",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b343f294f9aaeb4f",
+   "title": "蓄光塗料「レッドコート ルミナス」の開発のお知らせ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000009.000147704.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社愛知レジン] 株式会社愛知レジンのグループ会社であるレッドコーティングス株式会社（所在地：愛知県名古屋市、代表取締役：今野 太郎）は、この度太陽光や照明の光を蓄えて自ら発光する床用塗料「レッドコート ルミナス」を...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-20T10:00+09:00",
+   "company": "株式会社愛知レジン",
+   "via": "PR TIMES 新着（直接）",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "d6aeecf732351712",
+   "title": "ホルムズ海峡危機が長期化ならEV・太陽光シフト加速 IEA分析",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVlWaENndlZnWVlsM3puMW9pX3p2bzdiRG5OeGRYTTNhMnlkbGFGT0MtSDRoWlFjajJWLVdZWDQyVTIxYmptMG0xT3hybUpmcEd2andQTE5EZUlUZFMwUzZ0OGFnbEtoWlpTSWZpSzdqc2w5U2p1X2Z3MXpXUzgtTW5XQWQ3ZFZSc3FURVhhWUVRWWZ4Um9KTWQxYVJURm5mR1VmeW9fbGR3V0psblV6ZVRSY2ljY0NuTmFiX2NOSlR1YnQ2?oc=5",
+   "source": "디지털투데이",
+   "summary": "ホルムズ海峡危機が長期化ならEV・太陽光シフト加速 IEA分析 디지털투데이",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T09:18+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "83d2ae028889eb53",
+   "title": "JOAホールディング、上限価格引き下げ・エネ庁方針転換で激変する蓄電池市場に対応した「アグリゲーター選定基準」と「電力3市場の最新分析レポート」を公開 | 株式会社JOAホールディングのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVkR2NVFxU0kyT0M1ajhEWXB0cFFCTHlKaUZ3c1FwV29jdEhRSXU2cHJmYXdLQnowaDFiRThBblRuM0VxNm9ZSVlZamY1UllUZ3U5QlNBSGxDU040Tms3VmlzYWlzd0I0YUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "JOAホールディング、上限価格引き下げ・エネ庁方針転換で激変する蓄電池市場に対応した「アグリゲーター選定基準」と「電力3市場の最新分析レポート」を公開 | 株式会社JOAホールディングのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T09:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社JOAホールディング"
+  },
+  {
+   "id": "7d5ba0db974c495a",
+   "title": "需給調整市場への参入済み容量が150MW超に | デジタルグリッド株式会社のプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a0dhWG8zTGJPX3cxM3VPakQ5VXVPbTRDUDhtT2xyUXRtVGFmS2otTVdxWlN5T2NacHhaQTBvWmphQTZUSFFyRUtSQnRoS1M2SzFPc2tJQVF0dURsY1JZaTJhbjk2OU5wUUE?oc=5",
+   "source": "PR TIMES",
+   "summary": "需給調整市場への参入済み容量が150MW超に | デジタルグリッド株式会社のプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-20T08:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "高圧（特高含む）",
+   "company": "デジタルグリッド株式会社"
+  },
+  {
+   "id": "be56df96ae8129ee",
+   "title": "デジタルグリッド[350A]：需給調整市場への参入済み容量が150MW超に 系統用蓄電池の市場参入が加速 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TSlV3RmswZThOX3h4blZRQ21fb1M5eEg1Z2F5RFhJbkNGVWhwM0ZmNk43Nkg3UTRJaXVQQTk0cFg5RlFvQ1oxYmtmWFpKY1l4bXN4UXVmQWl4Q0c3UUo2M3dnN0NKdXd1bkE?oc=5",
+   "source": "日本経済新聞",
+   "summary": "デジタルグリッド[350A]：需給調整市場への参入済み容量が150MW超に 系統用蓄電池の市場参入が加速 2026年11月20日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T08:30+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "e38ac68064d7b0b6",
+   "title": "グリッド、蓄電所開発の本格化で1Q売上高31.1％増 インフラアセット事業は黒字転換し通期計画達成を見込む",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ScEtibWJ5Z1FRQ0lid0ktWWpWM3RlQ2Y4dWhYSVVzQVpjdDQwYU9SNHJ4RDZfMGtRMEtRUkFkR09acEV3R3c?oc=5",
+   "source": "みんかぶ",
+   "summary": "グリッド、蓄電所開発の本格化で1Q売上高31.1％増 インフラアセット事業は黒字転換し通期計画達成を見込む みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T08:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "529d6c3fb612c411",
+   "title": "｢ペロブスカイト｣×増配実績！Ricky氏注目の厳選4銘柄",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxVFNkWlRTbjFkMzR0aUVXdmdrdFphOHV3N1NrejJIeWRHNjlueXctbVpabnEwX0xYWFk2NEZkeG9qak5hSFFuRzZQVnRxbnZHNHZvWEhVYw?oc=5",
+   "source": "四季報オンライン",
+   "summary": "｢ペロブスカイト｣×増配実績！Ricky氏注目の厳選4銘柄 四季報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T07:30+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "3c01bfe33cb2146c",
+   "title": "大田区で東京都の補助金活用して太陽光発電設置してみた！蓄電池も 【大田区】【太陽光発電】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SZEhqZUtpUXZWTTJUcExXQ2R3VzVNR3RETU1QWTBGYi01M3hOanBGSHN4OUpGcXNJcWpscEUxTmFyMGdOUzJYNG1aNnRHOEZrclF1V3ZLVC1XU3RuVEQ4?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "大田区で東京都の補助金活用して太陽光発電設置してみた！蓄電池も 【大田区】【太陽光発電】 選挙ドットコム",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T07:19+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "563d0778242c8004",
+   "title": "中部電力ミライズ、家庭向けＤＲを拡充／ニチコン製蓄電池活用",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VdTFQOWc4Q3lWUWpQQ29LamRiVGxTUmJlRVFHeHJQbWtVcWNTd0lmOGIzM29paUlNcEl2UElRaXBaaklnTHYxdEhTckFQaU1oS1dRenRlTQ?oc=5",
+   "source": "電気新聞ウェブサイト",
+   "summary": "中部電力ミライズ、家庭向けＤＲを拡充／ニチコン製蓄電池活用 – 電気新聞ウェブサイト",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T06:00+09:00",
+   "via": "電気新聞",
+   "storage_topic": "家庭用"
+  },
+  {
+   "id": "051501c263421546",
+   "title": "ガラス一体の太陽光発電 那覇空港で全国初の実装検証スタート 沖縄",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qMlZhaDBPOXN5eUo2ZUZ2WE8yVXcxSVhKb0w0bWVtenhWejhlUW0yb0NlN2FBTnVuZGU4bnM1ZThRdHpFWHo1UUg5dVNMQzc5UXQ4RnFjUTB3cW5ZNkZvc1pB?oc=5",
+   "source": "琉球新報デジタル",
+   "summary": "ガラス一体の太陽光発電 那覇空港で全国初の実装検証スタート 沖縄 琉球新報デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "6049955f23916b93",
+   "title": "リコー、長野でもペロブスカイト実証 寒冷地で性能確認",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WYlgxZWQ1ZElKWEFMUk5kUXhfUlNBQXZGUlV5NUxrSjNmcUQ4UWhQMVM2Z3pnM3Y3NkpfeGNzQldZbkdxdlozSG8yZ0g4bENHb0FDeGxqbkFoQ3VreFlVQkFUZ2o0ZnRBYlNqUXFKVHNEZHF5OUhj?oc=5",
+   "source": "日本経済新聞",
+   "summary": "リコー、長野でもペロブスカイト実証 寒冷地で性能確認 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T05:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "5ec903ad7318ee31",
+   "title": "Hidroelectricaは、オルト川に浮体式太陽光発電パネルシステムを建設する計画の承認準備を進めている。投資額は14億レイ。",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGw3RU9zMFY0RW9Xc1hzWEFOYUo5MWRvQjU5NGtubFp3cG5Gb1ZYMHdYZXBnZEhkMmhOdmNDTUdSYmVyRjJROVhJWHNQMjB2ekUyUk0ydmUtRHNEdXhKSzJBbl9uZ1VQT3Q2T1hqeUlfdlg0ZHY2bHdjcWNpZjZ5cHZYRUh5N0QwZnp0MlB6VWljcTM1WEIwTEhUSUJabV9kUDJlMFlxODNZV0dFU3Q0bnI0ZlFhVXpSckRsTW1wb204eEVtamd3?oc=5",
+   "source": "Informat.ro",
+   "summary": "Hidroelectricaは、オルト川に浮体式太陽光発電パネルシステムを建設する計画の承認準備を進めている。投資額は14億レイ。 Informat.ro",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T02:08+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "ba3b184f36061f10",
+   "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了｜Infoseekニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zRGFiNWhmTGZiSkNIcmxfTnRvbFJOYWd0Qm0zczJ3ZThMTXYtQXBFVHR5V25lSXFHbFpQNEoydUtQbUZUamh0WXBOZF92SFhUYmo1d3ZGR0wzYnlJWmkyMTdUV3ZoRkpLNjJ4a0hNRXdpdw?oc=5",
+   "source": "Infoseek",
+   "summary": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了｜Infoseekニュース Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T00:40+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "36aa2db790b0c90b",
+   "title": "「蓄電池ビジネスの事業化戦略と実践」と題して、Energy&ICTコンサルティング株式会社 永井 卓氏/株式会社グリーングロース 河野 淳平氏によるセミナーを2026年12月23日(水)に開催!!",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyWkZ1d1JUWVZ2TVpGVUt3ckRiR0toVW5iV1dTS3djR2twcV9kc0lYM2o4NS15aDhTWFI5bnpOOGZNanE3eWVqYW4tNEZVN3pIWHp3LW4zVlZTeW1TV1B1UjA1d2poM3RDZFoyZDdwUURPQQ?oc=5",
+   "source": "Infoseek",
+   "summary": "「蓄電池ビジネスの事業化戦略と実践」と題して、Energy&ICTコンサルティング株式会社 永井 卓氏/株式会社グリーングロース 河野 淳平氏によるセミナーを2026年12月23日(水)に開催!! Infoseek",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T00:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "4c3ce2c7739bcb74",
    "title": "太陽光発電向け送電網を整備、再エネ導入拡大へ",
@@ -131,6 +448,20 @@
    "published": "2026-11-19T18:06+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "c67b3759534632e8",
+   "title": "ADW、熊本の蓄電所が需給調整市場に参入",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV1Z5OERHUlZna1kxZnUxdDFPUlRFZDhsb3M0V0ljdWpueVBjRzU3RENBYkhMUWJkTmpCZnJMV3FIWHh4R2JhRmNrZGVieC04QngxWlBteTM5RW9r?oc=5",
+   "source": "最新不動産ニュースサイト「R.E.port」",
+   "summary": "ADW、熊本の蓄電所が需給調整市場に参入 最新不動産ニュースサイト「R.E.port」",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-19T18:04+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
   },
   {
    "id": "501bc922dd723945",
@@ -395,6 +726,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "773efedfc1ae425a",
+   "title": "日本、レバノンに太陽光発電システム設置のため1500万円を提供",
+   "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQQnQ1RFRSbTdwNlp1WEdhM0ZEREVTR0FST3c1eWZMUzFjZC1OaGpITkp5dUQ4ZkxRTTFsZ0FtR3ZOejFMaHowVHRQUjR2Sy13QUdnSVNoNFEtbzdfQ1Z0azdSUl81T1V5TV92Y1A0d00yS2hyUktxcFc1T1lRalE1b0U2LTl2RVp5d1VTc1hqdEZKTW9ZQmhCZlN5NlVCUUh3M3FsNzdLYl9fdUZsS05UVmFPTGxZdFhGT1VPWmt3bFhSbDdhcW1mcy16enptcTR6Nm9RQks1dDNNYVRDamZpQVdlWHFCa21UWTVXZEF0TjlEMi1aUFVPdGUwSHYyRFJYbkFwcEhhRXEyaTFjWG12TkZXR055dkcyXzItQ1dXUmthX1lac3NsMjdBVVNud3dZN3B2VUV4cWMxdkJYSTJ4LVdnckNDWEg2dVhPQzBiemV1bFNvc2F3V0V6ZDQxVUY0UVkwUk9vcU1PbjNLM3pLS2NEN1VId0Q5Z2RNT3dPODRUbjJXLTc1ckRNcWZBekZRQU0zbQ?oc=5",
+   "source": "アラブニュース",
+   "summary": "日本、レバノンに太陽光発電システム設置のため1500万円を提供 アラブニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T12:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "bc064b7b40c7c15f",
    "title": "【制度解説】経産省が発表したFIT/FIP支援重点化４項目 太陽光市場の追い風となるか",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IMTZMZEdWUnpHMGpTQ0IxYlp6NlVRWEpOcWNJR2NiVUVqaDR2NUZWQmp2VDg4OWRTbnN0UlhrR055VWJJWEE4WTdYVFRmUQ?oc=5",
@@ -436,6 +781,20 @@
    "via": "PR TIMES（蓄電池）",
    "storage_topic": "その他",
    "company": "株式会社 新社会システム総合研究所"
+  },
+  {
+   "id": "2186df5f8677fac7",
+   "title": "積水ハウスが広島の住宅団地で太陽光活用型のEV路線バス運行：スマートシティー",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80VjR3UDJnSzBicUtmZTY1YkVkdGdiSk42VDhtaWxWTWJ6Vld3QlpIN1dOTVl2N1JGdEIxNHRVR096STVjcVRGYWhPYzhrSVgyOHN2OGtDVXg4aHdjbktrcFhvQVVWYnozM2ZPZA?oc=5",
+   "source": "ITmedia",
+   "summary": "積水ハウスが広島の住宅団地で太陽光活用型のEV路線バス運行：スマートシティー ITmedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T12:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "49ebc0c7f1c6c27d",
@@ -638,6 +997,20 @@
    "published": "2026-11-19T07:30+09:00",
    "via": "スマートジャパン",
    "topic": "次世代技術"
+  },
+  {
+   "id": "3941d1cdbcbececf",
+   "title": "過去最大の石油供給ショック、EVと太陽光への移行を加速か IEA",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUxTZlJVaU9HWXVUUldDb0lsYWNLVVBXNDNtbTVneWhPODJobG5kU0Q2dVhCcVBUdi1sR0UtdG9kZ1p1QWRuN3JSYThPdTZOMXJsVmpuQi0xZlRmLWxFLW1wZk05bWFNRHRaQUlRWUhoMnZNVUVjbmppYnFsY19Wb3ZoM19ub0JDZTFxVmxqX1YwMFdkREcwbnVpM3FmUQ?oc=5",
+   "source": "Mezha.net",
+   "summary": "過去最大の石油供給ショック、EVと太陽光への移行を加速か IEA Mezha.net",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T07:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "d007a17ca4212dc5",
@@ -2831,6 +3204,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "835d913ea1c2db64",
+   "title": "ペロブスカイト太陽電池関連銘柄の本命一覧｜積水化学など注目株を解説【2026年】",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lb04wMzlqemVGcnhDeTdJM3daWXFBZGFHekppdUVndXFHTGlPYmMtUDdoTldjcmN0OHQwZmF1Q0NseEYzcHBleUxfY1l0cURRWTRwLUZXWDlwZw?oc=5",
+   "source": "日本投資機構株式会社",
+   "summary": "ペロブスカイト太陽電池関連銘柄の本命一覧｜積水化学など注目株を解説【2026年】 日本投資機構株式会社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T17:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "2d12a982f618ef70",
    "title": "ペロブスカイト搭載「環境センサー」実証試験",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlljekVtcnFVSnp1NU9OXzBFbXRyWlEzRVo5WVpycFdtWjVuUXJQWl9XUzV0T3FaVDVINURTQ2xJNHJsVGdELWpqYTRReEJEdkNZZzliMXJFR0pqdUhjTkl3QXIxVDJXb3pnSEozNFduMUpFT3VLcGkxbnE4Q1hKMVVwZkwxdXpjMFhzeU1ERQ?oc=5",
@@ -2973,6 +3360,20 @@
    "published": "2026-11-16T14:25+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "ac31c1c0a9d5c74f",
+   "title": "韓国エネルギー工科大学校のパク·ジンホ総長職務代行が30年近く太陽光技術開発と普及に努めた功労で国際太陽光学術大会最高名誉賞である「PVSEC Award」を受賞した。",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWThkOGI5OGNXZ2p0N2oxQ2JGYkRDdlBTS1o3d095QlRHQ3hiVGdUeWNFR3pneW5XOU1LT1FTZTlOOHVibzlUWkp6cU1weGhGSlE?oc=5",
+   "source": "매일경제",
+   "summary": "韓国エネルギー工科大学校のパク·ジンホ総長職務代行が30年近く太陽光技術開発と普及に努めた功労で国際太陽光学術大会最高名誉賞である「PVSEC Award」を受賞した。 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:20+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "その他"
   },
   {
    "id": "db06a779f5c0f3ff",
