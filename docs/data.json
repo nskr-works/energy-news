@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T11:47+09:00",
+ "updated_at": "2026-11-21T17:44+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,65 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "0cf58caf626126af",
+   "title": "適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02Wkg1WEdRdGVHN3ZLUmFyRUtnUl9TUGhtMUVEZzdwak9NOWlTaWlWNHhFVGhHZFdPN1NDazFBamRkY0FfMWlV?oc=5",
+   "source": "大学ジャーナルオンライン",
+   "summary": "適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査 大学ジャーナルオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T17:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "199bf651308f5138",
+   "title": "ソーラーLED信号機の世界市場（2026年～2032年）、市場規模（携帯型、据え置き型）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVUZDT09zZnRNM3ZEbzlRTExwd0xvWEpaTF81WXI3NlI2VVBuZkhuY210S1B2bkZic2kyUkpnX3FaSUV3X2ROd1Yxd1ozbVU?oc=5",
+   "source": "アットプレス",
+   "summary": "ソーラーLED信号機の世界市場（2026年～2032年）、市場規模（携帯型、据え置き型）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-21T17:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "528b1e8445df5910",
+   "title": "「どれを選べばいい？」をパグ店長が解決。HAPPY JOINT、ソーラーライト選び特集ページを公開",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQV3NLZVFaZ1FKVHpIMTdPTUZTRDhNNUNhSTJUbTZZekdZdVgzdjllYmpGS1IyQUZKeWZSOXZsMTI0eHExX016eU83WWFDamt3XzROMHQta19venJNc2JYUTBWX1pCOEJ1UHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "「どれを選べばいい？」をパグ店長が解決。HAPPY JOINT、ソーラーライト選び特集ページを公開 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-21T13:28+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社HAPPYJOINT"
+  },
+  {
+   "id": "8b553c87ca15bd24",
+   "title": "高電圧バッテリーパックの世界市場（2026年～2032年）、市場規模（リチウムイオンバッテリーパック、全固体バッテリーパック、鉛蓄電池パック）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWdESXFjMXgwU0J6bFlraGJuLTdjUmtvcnFFM1BST2xXaks2S2J3aXFrU0x1TGc0YnBiYWlkTV9QdXI4a0lKbnpabFJjTms?oc=5",
+   "source": "アットプレス",
+   "summary": "高電圧バッテリーパックの世界市場（2026年～2032年）、市場規模（リチウムイオンバッテリーパック、全固体バッテリーパック、鉛蓄電池パック）・分析レポートを発表 アットプレス",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-21T12:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "storage_topic": "その他",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "9b459d765f2c06f6",
    "title": "株式会社レノバが運営する計5か所の太陽光発電所が、発電所格付認証機構（p-CERT）の「地域共生に関する格付」にて「A",
@@ -1726,6 +1785,20 @@
    "published": "2026-11-18T22:51+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "9cfbe5bda9268aa4",
+   "title": "シリコン太陽電池の発電コストは次世代型の半分以下 新潟で進む太陽光発電の普及と迫る設備老朽化の課題",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPejNEeGFCY2VkdW1PRjZjQ2htUGlIdmlWWGZFZzVlUWxmN2x4dGQ5Y0ZZemVETmExT2lqRUVoWF9RaXJJWm5KYzFSaUJQUmY4SzZZaVZUVFlGVnd0aEh2V2gzTVdhVW83ckY4QVUxeGRKeXQ2RGt1cldYVzVDZG1OSXFaZlI5Z0thZEVmZXI1MmxyTWZGSnVJajNjWExCX2w4WHRBTkpLQTZWbXlWTFNZWGF4M0U4R0kxMDMtMm45UXVTZm9pYkVjeVFidEc5clI5UFIxRGpUZ2N5SFZsbzdJVkFjbkRLdTl2RUZPb1d3SldheExJU0xGcmdaUk9KclVMaWxRUjItcHliQTMzazZ6S28yZWROVHJvR2c4c3RpaklkZnBpT2FiQzg3dVRHX2RZMmhseVROc3U2RjR0R2tabTZCVVE?oc=5",
+   "source": "classicnews.jp",
+   "summary": "シリコン太陽電池の発電コストは次世代型の半分以下 新潟で進む太陽光発電の普及と迫る設備老朽化の課題 classicnews.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-18T22:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
   },
   {
    "id": "46306240151090e4",
@@ -4046,6 +4119,22 @@
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXYWotaDBfeGxtbTFLNkthbEVIMGtsTHh4S0lUMTJVRi12T19MbzdDM0hOQkpkZ2ZJZUtObFZPVzBMRzA?oc=5",
    "source": "Digital PR Platform",
    "summary": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工 Digital PR Platform",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T14:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "b9e60a87bd1c7f79",
+   "title": "太陽光発電所への蓄電池併設プロジェクトを初完工",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbVc2UXJsTUg5SHZkS0E5WjZsMjJGT3VxNlV3andTdzZ3ckZXeUN3SWh4dTdVdEVZdVRSM0w4bGVmVzEtYlZqRU5vckF2cXQxQTdJNmpNeXRIaDIwRkdaMk5NcmhmQjVLMC0zTlJRbENWNjI1OHl4VEl4Yw?oc=5",
+   "source": "東芝",
+   "summary": "太陽光発電所への蓄電池併設プロジェクトを初完工 東芝",
    "categories": [
     "solar",
     "storage"
@@ -42749,87 +42838,6 @@
    "type": "news",
    "published": "2026-09-28T07:37+09:00",
    "topic": "その他"
-  },
-  {
-   "id": "c5884257c7d69681",
-   "title": "パナソニックHD、神戸市で「ガラス型ペロブスカイト太陽電池」実証",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kS0xDaTBXaUV5QjRGOFFLNGhzRi1JSHBtLVVwOUhCYzZoMzN3M2lZV0JwX2NEVjIyNlBHcTNTZVpQdw?oc=5",
-   "source": "ニュースイッチ by 日刊工業新聞社",
-   "summary": "パナソニックHD、神戸市で「ガラス型ペロブスカイト太陽電池」実証 ニュースイッチ by 日刊工業新聞社",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T06:00+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "b98d6ba9e49d75ef",
-   "title": "プラチナ構想ネットワーク、営農型太陽光シンポ開催",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CUG9VN1Y2cVdjbFRIQ3Y1WExremxpU0RmakxIQWtFV0Y2RWNqVkZ4TGVreUVSVlM5NklFa3FHeEh0MXVfZXA3ZjI1OFRFRm5IVjVz?oc=5",
-   "source": "化学工業日報 電子版",
-   "summary": "プラチナ構想ネットワーク、営農型太陽光シンポ開催 化学工業日報 電子版",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T05:01+09:00",
-   "topic": "営農型"
-  },
-  {
-   "id": "dc2b3cf7c9d868a9",
-   "title": "フェアウエーから太陽光パネルへ、適地不足補うゴルフ場という選択肢（Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcW95Mld4QXEwamxDVVdDRmlpZDhCRVV5dUZra0Y5RUxQZjhXdkVPUE5QVUJWMUk1NnJnd1Q0eW1JMVZKS0JKdFJ4YUM0c3lrandUUzNnaHNnSUthUXQ5dG5yMXJLOTZxWjRibGZ2TE54WDRONnlBSGpBOWNhWEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "フェアウエーから太陽光パネルへ、適地不足補うゴルフ場という選択肢（Bloomberg） Yahoo!ニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T05:00+09:00",
-   "topic": "その他"
-  },
-  {
-   "id": "5e7ce1b3a78a2d06",
-   "title": "中央環境審議会 循環型社会部会 太陽光発電設備リサイクル制度小委員会 委員等名簿",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QbW5kZzFHUlBPWG1HMGg2N0JmTlBFa0NZVEdrS2lNVnlTMjRyX2NwZGsydzAwVnMyOE5pQ2hXbW5DSUtHY2Y1MkdlRG5oaVp6NmRYajZ3?oc=5",
-   "source": "env.go.jp",
-   "summary": "中央環境審議会 循環型社会部会 太陽光発電設備リサイクル制度小委員会 委員等名簿 env.go.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-28T00:00+09:00",
-   "topic": "政策・制度",
-   "company": "環境省"
-  },
-  {
-   "id": "b552de1e38787afc",
-   "title": "長期脱炭素電源オークション",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUZ2UkNZY1UwTTFpNklDeUNnVzQ4VXFkbnI0RjZfT1UtdUtFTGs3S1ctQ0dwcDFwOEV4SkJ6MjJybTJteWlOVVZFTWQ1ZHZNSXhxZnZwZmhydllPMlpkUmpQdFE0S01NYkRET1c3UWkxdzNuTVpfcTJKRzBVdlN1Y2ZlZHY?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "長期脱炭素電源オークション kankyo-business.jp",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T00:00+09:00",
-   "via": "環境ビジネス",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "57cb7775962be4b2",
-   "title": "系統用蓄電池の「O&Mコスト」の内訳とは――運用・保守費用を読み解くウェビナーを開催",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRU84N3NGZ20xVGduQjBGSDltdXlEOFZLMTNBTmJpa3VEN0NCWUozM3J3M1pzU2JIeGxmSHhJVFNiTWFKRXpmSU1iY2VTNTExQnlGbVJacnBnMlp3M0xlanBFaWpXNmdhMHc?oc=5",
-   "source": "PR TIMES",
-   "summary": "系統用蓄電池の「O&Mコスト」の内訳とは――運用・保守費用を読み解くウェビナーを開催 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-27T18:00+09:00",
-   "storage_topic": "その他",
-   "company": "ジャパンブランディング株式会社"
   }
  ]
 }
