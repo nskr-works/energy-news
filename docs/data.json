@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T01:19+09:00",
+ "updated_at": "2026-11-21T11:47+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "9b459d765f2c06f6",
+   "title": "株式会社レノバが運営する計5か所の太陽光発電所が、発電所格付認証機構（p-CERT）の「地域共生に関する格付」にて「A",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9obEkxYmJwVmxBeUNPQURaU1FXdWxnR0RLNURxbjRFeTVYV0hRMExvOGVrQ1ktTVNiV3IyMVA4dDhGbnFxZHpZYkt6Wmw3c0lYUFg5b1lONnpwNWZkY0tCdFhtQS1FNnEzZFpmamN1Mi1OSG50OGYxZA?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "株式会社レノバが運営する計5か所の太陽光発電所が、発電所格付認証機構（p-CERT）の「地域共生に関する格付」にて「A ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T04:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
   {
    "id": "61f219f7c285fbf7",
    "title": "中国の通威（トンウェイ）が最大20億元で自社株買い、劉漢元氏「過度な内巻きに出口なし」と太陽光業界を憂慮",
@@ -2408,6 +2422,21 @@
    "company": "株式会社エコスタイル"
   },
   {
+   "id": "48ef6ba0453e7802",
+   "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～ | 株式会社エコスタイルのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOUdtR3lVeHFxY1ltUVhRS0hienVZVEhjMGlNSTlIVXNjR1kwZ0I0WW5NRkk3U1p6Z3RkRXYxZkhTampxMEZBZ3JQZjNWZkh2VHRDTzF4LWpjREkyQ3ViYlJXTk1meHJUcXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～ | 株式会社エコスタイルのプレスリリース PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-18T11:00+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "storage_topic": "低圧",
+   "company": "株式会社エコスタイル"
+  },
+  {
    "id": "f2c03b9d7167490e",
    "title": "RENON POWER、低圧系統用蓄電池「133kWhモデル」の開発を開始",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTElOSE1temFYWURRbmFSMk1jb0lyZjY3cFplQWZQN3I4MUI3TGNvUV9DSXNWZHJmQmFKUHZ2ZU9YZGZiUF9QdlVCSF9JM0ZWa2MxQ0FheV9XUW5QWXpQMGZYc1BQdWhXSTRB?oc=5",
@@ -2419,7 +2448,8 @@
    "type": "release",
    "published": "2026-11-18T10:46+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "低圧"
+   "storage_topic": "低圧",
+   "company": ""
   },
   {
    "id": "7124fc292df73632",
@@ -42800,32 +42830,6 @@
    "published": "2026-09-27T18:00+09:00",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
-  },
-  {
-   "id": "47bf135bbd878554",
-   "title": "蓄電池の「セカンドライフ」活用ビジネスとは――EVリユースの可能性を読み解くウェビナーを開催",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aRXNjUERwQ1ROcjBLa1g3c1pvR2NBOVJ0RGMyemVMZE5xRDlxM1Jra2RMaDlyZEpuYm1DN2dKQVpYOTJNcHd5MzBuMFVsa3JfQy1tei1aYmdSS3BwemRvX2twZHRvVWZtbjVMN3NWYVF3UQ?oc=5",
-   "source": "Infoseek",
-   "summary": "蓄電池の「セカンドライフ」活用ビジネスとは――EVリユースの可能性を読み解くウェビナーを開催 Infoseek",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-27T15:40+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "1bc015a99b7a187e",
-   "title": "タイ政府、ソーラー産業の中国依存論に反論 国内生産基盤を強調",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UODFBdXlaZGllUi1Qc3diUVNPUmg0dE4tdTc1czZuTHY0NVl1QVc1RkpXRy1POGYwV2hxX2FVQ21sUzlYQldIM1c2M25vTFZ6cDVZeTFVRURsT0lU?oc=5",
-   "source": "newsclip.be",
-   "summary": "タイ政府、ソーラー産業の中国依存論に反論 国内生産基盤を強調 newsclip.be",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-27T14:57+09:00",
-   "topic": "政策・制度"
   }
  ]
 }
