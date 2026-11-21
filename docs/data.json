@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T21:56+09:00",
+ "updated_at": "2026-11-22T00:33+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "e8099ccbc305d69a",
+   "title": "系統用蓄電池テーマのウェビナー、12月中旬に開催予定",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ubkh2dHFycjladGxkLXpJQTNPMzcwc1c0NEtLMW5iMkdaU2hGLWZ1WXVyaml0NGI4VGw3VGhjM2E2dXphZXBZ?oc=5",
+   "source": "Dellows News",
+   "summary": "系統用蓄電池テーマのウェビナー、12月中旬に開催予定 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-21T23:28+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
   {
    "id": "3cff9e44625fb0f4",
    "title": "太陽光パネルリサイクル新法、線引きは「1MW級」 下位法令の検討会で見えた発電事業者の実務",
@@ -4107,6 +4121,20 @@
    "published": "2026-11-16T17:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "4d9b350c94d91941",
+   "title": "R8-6008 太陽光発電施設設置(東神吉町天下原320番、株式会社ES-MIRAI）",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRVBCTHkwMGFyZm9tWWczbWw3WXdiMlRfSjVKZF9CYm9ieUJpZmdzTFpjdzZqSlk4cDNyM05CUXBxbGxfZThpUkpkbG9hQVNGZVh4bkYwYUo5V1dKTU1ZNU93aDRTRE9GYkFUaGFFZUR1dnVwRmtScUtRT2FxVkJjQUVhMUd5QXpKdFNidlJJNTJjYWN1OThoTTVVZ3dwMHgwVUh0SlNubmF5YWpULUVDVHRaVExvMXk3a1d4WGFZRHJ5UFZkVGVyV1RQZ2c4WVlhV3ZGSEQ1OHNvWjRxU2VZTEdleDJPUUJDOHFFWVExOGU3eUlQQXFOa21fOW8?oc=5",
+   "source": "加古川市",
+   "summary": "R8-6008 太陽光発電施設設置(東神吉町天下原320番、株式会社ES-MIRAI） 加古川市",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-16T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "2d12a982f618ef70",
@@ -42825,34 +42853,6 @@
    "type": "news",
    "published": "2026-09-28T13:06+09:00",
    "topic": "トラブル・地域"
-  },
-  {
-   "id": "ec7039813ef444b8",
-   "title": "徳島市に再エネ地産地消モデル、低圧蓄電池や営農型",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzVzBlT01JV2lnWUFEZ2lVblFBY041SkQ4UlJ3TW9TMlpCbjZqZDBkVW81YUxDV1FCYUlYdDJWZG5aZzJHQlV0OG11Rm50SUdwZXdoZWFfRlFLaE1GS016VDRkZXZBQjBoQmJTSThZYUlRQUl4?oc=5",
-   "source": "日経BP",
-   "summary": "徳島市に再エネ地産地消モデル、低圧蓄電池や営農型 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T13:05+09:00",
-   "topic": "営農型",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "8cf9d746b6eb5081",
-   "title": "森ビル初の「系統用蓄電所」埼玉県深谷市で運転開始 | ニュースリリース一覧 | プレスルーム | 森ビル｜都市を創り、都市を育む",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdllOZEM3ZmluVURzZmduWTF3MUxNMWNHTjdkN29sVlliRjdlMzJXX0UwWEpCdXk1Y2NPdm1FTnVSZjNwcEI2TDFxTFVhenJ0NEpsbnVIbXhtdw?oc=5",
-   "source": "mori.co.jp",
-   "summary": "森ビル初の「系統用蓄電所」埼玉県深谷市で運転開始 | ニュースリリース一覧 | プレスルーム | 森ビル｜都市を創り、都市を育む mori.co.jp",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T13:00+09:00",
-   "storage_topic": "その他"
   }
  ]
 }
