@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T17:44+09:00",
+ "updated_at": "2026-11-21T21:56+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,92 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "3cff9e44625fb0f4",
+   "title": "太陽光パネルリサイクル新法、線引きは「1MW級」 下位法令の検討会で見えた発電事業者の実務",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SS0d3RVJ2dF9ZN01WNjFiVnFHTzNpQUFnbloxX1FIdk5La3pRTTFRNkhvaGFxWk9VTXltdGZtcWNzUWdCaWEyNHRRVlJSdw?oc=5",
+   "source": "coki",
+   "summary": "太陽光パネルリサイクル新法、線引きは「1MW級」 下位法令の検討会で見えた発電事業者の実務 coki",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T19:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
+   "id": "a697114b28e4a7dc",
+   "title": "衛星用ソーラーアレイの世界市場（2026年～2032年）、市場規模（リジッドウィング、ロールアウト型太陽電池アレイ、フォールドアウト型太陽電池アレイ、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzdFR5dUhtVVVBLW9DU05fMElpaF9kTmkxY0ZhbkxqdkxBd0hGai13V3V6X1l5QmswMkY3N2VBSWRFek0xUEVCeUluYnl3Q0U?oc=5",
+   "source": "アットプレス",
+   "summary": "衛星用ソーラーアレイの世界市場（2026年～2032年）、市場規模（リジッドウィング、ロールアウト型太陽電池アレイ、フォールドアウト型太陽電池アレイ、その他）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-21T18:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "e54cef2da08bb894",
+   "title": "新庄メガソーラー開発計画・「見直し請願」署名集まる",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Gdy1OaURfOGxhRVhuNjU4Mm5FNC11amZKZFlFcHZHRHlqTjFlOU5jLU1zd014Um1sV1pqX2lrVEV2MGVEd3lxY1pfWlNGWEVieWs2bmNSMDR1Q2NiX3FnTFdoTkkzMFFhaEMteGRkZzJxc2Nma3ZF?oc=5",
+   "source": "Excite エキサイト",
+   "summary": "新庄メガソーラー開発計画・「見直し請願」署名集まる Excite エキサイト",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T18:10+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "cb7dbe8aa3c02939",
+   "title": "新庄市のゴルフ場にメガソーラー開発計画・「見直し請願」署名添え市議会に提出へ 山形（さくらんぼテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVTlXRTBBSHdmUW04SkVKNzJBZzl6TC1QZ0NlazJCOXFyOGFMcFhzYUNycl9DUFlqV1NVYkdQSGZJdDZBTFJ4dmhiZUtqbFk2azlwX2tPVVlMMDBZMUVDRXFwc0NQUmtXUmFjdVZhMGdqYi1DaHZFZExac1Q0Yk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "新庄市のゴルフ場にメガソーラー開発計画・「見直し請願」署名添え市議会に提出へ 山形（さくらんぼテレビ） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T18:05+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "d949fa7468906e8d",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬に開催",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfUWV3clNxUmVRRmp6VFhKUlZkME5Qd0FIcHRXR25VUGU0YzFqUEFWdF9WS2toN2pmdHlrSHh0QTZLYVRrdGo4?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬に開催 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-21T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "601de0eafa7c9d85",
+   "title": "テキサスの電力市場はなぜ蓄電池と相性がいいのか――容量市場を持たない市場構造を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeXpRYXdKZldOUWIwT0RPVnRDTVZDMlpsejkyZWFlTlB6UzNIQ3BYd1Vla3BWN1JVdE5zam01c0c4T0tBYW5kci02V21WZkNWa3lxZTZqenpvSVRpMllkeXVldGFxeWRpM1E?oc=5",
+   "source": "PR TIMES",
+   "summary": "テキサスの電力市場はなぜ蓄電池と相性がいいのか――容量市場を持たない市場構造を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-21T18:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
   {
    "id": "0cf58caf626126af",
    "title": "適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査",
@@ -47,6 +133,20 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "473b365d259ab134",
+   "title": "Garmin、AMOLEDの画素間に太陽電池を配置する特許を検討",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTZxdXVVTXJzX3RNRHB6U2ZRdnhFWEU0Vm9RS0tEVmxjLTg3R0M1QnZDQmNralhCOU5IVVFCWFZTQ2JtcU5uUC1XWnNJMHBGdWIzVDI4T0FuS2RJYUxWWlJqTUNHRzZ0c0Nack5HWlFIQ00xdldwSGRIaG5xQWxLaDZGWlNFclBaSUE2SDZWOHhGWks0VkRKbGw0NVlSdXdKamc?oc=5",
+   "source": "Mezha.net",
+   "summary": "Garmin、AMOLEDの画素間に太陽電池を配置する特許を検討 Mezha.net",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T13:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "528b1e8445df5910",
@@ -91,6 +191,20 @@
    "published": "2026-11-21T04:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "9540ed3f9579d752",
+   "title": "ジャパンブランディングが系統用蓄電池の最適化を解説するウェビナーを12月中旬に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YaWw1VmJwa2ZxQ3dhcmlZZmxvTklTRDBrUHpJS1NEaXIxcE80YjA0cWY0LVVEYVhDeWZvSEpQUjNKbHJVRFNj?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディングが系統用蓄電池の最適化を解説するウェビナーを12月中旬に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-21T00:27+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "61f219f7c285fbf7",
@@ -235,6 +349,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "3b4c5f96ba65a4cf",
+   "title": "JPIが系統用蓄電池の契約実務とリスク対応を学ぶセミナーを2026年11月に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12dTJfOGZ6a0wxc0ViR2FxMFRFNTZJZjl2dFZ2eUlHQnpVeS1QRjBfeTBNVlRhdDR3Qm9YYUtGTW41c0huM2c?oc=5",
+   "source": "Dellows News",
+   "summary": "JPIが系統用蓄電池の契約実務とリスク対応を学ぶセミナーを2026年11月に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T17:22+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "2fb6b7b7348d1344",
    "title": "配線不要で手軽に設置・取り外しできる「ソーラー充電式ドライブレコーダー SDR-01」を先行販売 ～太陽光充電と準固体バッテリー採用で、駐車監視ニーズにも対応",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNWF6WmZySnJYanM4OXpiOE1aVUdfNzhqYUFtUGZPUTR5ZzB0RDdZc000eVlhX0xpUWtLZXBzUkRkaU1ITHBFYnRLRldKUGUyYjNUMXRXWWJPZlhIYkhiZ1lsZnNGcmhWSUFxTVlKNDBXaFg0?oc=5",
@@ -305,6 +433,20 @@
    "published": "2026-11-20T16:49+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "66f80b2b4e59dd19",
+   "title": "株式会社レノバが運営する計5か所の太陽光発電所が、 発電所格付認証機構（p-CERT）の「地域共生に関する格付」にて「AAA」および「AA」を取得しました〜地域と共生する持続可能な再生可能エネルギー発電所の運営が高く評価〜 | 株式会社レノバ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Tay1lWHloT2t1VFpfcWtKaXBUQUVIZWI0Mm5uUkd6OTFCQ2ExQllGZW9jcmplVnVjTHh1Vmxka0VlLU95YkRIekVIRVl1bW1ndDBTaG0wRlhBVFlld256VW9XeVQ?oc=5",
+   "source": "レノバ",
+   "summary": "株式会社レノバが運営する計5か所の太陽光発電所が、 発電所格付認証機構（p-CERT）の「地域共生に関する格付」にて「AAA」および「AA」を取得しました〜地域と共生する持続可能な再生可能エネルギー発電所の運営が高く評価〜 | 株式会社レノバ レノバ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T16:47+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "958cf6c2e97b9ff1",
@@ -955,6 +1097,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "e9e65db3b10db018",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬に開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yX1NWMDcwbko0cXVlV0dNdHFIUnZic19XUjU5RmMtdnNKcHhQTV85N0U4ZnlYWTdyR0tHUHZKWXNuRzlCNzg4?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬に開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-20T01:21+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "ba3b184f36061f10",
    "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了｜Infoseekニュース",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zRGFiNWhmTGZiSkNIcmxfTnRvbFJOYWd0Qm0zczJ3ZThMTXYtQXBFVHR5V25lSXFHbFpQNEoydUtQbUZUamh0WXBOZF92SFhUYmo1d3ZGR0wzYnlJWmkyMTdUV3ZoRkpLNjJ4a0hNRXdpdw?oc=5",
@@ -1560,6 +1716,20 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "市場・企業",
    "storage_topic": "その他"
+  },
+  {
+   "id": "ca042dda2fd21fd6",
+   "title": "エスティ、土木企業の枠を超え「太陽光発電防音壁」の先導企業へ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaODZNUGdVZG9lcU5QeFdzUm1lMGJBVkg0c2dWMEZRZXEtbGhtTFR6OTdMNjd6SmJSZWdSdTBNWENtNnBJZWg4bmE5NVZ2YlFrRFNz?oc=5",
+   "source": "매일경제",
+   "summary": "エスティ、土木企業の枠を超え「太陽光発電防音壁」の先導企業へ 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T10:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "5dd05824b079b64c",
@@ -3666,6 +3836,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "f64c9d979412f29f",
+   "title": "ジャパンブランディング、系統用蓄電池の法規制解説ウェビナーを26年11月開催へ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5ZTNXV3liTjVzVVhDdE5Oa05GN2VoSGRkZTdOallHN3dwWUJpc1l6bzhOdHR2Tmp0YXJ1ejZ5ZWE2T0k3Q2c?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池の法規制解説ウェビナーを26年11月開催へ Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-17T04:08+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "87d974a032d2d24d",
    "title": "PVCase、初期段階の太陽光発電用地実現可能性ツール「PVcase Concept」を発表 - ニュースと統計",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczRwQ05PZnhzaUY0X1d6VjBXMjJOVkp4UTY1QmNXNGlpaDAtVU9uYXJpeUstOUJEeE9GaWFPb0tFRjFWdENGazB1dlZKZU4tN3hOSkRWTzlyNC1XN1Z2Z05oOG9RaDZqcFpMSEhLUXlXRk9RX042QkRkTHdNVWNEOHFrTEppS01IaTF5bVJQTzA2cWNkU2VmNE1wcTcwY2lFODlnaw?oc=5",
@@ -3909,6 +4093,20 @@
    "published": "2026-11-16T17:00+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "f983ea18177b81fc",
+   "title": "蓄電池関連銘柄2026年版｜本命株と出遅れ株の投資ポイントをアナリストが解説",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XVFBPSmxrNjJzWE13U28wUlVzTFFtSTVVS2xpSE5BUlJTdjdqcWtYOVVjSU9PbDZUYzZDZ2ZfMDRkZXEwcVZFcXhtMTB5YnllWXVHbEJnX2lqa3ctcnozZg?oc=5",
+   "source": "日本投資機構株式会社",
+   "summary": "蓄電池関連銘柄2026年版｜本命株と出遅れ株の投資ポイントをアナリストが解説 日本投資機構株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-16T17:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "2d12a982f618ef70",
@@ -42655,189 +42853,6 @@
    "type": "news",
    "published": "2026-09-28T13:00+09:00",
    "storage_topic": "その他"
-  },
-  {
-   "id": "a5104715842bede5",
-   "title": "オフサイトコーポレートPPAによる電力の提供について",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HT3VsTG1lN0tWenR0eTg5amhadnlXeHhYWXBmd2tsNFN0U2c2bWhSUkFWM01iS2otZnlFTWp4N3YycnE0SXpBM090SENCRl9pZHhlQW8tZDRjbHVUWEJkVm1rWTBKWDI5U3c?oc=5",
-   "source": "PR TIMES",
-   "summary": "オフサイトコーポレートPPAによる電力の提供について PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-28T13:00+09:00",
-   "topic": "住宅・自家消費",
-   "company": "株式会社ミツウロコグループホールディングス"
-  },
-  {
-   "id": "c7da10dd66fcb01f",
-   "title": "ADワークスグループ---子会社が系統用蓄電所事業拡大に向け第10号・第11号開発用地及び系統接続権利の取得契約を締結",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnk4bHJSaTBublNnQVhLZS0yX2tfUnVRdGx0ODJQTEtDUFlUdXRJeFVCVVl6cEl3YTNnMDd5UXNyQlNpSUlhU1ZyRk9MQ2pEUXZQTnNGeUpLZDFqUzh0dkNxU2txZWlBdVBZVHZ0TmI4SU1iNEdQcW9aUTktWFVlSHFId1pybHPSAYwBQVVfeXFMTWxucXpTc25Wcmx3MnJkaHA0cVRPRkhocTQwSV9OaG9tOHFSeVRYdWV2aDhSNUFleC1nN1NNdmV1YkNTSWFQWkJkejBwUkRhcW5RRVlpYUlfdnpnTGhDSHhZM05YMmZUV0k4VjloSktHZmRLcUJWUnpWamtMR29peThDVUx5dXFHQUFvWWo?oc=5",
-   "source": "ｄメニューニュース",
-   "summary": "ADワークスグループ---子会社が系統用蓄電所事業拡大に向け第10号・第11号開発用地及び系統接続権利の取得契約を締結 ｄメニューニュース",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T11:57+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "be2f8e3cc8f5a9fe",
-   "title": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOTN6ZHNjUlQtaXVqcDZPbTdmbU02UEM2UjFUTmpSMVJqcjZtQk5MV1JwWlFyVXdQVDExQWQtLWxLcE1DRDBwMEliQkpfb3ZsRkMzNEpWOEpHSmVWVG8zMmtNNGlHQUdNUzdCWHVNdjBHZy1JUDM0WWpBbS1XTk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "summary": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す（テレビ朝日系（ANN）） Yahoo!ニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T11:49+09:00",
-   "topic": "その他"
-  },
-  {
-   "id": "defb04964fc00906",
-   "title": "【神戸市とパナソニックHDら】ペロブスカイト太陽電池、 かもめりあに設置",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZSGpzY05sS21ORlRCTTlaRHJld3JpYTdCMXJuQTJ1bE81VUczTDlZenFNMnpEOXNlU3dKZjdNRFNuNEV0Z0F1NTFIanpmaXRoaWhTaUdFRQ?oc=5",
-   "source": "建設通信新聞Digital",
-   "summary": "【神戸市とパナソニックHDら】ペロブスカイト太陽電池、 かもめりあに設置 建設通信新聞Digital",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:43+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "d8eff90d0d4fb3bd",
-   "title": "活況を見せる「低圧蓄電所」──制度解禁から半年、多様なプレイヤーが取り組みを強化（1/3 ページ） - スマートジャパン",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YRDJrUGZSc0lrcm1LQ0s4dG5ab0VEUFJnSG9jMXl5UmRUa1RyMENmLTNPRGxKeWtISUg0NTRxbTlhOWE4MHlLN1p3elhKeURObFRNdWZGeG5MTEJLam5RODBPY3ZaR3FTQUZXTnFSWWgwV1BQ?oc=5",
-   "source": "ITmedia",
-   "summary": "活況を見せる「低圧蓄電所」──制度解禁から半年、多様なプレイヤーが取り組みを強化（1/3 ページ） - スマートジャパン ITmedia",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "bbb69c551823dfbd",
-   "title": "系統蓄電所向けEMSサービス「グリッドストレージモニター」に需給調整市場対応機能を追加",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxS0RSd1JTQzZxNUpIdmk2bHJuOUZDek4zOURPY3BMUDhZLVVldGVXNzVOeVBhZ2t5S0dGdmc5c0ppSnlyQUpDOElqczM3Yzh4RmRnVDhNNW51bXdQRUVmTFdrb0hUb2M?oc=5",
-   "source": "Infoseek",
-   "summary": "系統蓄電所向けEMSサービス「グリッドストレージモニター」に需給調整市場対応機能を追加 Infoseek",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "751cec1fedb19a77",
-   "title": "活況を見せる「低圧蓄電所」──制度解禁から半年、多様なプレイヤーが取り組みを強化（2/3 ページ） - スマートジャパン",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51d1Zzb01FMEdSbDNweGdkY1ZzR0Zyal9uMUxKSkFFRG8zRjZNZWk0RUFIVjR4eWl2RmZnclVPSjFfZjBfbzdUQWZ6X3lzbXFwdURMOURlcUp1aG5hRnZYRzd2dF9CSjVORzR6Mmo5OXlfQTFNLVhn?oc=5",
-   "source": "ITmedia",
-   "summary": "活況を見せる「低圧蓄電所」──制度解禁から半年、多様なプレイヤーが取り組みを強化（2/3 ページ） - スマートジャパン ITmedia",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "a350d5f040e1774d",
-   "title": "太陽光発電事業の計画・設計・収益試算支援サービス「ソーラーマスター」にFIP転シミュレーション機能追加",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QRUcwRG9CQk02ZGluRVI2UW1lZzZvSUZDU3JaVEY4MTJNR1hpVk1hUFQ5aTNxNmVpOUxEMlBIVlNIRjU2VWFYRkM5S3hGRWRpd3hmclFlM1gwUWZVOER2anVkREdBRFd1V2kxdmthNFNqZw?oc=5",
-   "source": "宮崎日日新聞DIGITAL",
-   "summary": "太陽光発電事業の計画・設計・収益試算支援サービス「ソーラーマスター」にFIP転シミュレーション機能追加 宮崎日日新聞DIGITAL",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "topic": "政策・制度"
-  },
-  {
-   "id": "3ea1f703c0515a2d",
-   "title": "プレスリリース：太陽光発電事業の計画・設計・収益試算支援サービス「ソーラーマスター」にFIP転シミュレーション機能追加（共同通信PRワイヤー）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eEM1YUxONHB0M090TXlmLTZmVTdnS1FEcE5XblVjMEVhTnJrRXRWS0lLb1pPa09wWGVpLUVHQnU3VThqcElWU2pBUHA5VXVQeEliQkVKbFlRMno0MHhtcDFBVy1DQVI1?oc=5",
-   "source": "毎日新聞",
-   "summary": "プレスリリース：太陽光発電事業の計画・設計・収益試算支援サービス「ソーラーマスター」にFIP転シミュレーション機能追加（共同通信PRワイヤー） 毎日新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "topic": "政策・制度"
-  },
-  {
-   "id": "2afc2c68c7def3de",
-   "title": "活況を見せる「低圧蓄電所」──制度解禁から半年、多様なプレイヤーが取り組みを強化",
-   "link": "https://www.itmedia.co.jp/smartjapan/articles/2609/28/news044.html",
-   "source": "スマートジャパン",
-   "summary": "低圧蓄電所市場が急速に立ち上がろうとしている。その背景と「低圧」ならではの魅力、加熱する業界の動きを「PV EXPO」で探った。",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T10:00+09:00",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "32d6df16b4bd40cf",
-   "title": "ジンコソーラー、日本住宅向け製品強化 結晶Si太陽光モジュール拡充へ",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TeW9OMzdmVnJ6amU4RHg4YzlFeDJZU0FiZmNyRFA0YU9Cbm5DbXh4LTlBM05LRnVwalB3S2NmZzBPREpETlVURDAycHFVM3A5cmtZM1lJempSRXUzSVJIU0hPTkpJcUwzcTRmbk9fSXRsWXlRd0VkTVdpV0g?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "ジンコソーラー、日本住宅向け製品強化 結晶Si太陽光モジュール拡充へ kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T09:57+09:00",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "f2ad0d808f9974d5",
-   "title": "損保ジャパン、ペロブスカイト太陽電池向け新保険を提供開始 積水ソーラーフィルムが採用",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MaF9xTWtzTWJQeWZzSEtaVmtwV1dtOHVTb0Z4WXN4WGVoTjFtQVVfdHJDek4tdXRqOVBaRkNENmpVOFJ2YVgzQzRuZzlaZw?oc=5",
-   "source": "LIGARE（リガーレ）",
-   "summary": "損保ジャパン、ペロブスカイト太陽電池向け新保険を提供開始 積水ソーラーフィルムが採用 LIGARE（リガーレ）",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T08:33+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "733cf6f226df4abb",
-   "title": "【蓄電関連】Sustech：安藤ハザマ初の系統用蓄電所を運用、8.17MWhを複数市場で最適制御",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tdmdEUnVKbzRYMWF3RkFuVTVIYXNyVmVvZWtmeDJ6RDNfTUJmamowODFSV04xUndsQlBxNnlHY3djbXJLZDRFcU1KeFZmUHhGNF9nVUR1Ry0tWjFiUHpRYmU5bHlKOWNqTTBlMHNqUHowZw?oc=5",
-   "source": "みんなの広報宣伝部",
-   "summary": "【蓄電関連】Sustech：安藤ハザマ初の系統用蓄電所を運用、8.17MWhを複数市場で最適制御 みんなの広報宣伝部",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T07:46+09:00",
-   "storage_topic": "高圧（特高含む）"
-  },
-  {
-   "id": "3ffcc8491e96588f",
-   "title": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cd1VCWlZQc2ZFOWtWX2t2OUN2NS1nV2NKcHZxMldPR2F4aDlEY3YwRWRZY2FRa0JTRG5HSnZzMkF6WC1EMGdzNTlYWHFOMXNSY2VXT0F5c2Q?oc=5",
-   "source": "NCC長崎文化放送",
-   "summary": "台風26号接近、復旧作業急ピッチ メガ太陽光パネルが水害の要因に 専門家が注意促す NCC長崎文化放送",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T07:37+09:00",
-   "topic": "その他"
   }
  ]
 }
