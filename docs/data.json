@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T21:48+09:00",
+ "updated_at": "2026-11-23T00:36+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -233,6 +233,20 @@
    "via": "@Press（太陽光・蓄電池）",
    "topic": "市場・企業",
    "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "eb6da68324f966de",
+   "title": "新庄市のゴルフ場にメガソーラー開発計画・「見直し請願」署名添え市議会に提出へ 山形｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FNFZXcmxYcGN0M0V3NUx6bl9TTHFhOFpCckR0VmtqOGpaeDd6OG84UmNIbVdUdnp6eDVWeTNySDhNZXdBWVhKQmFUb2c1VWZBUWd0UDRUeEcwazdqb0VNODZGR2RXNTl5QmhFRXJ2WlZnSmM?oc=5",
+   "source": "さくらんぼテレビ",
+   "summary": "新庄市のゴルフ場にメガソーラー開発計画・「見直し請願」署名添え市議会に提出へ 山形｜ニュース さくらんぼテレビ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-21T16:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "473b365d259ab134",
@@ -42849,20 +42863,6 @@
    "type": "news",
    "published": "2026-09-28T18:05+09:00",
    "storage_topic": "その他"
-  },
-  {
-   "id": "e53d8fcf6ec3e9e6",
-   "title": "系統用蓄電池の系統連系手続きとは――8段階のロードマップを読み解くウェビナーを開催",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qTUhDMXljYy00allWTkpEdjdyeHV3Slk3M0MxYjJRRXVKVnRWaTctazNTTXFackVPUzVqVjl6TU9ydWRKYUwtUlVURVluR2psLU90T0hwdTduRW5UYjdGVEpValBnNnZrcUE?oc=5",
-   "source": "PR TIMES",
-   "summary": "系統用蓄電池の系統連系手続きとは――8段階のロードマップを読み解くウェビナーを開催 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-28T18:00+09:00",
-   "storage_topic": "その他",
-   "company": "ジャパンブランディング株式会社"
   }
  ]
 }
