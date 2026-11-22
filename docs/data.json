@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T17:47+09:00",
+ "updated_at": "2026-11-22T21:48+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,34 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "d1eee7adb2d20a76",
+   "title": "コスト面でのボトルネックを解消し、屋上太陽光発電を促進する。",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmtwNVZGSXkzenp6X0xNTTl0SmR6T1M3MnJBbUcwYXlfem84VlVuR00zRG9FTmtybGR1RnFDcTQwaEQ0N2JyZkpPQ2E2Mm5PaTJzQ29lMTBXRjRkeFoya2w0STdaZWY2bDRoYjhRRnNLNVBHbEs4N0owSzctT0FMbHlHRkcwa0Fx?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "コスト面でのボトルネックを解消し、屋上太陽光発電を促進する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-22T21:13+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "a397b101c5b8ab5c",
+   "title": "屋上太陽光発電開発に67兆5000億ベトナムドン以上を投資する提案。",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjBpSjFBbnZ1VEtrbmpES005dkZLbTVSVjN5aEVuVXQ0d2tWWHVJdWRzUG9XZ0xNaldYd0g3RGlYYTQ5MDI5Z0VxWXYyQ2tiVTNRako4UXZ3azkxNVpyTTdGbjhKZW14QnJxUU5ZcDF4LWI2ZWRZMmNpcktXcFZxazZGa2NSU0xzM1VRR0lSRzVlNnM?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電開発に67兆5000億ベトナムドン以上を投資する提案。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-22T19:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
   {
    "id": "7fd2ad9f3abe65bc",
    "title": "中国の寧夏化学大手・英力特、約10億元で支配権売却へ 寧夏回族自治区の富豪・党彦宝氏が傘下に収め太陽光資産を注入計画",
@@ -42835,32 +42863,6 @@
    "published": "2026-09-28T18:00+09:00",
    "storage_topic": "その他",
    "company": "ジャパンブランディング株式会社"
-  },
-  {
-   "id": "b3da878a5138903b",
-   "title": "太陽光パネルの「余剰電力」だけでテスラ車を充電--Nature Remoに家庭向けの新機能",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HMHozbWhxUnRhVmRlZTI2YnlKUXNKR0JybDZhWkg3eXRpWjVHRlBaNjhEQTRXZV90ZEJlWkRXZGtlc3BWc0EtaUkxRmhBVnFPYkE?oc=5",
-   "source": "japan.cnet.com",
-   "summary": "太陽光パネルの「余剰電力」だけでテスラ車を充電--Nature Remoに家庭向けの新機能 japan.cnet.com",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T16:35+09:00",
-   "topic": "その他"
-  },
-  {
-   "id": "aa823001269bcb2d",
-   "title": "ペロブスカイト太陽電池向け新材料",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UMzA5YkMtOGQ3ZUtZRW9QUkVkbms0Z2ZyVXFDbVNjcEcxSGZoczZHdmtnZlRkM0FiZmVtTVVvd21kZ0RIV3gtRWN3T1dlZktTb2FwRzc3VDN3dms?oc=5",
-   "source": "kyodonewsprwire.jp",
-   "summary": "ペロブスカイト太陽電池向け新材料 kyodonewsprwire.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T16:00+09:00",
-   "topic": "次世代技術"
   }
  ]
 }
