@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T10:33+09:00",
+ "updated_at": "2026-11-22T17:47+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "7fd2ad9f3abe65bc",
+   "title": "中国の寧夏化学大手・英力特、約10億元で支配権売却へ 寧夏回族自治区の富豪・党彦宝氏が傘下に収め太陽光資産を注入計画",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wLUhnQTlReWtOX0dJTXBMVlkzZU1QTEU3a0Flem5QVVJlMFJBWkd0UHl3aTN0MzZLRjdJTE5Xd3k5YmVSOGxVTEo3S1BpVHh0VGtROXBwd1l3ZEYxOEJyWk90bjU5Rkd3cGV4VTVFbkdfQk03?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "中国の寧夏化学大手・英力特、約10億元で支配権売却へ 寧夏回族自治区の富豪・党彦宝氏が傘下に収め太陽光資産を注入計画 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-22T09:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "43bfa8b1f7609209",
    "title": "大阪ガスとSonnedix社、大分市の太陽光発電所で蓄電池の商業運転開始",
@@ -263,6 +277,20 @@
    "published": "2026-11-21T00:27+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "5180cfde1ef1dcbe",
+   "title": "Enel、サウスカロライナ州の317 MWdcの太陽光発電ポートフォリオをenergyReから買収することで合意",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZHTkhwTTVHZnpPNlBadElWeVZ3c0xZSjhQRXljZ0FzMjdWM1pXWEttVl84SjQ2MXk0blNGVkF5YlBkVVZRNkc4ZXQzX0NjV2ppMW1JVnRfUFh5NGxQZlFpdzkzT1ZsaUNnQ3hnX1k0UGN0RFRabEtNWUFiT1VWdWJaZm11VWFmS21EV2xZRGkwYU5EUHkzVnR0d2lpazA?oc=5",
+   "source": "Securities.io",
+   "summary": "Enel、サウスカロライナ州の317 MWdcの太陽光発電ポートフォリオをenergyReから買収することで合意 Securities.io",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T23:43+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "61f219f7c285fbf7",
@@ -1395,7 +1423,8 @@
    "type": "release",
    "published": "2026-11-19T16:16+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "787da552fcddbff9",
@@ -1409,7 +1438,8 @@
    "type": "release",
    "published": "2026-11-19T16:16+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "85c44e27600f9c80",
@@ -42831,33 +42861,6 @@
    "type": "news",
    "published": "2026-09-28T16:00+09:00",
    "topic": "次世代技術"
-  },
-  {
-   "id": "e5ca82afd8b1bae1",
-   "title": "鉛フリー太陽光発電用リボンの世界市場（2026年～2032年）、市場規模（タブリングリボン、バスリボン）・分析レポートを発表",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETGVlRXh2TDRNNXJqRFRMTTgtemhhVGlCMDdNc09nZU90dlR4QWpvV2pKSWRYUTB4Y3JlSm1xeXFSbGtLZW5wOFVfNnkwVFk?oc=5",
-   "source": "Newscast.jp",
-   "summary": "鉛フリー太陽光発電用リボンの世界市場（2026年～2032年）、市場規模（タブリングリボン、バスリボン）・分析レポートを発表 Newscast.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-28T15:30+09:00",
-   "topic": "市場・企業",
-   "company": "株式会社マーケットリサーチセンター"
-  },
-  {
-   "id": "cb3e2381c9597686",
-   "title": "リユース蓄電池と再エネを組み合わせ最適運用、工場で実証開始 大和製罐など",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xZWl5TE5WQ0FqQl8xcUJ0cTd6eFZJY2xxWlNQUzlZYnhRS0Y0UmtuWlUzckxzZjFmSFFqLTUzNEpEdnBicEN0MVhSWEdXSzFpVklvR3lvS0VjQlZlU1g3Vkh2OTRfYmxIX1Q1MzlDOHRfNXZVXzJHUks2TTM?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "リユース蓄電池と再エネを組み合わせ最適運用、工場で実証開始 大和製罐など kankyo-business.jp",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-28T14:18+09:00",
-   "storage_topic": "その他"
   }
  ]
 }
