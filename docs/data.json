@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T00:33+09:00",
+ "updated_at": "2026-11-22T10:33+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,50 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "43bfa8b1f7609209",
+   "title": "大阪ガスとSonnedix社、大分市の太陽光発電所で蓄電池の商業運転開始",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EanVMczlfSFkySnFCTngzWUFSVjhabnZlQ0ZoR2hEblgxZEd3ZEtuMXl3WHlaTEVoN28ySC1zMFFsVFBTdExz?oc=5",
+   "source": "Dellows News",
+   "summary": "大阪ガスとSonnedix社、大分市の太陽光発電所で蓄電池の商業運転開始 Dellows News",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-22T08:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5a8f3f0f007ecc4e",
+   "title": "蓄電所の整備相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zNFBRUU93LTg1M2M3ZVdZWUtlSTNhQjBuUXFJRnhONWpUV21JR3hxdzRxWTNIQjhhNGVuQWtOMkpEblFMY1NuMzQ5U1lxbFJZNnc?oc=5",
+   "source": "山陽新聞",
+   "summary": "蓄電所の整備相次ぐ 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-22T08:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "748b8d4e3793a375",
+   "title": "投資テーマのMVP！｢ペロブスカイト太陽電池｣注目13銘柄",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcFRfRkhaSm1VanhpU2NpTTNwaDQteGRQU09ocXlBU2lXOEs5cFdzTzlyRDl2VUZWNXU2T21GUEdzQS0yd015UzlCVUYyTkNTeDZkaUtwYw?oc=5",
+   "source": "四季報オンライン",
+   "summary": "投資テーマのMVP！｢ペロブスカイト太陽電池｣注目13銘柄 四季報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-22T07:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
   {
    "id": "e8099ccbc305d69a",
    "title": "系統用蓄電池テーマのウェビナー、12月中旬に開催予定",
@@ -42814,45 +42858,6 @@
    "type": "news",
    "published": "2026-09-28T14:18+09:00",
    "storage_topic": "その他"
-  },
-  {
-   "id": "f734bc2829281ad0",
-   "title": "ガラス型ペロブスカイト太陽電池 建材活用見込み公共施設窓で実証、神戸市",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MOTVJRUp6ZFBLSS1WRU53S01uQ1k2QklGc1o5c3k3MFl1QjNHSnJwS1NRZFJTNkd0S19qU21pZU1lc2RMTkJGdnJ1MTVidWljYUpMQV9nbFVQYjRGcHBIb0t5U0NBbFpuNURMcS05MWNvUjZ0ajl2SmRlcC0?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "ガラス型ペロブスカイト太陽電池 建材活用見込み公共施設窓で実証、神戸市 kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T13:57+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "2a67e87e77d6c384",
-   "title": "ペロブスカイト太陽電池を避難所に設置、東京都が支援",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QdXpvUGRiUm8tajEtSTZkYWFGNzlrUmtFb3ljNEd6WkxpLVZ4enFUVkp2QmxHOUswY0pwdXFWNVd5RDN6ZEVEdmZSSi1mcWc5ZXRHTlMtblFnUFZNZjBFcnh5VHNhSC1lRVlKaGEzYXBFWmRV?oc=5",
-   "source": "日経BP",
-   "summary": "ペロブスカイト太陽電池を避難所に設置、東京都が支援 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T13:12+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "365a5b30648a6401",
-   "title": "水没した太陽光発電設備の感電・火災防止へ 経産省が緊急要請",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0emFjVFBhcmtWOTF6NDAwTGNxWHdid0lSeU9pRk5xSnhvZnRNRlFMRlVDMmN2MkExeWRmWHJFODJUYkpjSUZuLXhnYw?oc=5",
-   "source": "solarjournal.jp",
-   "summary": "水没した太陽光発電設備の感電・火災防止へ 経産省が緊急要請 solarjournal.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-28T13:06+09:00",
-   "topic": "トラブル・地域"
   }
  ]
 }
