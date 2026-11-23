@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T00:14+09:00",
+ "updated_at": "2026-11-24T04:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,36 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "14332767f1a4580e",
+   "title": "ホンジュラス、太陽光自家消費者の余剰電力への報酬支払いを開始",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0IzU2IyUzRTNFhtSV95UnpFZVNoNlVFNTdJMUVJcW5YZl81Nm4wUEJwSnNHZzBaS29yZmVTU0paUGZsZDVRUkZxNGlZRnZNRUJ4ZkxnNUFzQk05WmZmNjRTajJFU0JoTzdXdU0ySDM0X1M1di1ZMUpmcVprZmtwc2stNkwybGpzYmRWUUJuN3dsM3dQVi1xaUl2WQ?oc=5",
+   "source": "IndexBox",
+   "summary": "ホンジュラス、太陽光自家消費者の余剰電力への報酬支払いを開始 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-24T01:52+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "0d4daf3871b5afa8",
+   "title": "エレクトリカとリバティ・ガラツィ、240ヘクタールに250MWの太陽光発電所と蓄電池を計画",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWhvVk9sbHNkTE1LVE5DeDZJOFdhdnY3TmxZQTU1VUF1OTM4Y285VXRodmltWXFweFNtRTRLZHV0aEp4RGpEZngtYmowSTZFWjBWYjdpSE9oSGdCV0FjTGNnQzFpaTBldmF0UjFwMzZOWVJfblMzbDJoTjNGNDJvZlEzcndOT0hhMWxhTW0xS2xaMWxPMFJmTGJmLUNxdWg1X1pDemVZMlhvNjNIS3NKeUtjSXR2YmtOd05j?oc=5",
+   "source": "Informat.ro",
+   "summary": "エレクトリカとリバティ・ガラツィ、240ヘクタールに250MWの太陽光発電所と蓄電池を計画 Informat.ro",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T00:14+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
   {
    "id": "8d003a52d06ecab6",
    "title": "エー・ディー・ワークス 需給調整市場に参入 系統用蓄電所",
@@ -42865,36 +42895,6 @@
    "published": "2026-09-29T12:00+09:00",
    "via": "SOLAR JOURNAL",
    "topic": "次世代技術"
-  },
-  {
-   "id": "70a46db5962b808c",
-   "title": "クラダシ、島根県安来市で「島根安来蓄電所」を着工：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydjE4V2ZlaW9GRWtSTmNhMzZJS3RzelJ4MGhwd3lZWmFySTJFZFNfcjU4U2xITW9fVnQ5cXB1aW1vM3VLc0RfczQzS3lRS1B4ZVpEMFpWM3dxUTRic0l5OWhZTnIwRmljUTNr?oc=5",
-   "source": "時事ドットコム",
-   "summary": "クラダシ、島根県安来市で「島根安来蓄電所」を着工：時事ドットコム 時事ドットコム",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T11:46+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "928fc10a8490cf20",
-   "title": "益田市と日本蓄電池、災害時の電力供給で協定締結",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sSnBYeno3YTFvcjcteVhEVmJEM3RhYkpMTERMM2Vyb3A2Y2dsR0JJMklmYl9GYjVhcE5iMk9uT1BVNjZJWndXdEhndnI2MUVKeDhLTDF3VEpJZjVtLXVKa18zcTBFTjdONVhjdmx1MTBRMTl1?oc=5",
-   "source": "日経BP",
-   "summary": "益田市と日本蓄電池、災害時の電力供給で協定締結 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T11:34+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "topic": "発電所・開発",
-   "storage_topic": "その他"
   }
  ]
 }
