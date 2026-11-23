@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T18:44+09:00",
+ "updated_at": "2026-11-24T00:14+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,62 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "8d003a52d06ecab6",
+   "title": "エー・ディー・ワークス 需給調整市場に参入 系統用蓄電所",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESVdtYXdtZFgzRUd4NG8wRFpHUTlxbVE1SWE5T2oyZXZhbHB4blctQnV2QWg1MVZKejR0RDdkTklxdGEyQ1Fva1dwcEZpYUR6WlE?oc=5",
+   "source": "住宅新報",
+   "summary": "エー・ディー・ワークス 需給調整市場に参入 系統用蓄電所 住宅新報",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T00:03+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "889c8f74c66e898e",
+   "title": "ペロブスカイトで「ヨウ素」注目 生産量世界2位、埋蔵量1位 経済安保上の重要性高まる",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wZHBwOVdfSHI4dXpWM3ItUnV0U3pmZ1c4N3lJcFhzcFJCQ3lQSklYSkozQnZfV01vQndxVDJIZS16VGZhcEdvWmxza1pqTHNNVnFpUy0zbGFoME9HYnU2OWVsdDRtOXZBd2ZhYldQejQxa2JFX1E?oc=5",
+   "source": "産経ニュース",
+   "summary": "ペロブスカイトで「ヨウ素」注目 生産量世界2位、埋蔵量1位 経済安保上の重要性高まる 産経ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T19:34+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4fee48f0118cf369",
+   "title": "屋上太陽光発電設備を5,630MW追加設置するには、67兆5,600億ベトナムドンが必要となる。",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWk9aWU9wVFR0TnlhdFhVY2pUY19LUkV3blh6N1doUTRzNHUyR2R4WWpBVTlGc083dV9TNUVyNzh3dFNjNDNlTzZhbVFqU0QtOTQ3TEd5LUkweXF4WlNtQUdWRDUzd1FqMUJTVHB0bFEwajVCaGpWeHFqdW1qM1FtQlh4VWFPTEYyUzN1VlJmWQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電設備を5,630MW追加設置するには、67兆5,600億ベトナムドンが必要となる。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T19:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "33e7f28a10f43050",
+   "title": "中国では太陽光発電が羊の群れに餌を与えている。",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZGNuSzN0Zi01Rkk3Q0xab1I3dW1WZ3V6eW5OazJKaDJoZGsxbjRtQjBkVnp2RG9POE81Ml9iN3VwZWlpS2kxTndENDdGNmJDYzV0SkN6TzlPdGtncnF5VWdrWlFRSi1oSUY1RjlRRDBSWFlSRTNaYXJsaTc?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "中国では太陽光発電が羊の群れに餌を与えている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T18:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "cfe6bfc76d6e463b",
    "title": "オーストラリアの蓄電池はなぜ世界第3位と報じられるまで伸びたのか――ホーンズデールから始まる歴史を読み解くウェビナーを開催",
@@ -110,6 +166,21 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdGEzQlNlYWhyMDRiTXJ4SlRPTVBxRVJhcERiOTJkT3h4ZEtjRmZoSk1PUEZmclNjNENCN1ZqWmx1SW92UFFZSENPRXJGYmc?oc=5",
    "source": "アットプレス",
    "summary": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表 | 株式会社マーケットリサーチセンター アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-23T13:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "3a1ca1b9d02bc3b0",
+   "title": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdGEzQlNlYWhyMDRiTXJ4SlRPTVBxRVJhcERiOTJkT3h4ZEtjRmZoSk1PUEZmclNjNENCN1ZqWmx1SW92UFFZSENPRXJGYmc?oc=5",
+   "source": "アットプレス",
+   "summary": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表 アットプレス",
    "categories": [
     "solar"
    ],
@@ -540,6 +611,21 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQV3NLZVFaZ1FKVHpIMTdPTUZTRDhNNUNhSTJUbTZZekdZdVgzdjllYmpGS1IyQUZKeWZSOXZsMTI0eHExX016eU83WWFDamt3XzROMHQta19venJNc2JYUTBWX1pCOEJ1UHc?oc=5",
    "source": "PR TIMES",
    "summary": "「どれを選べばいい？」をパグ店長が解決。HAPPY JOINT、ソーラーライト選び特集ページを公開 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-21T13:28+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社HAPPYJOINT"
+  },
+  {
+   "id": "cf37b7205c11d829",
+   "title": "HAPPY JOINT、ソーラーライト選びの迷いを減らす「購入サポート強化」を開始。パグ店長が設置場所・タイプ別にご案内",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQV3NLZVFaZ1FKVHpIMTdPTUZTRDhNNUNhSTJUbTZZekdZdVgzdjllYmpGS1IyQUZKeWZSOXZsMTI0eHExX016eU83WWFDamt3XzROMHQta19venJNc2JYUTBWX1pCOEJ1UHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "HAPPY JOINT、ソーラーライト選びの迷いを減らす「購入サポート強化」を開始。パグ店長が設置場所・タイプ別にご案内 PR TIMES",
    "categories": [
     "solar"
    ],
@@ -1513,6 +1599,21 @@
    "published": "2026-11-20T05:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "295538569537164d",
+   "title": "那覇空港旅客ターミナルビルでガラス型ペロブスカイト太陽電池を 内窓に用いた建材一体型太",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXJGMWJCZEtUREpZaVhXYUwwRXlIZ2pOelI1ZnRzeWpNclFCaWFrYWlkU1dzb0ZRSXk2ZmtIMnFXc3dQUndMbW45OGZ1UGxNOGJsYTJvaEZhRVdXc2x0TzNzUTItS3ppWDJtUW9OU1JtQVlTWlZVSzBaQXpleXVqdnFMUnVNU3Q1dFZ3?oc=5",
+   "source": "PR TIMES",
+   "summary": "那覇空港旅客ターミナルビルでガラス型ペロブスカイト太陽電池を 内窓に用いた建材一体型太 PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-20T04:23+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "次世代技術",
+   "company": ""
   },
   {
    "id": "5ec903ad7318ee31",
@@ -42794,103 +42895,6 @@
    "via": "Googleニュース「系統用蓄電池」",
    "topic": "発電所・開発",
    "storage_topic": "その他"
-  },
-  {
-   "id": "06228149f1bff14d",
-   "title": "北陸のスーパーで初のZEB店舗、300kWの太陽光設置",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vZkwzRkRLeENPU19lNFZKUldoVUNPNnpqdk00Y2wzY1V3bmVtTmJtVGhmN3E5bnpWMTg3N0RObVkxLWVfeDJJcU5qZ3pwc3BvbzdRTlJXZkpFYW1MNHZGZEhYcFFINGQ2OVd0N2xyMTdSM1pR?oc=5",
-   "source": "日経BP",
-   "summary": "北陸のスーパーで初のZEB店舗、300kWの太陽光設置 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-29T11:31+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "fa7c4e734415b2e5",
-   "title": "2026年度第4回 環境審査顧問会 太陽電池部会",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnVmaFdrUm9SMWR0RFU0WkpINnFBZW9uQ25MMnFfQ1pXSHB4ZV9aNUpPbXJtMV9xYW55Mm9YMVdsN003QTFpNnNtYzN3OUtWaG81TGpVaXNURDd3bmxPUmdsMGtkcnZCTTlMWUlNVXp4QmkxMjJxakVZT3AtQVRXRjVLZmhxbVBNbEx4Wm1ybmo?oc=5",
-   "source": "meti.go.jp",
-   "summary": "2026年度第4回 環境審査顧問会 太陽電池部会 meti.go.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-29T11:24+09:00",
-   "topic": "その他",
-   "company": "経済産業省"
-  },
-  {
-   "id": "8e82925e0cb7364c",
-   "title": "豆も育つ、電気も生まれる──営農型太陽光発電の実力",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaEZtUEU3TlNUbER5OElsX21rNTBDeDU5b3hsZkk1MUpIMzYxTDZyNTFwOE5nTmRxMWlXRmNpRDlVakpBSEk3ekRPRWp4OTFQUGg0Rk8zQzF0dw?oc=5",
-   "source": "Forbes JAPAN",
-   "summary": "豆も育つ、電気も生まれる──営農型太陽光発電の実力 Forbes JAPAN",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-29T11:12+09:00",
-   "topic": "営農型"
-  },
-  {
-   "id": "090fc0879123817c",
-   "title": "【系統用蓄電池のレイアウト設計】敷地条件に合わせた設備配置―現地調査から施工までの確認ポイントを公開",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TUZfUGVVT0xVU0FoMXg4LXhQb0prT05UbHloT2hjZVpJaFZ0SDlLbVlubThUVnVQMHMxZ01uTjNQbGc2MkM5Z3ZMM1ZPdmdxZXlhVEd0VWt5aTdLQWtRVXVuZV9iRFRFdGc?oc=5",
-   "source": "PR TIMES",
-   "summary": "【系統用蓄電池のレイアウト設計】敷地条件に合わせた設備配置―現地調査から施工までの確認ポイントを公開 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:47+09:00",
-   "storage_topic": "その他",
-   "company": "サステナブルホールディングス株式会社"
-  },
-  {
-   "id": "1c6e90e6d5c1872a",
-   "title": "太陽光発電モニターの世界市場（2026年～2032年）、市場規模（ハードウェアモニター（データロガー、スマートメーター）、ソフトウェア／クラウド監視プラットフォーム）・分...",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9McTk5Z29KX1V2RmhlTHBZMUwxZXE0elh0Njgwd2Fadk1wVGRtWlEyWmlnUGxhYW1IbUVHQlFtLXpGb2RoU1JySlp6d2lHa0U?oc=5",
-   "source": "アットプレス",
-   "summary": "太陽光発電モニターの世界市場（2026年～2032年）、市場規模（ハードウェアモニター（データロガー、スマートメーター）、ソフトウェア／クラウド監視プラットフォーム）・分... アットプレス",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:30+09:00",
-   "topic": "O&M・保守",
-   "company": "株式会社マーケットリサーチセンター"
-  },
-  {
-   "id": "4eb712b33912fe48",
-   "title": "電気代高騰で71％が「負担増」も、56％が「太陽光の検討経験なし」！その理由は？",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldTlCQy1PeXBMRXhJN3ROY2VxWENuY0hQbmdNc3NpMlM4cHlvbVNJMnpieTlGd3JpS1BwLWJaN2FKLW5qY012ek1FQkZJMVR0UFFTNnFkUDN6VVdRNjRGaE5mRHFmYUlfaGc?oc=5",
-   "source": "PR TIMES",
-   "summary": "電気代高騰で71％が「負担増」も、56％が「太陽光の検討経験なし」！その理由は？ PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:20+09:00",
-   "topic": "その他",
-   "company": "株式会社CaNowHOME"
-  },
-  {
-   "id": "823e553b49aab0e8",
-   "title": "国際航業の「エネがえるASP」、オムロン ソーシアルソリューションズの販売店向け蓄電池提案支援ツールに採用",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVENHSkZfeWI2STlCT1dKMnVnTThYRDcwYmNkSlBUX1JaM3FURlpwX3Rzem9HSXhaei0yT3Y1aE4xc2pFMEM0Nm5VN3JaQWs1UHc4ZUpTTmxxakp4aTVRTkI1eUgweVRSU3c?oc=5",
-   "source": "PR TIMES",
-   "summary": "国際航業の「エネがえるASP」、オムロン ソーシアルソリューションズの販売店向け蓄電池提案支援ツールに採用 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:10+09:00",
-   "storage_topic": "その他",
-   "company": "国際航業株式会社"
   }
  ]
 }
