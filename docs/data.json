@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T10:57+09:00",
+ "updated_at": "2026-11-23T18:44+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,134 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "cfe6bfc76d6e463b",
+   "title": "オーストラリアの蓄電池はなぜ世界第3位と報じられるまで伸びたのか――ホーンズデールから始まる歴史を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pamM2NXBTUUMtcWFuWXVFT3ZvRHdaWTB4bzBaUmJyVXBhMVZGaXBzcUN4OXlmVmEtckRJazRmTkpJUDdSRXJIUnQ1TFlyWWNLdU9NTnNCNlFWNDdlQzFOVFg1S1IySjRPMHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "オーストラリアの蓄電池はなぜ世界第3位と報じられるまで伸びたのか――ホーンズデールから始まる歴史を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-23T18:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "93ec4cb7591dc595",
+   "title": "国内最大規模の再エネ併設型蓄電池、大分市で営業運転 東芝が完工",
+   "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQQnh5bUJ1XzBfNXNnbnJjTFFBTlk3ejAzblRJVTRUS29JRmdYeUZtSkFJak90bm1tZDE4QWxlUUhKc0ZPYURLQ3J1Z1oxYUVCQWR5UkJCQUViTXFkbFNlc0hIMDdFMF91RHEteW1nMkRQN1ZfU245SDdoemZON19JNUdXbm5RZ0ZLbFBvYjhkWldCSWNkQkRmX0c5OWxJYmJXNWlHdGtXYl9lOFBfNVIzb0U4TlB1MnpGNzhpMldqZGFRbzRUOFlTT1FTMl8wS0V1SUpKdzVnbG42NmJ2NV9LQXhBeTY3T0NRcmh1Nk5RUnJyTVo3LW9oU3FCU2RtUEV5ZllheGNrTW9PWlRYSERsX3VPTHdKMnlUM3o4V2Y0QmM1LThaME41TFhZYmM0S0FjajVqNVpHVXM3MGotNlo5YWV6MDIweklhZTB0SjU1b1JkWUdMS2ZHRHBQMDRfTG9obzdTdEJzQjM1NXBCMk5KZFdoQld4SENyemFDXzJEWHdOLUttdklUcHROeUpFS0xYbXBwdldUM2I0NmFCdDhFVEFWZ3d5UFlWem02dGNlLWc4em9UTzBqbUk1UUI4bHJXV0Rrd05vT3ZmUTRfNkVjRkJuLVV0UWplM0dxTGFWTGVtSlBmSU1WS1VvR0lZVVV5ZHcxbm9TYmtNN19la0R4ZWlFUkswVXRnWUpFek1JOHVNQ0N1OU5pRUFaRUdyZ2oydDBPZm1xZUJmX010ZVduZG9FbURHVk93MlB0Q2RWQjQ4LS1R?oc=5",
+   "source": "電波新聞デジタル",
+   "summary": "国内最大規模の再エネ併設型蓄電池、大分市で営業運転 東芝が完工 電波新聞デジタル",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-23T17:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "fe8215c208ce5803",
+   "title": "自給自足型屋根置き太陽光発電5,630MWを開発するには67兆5600億ドンが必要",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMG41SjB4c19nUlhLTGhnNjlSRUtmb212SGJLX3NLOWtsVndTTTVaVmtsR0Q1Q1k3RkJac3JpX25LSlZ5bGhGNnlVZENFcVNBcWRhOUVQa0czQ3AxTEtjMW5yMk5hNlJyY05HSzU1WE80TG1aOV9ZbVVYaVVPLU5iSnltbVg0NF9Na19YQlhQeFB5OXltSTMzSmNmam5reU5HWFhxanE2MUIyWmdxRVk2Mm9lU3E2XzdKbThUcm1pRnZEcjA?oc=5",
+   "source": "Laodong.vn",
+   "summary": "自給自足型屋根置き太陽光発電5,630MWを開発するには67兆5600億ドンが必要 Laodong.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T16:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "37d82591e1968379",
+   "title": "韓国のH Energy、GS Energy、STIC Investmentsと屋根型太陽光1GW共同開発を推進",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51aUhKNnRHV3dzbHpVQ1ZURDIxOVoxaEhNVnBQVmpHNGl2M0Q2cE0wREVMUkZYSGNMSUg3Y2VScjRKRC1rcGhNZkR5NUYwTU1BQUp0OWx1Tk12aXJfNWYtYU13aFFoaXltenF1NUl2UUVIUU1v?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "韓国のH Energy、GS Energy、STIC Investmentsと屋根型太陽光1GW共同開発を推進 BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T15:56+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "78c65fcd46a56236",
+   "title": "屋上太陽光発電5,630MWの配分：どの地域が最も多くの電力を受け取るのか？",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcElNWGNiRTlnNU5MRVRDMFg4STFCM3ZCU1dCRDk2WUJhYkRHQWJNVk1sQVNiRGFqd3I1ZVhnWjB3MFVwZ3RxUnktZHRMY2d1d1N0X1VGOEkxZmlMOXV3alJ4eVVBUXp6X2xtSVFiNWI4c1dIM0RfNUhRRlZUYmx1endPSWhxUU9PZk5tMlRMNkctX28?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電5,630MWの配分：どの地域が最も多くの電力を受け取るのか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T15:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "b771a754b42c0d91",
+   "title": "高麗亜鉛、米太陽光パネル再生事業を主導 製錬所で金属回収へ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmQzUlIyLUZ2V0h0MlF5cnhyQzg3UHVKd1VlckNaRUtNbTB4dGVmREZldHM5dkZsWlYyVmhPTW96Tk5DV3FUQ0EyVkhVUHJKVDB3a3ZIaWdHWGpmOWJmYjN5U1p3WktwdlhENGZLZDhpUFh5RExTMWg5SXlBRWRkTjZR0gGWAUFVX3lxTE5Vdk5ReVNEQnpkRzJvX3Jab2JLV3U0MGNSNXhBZEU5dUVTQkdnb2FaOFUzUE1BNUFRNTlQZTdnVDVobWhlVVUyTVRnbFU0UlMxbXdrVEpaOVg0OENuUS1pdTVrTXZvd0NoaHBzSllaeFFseVAwMndrS2hHV3kxNnpWNVdQdGVDcFRjLXFlaFk5NmZzQTd0Zw?oc=5",
+   "source": "Chosunbiz",
+   "summary": "高麗亜鉛、米太陽光パネル再生事業を主導 製錬所で金属回収へ Chosunbiz",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T13:46+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "d1e3aaf52aef03fe",
+   "title": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdGEzQlNlYWhyMDRiTXJ4SlRPTVBxRVJhcERiOTJkT3h4ZEtjRmZoSk1PUEZmclNjNENCN1ZqWmx1SW92UFFZSENPRXJGYmc?oc=5",
+   "source": "アットプレス",
+   "summary": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表 | 株式会社マーケットリサーチセンター アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-23T13:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "8bd8ad1bfaf55daf",
+   "title": "QatarEnergyトップが訪韓…韓国、LNG優先供給に太陽光・造船協力まで",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYbWRLNEdvTm1tdENqTDEtSFE2cGRYdTNCWm85S2FnT2tiRjM1NGdqbUNsQTYzVUZYRXBKVTlma0dmYm1DWmJrYTZQcDNpclRlVFphRnhWdjd1RXpNc2lvanhob3NPNG5zXzJ1a09YRy00Q1U3?oc=5",
+   "source": "BigGo ファイナンス",
+   "summary": "QatarEnergyトップが訪韓…韓国、LNG優先供給に太陽光・造船協力まで BigGo ファイナンス",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T11:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "13f081f9efb41857",
+   "title": "H Energy、GS Energyなど3社が屋根上太陽光1GWを共同開発へ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS1h6dDNYZE1RWkFRUkxVVEVMRy1VTGFHT0hMX0xqQzVHcGJGTDhPel9uVU9JeW5mMU4wLXF2UUpfamp0cFhWVzRuXy01RUpQSlBKdHhYN2MtaXRGMDZtY2VKd1NYM1hma3N3Y0xVNHNwbURnZWliMjhnNjRUQ0FDLVloZWREMDcyR2xhby10OUlpMFlBWHhiMl9hTlNxV0w1Mnc?oc=5",
+   "source": "디지털투데이",
+   "summary": "H Energy、GS Energyなど3社が屋根上太陽光1GWを共同開発へ 디지털투데이",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T11:01+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
   {
    "id": "157fb9c9a071248c",
    "title": "バルコニー用太陽光発電システムの世界市場（2026年～2032年）、市場規模（300W-450W、450W-600W、600W以上）・分析レポートを発表",
@@ -148,6 +276,20 @@
    "published": "2026-11-22T19:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外"
+  },
+  {
+   "id": "347b99c6138af46b",
+   "title": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬開催",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaRWZ1djh2OWNESEp4NUZ2X1BhcU53LWZsc09JU2tSSFpYTFQ0MmRRb3gtbnI0bWFIV3k2Y3Y2MGNxdTdUbVJr?oc=5",
+   "source": "Dellows News",
+   "summary": "ジャパンブランディング、系統用蓄電池のウェビナーを12月中旬開催 Dellows News",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-22T10:41+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "7fd2ad9f3abe65bc",
@@ -732,7 +874,8 @@
    "type": "release",
    "published": "2026-11-20T16:46+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "次世代技術"
+   "topic": "次世代技術",
+   "company": ""
   },
   {
    "id": "92a53877b13c36a9",
@@ -42748,142 +42891,6 @@
    "published": "2026-09-29T10:10+09:00",
    "storage_topic": "その他",
    "company": "国際航業株式会社"
-  },
-  {
-   "id": "a6f752bb84bf1785",
-   "title": "クラダシ、島根県安来市で系統用蓄電所を着工",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fYWMwT0dBbUlxaktjWE56TkdidHVZeHFBNjRORHhnODhmM0tPTVFQalZJMDE4RGlVUVNxQnNkMEJhYzZFUEJuX2M3Q3U1Tk04QzJV?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "クラダシ、島根県安来市で系統用蓄電所を着工 ニュースメディアVOIX",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T10:03+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "f782735900779cd4",
-   "title": "クラダシ、島根県安来市で「島根安来蓄電所」を着工 ～グリーンエナジー＆カンパニーと連携し、電力系統の安定化に貢献",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnZsdW1kcHEzOTZGVUhhWmM4bDlOVmZfWWlVcU5iVVVMMmRQcnUwZzV0UXFZcmNiNG9za3FURkRKaXRRaktiZlk5Y3owa0ZVeEhBRQ?oc=5",
-   "source": "株式会社クラダシ",
-   "summary": "クラダシ、島根県安来市で「島根安来蓄電所」を着工 ～グリーンエナジー＆カンパニーと連携し、電力系統の安定化に貢献 株式会社クラダシ",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T10:01+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "d8306f6551e9fc0e",
-   "title": "太陽光発電所と系統用蓄電所を組み合わせたHourly Matchingの実証実験を開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55WDlVamVXRE9iTUl0eUMxZFJUX2huei1JODQxWVZ3ZDFxQjVHRmRqaXFCd0IwbEZXaVU1ZENDQlI1OUJhSW03Rm9ta3Q5bENVMnhpLTMzNGI5ZEVTckhJSFcyalF5Rms0cEE?oc=5",
-   "source": "PR TIMES",
-   "summary": "太陽光発電所と系統用蓄電所を組み合わせたHourly Matchingの実証実験を開始 PR TIMES",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:00+09:00",
-   "topic": "発電所・開発",
-   "storage_topic": "その他",
-   "company": "株式会社NTTドコモ"
-  },
-  {
-   "id": "133c74be64597b67",
-   "title": "太陽光発電所と系統用蓄電所を組み合わせたHourly Matchingの実証..（株式会社NTTドコモ プレスリリース）",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GcTItRmZ0RnVOa05YaXRlV0FUUTY3NGI3NkhvWVlrbXFWTTF4eV9aa0JoX2NKSUduYW9QSHRIaWgtVm1fWWZXbjQxMnA2eWVCMHNlTw?oc=5",
-   "source": "財経新聞",
-   "summary": "太陽光発電所と系統用蓄電所を組み合わせたHourly Matchingの実証..（株式会社NTTドコモ プレスリリース） 財経新聞",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T10:00+09:00",
-   "topic": "発電所・開発",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "972734bef2915030",
-   "title": "オクトパスエナジー、家庭用蓄電池 Tesla Powerwall 3 の販売を開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13dWhqenQ0SVBOYTAxWFhmSlgyT0JyNF9RWFFid3hNOTZkZ0lDU2lLNC1HcF9tVlRfX3J3bkptN2czdUVpR084blJoUWdyYk9nTng2NEFwM1ZFbks2MXdGYWRhZGFJU1dtZlE?oc=5",
-   "source": "PR TIMES",
-   "summary": "オクトパスエナジー、家庭用蓄電池 Tesla Powerwall 3 の販売を開始 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-29T10:00+09:00",
-   "storage_topic": "家庭用",
-   "company": "TGオクトパスエナジー株式会社"
-  },
-  {
-   "id": "5369bcad7c55efe0",
-   "title": "【自治体】滋賀県：ペロブスカイト太陽電池の施工見学会を開催、事業者向けに実装・施工方法を公開",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJb0c2NlRzdXExUVpwdVp2WllGOEZSYkJiM2pndVB4STlTYmQxREhvQk5Pbm5VRk1oTDF4WFJWTDdqSUFGblp6VHNBdk9YZ2RNMTlJOU9qWHdQYzdtYXEyVjVMbUloZzU0R0pjQ1hwZ3F4UQ?oc=5",
-   "source": "みんなの広報宣伝部",
-   "summary": "【自治体】滋賀県：ペロブスカイト太陽電池の施工見学会を開催、事業者向けに実装・施工方法を公開 みんなの広報宣伝部",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:37+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "0cd7f1bf53cd2b07",
-   "title": "【案内】ジャパンブランディング：系統用蓄電池のkW・kWhを解説、10月上旬に無料オンラインセミナー",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UalJVc0tSTlNFMXdIV0pGbTV2akdqb05zVTRpbHBqZG1PSW9ZaVpuRG9neDR2WWZWVkFGT2lielpfTG9JNTd3RTlNdFJ4RnVfVDhzVXRNM2szd2JoeExlU0J4c0NwbmZSVHBoSExDc2Zwdw?oc=5",
-   "source": "みんなの広報宣伝部",
-   "summary": "【案内】ジャパンブランディング：系統用蓄電池のkW・kWhを解説、10月上旬に無料オンラインセミナー みんなの広報宣伝部",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:32+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "4191dda0b9b586bb",
-   "title": "【蓄電関連】ダイヘン：EMS受注高26年度450億円へ、系統用蓄電池向け生産能力を従来比4倍に",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QS1JDaGxWR0hIbDF0T3NtemJKWkhaV2RuREx2VFZuZmF3T0ZNVXk2MHhoVGpraFZhRU9WWkpfQkVxWGhDbzZGSGRRa2ppN19zUFFoNXA3MEctcVBtT2J1bnVwV0JBd1BsRTV1YTJWRXlIQQ?oc=5",
-   "source": "みんなの広報宣伝部",
-   "summary": "【蓄電関連】ダイヘン：EMS受注高26年度450億円へ、系統用蓄電池向け生産能力を従来比4倍に みんなの広報宣伝部",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:32+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "953586cf1fdd8dc4",
-   "title": "ハイニッケル採用の新型リチウムイオン電池、エリーパワーが新開発：蓄電・発電機器 - スマートジャパン",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrRGNadmVPR2ZMSkFVYk8wVmdsaWtpcnR0dkpXN3VTVkxkczdTb3NrMTduTjh3TWJzT01BSnFIcnRmYlRLbnZtc0MtWGxVUnhubDFtVkg5ZTJjOXphbWhvR3FCS3VOSE9vYWg1ZDhlbG9fTmpP?oc=5",
-   "source": "ITmedia",
-   "summary": "ハイニッケル採用の新型リチウムイオン電池、エリーパワーが新開発：蓄電・発電機器 - スマートジャパン ITmedia",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:30+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "8d5dd7fe5b4c71c7",
-   "title": "ガラス型ペロブスカイト太陽電池が西日本で初設置、波の揺らぎをデザインに採用：材料技術",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5waWR6Mktmc3pubzlHRVgzZ3NBbUJYbFU4ZGVzVEhlQzJJMkl2QW5xN0h1MTd2bDVFQlVtNld0cHliNy1CcVF5Q09Wc29rWFBhS2IyUEx5dFZUVDF1LUh1NVV0ZkJrcnlOMDdTMkxpSQ?oc=5",
-   "source": "MONOist",
-   "summary": "ガラス型ペロブスカイト太陽電池が西日本で初設置、波の揺らぎをデザインに採用：材料技術 MONOist",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-29T07:30+09:00",
-   "topic": "次世代技術"
   }
  ]
 }
