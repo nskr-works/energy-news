@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T00:12+09:00",
+ "updated_at": "2026-11-25T04:03+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "f1d1a001cf9d8866",
+   "title": "ゲアン省の人々は、屋上太陽光発電システムの設置を支援する政策に関心を持っている。",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlhxa0REWTdaNFRGZVZOaTVneGp0STNuN1JFRU9hRHFoTDhubUp2bTNnczM4MVRFRkFZd2luMEx0WjZxR3VpWHNMaHRhY2VYZkQ1WUdCU2RFa0JZUnVUbzVXRTVHd3FoaWtBTnlDR08wT2RTRGxnTVlNRHQwSVFTM09vZmlQSS1GQ25wVTlYTW9Vb01JcURDOFhzQUo?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ゲアン省の人々は、屋上太陽光発電システムの設置を支援する政策に関心を持っている。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-25T00:16+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "62289a9440b8fd3c",
    "title": "系統用蓄電池を規制する条例案を2月議会に提出へ 電力不足時に放電できるメリットも火災リスクや騒音指摘 静岡市",
@@ -74,6 +88,22 @@
    "published": "2026-11-24T19:26+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "cb6b7e86e950e112",
+   "title": "なぜCrusoeの投資家は、AIデータセンター向けの太陽光発電と蓄電に賭けるのか",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHhEQmlwRWI1TG1VS0VMU2k1bmtOV3J0QXNoVlpkWXhVN3hJS0pwSVpkdGhTa2lqSGlmS0FBVkxDdjZpa2N6S2Y4TDlTRnFCVWktT1Bvc0VkZGt2Wmg3b1JQaEEzUUhZUHo2amdBdmVnaWJEUWlWN092QjB6eVlmY2JkRXdjWjFsQnRIQW5LSVY3Yksz?oc=5",
+   "source": "Mezha.net",
+   "summary": "なぜCrusoeの投資家は、AIデータセンター向けの太陽光発電と蓄電に賭けるのか Mezha.net",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T18:39+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
   },
   {
    "id": "66aa476d36943480",
@@ -258,7 +288,8 @@
    "type": "release",
    "published": "2026-11-24T14:46+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": "サイエンスエックス株式会社"
   },
   {
    "id": "c87ce9e1a750477b",
@@ -1174,6 +1205,20 @@
    "published": "2026-11-22T19:03+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外"
+  },
+  {
+   "id": "304bf5288dc06f61",
+   "title": "英国の屋上太陽光発電の設置数、2026年に年間最多を記録",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlNSX3Rldlpwai1hM3RtTUVtNFJYUk1UU1dDM3hKdzJlZmROUHRQeVl3RGJPdHFVRUNSOUpxc2FOOUdENnE4Z3R6TkxfeVhHQ29Vd1Y2M3JXTnl3YXhvam8xNFU1TmJjMlJBTW04XzBxT2VpRmlQOGh0Znd0RW9HQjFjdnlwZEFCRW5Menh1cnVjVXFFQ0IxcEJoNE1PeDl4?oc=5",
+   "source": "Mezha.net",
+   "summary": "英国の屋上太陽光発電の設置数、2026年に年間最多を記録 Mezha.net",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-22T15:35+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "347b99c6138af46b",
@@ -42902,46 +42947,6 @@
    "published": "2026-09-30T14:18+09:00",
    "topic": "政策・制度",
    "company": "経済産業省"
-  },
-  {
-   "id": "098d834c997913b3",
-   "title": "オフグリッド太陽光発電市場は、2026年から2036年の予測期間中に年平均成長率（CAGR）11.34%で成長し、2036年までに133億6,000万米ドルに達すると予測されています。",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BWkFfWmxKM2J2OHZmUHNqY0Z1T3FEeXpyZ215azhnQU9ocU9OT0VWS2hlUnZENW9jQzZ6WVZZTHFaLUlJal81eEFQNVRldWc4eTU4?oc=5",
-   "source": "ドリームニュース",
-   "summary": "オフグリッド太陽光発電市場は、2026年から2036年の予測期間中に年平均成長率（CAGR）11.34%で成長し、2036年までに133億6,000万米ドルに達すると予測されています。 ドリームニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T14:00+09:00",
-   "topic": "市場・企業"
-  },
-  {
-   "id": "ca51412d983fe9b0",
-   "title": "設置拡大だけではない！ ペロブスカイトが拓く可能性｜太陽光事業 要注目フィールド①",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ESVg3SndvU05FbTNyXzNIRTV0cXpLRXJHLWJ1ZkI2b3hzQUhJamlSbUpNdkNyQ2YybVhCcVhQaWpVZEZPRUVCY0JrZw?oc=5",
-   "source": "solarjournal.jp",
-   "summary": "設置拡大だけではない！ ペロブスカイトが拓く可能性｜太陽光事業 要注目フィールド① solarjournal.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T12:51+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "2f23aa58c33128ca",
-   "title": "住宅用蓄電池を活用し、電力需給の安定化に貢献するサービス 「でんちde貯蓄」の提供開始について",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OdnZKVHZqOXBPUVBtUlZuRlpOVGVmbnZUejZwaVE4QUNWTWFTaVNsZXI0NzRLbGxhdFpPbmJ6eWJRRU9jcnY4dnhBenY5VWxpT0ZVN1VpNFBwUWd4R0pfdG5CNm5hOTV2Mi1KY3JPRllXUQ?oc=5",
-   "source": "Infoseek",
-   "summary": "住宅用蓄電池を活用し、電力需給の安定化に貢献するサービス 「でんちde貯蓄」の提供開始について Infoseek",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-09-30T12:45+09:00",
-   "storage_topic": "家庭用",
-   "company": "オムロン株式会社"
   }
  ]
 }
