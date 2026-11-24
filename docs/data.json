@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T04:26+09:00",
+ "updated_at": "2026-11-24T12:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "b9a445fd4db2e2a7",
+   "title": "【日本蓄電池株式会社】静岡県富士市にて系統用蓄電施設「NC富士市大渕蓄電所」蓄電池設置開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000124.000161802.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[日本蓄電池株式会社] 日本蓄電池株式会社（本社：東京都千代田区、代表取締役社長：漆原秀一）は、開発を進めているNC富士市大渕蓄電所（所在地：静岡県富士市）において系統用蓄電池を設置したことをお知らせいたします。 カーボン...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-24T10:00+09:00",
+   "company": "日本蓄電池株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
+  },
   {
    "id": "14332767f1a4580e",
    "title": "ホンジュラス、太陽光自家消費者の余剰電力への報酬支払いを開始",
@@ -42881,20 +42897,6 @@
    "type": "news",
    "published": "2026-09-29T12:00+09:00",
    "topic": "住宅・自家消費"
-  },
-  {
-   "id": "a01441865667a9c8",
-   "title": "日本の屋根上発電に「変換効率」で 貢献する AIKO Energy独自のBCモジュール",
-   "link": "https://solarjournal.jp/product/67798/",
-   "source": "SOLAR JOURNAL",
-   "summary": "高効率なABCモジュールを武器に、AIKO Energyが日本市場で存在感を高めている。屋根設置型太陽光への需要拡大を追い風に、高効率・高耐久・高安全性を兼ね備えた製品を展開。限られた設置面積で発電量を最大化する独自技術と、日本市場での成長戦略を紹介する。 The post 日本の屋根上発電に「変換効率」で 貢献する AIKO Energy独自のBCモジュール first appeared on ",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-29T12:00+09:00",
-   "via": "SOLAR JOURNAL",
-   "topic": "次世代技術"
   }
  ]
 }
