@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T20:35+09:00",
+ "updated_at": "2026-11-25T00:12+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,48 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "62289a9440b8fd3c",
+   "title": "系統用蓄電池を規制する条例案を2月議会に提出へ 電力不足時に放電できるメリットも火災リスクや騒音指摘 静岡市",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3TUY3cm5KZnRyM2NKeGFFTm56Y1RLREduRkdtc3pjZVVNQlNralJoczF0YW5GQjQwc3kwTTRBX1pSZEJERVhxM3VkYkVSQWhzM2pRc2pKU1pWYWxWQnVPSXZVLUVlYm9teUNQakUxMERjSGZJd3pucVR0Q1l3RWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "系統用蓄電池を規制する条例案を2月議会に提出へ 電力不足時に放電できるメリットも火災リスクや騒音指摘 静岡市 Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T22:15+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d633de27891ef9af",
+   "title": "窓で発電？ 千葉県庁「黎明」にペロブスカイト太陽電池",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCQUZIdk9BU09qb3VqbTlONVQwUEZUakE5UF9PTFo4QktmTFNfbVRVejFhaXJOUWVjT0xnRXBuT0dpaE9fZnZTanUtQ080M2xHVl80MGduR295YUVqallB?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "窓で発電？ 千葉県庁「黎明」にペロブスカイト太陽電池 選挙ドットコム",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-24T21:14+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f2cdbd9d6e024366",
+   "title": "国内最大級の蓄電所の運転開始へ（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyQ3ptMmpzalJ5OWpMX0dSSWxHaEgtNmJadEwzbjRkNmJNVFBBem9jYWFMWnJDX2FDU1k4T2czQ2Zja2U1eGs3SXdOaEpob1FPZGNrVXpGdm1Bak9MYlMxN2pVbVFmaFo4d3VHSHp4WHVkTGozdDlqa19JSFBKN1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "国内最大級の蓄電所の運転開始へ（時事通信） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T20:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
   {
    "id": "915e9dac205ff8a3",
    "title": "千葉県、窓で発電するペロブスカイト太陽電池の実証開始 原料のヨウ素は世界有数の産地",
@@ -369,6 +411,20 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41V1VxZFdXanhleVJpMEtJZ29nRlpPZEdMVUtpSFA4NC1zOXh2Y3Itb3lqSFQ1ZDJlbGpLdENyUjdZT3pxam5TNUNKTW9wUnVia0xYYnhkdWEyQlZ6?oc=5",
    "source": "株式会社電力シェアリング",
    "summary": "英国家富裕基金、スコットランド蓄電所2件に出資 株式会社電力シェアリング",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T11:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d20130eebf53d69f",
+   "title": "「蓄電所の市場ノート」を毎朝更新の速報と月号の2本に 速報は今月1日からの毎日の動きを図11枚で、月号は2026年11月号を公開",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xOUpCalk4eHVYUng5c052YUEwRGVFUlhMY0RMNmNubGJYWUE0clVxVmVmaUhOaUJGdUFyN0Y3VnhrUlIwX1dKOGdqZDd1NHA4MkVQaDM5VEVSWEU?oc=5",
+   "source": "valuepress",
+   "summary": "「蓄電所の市場ノート」を毎朝更新の速報と月号の2本に 速報は今月1日からの毎日の動きを図11枚で、月号は2026年11月号を公開 valuepress",
    "categories": [
     "storage"
    ],
@@ -1894,6 +1950,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "6654a06fb937935c",
+   "title": "ガラス型ペロブスカイト太陽電池の実証試験に向けた基本協定を締結◆ ～関西大学の校舎に太陽電池モジュール14枚を設置し、発電性能などを検証～ (2026年11月20日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TNGViV19OU0t6d2ZZT1NCRXYtQ211eGZyUWY1b0NYbkt2R2lVRHZBMEhvYUJ2VlRMMU1YM3BubzRKaXZWLUs1ajFxdUQ1TEJveTR1dFA5Ty1TQWQ5RUJBMUxB?oc=5",
+   "source": "ライブドアニュース",
+   "summary": "ガラス型ペロブスカイト太陽電池の実証試験に向けた基本協定を締結◆ ～関西大学の校舎に太陽電池モジュール14枚を設置し、発電性能などを検証～ (2026年11月20日掲載) ライブドアニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T14:20+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "489375961ee9f2e5",
    "title": "配線不要で手軽に設置・取り外しできる 「ソーラー充電式ドライブレコーダー SDR-01」を先行販売",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBMlBQazNxWFEwcV9xWFpGTkhCeDJPSFZzOFJlVXdxbno5MlhnY0hQNlpOeFZORHo3ckFFcmdFVF93cW1zVFQ2TF8zazE3MnlvX0xSMHV5cUZ3Q29mUzE1X2F5ZWNZNWNH?oc=5",
@@ -3291,6 +3361,20 @@
    "published": "2026-11-19T01:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "e687ab0ed8cc7a1c",
+   "title": "ペロブスカイト太陽電池、国内付加価値7万4,000クロレの可能性 調査",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2hXQUI3ZUdmR3ZjU2JWUGJXTDVxem41M0xJR0JMTjFYa0E1V0RrbF92QXpXR3dCZ3Y4UHdBUWhLMUFuaDAyLVdIazhuX1ZzYjNDV29rM1FtbC1SbFJJOUd1eEszX29mR0VCN2F3OGctM1R0R2JBQzU1dk95TExhYktvUDdMYTFfNFNTN3FCYUdtcVA0eUxlRVVINE5lMW9wb2JkMlhkajQ?oc=5",
+   "source": "IndexBox",
+   "summary": "ペロブスカイト太陽電池、国内付加価値7万4,000クロレの可能性 調査 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-19T00:13+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "638f9b406ca95a26",
@@ -42858,86 +42942,6 @@
    "published": "2026-09-30T12:45+09:00",
    "storage_topic": "家庭用",
    "company": "オムロン株式会社"
-  },
-  {
-   "id": "1057493fe74e2295",
-   "title": "OKIクロステック、出雲ファームの既存鶏舎に超軽量フレキシブル太陽光発電システムを納入",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UTdfUnY2bGNWRlJ2ckZpZTR4NU1DZ0hzUWthbnlfU3lRcFZyT2NDYk1WYnZHSlVSSDdKNHBfd3FHUE5XV0NSMExpT2g0RnhWQ09pQWpfSjBNUHB4Q3FGVmw5WGgwLVd4alE?oc=5",
-   "source": "PR TIMES",
-   "summary": "OKIクロステック、出雲ファームの既存鶏舎に超軽量フレキシブル太陽光発電システムを納入 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-30T12:00+09:00",
-   "topic": "次世代技術",
-   "company": "沖電気工業株式会社"
-  },
-  {
-   "id": "a797bcb5816a84ad",
-   "title": "武蔵野銀行、埼玉9拠点にオフサイトPPAで再エネ導入 排出削減391t",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Z0NSSGotV1YxLTNOV3JkRkZ0YWx4eFVSVUx4bnFETjhkcHVpMVpUUkxWUDFaYWdUa0wxMGxMQ0stWkxESjg0Um1GY2FPdEFPYTMtV3FuMFBkUWZGZXBiUkVkd25ZdzM5VDlLNU56bHh3UUFZR0VpTmRMZTA?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "武蔵野銀行、埼玉9拠点にオフサイトPPAで再エネ導入 排出削減391t kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T11:36+09:00",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "df1b97189c318d9a",
-   "title": "市場はドル高で下落、太陽光発電株が本日10.84%急騰 執筆",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OdDJ2aERWQUdSenoxbElwSTV3M18zVlVQeEpyNTgzTGt1aWYtbjJFZG1aeGhORnlvQlNWTHR4dWViWk4zTEc5SUdyamZpU0F4d012djU1LVkyUEV4bFpUYU5rQy02cW9KSEhuaGtIVnM?oc=5",
-   "source": "Investing.com 日本",
-   "summary": "市場はドル高で下落、太陽光発電株が本日10.84%急騰 執筆 Investing.com 日本",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T11:24+09:00",
-   "topic": "市場・企業"
-  },
-  {
-   "id": "2629bf6540479271",
-   "title": "太陽光発電所、中古で1000〜2000万円 大量売却で値崩れリスクも",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTThtRzNzVDVvNUdISVdpN0N5LTg1Q3VlQzFRYVNjS3dxQ3EyZWp0TEpFWWNlVGE3ZnlkdVp3R3E1OHoxZ3Y2RW5wVEhMMi11eEpYS0xKc2xmOGw3cHQyRUp3aW1tVkZyOTdPTA?oc=5",
-   "source": "日本経済新聞",
-   "summary": "太陽光発電所、中古で1000〜2000万円 大量売却で値崩れリスクも 日本経済新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T11:00+09:00",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "7655728ea6049fdd",
-   "title": "SBI損保、エンブルーとの協業により、低圧太陽光発電所向け「ケーブル盗難保険」の提供を開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuOWtVcC00dkVlV0xBN0FLYzl1OE9kb1B3blFaeXk1WEpvblFnT3ZHcjZOcXp6S3hOb3JfOVE0RFFxZDNoZjl5eVdqTC1ScDZHeDhONHpXX3Y2VVZOb19JUTJvQlNSTmpMMXc?oc=5",
-   "source": "PR TIMES",
-   "summary": "SBI損保、エンブルーとの協業により、低圧太陽光発電所向け「ケーブル盗難保険」の提供を開始 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-09-30T11:00+09:00",
-   "topic": "トラブル・地域",
-   "company": "SBIインシュアランスグループ株式会社"
-  },
-  {
-   "id": "8e8aee4dfd14304d",
-   "title": "窓に次世代の「ペロブスカイト太陽電池」 神戸市が中突堤で実証事業 [兵庫県]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSXJYc1RROHlHTUk4WE9sLW1GUnhBMlBheU9pUVVONW45NFloTkpqa1NOSXMxRElhLV9jdTYtbDJsLWNvOU1CTEx1SWdjZnpnZG90QkZKYkJTdmtSc2VQd3RjY0xIamc?oc=5",
-   "source": "朝日新聞",
-   "summary": "窓に次世代の「ペロブスカイト太陽電池」 神戸市が中突堤で実証事業 [兵庫県] 朝日新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-09-30T10:45+09:00",
-   "topic": "次世代技術"
   }
  ]
 }
