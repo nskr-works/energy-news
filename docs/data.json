@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:26+09:00",
+ "updated_at": "2026-11-25T23:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "9d8fb950842bd9da",
+   "title": "川合弘人【富士見町議会】富士見町に大規模蓄電所計画 一般質問で取り上げます",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ld3JjaW5HTXo2bXNEeVlUWGE2b2NaTVhvT3B6c3dzeUtNelllM0ZISno3YnFoTVpHOGl5X0Y0Qnl4NlJWdVJtQnVYeHVmQmNPWUVGSExrcEY5cXZMalRJ?oc=5",
+   "source": "選挙ドットコム",
+   "summary": "川合弘人【富士見町議会】富士見町に大規模蓄電所計画 一般質問で取り上げます 選挙ドットコム",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-25T21:49+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
   {
    "id": "5ea477d97424283d",
    "title": "大成建設・カネカ・長谷工、太陽光で発電するバルコニー マンション特化",
@@ -42980,20 +42994,6 @@
    "type": "news",
    "published": "2026-10-01T10:26+09:00",
    "topic": "営農型"
-  },
-  {
-   "id": "c293c87de171af8f",
-   "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDUXlQTUFnQXJFTjVLMDdxV3RHNFdoX2xWT21uaDNHVWlZTHZ0TlhMd2ZFd2U4dk5TNGo0U2F5UFZRR19fUU1JYTRwM3ZBeEtPUjVsb1lTVEgxRnQ4STFEbmdhNmZnVWJ3Nnc?oc=5",
-   "source": "PR TIMES",
-   "summary": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-01T10:10+09:00",
-   "storage_topic": "その他",
-   "company": "サステナブルホールディングス株式会社"
   }
  ]
 }
