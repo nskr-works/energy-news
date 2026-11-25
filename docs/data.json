@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T23:51+09:00",
+ "updated_at": "2026-11-26T03:08+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,48 @@
  ],
  "items": [
   {
+   "id": "6ed83167abc270ef",
+   "title": "ドイツの圃場試験で、リースリングの樹上に設置した太陽光パネルが成熟を遅らせることが判明",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlY2QTlkeVlUOVBySzRsb2lyeVlXNm1UeXdYQjByRjh5OEJkdlZQY3lCWlV1cjhnZnRTc05xU21mcWZEUXVpUTRYUWR3bG5aU2lYR2paMk52bzl3eDk5SU5VaC1QZElWbW5DU3lIUVpLRVNvVk5pN1BtT0x4bkZHMWhqSUJuTWlSWWJrcEJNZFFMTXd4UFdMb1dwX2MtWUpZT0s4d1lsX29aMENoT1Y2S1J1TUlINU15ekxYb2NQSl9TbDdwc0E?oc=5",
+   "source": "Vinetur",
+   "summary": "ドイツの圃場試験で、リースリングの樹上に設置した太陽光パネルが成熟を遅らせることが判明 Vinetur",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:56+09:00",
+   "via": "Googleニュース「営農型太陽光」",
+   "topic": "その他"
+  },
+  {
+   "id": "18b41ba7df724cad",
+   "title": "電力省が屋上太陽光発電を推進、民間が費用負担",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GWEd3RUZnQjdXbGhNaXM0Mnk1RGpUM2FHNFV0aTFyd2FvdUtyOVVONGdab3ZCUXdYMzM1Slgtb083R0xyaXc?oc=5",
+   "source": "NNAアジア",
+   "summary": "電力省が屋上太陽光発電を推進、民間が費用負担 NNAアジア",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "0913774b4b5d6484",
+   "title": "チェチェ・グループ、ワラントを通じて太陽光発電企業の株式20%を取得",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCVkRRYWxMTUxqNElKWFpEYklITU44RTZCU1lhODdFX2djbEJoLWE5T1JmbHhnTEIzcklGNHR3R0daN1RnY2ZMZkx2UFZOX0g5LXhMS0FlUy12eVN0d3RYTGN1SW1kYllEV19qMm44NzQ?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "チェチェ・グループ、ワラントを通じて太陽光発電企業の株式20%を取得 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-25T23:05+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "9d8fb950842bd9da",
    "title": "川合弘人【富士見町議会】富士見町に大規模蓄電所計画 一般質問で取り上げます",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ld3JjaW5HTXo2bXNEeVlUWGE2b2NaTVhvT3B6c3dzeUtNelllM0ZISno3YnFoTVpHOGl5X0Y0Qnl4NlJWdVJtQnVYeHVmQmNPWUVGSExrcEY5cXZMalRJ?oc=5",
@@ -32,6 +74,22 @@
    "published": "2026-11-25T21:49+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "3b9975a3fb7a1de2",
+   "title": "ウーリクリークの集合住宅で太陽光・蓄電池の実証、共用エネルギーを検証 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVZ6TERESGJLeklHWmJ4eHYybjhob2ZTTUhwUHJTckg3bWhkZmJZUmktUU4yQmE4a3VWNTctNzhhbllSb3hMVnZhUUhQTTM1bENjejMxTm1fdVZ1cnNlVjBlb3BzVjA0b1pEeFdib2pJazVITFJWRkotZEhSSXdGbzFvWUxOYlhWeEFtWV9MMVlVcFpzcmxaSHhHTXVLd3ZLSHc?oc=5",
+   "source": "IndexBox",
+   "summary": "ウーリクリークの集合住宅で太陽光・蓄電池の実証、共用エネルギーを検証 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-25T20:23+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
   },
   {
    "id": "5ea477d97424283d",
@@ -510,6 +568,20 @@
    "company": "Panorama Data Insights Ltd."
   },
   {
+   "id": "f6a06a65ea369e46",
+   "title": "太陽光発電（Solar PV）インバーター市場は、2025年に142億5,000万米ドルと推定され、2036年までに476億6,000万米ドルに達すると予測されています。予測期間（2026年～2036年）",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yWDZpa0RxX0Z0Rm94NmNnTXhxdklvVTVURC0zUTRiUXMyQnkteWRMdEQ2RXZyQktNUS1YRmItZ0xZVWJRSmlOajQwZUNtZ0E?oc=5",
+   "source": "Newscast.jp",
+   "summary": "太陽光発電（Solar PV）インバーター市場は、2025年に142億5,000万米ドルと推定され、2036年までに476億6,000万米ドルに達すると予測されています。予測期間（2026年～2036年） Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-25T11:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "28e618804e54b8b6",
    "title": "太陽光発電の専門メディア PVeyeWEB",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zdjFqU1NUMWowbm1uX3BKT3NFNUE4TlpnY3hyVWJrVk9fcXhDTlgxOS10b0xPdmVyNERQbzhOeTA0RWZHa0RRVVY3Tnd0bVk?oc=5",
@@ -807,6 +879,20 @@
    "published": "2026-11-24T20:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "c6beb1f5b2553cc4",
+   "title": "関西電力・関西大学・パナソニック、ガラス基板ペロブスカイト太陽電池の実証へ - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXFXc1dHazFMMVZ5bUh3YTN2SUlMZG1ZU2dFSUk5QzR3V3VVS2Z6Slk4NUltOFYxN01MSWlWTzMwSHo1TFhxay1fOGJaX1B5NGF5NVZDQnpmeFZHa1czT1Z6RnF2eXVQd0ZsWFQ1bkMyazRSdkNYc0VuaExScC04S3RmaGQ3Q2pXYldleC10YW8yWEExNlBCQjMyZC1QbFdwRTA3RWJqUHQ4TkdVU0Q1d05RX1huSzJSdnJXNFJzcTBWZWM?oc=5",
+   "source": "IndexBox",
+   "summary": "関西電力・関西大学・パナソニック、ガラス基板ペロブスカイト太陽電池の実証へ - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-24T19:41+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "915e9dac205ff8a3",
@@ -2713,6 +2799,20 @@
    "via": "メガソーラービジネス（日経BP）",
    "topic": "発電所・開発",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "1872c2b9d5789f70",
+   "title": "【ガラス型ペロブスカイト太陽電池】関西電力と関西大学、パナソニックホールディングス・パナソニック環境エンジニアリング・関電エネルギーソリューションと実証試験に向けた基本協定締結",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNOW5UVXdtc1ctWlZuWDdPbzBwYlV3Zl9IUGEzWTEtN05wYk9rWE0weWJrc0huSm1uYnB0WS1EZ19vTzA4ajg2V2lKdmh2V3ltdUNTRXJhT2paUmtwMHQ5RmZydXQwX1JYY0FfNjlOVXJaY2xQMlFaYkhtMG41eXEyZDFHNWM3UEl3d2w3aVdpZTRiUXJ0blRRbjZqZDU4MGRfZjNMV3BaRW8zRkp4YjlHcnFORDJZRFNwd3UxWW5SWGNoT09Ua3dyVFd5cjcydzBHUE9MNkZVM2xYZTRhaHhXLU5jQVlobWhHblh1Q0pHRlRIVzh4bmpsTlRyV3VqcThhaTd4bi1sNmh0UUhmXzJZcFNzOXR1d0VQb1hrWmhmUzAzRTZJVUV4MVVVTUo4TmtPSDlDSkxpUWtVNWVGMEVpZVdWY19aR3Q1UWstTllTaUdIMjJfWHc?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【ガラス型ペロブスカイト太陽電池】関西電力と関西大学、パナソニックホールディングス・パナソニック環境エンジニアリング・関電エネルギーソリューションと実証試験に向けた基本協定締結 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-20T14:35+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "db1bcec2b996835f",
@@ -42900,100 +43000,6 @@
    "type": "news",
    "published": "2026-10-01T11:05+09:00",
    "topic": "トラブル・地域"
-  },
-  {
-   "id": "53d7344c61500bbc",
-   "title": "DNP、泉崎工場で10MW規模の太陽光を自家消費",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4STNFMzBKVGx1RTd0N2hTbUlQSzhKZXhjRXQ3UzlobDFiM0N1VGluZzQtLTlycTZsdHBWR25oT0pfUmpkUzdQVE9ZQUhsd1N3Y3BKWnBpX09sRVA0ZllBcTNrUm5FN2t3N2hFRzV0Q2haWWlE?oc=5",
-   "source": "日経BP",
-   "summary": "DNP、泉崎工場で10MW規模の太陽光を自家消費 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-01T11:00+09:00",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "e7a074b19f50e52c",
-   "title": "福島市街地への反射 予測超過 夏季最大９２分 先達山太陽光発電所",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CQTZ0Y2c3ZGdHU3Z6bFp4WURSMHdfMU1lTjZhUkU4a0lHNzRUNmtiNFFfcjdjZUxiRktoYjBia0UyOWZoeG1kWERDQTBBcm8?oc=5",
-   "source": "福島民報デジタル",
-   "summary": "福島市街地への反射 予測超過 夏季最大９２分 先達山太陽光発電所 福島民報デジタル",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-01T11:00+09:00",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "0179d9a7e9e8eae1",
-   "title": "「太陽光＋蓄電所」でアワリーマッチング、西日本で実証",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zMnNSN1oyMmI5T0daY2VKTFNGVW56NjVPNjR1V0p5Y2NRYVdxMl80aXYtQW42dkRlU09Mb1l4eXRXX0g5N1hqMXNSd3o2M0RzNnZUczBsRXA2UW8yaldKSkwwQWZnLVdIcjhlVHNpU0dmZ21S?oc=5",
-   "source": "日経BP",
-   "summary": "「太陽光＋蓄電所」でアワリーマッチング、西日本で実証 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-01T10:56+09:00",
-   "topic": "発電所・開発",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "97bda4c021a73cd2",
-   "title": "7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3BxS3d0SFIxaGN2OWM3U1QwVmk4eDBnTGFJX1Y3bUFmdzVBallEcHRhUzNZTHpfQkFFLTBocTdsX0pPLWVtZ1ZTVmpEMTRHaWhUaTl4cEFwMTBPcnhrdU5makp1VEswcllSOW5aY0hXcXhuajVKT1BFYWxuZnRSZEp3?oc=5",
-   "source": "イザ！",
-   "summary": "7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦 イザ！",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-01T10:50+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "54234b28ebdda1be",
-   "title": "再エネ需要拡大に対応するオフサイトコーポレート PPA 供給基盤を強化",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0hlMUdQZlVqMWhLNTlpanZNS0t5bWljM0NLaTZtUl9lQXI2QWdfaE03S3NON0plX2Q2R0tXcDBGcW5yTE00aUI4Y05JSXZTTExOOGZqX1RKMWZESmdlcWUzVXNWeEJpTmQ5V3A3YTJuQkNJOVV4YkgwdDVRQzRzMXViRUJQbjM0bmJz?oc=5",
-   "source": "PR TIMES",
-   "summary": "再エネ需要拡大に対応するオフサイトコーポレート PPA 供給基盤を強化 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-01T10:46+09:00",
-   "topic": "住宅・自家消費",
-   "company": ""
-  },
-  {
-   "id": "62d6517cdb645485",
-   "title": "【営農型太陽光発電の制度変更】可能性生かす政策が必要 規制強化だけでなく支援を 世界自然保護基金（ＷＷＦ）ジャパン 気候・エネルギーグループ 市川大悟",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vdjFhSXlxcjdjRWY2dkcyZ3BZNDFfWkhnYXY3TTFHT29sWDE4SDg0bHlyNGJVU29KY1dHaDBIWnN2SlBZOHhVY1V3ZXRXTkNiSm5qb2pTbXY0T2hURVE?oc=5",
-   "source": "沖縄タイムス社",
-   "summary": "【営農型太陽光発電の制度変更】可能性生かす政策が必要 規制強化だけでなく支援を 世界自然保護基金（ＷＷＦ）ジャパン 気候・エネルギーグループ 市川大悟 沖縄タイムス社",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-01T10:26+09:00",
-   "topic": "営農型"
-  },
-  {
-   "id": "fd53aa73d13de4c5",
-   "title": "【営農型太陽光発電の制度変更】可能性生かす政策が必要",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5reGRKQnlyX2d1SUQyUXRMclEzM0dpMTY1NkxkbENXc2hvZkVIVzVzQ0x0TkpzQk9HUW0xd0FSbjk4Sm96c1pQZVp1ZVZUdjRXaFN5NzY0STZocTlFVFE?oc=5",
-   "source": "新潟日報",
-   "summary": "【営農型太陽光発電の制度変更】可能性生かす政策が必要 新潟日報",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-01T10:26+09:00",
-   "topic": "営農型"
   }
  ]
 }
