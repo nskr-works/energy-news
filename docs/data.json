@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T13:34+09:00",
+ "updated_at": "2026-11-25T17:24+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,22 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "fe29c6d783ca714b",
+   "title": "リトアニアの美しい川の流れから着想を得たベゼル。VOSTOK EUROPE、ソーラーウォッチ「Vilnelė Solar」を発表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000271.000034826.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[株式会社ANDOROS] [画像1: https://prcdn.freetls.fastly.net/release_image/34826/271/34826-271-5ccf42193d445dfceb54ad87ba5e7708-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-25T16:45+09:00",
+   "company": "株式会社ANDOROS",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "topic": "市場・企業"
+  },
   {
    "id": "5e8da4532a07bc8f",
    "title": "太陽光発電施設廃止後の森林回復対策",
@@ -42962,19 +42978,6 @@
    ],
    "type": "news",
    "published": "2026-10-01T05:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "79f485e001ae3c79",
-   "title": "レノバ、蓄電所で再浮上探る 電力需要増、第3の柱に",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wS2t4R0dwWWNkTHE3WU5NejVpWmpESWpLZDBaWXpLbklvWFRVaDU3YVdJZ1dkMHdfZEtUNXFZb2hORUZyRXVNMkh2aG14b3VZY2JLQVBxNzJLNmFaOXRRbEdjSXZ6c2thZS1JTQ?oc=5",
-   "source": "日本経済新聞",
-   "summary": "レノバ、蓄電所で再浮上探る 電力需要増、第3の柱に 日本経済新聞",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-01T02:00+09:00",
    "storage_topic": "その他"
   }
  ]
