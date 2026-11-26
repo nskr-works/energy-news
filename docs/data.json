@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:18+09:00",
+ "updated_at": "2026-11-27T02:51+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -176,7 +176,8 @@
    "type": "release",
    "published": "2026-11-26T17:16+09:00",
    "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": "サステナブルホールディングス株式会社"
   },
   {
    "id": "f5b501bfabc37f2b",
@@ -190,7 +191,22 @@
    "type": "release",
    "published": "2026-11-26T17:16+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
+   "topic": "次世代技術",
+   "company": "東日本旅客鉄道株式会社"
+  },
+  {
+   "id": "fc4315aa6974e136",
+   "title": "アンザン省は、開発計画に約4,900メガワットの太陽光発電を追加することを計画している。",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWhkQlVsYVlpV19OYnEzcEwwM2RwMG5oQi0tdXlLdFI5dW5aTkZWQ0JzMXRra1B0NFllTHVTVUJxZTZrcXNKSjZqeXdFMUgtZWVvVDNRYmUyb3czNkpwSW53WTJ2UGtBWDMwUmRGZjRKa2xlc0d3c1piX0N6UWtKeWpHQnNrbmltTjExYU9DS2JDdw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "アンザン省は、開発計画に約4,900メガワットの太陽光発電を追加することを計画している。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T16:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "3ef40e517d63a1f6",
@@ -293,6 +309,20 @@
    "published": "2026-11-26T13:51+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "90be2e3ba5b7a44a",
+   "title": "蓄電所（系統用蓄電池）の運用を預ける「アグリゲーター」を数える連載を開始 届出187社のうち需給調整市場の取引会員は1",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IVGlZb0FCTVhlSS1KSHhXN2hDa2czM2dUZXd3bDhXYkVhN3pGTVJqNlV2dGtTQndlNlV1ZF9tMzlTcFNFOW5qMklkWkE3Qmh1ZEsyLXNBM3lQX2JXYWx6bDdDWFFBTTFN?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "蓄電所（系統用蓄電池）の運用を預ける「アグリゲーター」を数える連載を開始 届出187社のうち需給調整市場の取引会員は1 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-26T13:30+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
   },
   {
    "id": "6478ccb83c49e0d8",
@@ -448,6 +478,20 @@
    ],
    "type": "news",
    "published": "2026-11-26T11:27+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "1d31940cc0dfbccf",
+   "title": "グリーンエナジー、蓄電所41件に 東郷町で契約",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYkk2YXpmc1B2WWVhMTFxNU42OU5BZjdDREVRdGd6TVRIMjNVLUpRWDV4OGN5cUxvZUZjY1RHUFBJbnc5eEJKalBhUGxjazJRRzlxRUVfSnFHdTdw?oc=5",
+   "source": "株式会社電力シェアリング",
+   "summary": "グリーンエナジー、蓄電所41件に 東郷町で契約 株式会社電力シェアリング",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:26+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
@@ -855,6 +899,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "60612c15fe9ff124",
+   "title": "[2/4]〈習近平も真っ青〉「太陽光発電を増やせ」の大号令もパネル価格3割下落、上場73社で計約200億元大赤字の阿鼻叫喚",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQURvcjNObDZqSjYzakFtcGlJWlppNXozeVVqeUNvV2N6OTRuMTFiSVZsNEVTUUU3YXdUMnRUSm43S3hnZXpzQy1JMGNjdkl2UlZsejJINFg2X0tM?oc=5",
+   "source": "集英社オンライン",
+   "summary": "[2/4]〈習近平も真っ青〉「太陽光発電を増やせ」の大号令もパネル価格3割下落、上場73社で計約200億元大赤字の阿鼻叫喚 集英社オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T06:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "6a1a0a61191ed738",
    "title": "積水化学･西田専務、ペロブスカイト太陽電池「技術革新で投資抑制」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQbVFWTGpsVld4aDRneUhUSzFncnNHYW1lbUdhNkp0QTNTTzdUZ2tTVV9jTE5aajB2bDNEXy13MDdlUDdWQjVZeDhzTE1Hd2JtLTFXUTYyTTl5Q0xXemdIcmotS2x3TWVnLWlkTw?oc=5",
@@ -1039,6 +1097,20 @@
    "published": "2026-11-25T17:12+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "cd9ba17118d8c7b3",
+   "title": "東平豊三 時流に乗り、太陽光発電を軸にビジネス快進撃",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPalg2c1RNRnFoQ0tWOHBhTHl0aEZrT2wyVjNnVkM2b1VnSEtRLVhHZjNPZWxBekJFdURyN09GSURwZHhpZ2J1czF5RE84REd2emlUVkhDSTdWZkxfdUhGcG5zSDU5TzZaVDNmZ1lteFZwU0k?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東平豊三 時流に乗り、太陽光発電を軸にビジネス快進撃 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-25T16:53+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "fe29c6d783ca714b",
@@ -2786,6 +2858,20 @@
    "published": "2026-11-23T15:35+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "5a1995af09e272b4",
+   "title": "英、屋根上太陽光の設置27万件突破 過去最多",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcmVCQi1rTmdWSmh3WlhIRXEtMGVWeGJYa2NZZTVTWXRkX1VmQmdHcjM2Y1hEZjROb184N2t3UkNoekJSeS12WWVENFJFTGliVmpaQUo3SndxVTI3Znh6OGdsdGpXUUlyNjVqSmRJa0M2MWRFczZLUURYeVlaRnkxeGdvaDJaSnBDMGlnN0p2c2tNRmVEMGpEaC1XOENyXzlUR1B4ZFJFRE9aUXpZbkR3cWdtekxPaHlCQV80b0h0eC1HS2RMOXdObExvaHE2V1Ry?oc=5",
+   "source": "디지털투데이",
+   "summary": "英、屋根上太陽光の設置27万件突破 過去最多 디지털투데이",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-23T15:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
   },
   {
    "id": "b771a754b42c0d91",
@@ -42970,84 +43056,6 @@
    "published": "2026-10-02T12:54+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
-  },
-  {
-   "id": "2367a51017dc97a7",
-   "title": "高速道路のカベにペロブスカイト太陽電池、雑草制御装置に給電 愛知県の実証",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4SDRTczJHeUNrTlRSOGdWamljRGpLcU5zTTFZaUdpU2NRLTNSdkNCOTllSUxBMjZvSGJLSkx5UFZJTkh6V0EyRWh3cUF4U3FjZElCQ3FYV3ZwdkJRX2E3S05SZkQ5dHdBSUpPU3dpbDVsaFJNekREOXJKS2k?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "高速道路のカベにペロブスカイト太陽電池、雑草制御装置に給電 愛知県の実証 kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:19+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "20d969ab4ca41a53",
-   "title": "松山城、道後温泉本館などを再エネ化 オフサイトPPAで文化財・景観を守る",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xa3NVVlQyY0cyTEVwbXlUczBFc1pHM0M2SV9Od2ZnMnBFY05XdnNXRFFrVWNhci1LNnBkaHB6YkE3anhONHFFXzY1Tk9hUVgyOWltMDg4RGZpSkRNSWl1LXpObGQtSkVaZ0V6bmlLMVR5MlpTZzY3Z2Fsemw?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "松山城、道後温泉本館などを再エネ化 オフサイトPPAで文化財・景観を守る kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:19+09:00",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "523f6c63666b9a46",
-   "title": "パワーエックス、大和ハウス工業の系統蓄電所に９．８ＭＷｈ蓄電システム納入、運用も担当",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HOGlMVENwS1BQc0gxVUxwMG43WUNXMUtyOUlwR1FqY2JGYTZxY1NFXzllVURIOWx6d2hBM3g4d1YtaVo4NWlQenNqdFBRUmZ0NWJfSw?oc=5",
-   "source": "kabu-ir.com",
-   "summary": "パワーエックス、大和ハウス工業の系統蓄電所に９．８ＭＷｈ蓄電システム納入、運用も担当 kabu-ir.com",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:13+09:00",
-   "storage_topic": "高圧（特高含む）"
-  },
-  {
-   "id": "c1b159659746a33c",
-   "title": "浪江に系統用蓄電所建設へ 住友商事、29年稼働目指す:福島ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LdVFJalQyRGNxVU5RWUhiZlBPRnYwbk9XbExSMDJBV1ZrODFjcjN5c3ZjVDFhX3liUVd0cWQ3ejFya1ExbkpBYTQtaUo0cUstZ0gyTW9lbEdUamVzc2k5MEN3V0VlSDQz?oc=5",
-   "source": "福島民友新聞社",
-   "summary": "浪江に系統用蓄電所建設へ 住友商事、29年稼働目指す:福島ニュース 福島民友新聞社",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:10+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "1d441bce7b93e8ad",
-   "title": "今年にも1000億円超え、ペロブスカイト太陽電池の世界市場",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SdzFWVjlVNHNWR0RReWY3QmlRcGNWUVpmWU80Nl9GMDRnRTR0Z1lBS0ZneFlqVFZicHBPNzhxdlRJMVlaTHg5bTQyU0xNOVQxTi13cDVkYS10RDdVZHZmQm15X0hRYU9rTk1uX255Mi1vWVVw?oc=5",
-   "source": "日経BP",
-   "summary": "今年にも1000億円超え、ペロブスカイト太陽電池の世界市場 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:07+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "56a553ffd6e4230d",
-   "title": "東洋鋼鈑、「FIP転メガソーラー」の環境価値を調達",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JM1VPWFBJR3VEN191ZjZ3cjlnbUZYZTBVQThuU0MtMnNhd3lCSDNmdWx4dXJORENRRjVadFlVYTU0U2ROV2dyVDdPVFZVZEdjX3ZETUhHRk5HbUoxcUg3Nm9RNjlJSXpWN1NNcFM0c1FzZUpG?oc=5",
-   "source": "日経BP",
-   "summary": "東洋鋼鈑、「FIP転メガソーラー」の環境価値を調達 - ニュース - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:04+09:00",
-   "topic": "政策・制度"
   }
  ]
 }
