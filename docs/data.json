@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:13+09:00",
+ "updated_at": "2026-11-28T02:37+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,51 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "719258918cffcea0",
+   "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】岐阜系統用蓄電所担保ローンファンドID1213』を募集開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000967.000013809.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[SAMURAI証券株式会社] 個人投資家の皆様にさまざまな投資機会を提供するオルタナティブ投資プラットフォーム「オルタナバンク」を運営するSAMURAI 証券株式会社（本社：東京都港区、代表取締役社長：山口 慶一）は、新商品『【3ヶ月毎...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-28T01:10+09:00",
+   "company": "SAMURAI証券株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e2363be3c77732f8",
+   "title": "国内最大548MWhの蓄電所、米原市に稼働へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qY0N0LXhmcHgwdXJFNTQxbjJIZzFsNVdiazVaQjZrZS04N0lPdi1fVjkwSy13dXhrMjIxd2EyMlBqVDBtakxTby1TY0FBLUU5VF91OTBSaFpKX0xaRXk4b3NPWmFCeUdFbXpYaUZYVnVtaThS?oc=5",
+   "source": "日経BP",
+   "summary": "国内最大548MWhの蓄電所、米原市に稼働へ - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T22:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "発電所・開発",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "1f01b3e4e83d3bb7",
+   "title": "農業における太陽光発電：グリーン生産のための資金活用。",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWota29td2doOE9WTHVFYjBxUkJYbmQ2WExnZ25TeFNvVVAtaUZkeHl1Q1JPdmZQU083VDhQRHdKSXBtVnVZc2tVMlZTR1BtUURtV0JXN1pVenVNQmtxVDJUMlRxdS0tLVVIODJWYXVpM0xyMFdnbjRNVEZiTlVRVEpEd3hqMHZZRHN4QVUwRV9TTm10SzZaWUl3?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "農業における太陽光発電：グリーン生産のための資金活用。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T21:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "33188f72a1f3cff5",
    "title": "中部電力とTEA ENERGY（浜松市） 牧之原市の茶畑で営農型太陽光発電事業 27年12月稼働予定",
@@ -104,6 +149,20 @@
    "published": "2026-11-27T20:35+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "44e8185d93579391",
+   "title": "農地に太陽光発電設備を設置するにはどうすればよいでしょうか？",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2dxTTVVZWRmRmZDTlhqX01ycVFfajMwWVR1Y0gzMVB6ZlNoaThjRDdvME1MZ0pONU0wNEpIdTNxdlNvTUJBM05RTGJxUURGVDFyejVEb3ZMNGlnaXZueDBhVE5SMzc0YTRPX05YLWJyWTNKcl9iMWhtUHBFMEJ5NEVhaUNfekU?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "農地に太陽光発電設備を設置するにはどうすればよいでしょうか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T20:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "2736739fcec55475",
@@ -264,6 +323,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "7bc725987ad54c4d",
+   "title": "オルタナバンクが岐阜系統用蓄電所担保ローンファンドを新たに募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ZjJ6VzEtY2ZWaV9WX1l0WU11TTI0cFZSQWpUNzY5QURqRjd0R1Jwc2tSYnZVNEppOGFoWXNfUjN4UWZ6aE9PUUt4eEwxNndOS0Nmeg?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "オルタナバンクが岐阜系統用蓄電所担保ローンファンドを新たに募集開始 ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T16:55+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "4f5c2baba6af809f",
    "title": "原子力と太陽光を使い分けて火星へ NASAが惑星間宇宙機「SR-1 Freedom」の運用計画を発表",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkVHh5MTJCS2thVzhsdE94ak1CY2N0SlVuZUItX2dMOUtqeUc3c3J5bUZ0WlB4RFY3R1RQWnk0UWhMb08wdnNKVEFOTGZONlQ5eHItMk1sMXhOZENfTHlyWQ?oc=5",
@@ -276,6 +349,20 @@
    "published": "2026-11-27T16:49+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "8cc36923a963d658",
+   "title": "鳥取県鳥取市の稼働済み系統用蓄電所を取得する新ファンドの魅力と利回り",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wdGRsNFdfSURaLWE1RmJHeW1nT20tTXdycElleU9UOG9KUFh4dEltcE1CakFGdHZsLUVsc0RXT0dmendaZWV3UjVoM1pUcG9rU2l0dUR6VUkzUQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "summary": "鳥取県鳥取市の稼働済み系統用蓄電所を取得する新ファンドの魅力と利回り ニュースメディアVOIX",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T16:42+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
   },
   {
    "id": "c349295ca0b05713",
@@ -511,6 +598,20 @@
    "published": "2026-11-27T14:36+09:00",
    "via": "Googleニュース「営農型太陽光」",
    "topic": "営農型"
+  },
+  {
+   "id": "112e5812ab810eb1",
+   "title": "VinEnergo社はフィリピンで126MWpの太陽光発電プロジェクトの建設を開始した。",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnMwX2pfWUk5Tm1qS3RjaHI1WlE1dUNsSEJaVTVhSnpuUkZJTzJ4UFktUUZ1bDJuNUd5Vl9sMTlpczVmUjltSThxODNvQ2loa3J5VDAydmY4SGxJSWZKUHhRZGkzaFExaEVJQUt2cnQ3bmFuSml1RXJVeGxIbDNYSFg0ZmpiaDZfQzFxWkh5blh1MkE?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "VinEnergo社はフィリピンで126MWpの太陽光発電プロジェクトの建設を開始した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T14:27+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "100d0b04506e1685",
@@ -1048,6 +1149,20 @@
    "type": "news",
    "published": "2026-11-26T21:51+09:00",
    "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "76295a64f08a20d2",
+   "title": "ミラリタ、鳥取市の稼働済み蓄電所を取得・売却するファンドを公開",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RT0tZQkdvYlhIcVdmTmx4THVfc05Ea2s5ZDllNGlpNEhlR2FaT3dsRUp0QzFSMm8tTmFNa1ZJbTd4WUNuNDlUSGdVOGRLVXVUNWc3bzQySm5naFVsZlVSTWEtRmpCT0k?oc=5",
+   "source": "とれまがニュース",
+   "summary": "ミラリタ、鳥取市の稼働済み蓄電所を取得・売却するファンドを公開 とれまがニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-26T21:47+09:00",
+   "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
   {
@@ -2200,6 +2315,20 @@
    "published": "2026-11-25T17:12+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "e1f9a0b3cdaaada7",
+   "title": "【岐路に立つコメ】第４部 新農法 （４）営農型太陽光発電 収穫と売電で〝一石二鳥〟",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSlNzZkNmTk84LU1ZLUxlM3ZrLVlwdTNZMmZVSkcyTm55R1g3UEhBOU0yS25CdFBkNXpHbldhSmw3WEozazJ6emQxVk1LVjRBaVdoUXVSSWlLOFcyb25RYzNOa3RFQmc?oc=5",
+   "source": "山陽新聞",
+   "summary": "【岐路に立つコメ】第４部 新農法 （４）営農型太陽光発電 収穫と売電で〝一石二鳥〟 山陽新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-25T17:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
   },
   {
    "id": "cd9ba17118d8c7b3",
@@ -42948,137 +43077,6 @@
    "published": "2026-10-05T15:52+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
-  },
-  {
-   "id": "71bcc25850b7a16d",
-   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 5/10 - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYkp5SnA4V0xvanNhbkdXb1pIUVdZRllTNTFLMmpPaF9vekpVOG0zM3M1ckN6TVZXYjlPN2tobkhlcFlaU2JxZWVON1VpX0xyU3ViRU1MSUp6R0QyWW1jZ2ZaNWhWRnhmMXF0U3lrUXV3bVFXWWpsRGlIcmU?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 5/10 - ライブドアニュース ライブドアニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "ea7359409b165262",
-   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 4/10 - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ia1RnQW53TVBnRlJ5WUR0NWtIWnNtX0d0d3U1QUc1U3lTMi0xaG9IaFh1QThYYkdMc3pwWXBhQXJ3aTM4THhQanFsUWQ3VnRxOV9lbUtuNF9aU1c3Q2ZEVGVMTzFmQkVFTmg0TTZBNTgwOEIzTG1XYTlXQm8?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 4/10 - ライブドアニュース ライブドアニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "baefec0248400e40",
-   "title": "国内系統用蓄電池事業への参入について：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWXo1aWsycTB1aElOZG9DbU9OYVFBRTBEd3h0UU92UDRDUDVvVXYteUZFc2s4Rkc1WlplMGNCYVB3SWE3ekNyZ1lydGtNZ1lyclE0cDM2VG9TVFZ4VXJ2aUo5U2E3NWVVc2Fv?oc=5",
-   "source": "時事ドットコム",
-   "summary": "国内系統用蓄電池事業への参入について：時事ドットコム 時事ドットコム",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:46+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "b123b7fdf9cf7375",
-   "title": "ソーラー充電コントローラー市場：製品タイプ、定格出力電流、バッテリー対応、充電段階、通信インターフェース、冷却方式、販売チャネル、用途別―2026年～2032年の世界市場予測",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtN0FvZ2VGQjlYa0ZMdGZERjJSZDFqYnd1R1BfRWtzTkJaa2RseXRhckhVYzJjUzNHbnl1VUhBTDBzUFN0NURCNnluaXphbFk?oc=5",
-   "source": "アットプレス",
-   "summary": "ソーラー充電コントローラー市場：製品タイプ、定格出力電流、バッテリー対応、充電段階、通信インターフェース、冷却方式、販売チャネル、用途別―2026年～2032年の世界市場予測 アットプレス",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-05T15:10+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "市場・企業",
-   "company": "株式会社グローバルインフォメーション"
-  },
-  {
-   "id": "41b0db71fc43b8d4",
-   "title": "京葉ガス－続落 国内系統用蓄電池事業へ参入(トレーダーズ・ウェブ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnhJcnhRMWV3M1Z6SEFLMGJvT1JrdENmaHBxckVfVGh0TTd6UTA3RTliS191OExYYXlqMURzMXRqSGpSczhWd1NodEhpeUg1a3FVa0Z6ZFd0cThBZWZ2dEZiMEN6UE5vRkR0YTd5Z240cDU3YlhrNUlHMnJZZmlFRFNCMlkxb0k?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "summary": "京葉ガス－続落 国内系統用蓄電池事業へ参入(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T14:56+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "2d1b2725bb4997c6",
-   "title": "国内系統用蓄電池事業への参入について",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZnJXNEhxZU9TVXRqbzVMdmZRYjFNTHZZNnAwR3FhUExDRlotNVg2X3FCanlHR3d4UnY2UU9pUDY5RC1GN2Ftczk4R1E5TkJPVEhoelBuUmk5cjVOR1VSdXdha0Q4SFZSeXc?oc=5",
-   "source": "PR TIMES",
-   "summary": "国内系統用蓄電池事業への参入について PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-05T14:00+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他",
-   "company": "京葉ガス株式会社"
-  },
-  {
-   "id": "4332b8c9af09382d",
-   "title": "京葉ガス株式会社初となる国内系統用蓄電所の開発・建設を完了",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBISF9PS3d2VWpIbmNjeWRSTEY3clc5TGluYVo0bHRfUFFlWk4zTHgyR1NzbmZDTEVPOGRNTVMxY1pnYzlrWWxsYlNSeWw4VU9NYkE2T2RfNmNmUDR1NVZJbFBlMGRSc2wtUHc?oc=5",
-   "source": "PR TIMES",
-   "summary": "京葉ガス株式会社初となる国内系統用蓄電所の開発・建設を完了 PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-05T14:00+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他",
-   "company": "株式会社サンヴィレッジ"
-  },
-  {
-   "id": "b86d06db292f6eb9",
-   "title": "国内系統用蓄電池事業への参入について | 京葉ガス株式会社のプレスリリース",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZnJXNEhxZU9TVXRqbzVMdmZRYjFNTHZZNnAwR3FhUExDRlotNVg2X3FCanlHR3d4UnY2UU9pUDY5RC1GN2Ftczk4R1E5TkJPVEhoelBuUmk5cjVOR1VSdXdha0Q4SFZSeXc?oc=5",
-   "source": "PR TIMES",
-   "summary": "国内系統用蓄電池事業への参入について | 京葉ガス株式会社のプレスリリース PR TIMES",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-05T14:00+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他",
-   "company": "京葉ガス株式会社"
-  },
-  {
-   "id": "eb217157ad2895f6",
-   "title": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験・出力測定サービスの提供",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MX0RlYWFHQkFPQ1dhcGpka2g3LWFza1NnZHJXN0pzNTdnSDJNcTk1VUFPcEN1UUhCN2Z3dmNiVzRKbnB2R2FWbE91bEY0NUdEY3FRUUdacU9QTENsRWRySGJsRWk4Y21DU3c?oc=5",
-   "source": "PR TIMES",
-   "summary": "ケミトックス 大型ペロブスカイト太陽電池の信頼性試験・出力測定サービスの提供 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-05T13:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術",
-   "company": "株式会社ケミトックス"
   }
  ]
 }
