@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T02:51+09:00",
+ "updated_at": "2026-11-27T12:46+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,347 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "52e8d0b328d59cd6",
+   "title": "【解説】営農型太陽光発電、事業環境はどう変わる？ 農山漁村再エネ法改正とFIT/FIP支援の行方",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PUGNqMFBhdmh0elAxYzhnRXA0VVhoelBucEV5SGduMnBHN1JnelhXc2tCWlp1ZklJdVBGLW9EM3JBNVpCNXlyV2s0MA?oc=5",
+   "source": "ソーラージャーナル",
+   "summary": "【解説】営農型太陽光発電、事業環境はどう変わる？ 農山漁村再エネ法改正とFIT/FIP支援の行方 ソーラージャーナル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T12:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "営農型"
+  },
+  {
+   "id": "f68b70853805b5cd",
+   "title": "東急建設、ヒラソル・エナジーなどとともに蓄電所事業を行うTJグリッドへ出資",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfY3ZkX2pMZHVSb3AtUlFRWl9RdnpWaVNHanF3MUpyTXdKdDhUUUhhNGprSGhqQ0NDVTNkX2Z1cEhLOW9sY0N5R3JwYllkVXVUVVhtSkMxNHAxTzF2MlUzY2p0eHBZVWpVNUhVRg?oc=5",
+   "source": "日本経済新聞",
+   "summary": "東急建設、ヒラソル・エナジーなどとともに蓄電所事業を行うTJグリッドへ出資 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T11:32+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "4fa8668bd22d40c8",
+   "title": "ＪＢサステナブル、2026年11月27日より低圧系統用蓄電池「RENON 49.9kW／133kWh」の予約販売を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JenJqSV8tTGlxZ0NMbmRLSXY2WDBIYjZjZTFuNnA3eUp4dng4akptekM3dHJVbGNZM09famwxdGw5bGNFVmhFbFhjS2NONk5vY3ItRWFCOWdtTTFOeUx3VTRqNjc0Y0pI?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ＪＢサステナブル、2026年11月27日より低圧系統用蓄電池「RENON 49.9kW／133kWh」の予約販売を開始 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-27T11:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "company": "株式会社ジェリービーンズグループ",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "aead2c143c3a2aaa",
+   "title": "ヴィクトン、ネクストエナジーから太陽光発電設備事業を取得",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WbzQ0dkhsX3lnZFpTYXM5ZHpVak42eTY1dlJ3WWsxVE9mcXNEanBaNWozT2VDTUtPelY1bnpsMzdXem0taTlzZDBsWXJXZ0VaLWcyUFhJUFVoTjVaRExB?oc=5",
+   "source": "コトラ（KOTORA）",
+   "summary": "ヴィクトン、ネクストエナジーから太陽光発電設備事業を取得 コトラ（KOTORA）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T11:26+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "086502cdd1bb074a",
+   "title": "蓄電所マーケット、系統用蓄電池の売り案件の一覧を11月22日から登録なしで公開（日英） 11月23日に土地の属性の絞り込みを追加、11月24日時点で281件",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtUS1RZzdreFhwQWhvekh5RXQxcF91VmRmSExwOUUyNk1KNGFDQzVqV1o3Q1dyQnlIajlEaGZOcEI2c1BReHNObzBhTkpzbXg0dHBEaWpFX1BZeGM?oc=5",
+   "source": "valuepress",
+   "summary": "蓄電所マーケット、系統用蓄電池の売り案件の一覧を11月22日から登録なしで公開（日英） 11月23日に土地の属性の絞り込みを追加、11月24日時点で281件 valuepress",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T11:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "5cc5f3aefd907652",
+   "title": "「貨物ドローンで太陽光発電設備を」…ベントレー、クルー工場の操業におけるカーボンニュートラルを検証",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSZmZGMzNlcEtSbEVkelhUMm5pd3YwZ2RzeklpNXEzZ0R4Y3R6S1ZRU3dSSER4aElQaWxtVElnazFUdEVxeGw2Z00zR1lpZC15MXl3?oc=5",
+   "source": "매일경제",
+   "summary": "「貨物ドローンで太陽光発電設備を」…ベントレー、クルー工場の操業におけるカーボンニュートラルを検証 매일경제",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T10:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "117a7e246972435f",
+   "title": "ヴィクトンは反発、太陽光発電関連事業を譲受へ",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GZlRDd2NwX2hFZGRIVEVCNkNHaTN5VnE3QTU0Zm9PRFFPUEtrbWVmWEpVVWd2T09rWXpOTGhva2xGNzJybkV6Yg?oc=5",
+   "source": "みんかぶ",
+   "summary": "ヴィクトンは反発、太陽光発電関連事業を譲受へ みんかぶ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T10:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "668e55d795388f5b",
+   "title": "系統用蓄電池（蓄電所）の売り案件260件を管内・電圧・連系の見込みで集計 九州が69件、回答書の工期の中央値は18か月（2026年11月26日時点）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IS2cwbXEzeWU2R1NiRno1dTM0VVVmWVh4YWlXd2diOEVKZHJabzJDbEtfZnZtMHU0dWpCcUE0QW81OExCaTk2WHBGamlwWUJ0QWJER3dqUkZ2cDJtb2wyT2w3LW1JSlFtd0E?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池（蓄電所）の売り案件260件を管内・電圧・連系の見込みで集計 九州が69件、回答書の工期の中央値は18か月（2026年11月26日時点） PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-27T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "サイエンスエックス株式会社"
+  },
+  {
+   "id": "cb705f220b082997",
+   "title": "川崎重工、大規模水素ステーション向け水素圧縮機の評価試験を開始",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tM3E4VHJra0NVYlRoQ2c4U0M0Y1R0ajJxODVxcWxhVEJLWHc0RGdqU1VrZU9HbGhRbG0wVlJteVJZeXp4UkE1Y09HXzhJX3d3bUVrZzdnSDVTZEEyejY5em5BaHZPVjI1Y2VJUThIQWQ4TnE0?oc=5",
+   "source": "日経BP",
+   "summary": "川崎重工、大規模水素ステーション向け水素圧縮機の評価試験を開始 - ニュース - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T09:59+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "4536b77c550ac713",
+   "title": "蓄電施設計画どう対応、県内の一部で住民トラブル メガソーラー教訓、指針整備の動き:地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12dlRSTzVPWjhzenZDVG5sc2pFNEFzcUh5VEx6LVAxNTZvWHdXczFuaF9wWDlTLW5leFhTcGRWTzBISk90czI1RzF0bUhnVjU5SFpJT0MyM1lrRVYxU3hHR2RXaXBYNkJv?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "蓄電施設計画どう対応、県内の一部で住民トラブル メガソーラー教訓、指針整備の動き:地域ニュース 福島民友新聞社",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T09:10+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "topic": "トラブル・地域",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "953f0cfc8a8b8ccd",
+   "title": "【2027福袋】ソーラーライト福袋が販売開始！公式ストアなら最大約18,500円もおトクに買えちゃう期間限定福袋！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdC1kTFlNN2FFbkhDV1VCclhwdWtWUmw4VXFMNXB1VFl5cWRnTDZVbTFDb1RCWUtpVnF3WlJUNVBWT2lYTVNHRE56d1dvaHI0YnVwZ1czcGotLTNaMUFBcmNHXzVuT1Z0aWc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【2027福袋】ソーラーライト福袋が販売開始！公式ストアなら最大約18,500円もおトクに買えちゃう期間限定福袋！ PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-27T08:57+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "その他",
+   "company": "株式会社HAPPYJOINT"
+  },
+  {
+   "id": "d4bf0e9282c4dd6c",
+   "title": "【REPORT】自然エネルギー財団、「薄くて軽いシリコン太陽電池：ペロブスカイトに先行して普及へ」公表",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPLTNxQlZ4QXR1Ul9iZHpQMnR2RG54cWt0cUdaQVFKZVZ5bnpTUHhMQWdsRkNkRGNLYWhmUmR1UTBscGhtZkc2R2RUWDE0TjFFeWkycnctVzRZN3FEaWI3T0RpNk9KeWN5SkZyUHBibTZBaWttRi14T0ZJQXdTNUF5MVRsTlVUM3dBS2ZPQ1cteWRVM2ttNjVqcms3TUhVMXNrdVNwTjBjbW9IZGx4S3VJSjRHRUhBRXBSNjFKTndWR1lYWFVsQzFZcURuSlV1WDNzSVMwazNldmk5amhPQzFtOHExY0x4Z1R1bG4wY21rR3dKN3ZsSGpuWHcwZy1DZmktakY0d1BsMWdXSlRCN2w3V0M5WXdIY2pPcExaVTFZNENDaF9OWkpQZ0ZWMDBkb2N5Z2RuVVhMMmhBQ1NVcE5WNXQzeFV0NXZuYnZTLUF2UDNLdw?oc=5",
+   "source": "www.ctiweb.co.jp",
+   "summary": "【REPORT】自然エネルギー財団、「薄くて軽いシリコン太陽電池：ペロブスカイトに先行して普及へ」公表 www.ctiweb.co.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T08:40+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "f848d268fb8b0162",
+   "title": "太陽光パネル量産体制 楢葉の長州産業東日本工場:福島ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VVc0Y0dGSWJoUy1fNTFiQmVFdWktcDN1SV9iN19ibzM5OUliWjc5MEs4RkVJeTVmSUxfOTlnaTNna24yZDVxNm56bnpmRjJhMzhjejZyZUwtVVhPSlI1ZVJ4Q2hlc0Et?oc=5",
+   "source": "福島民友新聞社",
+   "summary": "太陽光パネル量産体制 楢葉の長州産業東日本工場:福島ニュース 福島民友新聞社",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T08:33+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "2d1e2b032e690d22",
+   "title": "薄くて軽い「ペロブスカイト太陽電池」で、発電できる場所が広がる? 北海道電力の実証現場へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13SnlkMjRONjA2MjRmV1ZVU2NxVDVCRlJtUmsxWk1SR2RuOVptX0xPZWRPdWQ1V3pDSWhibVZGaFFiZDc3X01lUmlmM3lKM3JaVW5wVGM3eTJKNHJjSWlRM1VPdXJEUGl5?oc=5",
+   "source": "マイナビニュース",
+   "summary": "薄くて軽い「ペロブスカイト太陽電池」で、発電できる場所が広がる? 北海道電力の実証現場へ マイナビニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T08:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "4404a88a4837a87d",
+   "title": "関西電力と関西大学、ガラス型ペロブスカイト太陽電池の実証試験へ基本協定を締結 校舎窓枠に14枚を設置",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FTE92ZXl6SXpUYmd6TkFvaHN1NEVMOUZyMndyR2pGQ1FFSXpOd1h5R3ZIVG1JUVBKZEIydDduRWZ1c0N2bnJjWmJlSUI5M2VN?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "summary": "関西電力と関西大学、ガラス型ペロブスカイト太陽電池の実証試験へ基本協定を締結 校舎窓枠に14枚を設置 LIGARE（リガーレ）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T08:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "96e46fe6a04bad71",
+   "title": "グリーンエナジー&カンパニー、系統用蓄電所が全国22府県に拡大",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9za0NwM1Z2dUM3OUVKS0dRTUZGLS1rckFFckxmUEJjYWJoR3NIRXZuOHcxZUJlcW55VmhxLUhSSFdBVnZOaHgzbzhpTU1pU0VCazQ1bzBDZjNzMzYzSDJ0SFVIQUg5bTExVjlRcw?oc=5",
+   "source": "日本経済新聞",
+   "summary": "グリーンエナジー&カンパニー、系統用蓄電所が全国22府県に拡大 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T08:26+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "e07ab1a2552598e0",
+   "title": "原因は朝露、経験と体力と気力が問われる「コネクター漏電の特定」 - トラブル - メガソーラービジネス plus",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iUDk0NnMyczBScWkzaWFjWDBxelVfMFdyS21jdFU3a2lCWHFmSk00c04zc0JNUDdnNzBqNzg1d3VRSzBYMXVkenBVdE1HcUdlZXlyYWZrMGZfZUtwYjVBU3NSNktrTjlXMmk5WFNSTXNyWmRGNDRKSw?oc=5",
+   "source": "日経BP",
+   "summary": "原因は朝露、経験と体力と気力が問われる「コネクター漏電の特定」 - トラブル - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T07:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "トラブル・地域"
+  },
+  {
+   "id": "c6d15e624dcba040",
+   "title": "品川駅のホーム屋根に「曲がる太陽電池」 JR東日本、照明などに電力を活用へ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjQVpFeHpzdjVHWG85RkNyTUlucHlmQmtlcGd0aS10TWU0cmtTUzNzUm1TMGoybUIyRUwwT0dmdlRkcU1YdFZmYkdJcGw1dW9xNHVGTlI4d3lRLUp2QVZLRVljV0FBbEVYbHNKUnREZ0lxLXhkdmtuVzViUkFUeG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "品川駅のホーム屋根に「曲がる太陽電池」 JR東日本、照明などに電力を活用へ Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T06:20+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "397c7d7aa4d95a17",
+   "title": "テスラ製の大型蓄電池140台が滋賀・米原に 約5万世帯の1日分を蓄える国内最大級の蓄電所、12月1日稼働へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rNHNZVmdHaktZd2JvX2ZyUTdqMlplOVYtMlJmRVI1b1pNOHY5S3NGQzhMMEFIUTEtZHdlOTBWeDktN05GV3daU1p6U3J6ZlVZZW1qa2JsemtBdWJoNUE?oc=5",
+   "source": "再都市化",
+   "summary": "テスラ製の大型蓄電池140台が滋賀・米原に 約5万世帯の1日分を蓄える国内最大級の蓄電所、12月1日稼働へ 再都市化",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T06:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "0a9fa5a2a27c9ee5",
+   "title": "オリックス、滋賀・米原に国内最大級の蓄電所 134MW",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSHRDM2dkOEV0aHl5SmtweDBrNF9xY2p3NXVIQUlUc2ROc0ttMlJ3a0ZpSFFGTEZuZ043S1VEcDUwemF0UF80UGFzbDNBSTd3UjVKNmVRX3hBSFJXYjNyN05ITmNUVEkzLVhSTnljUWFQOTJBNFNZ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "オリックス、滋賀・米原に国内最大級の蓄電所 134MW 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T05:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
+  {
+   "id": "b5004cc1592fe107",
+   "title": "太陽光発電所を取得 多古町内、３万平方メートル 千葉銀子会社",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yUWpPXzR0MzBXWGlQUW9xdE9WZmtHUS0zMUYtUGNuOHY0MjdRb3VCa2l0VEcyMTRpMkdFLXh6bEJQY1lSNXlYdEZJem1RQ21iSjdJU054M3k?oc=5",
+   "source": "千葉日報オンライン",
+   "summary": "太陽光発電所を取得 多古町内、３万平方メートル 千葉銀子会社 千葉日報オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T05:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "e4f74c98af79984e",
+   "title": "リスク評価と地域共生で、太陽光発電所を「格付け」",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SHpHaUYwMXNKV281VmRRbWVTX0dVY3NKTmJCUnVSMHhjV3pPX1JqTnRuVURkbkZjUXhlaS1seWRjUEJkVWR4SUlMaDR0R0FFaDBXdGMxTHdTTEllaG1uNWliLVpkMFFFbFMtd29jTXM1U1JGM0pkUA?oc=5",
+   "source": "日経BP",
+   "summary": "リスク評価と地域共生で、太陽光発電所を「格付け」 - 特集 - メガソーラービジネス plus 日経BP",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T05:00+09:00",
+   "via": "メガソーラービジネス（日経BP）",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "282cd0cc98490fc1",
+   "title": "日本は全固体電池で覇権を取れるのか、LFP電池の歴史が示す教訓",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02421/112400138/",
+   "source": "日経クロステック",
+   "summary": "今や世界の定置用蓄電池の90％超、電気自動車（EV）用蓄電池の50％超を、LFP（リン酸鉄リチウム、LiFePO4）を正極材に用いたリチウムイオン電池が占める。そしてLFP電池市場は中国メーカーが席巻している。",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T05:00+09:00",
+   "via": "日経クロステック",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "80eeff1c549dbb97",
+   "title": "メガソーラー反対 町に署名追加提出 駒ケ岳地区住民",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQ1A3UU9VT3RoTG5BbmpMdXcxSDR1OVlFUlBwc2ZFRlVJdEpTVjlPSXlwTWtjSDl3RGFvXzFCOGZlWUx5VlB1ZTdDNXpYOEVRWmRoMkNDdXZ2dw?oc=5",
+   "source": "北海道新聞デジタル",
+   "summary": "メガソーラー反対 町に署名追加提出 駒ケ岳地区住民 北海道新聞デジタル",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T04:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "トラブル・地域"
+  },
   {
    "id": "720bb665b5ccc537",
    "title": "【続報】SOLABLE 新潟県「次世代型太陽電池用途開発等実証支援事業」において2件の共同実証事業が採択",
@@ -468,6 +809,22 @@
    "company": "Panorama Data Insights Ltd."
   },
   {
+   "id": "b49be4e4cc2b29a3",
+   "title": "コスモエネルギーHD、小豆島の太陽光に蓄電池併設",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrN3BBUjFfd1BFTVhFRkR4WTFONWs3ODlpb2VzNHM4bUdKZDNQT1Jzc1U4LVVjV0hFb25mV0s2aWZlUi03cktvRGRaYnhYamhFVm9BNjhEdjEwb3Mx?oc=5",
+   "source": "株式会社電力シェアリング",
+   "summary": "コスモエネルギーHD、小豆島の太陽光に蓄電池併設 株式会社電力シェアリング",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:28+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "市場・企業",
+   "storage_topic": "その他"
+  },
+  {
    "id": "94440027e371a76a",
    "title": "テスHD子会社、岡山のコクエイから蓄電所工事受注",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kLTM0dDFVcDZtdk9ZQ2RObkNxd2ljT0VBaU1URkF6QUE4OEVxR0lfNW9Nandlc2VxWVVSVnVUOW55bGVtRFRXUTRrd0h3VnFsMXQ0U0ZPQXdSM0ls?oc=5",
@@ -839,6 +1196,20 @@
    "via": "@Press（太陽光・蓄電池）",
    "storage_topic": "その他",
    "company": "ReportPrime（レポートプライム）"
+  },
+  {
+   "id": "d4c25fae35f99ce6",
+   "title": "金沢駅で次世代型太陽電池を展示 金沢大と市 脱炭素への理解促す",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tVDUxQVpKclowRkkySWQ3YXl5T2ZqenI3T3lZWDI5LVF4Q1Q1Ulg2bHUyS0pQR252aUFvU3hqZ3lKdGVYa3ZVQ3BRNzVQM1FYbWYzWW1GVUp2dDNCY1I2WW1sNGlMOUdZSHhKU0FFQ3JveTd5MzZjTUdVaw?oc=5",
+   "source": "環境新聞オンライン",
+   "summary": "金沢駅で次世代型太陽電池を展示 金沢大と市 脱炭素への理解促す 環境新聞オンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T07:58+09:00",
+   "via": "Googleニュース「FIT・FIP 太陽光」",
+   "topic": "次世代技術"
   },
   {
    "id": "bef1f3a43840bcb4",
@@ -2018,6 +2389,20 @@
    "published": "2026-11-24T17:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "b941941b2c146d8c",
+   "title": "国内最大級の蓄電所、12月稼働 オリックスが滋賀・米原の市有地に（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WTWM0SEoxcThCM0NWdV9CX2xDUm5PVEk5cE15bU9WWHc5TklSYU9TY0tNbk9peV9KQkpERHFVenJST3FNVVMyZ3FtNU5OSldMWEtiaFNhN2plQW1iUXE1M3RUWlljbUtUam5GOElsLXhxQ0JLZ1o2YURKc0U3WTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "国内最大級の蓄電所、12月稼働 オリックスが滋賀・米原の市有地に（朝日新聞） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T17:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
   },
   {
    "id": "245cb08c364b1653",
@@ -42691,371 +43076,6 @@
    "published": "2026-10-03T13:00+09:00",
    "storage_topic": "高圧（特高含む）",
    "company": "ポート株式会社"
-  },
-  {
-   "id": "d9f0faf31ca31fec",
-   "title": "ハイブリッド太陽光・送電網安定化ユニットの世界市場（2026年～2032年）、市場規模（太陽光＋蓄電池ハイブリッドシステム、太陽光＋送電網＋ディーゼルハイブリッドシステム、太陽光＋風力＋蓄電ハイブリッドシステム、グリッドフォーミング／グリッドフォロー型安定化システ",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55VlU5a2hBRmZnY0pJX3hEaFB3ZDl5TUp3Rk5EZDN0cGhOdWdzRHVSLWxKRFlNN1hCQXZmTHBkeUQwSnRSZmdodHdzVkc0bXc?oc=5",
-   "source": "アットプレス",
-   "summary": "ハイブリッド太陽光・送電網安定化ユニットの世界市場（2026年～2032年）、市場規模（太陽光＋蓄電池ハイブリッドシステム、太陽光＋送電網＋ディーゼルハイブリッドシステム、太陽光＋風力＋蓄電ハイブリッドシステム、グリッドフォーミング／グリッドフォロー型安定化システ アットプレス",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-03T12:30+09:00",
-   "topic": "市場・企業",
-   "storage_topic": "その他",
-   "company": "株式会社マーケットリサーチセンター"
-  },
-  {
-   "id": "5848ac849f7c6b81",
-   "title": "【蓄電関連】GoodWe：低圧系統用蓄電システム「ESA」を複数社が展示、EMS連携とJC-STARを踏まえた構成を訴求",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wV0RzY19DSGpjbTZtbzNOMjlPc0hjTXd6MDRKb05ZbUxvU09rbDZUazdIOF9NdDkzblFUZjFWLWZKRDR1Q3p1MXZTWXJXRk9EYlRMaTZHc3Y2TzhoQ0NEd1lHV1Z0MGpfVml0NEJLTW1mUQ?oc=5",
-   "source": "みんなの広報宣伝部",
-   "summary": "【蓄電関連】GoodWe：低圧系統用蓄電システム「ESA」を複数社が展示、EMS連携とJC-STARを踏まえた構成を訴求 みんなの広報宣伝部",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-03T07:54+09:00",
-   "storage_topic": "低圧"
-  },
-  {
-   "id": "484b541ace04c87d",
-   "title": "千葉銀子会社、いすみに蓄電所 再エネ拡大へ電力安定供給 来年４月稼働予定",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53OWRzQ0VSenliQUpZb0R6bUFPd0tGZk1Zc3lucEpyZEViNndfcUFPOXduRTVhbkY2RmhJTXRWOS1QbEQxMXhxNzdvV1JsNHlUZmI1TGVPai0?oc=5",
-   "source": "千葉日報オンライン",
-   "summary": "千葉銀子会社、いすみに蓄電所 再エネ拡大へ電力安定供給 来年４月稼働予定 千葉日報オンライン",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-03T05:00+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "79b00b01cc40f1b8",
-   "title": "ノーベル賞週間、注目は睡眠障害治療薬やペロブスカイト太陽電池 - 日経ヴェリタス",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YT2lmS0NVZ2RmeDV5UkQ3ZEpFWEhTVVlfdHRvRkJCUVg4dVNGTmpOeHNHWjNzSkdOVlkxaEI3QXUzOVctZWsxSWhwaTNpT1dFNE9WTUx2ZlVMMjMtMWh4dXJfN1VucnducmJWaGlaT2NZV2JQQ1BZVUQ2RlAwQQ?oc=5",
-   "source": "日本経済新聞",
-   "summary": "ノーベル賞週間、注目は睡眠障害治療薬やペロブスカイト太陽電池 - 日経ヴェリタス 日本経済新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-03T05:00+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "995273a2f61b85a6",
-   "title": "Tensor Energy、ポートは高圧系統用蓄電所のアグリゲーション契約を締結",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9idFJBRFdNSFFLeEs2M24wd2duQVYyaHFiWjRIX3pFY19QWHhsbmVrZU4ta1JuaHFTdFd4S2pDa01YVGI4MC05T2VJUVVhamJSdUp0YlpXV1lqOFhvbzRpQ2VMbGdBSlV2ekFxVnBRUUptMHo5?oc=5",
-   "source": "Excite エキサイト",
-   "summary": "Tensor Energy、ポートは高圧系統用蓄電所のアグリゲーション契約を締結 Excite エキサイト",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-03T04:10+09:00",
-   "storage_topic": "高圧（特高含む）",
-   "company": "ポート株式会社"
-  },
-  {
-   "id": "e66268055ac2508d",
-   "title": "米カリフォルニア州、2027年から最大1200ワットのプラグイン式バルコニー太陽光発電を合法化",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWDVQWmY0b1cwRk0tVzItRE0wT3c3QTk3RnVpQlp0NmdZejZubVZsTG5pTjAwS3BGWTlOdW8zdjcwdnpIQ00tc0NXa2hDVUtkTFFBLUVPUEZ5VWxmdW1PX2lPcDNqSUtXVktYa0hGdGhtVzhH?oc=5",
-   "source": "finance.biggo.jp",
-   "summary": "米カリフォルニア州、2027年から最大1200ワットのプラグイン式バルコニー太陽光発電を合法化 finance.biggo.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-03T03:30+09:00",
-   "topic": "海外"
-  },
-  {
-   "id": "da530b1d669ae2c4",
-   "title": "日立とエネウィル、系統蓄電所に蓄えられた再エネ電力のグリーン価値の証明サービスと事業活用を開始",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYXFMTlBZUGxqMy1ieExQZkQwblRwbjROOFFKSWxQOHRXVTlCUk05N2E5QkhMYzdCb0IxQmdUT3VWZTdIaVZHcEZ2SzNONmZZdWxXQTZMMHFOeUU?oc=5",
-   "source": "朝日新聞",
-   "summary": "日立とエネウィル、系統蓄電所に蓄えられた再エネ電力のグリーン価値の証明サービスと事業活用を開始 朝日新聞",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-03T01:49+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "9b8a512fffbd1567",
-   "title": "青森で太陽光、中部電が運転開始",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMHdzWlhlNTZESkUweDEyZl81QXJwNHRqUjlMUS03bTRsX2VaQTNuSkx3MElWMnRkUGV5VGh2ZTh2VUNxcEN6WEN0ODF1Q25yZWZCLUpCN0VKMk94WEprT2JsVDY5aXdyM3VhVw?oc=5",
-   "source": "日本経済新聞",
-   "summary": "青森で太陽光、中部電が運転開始 日本経済新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-03T01:49+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "ceb06581d90aaf2e",
-   "title": "カクイチ、太陽光発電設備1万7000カ所のデータ異常値をAIで早期検知",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maG5JeExScDRJOXhjM1JxYVNrV0xRbzRHYzJHb1kwdnY4bVd4NDc1UGZ2TXFzWGQtWU5Jd3NHWDBSemJxVU1iTERsdzhtX1UtWDNR?oc=5",
-   "source": "IT Leaders",
-   "summary": "カクイチ、太陽光発電設備1万7000カ所のデータ異常値をAIで早期検知 IT Leaders",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T18:52+09:00",
-   "topic": "O&M・保守"
-  },
-  {
-   "id": "e1f9a0b3cdaaada7",
-   "title": "【岐路に立つコメ】第４部 新農法 （４）営農型太陽光発電 収穫と売電で〝一石二鳥〟",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PY29fQjVJSkNyYkRySHNnVnVTbzRpNEZ4TjJiaU1OQldDTm0yWGhlaUdxdnNqNWZFaWNUYU02OFVzZzBPSFNoQmV2NXNIZklGcEE?oc=5",
-   "source": "山陽新聞",
-   "summary": "【岐路に立つコメ】第４部 新農法 （４）営農型太陽光発電 収穫と売電で〝一石二鳥〟 山陽新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T18:18+09:00",
-   "topic": "営農型"
-  },
-  {
-   "id": "a9e50f615bdbb263",
-   "title": "「どこでも電源」を宇治から世界へ ペロブスカイトの新工場が完成 [京都府]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcEp1N0lDWWhsUUtTd3RtaWl0MmdpX2lMRG1XWE1IVjhaQUtVbXVvelZZWU90WmpTSjYzYlB6NzR4ZTRQaGwyRno0M3hWTHVUU2ZFRmxUNXZJcml3MDZUUWo5akFjem8?oc=5",
-   "source": "朝日新聞",
-   "summary": "「どこでも電源」を宇治から世界へ ペロブスカイトの新工場が完成 [京都府] 朝日新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T17:00+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "3580b7b4d3ae6643",
-   "title": "従来工法では設置が困難だった冷凍冷蔵倉庫で太陽光発電を実現 ホウスイ市川物流センター・厚木物流センターへフレキシブルソーラーG＋を導入",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5McWttaUJYZkp4ejR4SUczNTlWQURtOWdHTDlsM0FkakhKd2VfTFZ1OFh2RUNOaHNWTF9BVy1nYlJPdjlRSEJucWhGUUphS1dFbmp6eDBkcEtSMkJ4RWRicEI4NnpzY05naXc?oc=5",
-   "source": "PR TIMES",
-   "summary": "従来工法では設置が困難だった冷凍冷蔵倉庫で太陽光発電を実現 ホウスイ市川物流センター・厚木物流センターへフレキシブルソーラーG＋を導入 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-02T16:50+09:00",
-   "topic": "次世代技術",
-   "company": "株式会社 電巧社"
-  },
-  {
-   "id": "22538d2d0968f35a",
-   "title": "太陽光発電施設から銅線を盗んだ疑い カンボジア国籍の男３人逮捕",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BYTV1LVdkSlZZSkYzeERVWjF5NWlXZ01PZmFKcEh6Vm5RQm0zSHlVN3lkR2ZYRkVhVWpUZ0RqMkFqb1lXTWVHZnBVYjBKa0U?oc=5",
-   "source": "khb東日本放送",
-   "summary": "太陽光発電施設から銅線を盗んだ疑い カンボジア国籍の男３人逮捕 khb東日本放送",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:35+09:00",
-   "topic": "トラブル・地域"
-  },
-  {
-   "id": "4d02d57c0929fa49",
-   "title": "Sassorとポートが高圧系統用蓄電所の市場運用契約を締結し、収益最大化を目指す取り組み",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EVVBBcUNIMHJ5MkhMLS1HODNDQjJwOTZoX3BCdnFuVFFpak1qa0RzY21vQ0hfWGhLMU8tZl9Db1VzRkdpLVJWVG1mZm1sRVNIaTVCRDNJU25peWxpTG5nYW1LMUs4cTZORkJuaks5ekJnQjBoNnc?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "Sassorとポートが高圧系統用蓄電所の市場運用契約を締結し、収益最大化を目指す取り組み ニュースメディアVOIX",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:33+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "高圧（特高含む）"
-  },
-  {
-   "id": "e8d1c0949cc8a2b4",
-   "title": "岐阜大、酸化チタンの「エネルギーの階段」でペロブスカイト太陽電池を高効率化",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Uc256em5LVnJGdmo2MzJVaFpJNktBTHhvRnAzUVBLSHYzQXFuUC1BMklvZHdyUGx0dFBveGRBcTRleUN5Z3RUVkt1TEZJUnpVa2FKZWtmdG9fUVp5QkE?oc=5",
-   "source": "optronics-media.com",
-   "summary": "岐阜大、酸化チタンの「エネルギーの階段」でペロブスカイト太陽電池を高効率化 optronics-media.com",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:08+09:00",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "930cbaee91542a2f",
-   "title": "カクイチが、AIで全国17,000ヶ所以上の太陽光発電設備におけるデータの異常値を早期検知 「MotionBoard」と「dejiren AI」で異常検知から現場通知まで自動化し、対応スピードは体感で2倍から3倍に",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44a3VFc3BWQnpRek5ZLWdDY3NyRDhTenlpd21XekxKOXNhamZfVHY5cEhndnhCbE9FOGZIOVVIeGt5UTV4NVpSVFNreDVQMm9zZU82dURIakU5bDhPZnpPM01R?oc=5",
-   "source": "corp.wingarc.com",
-   "summary": "カクイチが、AIで全国17,000ヶ所以上の太陽光発電設備におけるデータの異常値を早期検知 「MotionBoard」と「dejiren AI」で異常検知から現場通知まで自動化し、対応スピードは体感で2倍から3倍に corp.wingarc.com",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:00+09:00",
-   "topic": "O&M・保守"
-  },
-  {
-   "id": "7396f3f2b8669ca3",
-   "title": "メガソーラー計画中止に 苫小牧、公募事業者が辞退",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JbTIwbE5iNXhnWXBNM0VORGJFbEFhZDlNRUstUUdwaXNNWktPcTNac3pHOThkVUQ5S1JDbjFKMW01R2gyLVVnc0xLZmZEb1J6blE?oc=5",
-   "source": "山陽新聞",
-   "summary": "メガソーラー計画中止に 苫小牧、公募事業者が辞退 山陽新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:00+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "abdac0e11230d0d2",
-   "title": "太陽光発電所運営大手と協業 パワーエックス、蓄電池の販路拡大へ",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TcFFDdVloZWF3R3VpUjRJQXBKbTcxNWVDZUxHSVdCSENSdGhid1duSDNvUkhrSTFFLTFjNDZubVNnMExBcl90ZGRmZHc0UXpjTmc?oc=5",
-   "source": "山陽新聞",
-   "summary": "太陽光発電所運営大手と協業 パワーエックス、蓄電池の販路拡大へ 山陽新聞",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T16:00+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "発電所・開発",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "e7763d4fe8a6cea2",
-   "title": "ポートとSassor、高圧系統用蓄電所の運用で契約締結",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mUjVFWmc4OXdYTDBGQWt6LUdjNHpiRVBDQ3JrQmxLZ1dRYlp2bkduZTZNUGJqQlh5QTd1dDk5eDNuNDVNSTExM29Kai1zYjBKNEk4?oc=5",
-   "source": "ニュースメディアVOIX",
-   "summary": "ポートとSassor、高圧系統用蓄電所の運用で契約締結 ニュースメディアVOIX",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T15:02+09:00",
-   "storage_topic": "高圧（特高含む）"
-  },
-  {
-   "id": "bcae8e07a8cee76d",
-   "title": "オリックス初、系統用蓄電所開発に外部資金 アセットマネジメント領域拡大で",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNmtfeHRneVg3Nk94ZDZLeHdRbnFseGZkWVRqaUxSeTZxU2prWEw4TGV3WUxmVnY4d2xHZFl2SGFGVWJNU3psOTIwTnZ1YnNYUDAySktaRFU1TFhLZFhCS1JrSFhmU3N0Z241V3pSbmh5TkFEdUU5WXpWeEo?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "オリックス初、系統用蓄電所開発に外部資金 アセットマネジメント領域拡大で kankyo-business.jp",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T15:01+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "d057c4202fcb8aaf",
-   "title": "FIP太陽光発電所由来の「非FIT非化石証書」相対取引を開始",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JMzFRa09PQTlvT1cwUE1UcWZmanNNeTlTTDZreXF4endaRENRd2dybHp1YUk1aGtJUU83WE9yRmd2aERpWmtDd05tVFlnYkM0WmhXeXB4MmMzTVl6bU5RMnhiZWtLZ0NQU0E?oc=5",
-   "source": "PR TIMES",
-   "summary": "FIP太陽光発電所由来の「非FIT非化石証書」相対取引を開始 PR TIMES",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-02T15:00+09:00",
-   "topic": "政策・制度",
-   "company": "株式会社グリーングロース"
-  },
-  {
-   "id": "a44907327923ff64",
-   "title": "事業用太陽光の支援重点化、4類型を対象へ 公有地やソーラーカーポートなど",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdkJwTWNKVkxESHlpbG42VkhwalRfYllLbW5DcUl3MTA3bVJRdHEzZURFaE5XQnc3Xzl2RnZxSkJFVmwyUUxlNzhudDhhcWlYQjZCTmo3dVVaOW9adlJMQUxvWld3anB6VERWWU9GVHNzQWlINlRpMVROVTE?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "事業用太陽光の支援重点化、4類型を対象へ 公有地やソーラーカーポートなど kankyo-business.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-02T14:00+09:00",
-   "topic": "住宅・自家消費"
-  },
-  {
-   "id": "bcff794d0a61e7be",
-   "title": "パワーXが大幅続伸､大和ハウスに蓄電システム納入",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TWWpGd1Q2SDhmOVY2MWt1SV9laVppLV9GNktEUDVlQVlFNkUwSkdYZm9paUsweTJPc1JNNklZVXcwQTNJSlVVb3l2aVdPbnZ0MFY4UHhNTQ?oc=5",
-   "source": "四季報オンライン",
-   "summary": "パワーXが大幅続伸､大和ハウスに蓄電システム納入 四季報オンライン",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T13:55+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "d05736ec80138efa",
-   "title": "イーレックス (9517) : IRwith(IR情報) 個人投資家テスタ氏によるイーレックスの発電所・蓄電所取材動画を公開 [eREX]",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SSVgyZEZtNEg0Rno2UmdQSTNWeFphUlItREh4b2pLT1YzSUozTlhvTTZWTlY1UEluZHY3Mi1aT3hDaGoxVXZfLXFkeEFJM3dFS3dqVE5PQlE2WS1YN0VNVzZNRVY?oc=5",
-   "source": "みんかぶ",
-   "summary": "イーレックス (9517) : IRwith(IR情報) 個人投資家テスタ氏によるイーレックスの発電所・蓄電所取材動画を公開 [eREX] みんかぶ",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T13:27+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "1ce743a7285b4938",
-   "title": "ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ld0V2ZkltTGhfQk9fS0gtUDJvT21OTkM3VnlWRE42MlZMdnpwN2xWZlZibnJxenZDbUNIMUZ2X2ZDWVI2eU5Za3pGUXl5U0lHcFAwUzd4LWVFSkZCTHNNdA?oc=5",
-   "source": "株探",
-   "summary": "ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入 株探",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:54+09:00",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "7b86e4f45096d171",
-   "title": "ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dWRlcnpXd1RZTGdCTFQyVE01VXhnOUJsZFk3bHNnU2szYnN6bTY1SUxNNEQyZ0JHUWRvempOcTBJalNVUkVVdW1FZXJ1UWotRk9SQnhIMXhiUzItUjdR?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇ ライブドアニュース",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:54+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "ee9357496d329ee1",
-   "title": "【画像】ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KWGRwTXpIelFBU3ItR0NZZmdyYlJ2bl9DeVdlZW16N0gyQUVva2NXV1VacVF5UEgxVVNWZHNJa3lHU0ZibmIyLVJINWZJSV9PTHFSbWYzUU1OU0pBbFJTcnR3Q3dEVlVodnVqVm5YZVJfZTBwWVphTngzRVk?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】ＰｏｗｅｒＸが大幅続伸、大和ハウスの系統蓄電所に蓄電システムを納入◇ ライブドアニュース",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-02T12:54+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
   }
  ]
 }
