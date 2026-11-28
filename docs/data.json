@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T18:25+09:00",
+ "updated_at": "2026-11-28T22:30+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -131,6 +131,20 @@
    "published": "2026-11-28T08:31+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "低圧"
+  },
+  {
+   "id": "0cb4874487ba44ed",
+   "title": "V2H対応の蓄電設備に10.7kWhユニット追加",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZzJyQ0JyS2hQeWZXOXl1U2YwUUVtV0l6dHVaRmZ4ZmVZdnRzVmVrc0pxdDRNR1RUU29peEplSXNrazBlNTA3c05RcTZUWGJGWjQwTWZ1VnA?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "V2H対応の蓄電設備に10.7kWhユニット追加 www.pveye.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-28T08:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "家庭用"
   },
   {
    "id": "83724e605a0b69cb",
@@ -288,6 +302,20 @@
    "published": "2026-11-27T21:08+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "e041d2f999151113",
+   "title": "SMAソーラー株が5%急騰、ベレンベルクが受注残に注目し格上げ",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01a25GVlVKWHlHaVQ4Znp1Wm1Jdk5jYXZDeHo2RkluWTVhNmRkbkFzNld1WEQyUnpBdldFc2l3RjFYU3NWYTZXSU9pRHRZVjgxMVdMMjl3MzFTZFdIcHBnc2ZxQ3I5NU1HMEIxNVh2akk?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "summary": "SMAソーラー株が5%急騰、ベレンベルクが受注残に注目し格上げ Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T21:04+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "374386c44b35a17f",
@@ -2034,6 +2062,20 @@
    "published": "2026-11-26T10:29+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "fa6d361607f2979d",
+   "title": "ビリオン電機、AfterAIと共同で需給調整市場の「一次調整力（オフライン枠）」向けVPPシステムを実機検証 事前審査",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NnF6RU4yNzA2UzdJUFE1RXFveGZkd2xHRUNnVm9RVGlXWXcyelVXd3JCVUNBeVpVem5sMV82QzQwalpLUUQtWk05QWpyclhjT3hYdW00ZU8tVVhzRmp6eGxlSE9xcnpi?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "ビリオン電機、AfterAIと共同で需給調整市場の「一次調整力（オフライン枠）」向けVPPシステムを実機検証 事前審査 ニコニコニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-26T10:21+09:00",
+   "via": "Googleニュース「需給調整市場・長期脱炭素電源オークション」",
+   "storage_topic": "その他"
   },
   {
    "id": "a59e783abda33911",
@@ -43030,48 +43072,6 @@
    "published": "2026-10-06T05:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
-  },
-  {
-   "id": "35a41be02f035abc",
-   "title": "ノーベル物理学賞6日発表、ペロブスカイト太陽電池の宮坂力氏に期待",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRUM0OVdFRUpLcDU1T2ZtVEExWVZYYkJveEMydWFyNVp4MmhsMUoxYzZmNEZBOXFFXzM1V1Ztb2E2RWluTTBITTlTRXlTQTFJU2kxTHN3OGhBa1NXQ3pYQWNwa0ZVMi1JYktrVQ?oc=5",
-   "source": "日本経済新聞",
-   "summary": "ノーベル物理学賞6日発表、ペロブスカイト太陽電池の宮坂力氏に期待 日本経済新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-06T05:00+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "0c73cf9b02d54bc0",
-   "title": "出力抑制や大規模修繕でも2桁の上振れ、徳島県企業局のメガソーラー - 探訪 - メガソーラービジネス plus",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZUZNR2pXR0hYdzBnalFjSG5yRDluNHZ6Smd3c25wb2hzLXdwVUxXZGdpeEJxTlptRzYzZVJwbzMtOGFBREczVGRSekstYXh2YkpNYVp1SFBoTFFHU2gtZEdIdFVkUS1KcERtRjQ0N1JOb3hSTjVaQg?oc=5",
-   "source": "日経BP",
-   "summary": "出力抑制や大規模修繕でも2桁の上振れ、徳島県企業局のメガソーラー - 探訪 - メガソーラービジネス plus 日経BP",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-06T05:00+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "e466443e66c99b22",
-   "title": "Blue Origin、高さ20メートルの月面太陽光発電タワーを発表 2032年の基地電力供給を目指す",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93S2hjM1VsQ2FsZmdHVHFCRkhPdUVQOVJyc1VQeWtYcHJ5VmZydXZ5eElXb0tKVXAwWGtDM3FiQjZiYmZXbWVET1lWZW1ucGhNUk1HZW14cGN6ZXc5V1FzU3E4bEE0UXRwV2pBRTJfcVM1Q3ZJ?oc=5",
-   "source": "finance.biggo.jp",
-   "summary": "Blue Origin、高さ20メートルの月面太陽光発電タワーを発表 2032年の基地電力供給を目指す finance.biggo.jp",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-06T03:06+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "その他"
   }
  ]
 }
