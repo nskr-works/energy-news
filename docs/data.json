@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T12:30+09:00",
+ "updated_at": "2026-11-28T18:25+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,63 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "8e2e305f593a3a9d",
+   "title": "バクイエン3太陽光発電所プロジェクトの起工式",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGNJaVNtb25leEtSYWR5b1NxZHVIX01IOWRXOTlXQzdYelhoOGs3OXNxWmYwQ3lLMk5fNkRPbFdtZ3ltbkxaNXBFVHZyaHNobnhDMV9qZFBkN0dYTlJrWUtxMkVmRFVoX3hQMkVXZk4yQklpbFFuSE9Vb0sxSGZtcjhR?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "バクイエン3太陽光発電所プロジェクトの起工式 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T18:06+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "8fc2773149755910",
+   "title": "系統用蓄電池の「良い土地」は何で決まるのか――適地選定の4つの視点を読み解くウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTDhRcm5waHYxY1RlOEtfZ3JkQ2tZYV9yUVgzbF9HYk1MelBzYlE5WGhvX1AtQXVvSThYVHNoZmtteW54dERLbTkweVAyclFxRFpiZEdfeGdCYUxmMGpVZXVBRUIwbmd6REE?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池の「良い土地」は何で決まるのか――適地選定の4つの視点を読み解くウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-28T18:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "6bd82a84cdefdb2b",
+   "title": "英ベントレー、貨物ドローンで太陽光パネル運搬 自社工場の屋根2,030枚を",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LbjNrZUlTcjZsaF9TWXdmaVdFZGlaRFRxc2VuUm44cXdMdk9hR05jakFwcEgyc1l2RHp4VjUzamRGdDlIYTJrN2NaZjFBekpo?oc=5",
+   "source": "ドローントリビューン",
+   "summary": "英ベントレー、貨物ドローンで太陽光パネル運搬 自社工場の屋根2,030枚を ドローントリビューン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T17:31+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "524ca0f8627969e5",
+   "title": "KN Srêpốk 3浮体式太陽光発電所の建設が開始された。",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcjUyQUpnR0drWHFua1BtaE5VbDhNTnpETVFIbjB5T3g2QzAxZ0hDbkM3Wk1VZElsOUlXRldwTkNPYk9wdXlLQjZOelgyQ3UtYkk3VXF4R0tTZXJJRWJBTnRYdzdMSUNFX1E3a3pLbzVHQ2dJUGVibFh4Zkp3QQ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "KN Srêpốk 3浮体式太陽光発電所の建設が開始された。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T17:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
   {
    "id": "113eff07404118b7",
    "title": "ペロブスカイト太陽電池の弱点を克服へ、材料を「縫い合わせる」新技術で変換効率27.04%を達成",
@@ -76,6 +133,20 @@
    "storage_topic": "低圧"
   },
   {
+   "id": "83724e605a0b69cb",
+   "title": "太陽光パネル 廃棄が2030年代に急増｜年50万〜80万トン時代の処分手順 – SDGs特化メディア-持続可能な未来のために",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83YTVEZ2RIY0lYcm5JQmVlQ3Bzd3dfR3Z0OW9GeHA1bHBvRzhYLTg5RU1QMFpKbTdxVjlkYUVmVVU4ZW9iOG1KTl9zZ04?oc=5",
+   "source": "MIRASUS（ミラサス）",
+   "summary": "太陽光パネル 廃棄が2030年代に急増｜年50万〜80万トン時代の処分手順 – SDGs特化メディア-持続可能な未来のために MIRASUS（ミラサス）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T08:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "05492fd37e326679",
    "title": "万博で注目された「ペロブスカイト太陽電池」、関西電力がベトナムで実証事業へ…狙いは東南アジアの「脱炭素化」",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QVDBybml0S3RteFd1MVNFRHhvdjlnZGVYQ2M1VGIxTFVGUV9JOGFoSU8xck45cGctRENWX3JJMm5IVk9qOGVtdGhWMEhvTDRleG1ReDM4d0NLbk1UTTFiRzFhQ0pEQkZ4ZDFWQ1Y4T1ktQQ?oc=5",
@@ -103,6 +174,48 @@
    "company": "SAMURAI証券株式会社",
    "via": "PR TIMES 新着（直接）",
    "storage_topic": "その他"
+  },
+  {
+   "id": "1ac35a3c8528fea9",
+   "title": "屋上太陽光発電システムを設置する世帯に対し、1世帯あたり最大600万ベトナムドンまでの財政支援を提供する提案。",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2xaWk9MaDhXOTFUajl5S2Q3cmZnMUh5RGlyRTZhUEZoMUZhMEZzc25JdXRiMDNDZk9fc1pidWJvdWpjdUl5NmxzSGxTenBRYnhaTFNnc0NqcGxvNjJmQnVfNzlJdTF6RmROb05XOGp6c2hYVVkyQ3gtZ3duQllyOFc3SXVxVGxuSVpQUDFBRUlCRFRvTUdTWHlaR3U2OS0waVQwby1lbDg?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電システムを設置する世帯に対し、1世帯あたり最大600万ベトナムドンまでの財政支援を提供する提案。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T23:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "海外"
+  },
+  {
+   "id": "b439442d617e6715",
+   "title": "ニンビン省は、省内における太陽光発電開発に関する法的情報を普及させるための会議を開催した。",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnd5ZTkwMndndW44cmxGa3RMdVd5TTVpV1Q5eWowdEljSEdMbUFkOURTU25ReVJqQnljdDlxajdoVmFIMUxPVEFiVVpKLWFaeTNwV1ZTci04WjRUTXFHSlpOd24zWEpXaE1fcnB4ZllzQWRmY0Jwa3JEejNsSURkdVo1azRFMWxrbERadk1RMW1zNWdxVzdic3JvNTRPTXdmNUZYSDQyWkNEUGFzYzlUazdtWFFHM1dI?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ニンビン省は、省内における太陽光発電開発に関する法的情報を普及させるための会議を開催した。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T23:51+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "fc21ad91eefe8e92",
+   "title": "EVNは顧客への感謝の意を表します。電気修理は無料、屋上太陽光発電への支援も行います。",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzktN3hPMDE2NjJSNzBNLXk1ekxvY19CeXJLMU5hSlV2VTlVNEl6c1huZEVTTFFqSnQ0QldZdl84LU1ScGJJS18zU1Z0ekF0ZjR6Q0RvdTJjV2x3eTRrZTRubUczWUlNYVJja2kzaUc4WnVnb3lDMUN3dGhrMkhfYURtVktuTEdWczRCcXJEOGU3azFJRDRPRldB?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "EVNは顧客への感謝の意を表します。電気修理は無料、屋上太陽光発電への支援も行います。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T23:15+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "e2363be3c77732f8",
@@ -247,6 +360,20 @@
    "published": "2026-11-27T19:50+09:00",
    "via": "Googleニュース「太陽光発電」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "126a815c3f493540",
+   "title": "Sunly、エストニアで244MWのリスティ太陽光発電パークを開設",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOUtpb2dSVk9Say1UQVFCeGxDMU9OYTVQdkx0RGxyanBNWWVYZTFrZHA5ZUhmUWlnc2p1bXc1WmFZOG1wMzB1eFVIQjd0aWgxNmJvTVJEY09kaDN6b0Q0NmxRak1qUnNiMFBqUGhrb0dIU2xrT28tSnFXNU5vNzRPS1NiMUNYdw?oc=5",
+   "source": "IndexBox",
+   "summary": "Sunly、エストニアで244MWのリスティ太陽光発電パークを開設 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T19:42+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
   },
   {
    "id": "cc7ba514c1cf72e4",
@@ -1507,6 +1634,20 @@
    "published": "2026-11-26T16:13+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "次世代技術"
+  },
+  {
+   "id": "f1be2b114241f863",
+   "title": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSDVLcVNpcjRBTTlxNU1LZzJDUU94VWk3c3paMzhNSzFkeEg3ZUlONW0yNm9WNm1QS2k1Z1I4Yk53MFFoQTM3VEFfMDVhdXZ5NEVkUGJITlE?oc=5",
+   "source": "AppMedia",
+   "summary": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン AppMedia",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T15:37+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "発電所・開発"
   },
   {
    "id": "a07e499e8e69bd0e",
@@ -42931,153 +43072,6 @@
    "published": "2026-10-06T03:06+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
-  },
-  {
-   "id": "a2a5f8b5716403be",
-   "title": "地上設置型太陽光発電モジュール市場、2035年までの成長見通し：大規模案件の需要が拡大を下支え - ニュースと統計",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdENyY0ljSy05TWQzbmJoc2xwT0JkdEpmT1l4ejNPTnZNaHpwdF9YU3E3d1Etb0NIckVpOVdKTDlTVTZ5R3N2cnBhenQtY3hLODMyWTZ6cjE4X0N0akJ4UnhWUkpxWDVlWHY2RjRBOFZIaXYwOHlleVREd1BrZlp4Q1liNGhoS3l0VzNEYWIwRWZCWHNTOXcxemR1QnlyNGY2TjdNb0NZSjN6dlc5bWxWc05FU0xtTkxZd09JU3BCb1piZjB0UmNxYkFaQUNFb0FUNl9xRg?oc=5",
-   "source": "IndexBox",
-   "summary": "地上設置型太陽光発電モジュール市場、2035年までの成長見通し：大規模案件の需要が拡大を下支え - ニュースと統計 IndexBox",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-06T03:06+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "1e3c9af353eef645",
-   "title": "福岡県の家具会社も蓄電ビジネス参入 JC－STAR★1のダイヘン設備採用",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WTlJ3cUU5LU00WFhaWlpKZW1kQl9PemFZZ3F5M2JYVnVOOWhKallDWWNLXzcxTV83TnhKZ2E5UTlmNEotYU5fbnFaNVdXRGcxcW8ybWlYem13NnNGdW53VTJEUFNiQThGSWczWUg4U1VzV05iTG9DYzcxNmQ?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "福岡県の家具会社も蓄電ビジネス参入 JC－STAR★1のダイヘン設備採用 kankyo-business.jp",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-06T00:28+09:00",
-   "via": "Googleニュース「系統用蓄電池」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "a3aa9f88ad374067",
-   "title": "太陽光パネル追尾架台市場2035年予測：電力規模の太陽光発電ブームが成長を牽引 - ニュースと統計",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1RjclhqeFVRbEFhZ2U5SDQwcVBLTURUNExuemVZOWFZdFA0eVhxSTlMOWRlUFptM2lVLXZ3T3hrV0pXcVhkeDVPMmQ4WkwyU2ZUTk04ekVVYXloa29xWE1ZaExsSlpKRDVKSHdIaHpCakdXRFVfSWxHYW9sVWU5VVZySmdfX0ZOVDJZSFkwSktHLW1oSURhaFdwc0lfZnlrQmNmUVpHVGpMdDJvQjZOZ0JpYnJXNUtKVlVsQmpzdWM?oc=5",
-   "source": "IndexBox",
-   "summary": "太陽光パネル追尾架台市場2035年予測：電力規模の太陽光発電ブームが成長を牽引 - ニュースと統計 IndexBox",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-06T00:11+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "市場・企業"
-  },
-  {
-   "id": "66bba5a000b6ec80",
-   "title": "京セラのFIT太陽光、蓄電池6MWh併設しFIP転 AIで自動化・効率化",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mM3l5MWtGcHdPYzFkOTZUMmFTcmN2NzZ1Uk16S2RFbG8yM1NVYUxYNjRPeFFZWkk3aElOYk1rdkhudmU5ZzFLclkxYlZfN1FVc2YyQ3NqdmNqVlpqeVpOcFg4TFFfRzRjQmFHYmVTZjRfS2JzSG15WmduUVY?oc=5",
-   "source": "kankyo-business.jp",
-   "summary": "京セラのFIT太陽光、蓄電池6MWh併設しFIP転 AIで自動化・効率化 kankyo-business.jp",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T20:39+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "政策・制度",
-   "storage_topic": "高圧（特高含む）"
-  },
-  {
-   "id": "eb476dc8d16c575b",
-   "title": "NetworkOcean、サンフランシスコ湾の太陽光発電式浮体式データセンターでGPUを稼働",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQThwaTRCWnNPcGp5dGk0Zm9xcG5IV1lRbExLSlhVXzJmbGFzcHJ3alF5MVJ2dHVZc25oMFVhcWo0bkF6MlFRNy1IdXdaSzQ1Qkh1RGlTYXdNN3N3d2Fzb21EWVFyZ1Z5QW5sWGtnc0pQdHdnSGNoYVhmdFhRZUdtMmNaUEh2NGpU?oc=5",
-   "source": "データセンターカフェ",
-   "summary": "NetworkOcean、サンフランシスコ湾の太陽光発電式浮体式データセンターでGPUを稼働 データセンターカフェ",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T19:11+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "97a40bd80dfd6e3c",
-   "title": "京葉ガス、国内蓄電池事業に参入＝群馬県で蓄電所を稼働(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWld5WjdVR1pjTVBvY0hxaEh4eGR6ekhsLThleHl2QVJJbWY4NkVSWWs4M0JzVzhzNmI2eVJVT3dwS2lDOWJpMEhLZi05RnlXWjN4M2lSSkRvQlFpN2lMbkhWR3ZSdWRJN0hTSGJETE95QkQzRTBORkptRzMwVy1sMmJYbktkYVk?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "summary": "京葉ガス、国内蓄電池事業に参入＝群馬県で蓄電所を稼働(時事通信) Yahoo!ファイナンス",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T18:03+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "8403c0f1ae9607a9",
-   "title": "太陽電池バックシート市場：製品タイプ、素材タイプ、技術タイプ、設置タイプ、機能、色、厚さ、エンドユーザー、販売チャネル別―2026年～2032年の世界市場予測",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uNWZ6VUxuVjFjLU5LVC0zcDRUS2FTeENrQXpDT0lEVFI1b19OSTgxdW5ldThvTnNXUDJkcVEzbzktNHViSXd4UXBrazJ2U3M?oc=5",
-   "source": "アットプレス",
-   "summary": "太陽電池バックシート市場：製品タイプ、素材タイプ、技術タイプ、設置タイプ、機能、色、厚さ、エンドユーザー、販売チャネル別―2026年～2032年の世界市場予測 アットプレス",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-05T17:17+09:00",
-   "via": "@Press（太陽光・蓄電池）",
-   "topic": "市場・企業",
-   "company": "株式会社グローバルインフォメーション"
-  },
-  {
-   "id": "90c8515d91bff7ec",
-   "title": "太陽光発電モジュール用温度センサーの世界市場（2026年～2032年）、市場規模（接触型、埋め込み型）・分析レポートを発表",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uanA3YXN1ajBtZ3ZuTl9fdGlXRnN4aHE3V195bmdBX09RWHBkNGdUbF9GVHBPaU1KODY4TGk0RlAwUTlYU25vWmRybE9JMTQ?oc=5",
-   "source": "アットプレス",
-   "summary": "太陽光発電モジュール用温度センサーの世界市場（2026年～2032年）、市場規模（接触型、埋め込み型）・分析レポートを発表 アットプレス",
-   "categories": [
-    "solar"
-   ],
-   "type": "release",
-   "published": "2026-10-05T16:30+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "市場・企業",
-   "company": "株式会社マーケットリサーチセンター"
-  },
-  {
-   "id": "f2246fa951bbba12",
-   "title": "IIJ、島根県松江市と災害時の電力供給に関する協定を締結",
-   "link": "https://prtimes.jp/main/html/rd/p/000000064.000165540.html",
-   "source": "PR TIMES 新着（直接）",
-   "summary": "[株式会社インターネットイニシアティブ] 当社は、島根県松江市と「災害時における電力供給等に関する協定」を、本日付けで締結いたしました。 本協定に基づき、当社はIIJ松江データセンターパーク（以下、松江DCP）に設置した大容量リチウムイオン蓄電池...",
-   "categories": [
-    "storage"
-   ],
-   "type": "release",
-   "published": "2026-10-05T16:15+09:00",
-   "company": "株式会社インターネットイニシアティブ",
-   "via": "PR TIMES 新着（直接）",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "dcda846362f4694a",
-   "title": "【令和8年2次募集：令和9年2月25日まで】太陽光パネル及び蓄電池の共同購入の参加者を募集します",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0YyRXJaRnVpWTBlYi1iemh0bmUwR0FsaEJVUWlTYjV3NGZqa1kycjVhX1lvdy1DTWpYbWJqVWYxVDREeTl4MkRDRlNybGFLbmM3d25sVmtuOHp0elVCLWxYcEtPZFdVTUZaSnllcTBCVjlaaG1xdEMtNTh6QUg0Zl9ldWdzdkVqUUxjTFJKZVJmdGc5LXc?oc=5",
-   "source": "飯能市",
-   "summary": "【令和8年2次募集：令和9年2月25日まで】太陽光パネル及び蓄電池の共同購入の参加者を募集します 飯能市",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T16:00+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "住宅・自家消費",
-   "storage_topic": "その他"
   }
  ]
 }
