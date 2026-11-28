@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T02:37+09:00",
+ "updated_at": "2026-11-28T12:30+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,76 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "113eff07404118b7",
+   "title": "ペロブスカイト太陽電池の弱点を克服へ、材料を「縫い合わせる」新技術で変換効率27.04%を達成",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RVEV3bWZvcENSdHVNN1I4TEpuTEpHTkNZUUxuMGsxY09DeE53bmxxNGZOYVNvaEtZYnhXQ25KbENPaVRFNlBrUmJNei00U0QxU0dtSF9pWS1sTFk0REpKdWMtaXZsNk96OXBxUURZeVZBdw?oc=5",
+   "source": "XenoSpectrum",
+   "summary": "ペロブスカイト太陽電池の弱点を克服へ、材料を「縫い合わせる」新技術で変換効率27.04%を達成 XenoSpectrum",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T12:12+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "b6122aacce722091",
+   "title": "ソニーセミコン、大分県大分市の大分工場で国内最大規模の太陽光発電設備を稼働",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSHNDMnE2R3dHVFRvMGtNV3BwRHZEcWJETEJfYVAxZlBheXZKMXBpRHFiMHNJMlhMbjBUa0J1ak82OGpmdjRMZkxING5reFc3QXZtVnNrRlY1dw?oc=5",
+   "source": "オートメーション新聞WEB",
+   "summary": "ソニーセミコン、大分県大分市の大分工場で国内最大規模の太陽光発電設備を稼働 オートメーション新聞WEB",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T09:41+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費"
+  },
+  {
+   "id": "0a911675a3c130f1",
+   "title": "正午に電力が余剰になり、価格が底値にまで下落しているにもかかわらず、なぜ太陽光発電は世界的に魅力が薄れているのだろうか？",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVlFpRFRXa0lkeWpCeU5qVHhDUUVPT243cWY2TElHd3hhOGVHX1FGSXhjUDZDbEUtVlk2b19RVF9sX3ZoTE5jNEhHMWEtOWNGVWdnNjZ0OVIwWEMwcExEbXJLME0xanA3UHdDSUFES2tpS0tPRlg3VlhpcWhudVNlY2xWTThzRGpIQk95MGVqNjlQWmlEN01KM2pwUDBtVnc?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "正午に電力が余剰になり、価格が底値にまで下落しているにもかかわらず、なぜ太陽光発電は世界的に魅力が薄れているのだろうか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T09:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "a3e70e9ac579da80",
+   "title": "系統用蓄電所向け低圧蓄電設備発売へ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uZzBKb01sNVlHRHhfZHFzbkZ4dVdVb18xYWFTTFVqMGhOa2RvWkhJTHZ1S0xialZIV3RFRENIVGV4akVXUzFlVHhLcWpQN0JpRWVXcnBfMW8?oc=5",
+   "source": "www.pveye.jp",
+   "summary": "系統用蓄電所向け低圧蓄電設備発売へ www.pveye.jp",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-28T08:31+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "低圧"
+  },
+  {
+   "id": "05492fd37e326679",
+   "title": "万博で注目された「ペロブスカイト太陽電池」、関西電力がベトナムで実証事業へ…狙いは東南アジアの「脱炭素化」",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QVDBybml0S3RteFd1MVNFRHhvdjlnZGVYQ2M1VGIxTFVGUV9JOGFoSU8xck45cGctRENWX3JJMm5IVk9qOGVtdGhWMEhvTDRleG1ReDM4d0NLbk1UTTFiRzFhQ0pEQkZ4ZDFWQ1Y4T1ktQQ?oc=5",
+   "source": "読売新聞",
+   "summary": "万博で注目された「ペロブスカイト太陽電池」、関西電力がベトナムで実証事業へ…狙いは東南アジアの「脱炭素化」 読売新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-28T05:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
   {
    "id": "719258918cffcea0",
    "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】岐阜系統用蓄電所担保ローンファンドID1213』を募集開始",
@@ -319,6 +389,20 @@
    ],
    "type": "news",
    "published": "2026-11-27T17:27+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "f9678ed0df014ae4",
+   "title": "海帆[3133]：（開示事項の経過）「蓄電池事業の開始及び固定資産の取得に関するお知らせ」に係る取得対象案件の変更に関するお知らせ 2026年11月27日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fck53aGpyRXBaXzlyc2ZJTGxDdkk0LVFoYVduRF9HUWNCeW5xMDk0aHBDT1ktZ2R3R3A4UGhnVi1YMmozS3VxQWdYTW4weWtvallYenpWQmE4NlptdHozcl9SaVVsWFZBY3c?oc=5",
+   "source": "日本経済新聞",
+   "summary": "海帆[3133]：（開示事項の経過）「蓄電池事業の開始及び固定資産の取得に関するお知らせ」に係る取得対象案件の変更に関するお知らせ 2026年11月27日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-27T17:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
   },
@@ -652,6 +736,20 @@
    ],
    "type": "news",
    "published": "2026-11-27T13:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "9a1426d96d78f28f",
+   "title": "日中の太陽光発電を反映した時間帯別料金を提案 自然エネ財団",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6SUhGeGxFamc3a1V1eTljVHJ0eGFxdmd0MkZEMm1yMkNQeVZwVVZfdEZhM0F0NVRZNGUzZGxHR2hUSGcydHZYejItS2I2X0dJNUE?oc=5",
+   "source": "新建ハウジング",
+   "summary": "日中の太陽光発電を反映した時間帯別料金を提案 自然エネ財団 新建ハウジング",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-27T13:24+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
   },
@@ -1580,6 +1678,20 @@
    "published": "2026-11-26T12:07+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "ad8a25a356dbe111",
+   "title": "再生可能エネルギーの未来を拓く、シリコン量子ドット太陽電池のさらなる進化へ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Mnotb3VoRWFPM2NsZVpjdnlnaWtOQ1N5UHpuY09pakJHQ2xIUEdiTnJqVWlqbk5QLWhfT0tVYXlCb2RtTTRjN2JPWjY2eEdRWElMUFRXUkY1UDVQbi1HRXVsYTkyU00?oc=5",
+   "source": "関西大学",
+   "summary": "再生可能エネルギーの未来を拓く、シリコン量子ドット太陽電池のさらなる進化へ 関西大学",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-26T11:54+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "9faae5d37a22cde7",
@@ -2632,7 +2744,8 @@
    "type": "release",
    "published": "2026-11-25T12:30+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "トラブル・地域"
+   "topic": "トラブル・地域",
+   "company": ""
   },
   {
    "id": "23901a56215f1f16",
@@ -2690,7 +2803,8 @@
    "type": "release",
    "published": "2026-11-25T12:16+09:00",
    "via": "Googleニュース「太陽光発電」",
-   "topic": "その他"
+   "topic": "その他",
+   "company": ""
   },
   {
    "id": "68be0781d95b3883",
@@ -2704,7 +2818,8 @@
    "type": "release",
    "published": "2026-11-25T11:46+09:00",
    "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
+   "storage_topic": "その他",
+   "company": ""
   },
   {
    "id": "43fdfa7116d64437",
@@ -3334,6 +3449,20 @@
    "published": "2026-11-24T15:06+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費"
+  },
+  {
+   "id": "7b02ad5119cf7f68",
+   "title": "滋賀県米原市で国内最大級134MWの蓄電所を運転開始 ～2027年4月から長期脱炭素電源オークションを活用～",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9neEU3S1NkYVg3dGNuc2FfSjVuT3NlWnAzYWlYTm0waEdON19SZllzdmZ4dnB0RDVqc015UWttNjdkVGZwRHAyeWxMTzlXRDduWi14akRDMUZ0QmVqNTFGMkpXVEVFOXhxTUdOc1Y0OEh1cXdlV0kyVV8ybWFWQQ?oc=5",
+   "source": "オリックス株式会社",
+   "summary": "滋賀県米原市で国内最大級134MWの蓄電所を運転開始 ～2027年4月から長期脱炭素電源オークションを活用～ オリックス株式会社",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-24T14:54+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
   },
   {
    "id": "b0b278b24be06d4c",
@@ -42949,134 +43078,6 @@
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
    "storage_topic": "その他"
-  },
-  {
-   "id": "d146a691b596b609",
-   "title": "営農型太陽光発電スタート 岡山・鏡野の水田で山田養蜂場",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjMnBoTWl2ZW9IRlc3TXd1VHdUOTBNLU5mUmd5OGhsMnQ0Z3dDaHpld3VEc2RCUlZEb2lwejlRUm9pZklJM2dRck1BYVpHOXRCdVRfOXp4cWllSW9neGVHQ1BTQnUwVEE?oc=5",
-   "source": "山陽新聞",
-   "summary": "営農型太陽光発電スタート 岡山・鏡野の水田で山田養蜂場 山陽新聞",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T16:00+09:00",
-   "via": "Googleニュース「営農型太陽光」",
-   "topic": "営農型"
-  },
-  {
-   "id": "6e9467b96a7d299c",
-   "title": "鎌倉市重点対策加速化事業費補助金（太陽光発電設備及び蓄電池の補助金）",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xU2I3RDBIcnBxaDlYMmhqZ2xsQ3RXa0R5bG56QnRKM01aUXN3WmxpX3BwMmdrZGxtMEFZTFM2bnJjTUdxeEtZaVJIM1N1dUJXLWxCRDR2X2I0dzB1UFNvT2tGV0FPOXZMc0FWLVc0azVTUUNa?oc=5",
-   "source": "鎌倉市",
-   "summary": "鎌倉市重点対策加速化事業費補助金（太陽光発電設備及び蓄電池の補助金） 鎌倉市",
-   "categories": [
-    "solar",
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-05T16:00+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "政策・制度",
-   "storage_topic": "その他"
-  },
-  {
-   "id": "bb4cfb45a8770890",
-   "title": "海南市太陽光発電設備等設置事業補助金について",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalRrZFExMXdmV1B5bmd1bGN5OGhoRW1naHAtVEZRSzl4ZldnX1J4cTh5VHExWk51TnpyQXNUSzJKSFJBZVRJaFF3WW0xb21OTEphZ3JEbURBTVhDdElmR3lLZzFPaUFIcnY1VlhZUXhiN0VLa2dybkZqXzBKc1lxQmt3?oc=5",
-   "source": "海南市",
-   "summary": "海南市太陽光発電設備等設置事業補助金について 海南市",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T16:00+09:00",
-   "via": "Googleニュース「太陽光発電」",
-   "topic": "政策・制度"
-  },
-  {
-   "id": "f1be2b114241f863",
-   "title": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSDVLcVNpcjRBTTlxNU1LZzJDUU94VWk3c3paMzhNSzFkeEg3ZUlONW0yNm9WNm1QS2k1Z1I4Yk53MFFoQTM3VEFfMDVhdXZ5NEVkUGJITlE?oc=5",
-   "source": "AppMedia",
-   "summary": "【ポケモンチャンピオンズ】メガソーラーの効果と所持ポケモン AppMedia",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:53+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "発電所・開発"
-  },
-  {
-   "id": "edfe1bafe29c1482",
-   "title": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ISERVZkZOQ05UNG8wdWJGekdGUUJRLUVtVU9oME1tVktpdUd4RERqWGhZSEhXbGxuWHpHbUJNaktRd1piNk5IS0F2OS1IYXg0Q2JSWkVtRWVHTlBLVTl2SQ?oc=5",
-   "source": "Infoseek",
-   "summary": "大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 Infoseek",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "0ed2c5091be63989",
-   "title": "大河原克行のNewsInsight(477) ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdmpYZ2ItdURsdzBBYVgwQnluT0FuTVlBR016NnZNVGZfb3BxbG8tWE5meS1ocG82OThQMU5rY3NEQ2tmbFFnUVB3X1k1MmI0dlpiOVBXWTZqYmM?oc=5",
-   "source": "マイナビニュース",
-   "summary": "大河原克行のNewsInsight(477) ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 マイナビニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "ba6a9f76e187869b",
-   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 2/10 - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6ZkRHLVpyUGtDVUs0QUJUSXBzaUJJaV9YQ2RlcHU4aDhWaDE2Z2p3TFV2OEVJRGlUZEh6ejJwakwxVEt0Y3pHU2NrdHhxNkpMdU5zRjRYR1VROEo5UVhHc1RWaC1YaU5zWnRmVGQ5TGdwdjVLR1E0WXpOODc?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 2/10 - ライブドアニュース ライブドアニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "7aa4c9008e9b6ca1",
-   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 1/10 - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OYlpPSkxqVzJMamNKUGpLd1dxMzBTTTBudVk4ME82Nzd5cEFjbWtTdmpLVGhSM1hTV2FaRXZTd0czV2ZKX041dE1vQVRNMThOYldwbkdVN2NkZXcwS1dKUnZmSlFqYVI1cTdJNWg3ZE10eXk4dGNocWU3MG4?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 1/10 - ライブドアニュース ライブドアニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
-  },
-  {
-   "id": "b5a6c00e50e086bc",
-   "title": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 3/10 - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WWkVqNVJ6MDR5ZDQtZ0kwWHlIQlRnbEpIaWNDMDJ3eG9GOU0yaWphcFZUU1Q2S1F2RVpqc25rdldoaDZqVEJXRWVVc25sNTNSR2RSSGU1elUwcGdTMWFkMGU1R2hZdDBRdVlUejFkOUE5Rm1GWlBxREh5RHI?oc=5",
-   "source": "ライブドアニュース",
-   "summary": "【画像】大河原克行のNewsInsight 第477回 ペロブスカイト太陽電池、パナソニックがガラス建材同等の適用へ神戸港で実証 3/10 - ライブドアニュース ライブドアニュース",
-   "categories": [
-    "solar"
-   ],
-   "type": "news",
-   "published": "2026-10-05T15:52+09:00",
-   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
-   "topic": "次世代技術"
   }
  ]
 }
