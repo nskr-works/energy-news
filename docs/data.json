@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T22:30+09:00",
+ "updated_at": "2026-11-29T01:21+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,20 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "072cdbffb6f44dd9",
+   "title": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMTNXcHhGV3hLd05RV0I1X3JMRENmY0RHQ082bTFoSE12WGZQVGVUWjRiY2YxdFRzeXJiZ01tZHRicU43OVVxU1dMRm1NWDdxaFE?oc=5",
+   "source": "山陽新聞",
+   "summary": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注 山陽新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-28T18:37+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "高圧（特高含む）"
+  },
   {
    "id": "8e2e305f593a3a9d",
    "title": "バクイエン3太陽光発電所プロジェクトの起工式",
@@ -43058,20 +43072,6 @@
    "published": "2026-10-06T06:00+09:00",
    "via": "電気新聞",
    "topic": "O&M・保守"
-  },
-  {
-   "id": "f7583c163674681a",
-   "title": "編集者の視点 ｢オーストラリア､蓄電所の収益率が減少｣",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82OTdGdXZMRzJVUTBzUm04UkM4VUtaSmZfdHY4aTBaWmRnYkR2Wk5HQlBwNUpKQzJ1cjZMeml2N1BxcXMzNmM5Z3ExOTkyWkhudF8tZTJpelV6OEI5UjJTZWxtOGI5V1ZuYnVkNGZGNGRXb2pEYm5r?oc=5",
-   "source": "日本経済新聞",
-   "summary": "編集者の視点 ｢オーストラリア､蓄電所の収益率が減少｣ 日本経済新聞",
-   "categories": [
-    "storage"
-   ],
-   "type": "news",
-   "published": "2026-10-06T05:00+09:00",
-   "via": "Googleニュース「蓄電所」",
-   "storage_topic": "その他"
   }
  ]
 }
